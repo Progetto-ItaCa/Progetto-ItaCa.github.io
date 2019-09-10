@@ -1,0 +1,29 @@
+body {
+    background-color: #eee8d5;
+    color: #073642;
+    font-family: "DejaVu Sans Mono"
+}
+h1 {
+    text-align: center;
+    margin-left: 40px;
+} 
+
+a { color: #cb4b16 }
+
+a:hover { color: #859900; }
+
+h2 { text-align: center; }
+
+.header { text-align: center; color: red; }
+
+
+table {
+    border-collapse: collapse;
+    width: 50%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
