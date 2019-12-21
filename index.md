@@ -1,5 +1,5 @@
 ---
-title: Itaca
+title: ItaCa
 ---
 
 <img src="/images/banner.jpg" style="width: 100%;" />
