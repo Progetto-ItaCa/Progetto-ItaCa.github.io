@@ -1,5 +1,7 @@
 ---
-title: Dummy
+title: Positions
 ---
 
-This is dummy text
+Category theory related open positions:
+
+...

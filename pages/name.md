@@ -1,5 +1,13 @@
 ---
-title: Dummy
+title: People
 ---
 
-This is dummy text
+Reference people _strictly for mathematical questions_:
+
+# ItaCa
+
+...
+
+# Friends of ItaCa
+
+...

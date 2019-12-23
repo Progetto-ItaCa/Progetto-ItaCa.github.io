@@ -1,5 +1,7 @@
 ---
-title: Dummy
+title: Where is ItaCa
 ---
 
-This is dummy text
+There is no place like _hom_: this is where we are located on the planet.
+
+HERE BE DRAGONS

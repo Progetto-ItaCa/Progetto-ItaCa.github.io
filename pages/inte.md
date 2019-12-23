@@ -1,5 +1,7 @@
 ---
-title: Dummy
+title: Interests
 ---
 
-This is dummy text
+This is the Mathematics we do.
+
+...
