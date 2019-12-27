@@ -5,6 +5,18 @@ SOURCE_FOLDER=_site/
 TARGET_BRANCH=master
 TARGET_REMOTE=origin
 
+# If you don't have a target yer and want an orphan, you can:
+# > git checkout --orphan $TARGET_BRANCH
+# > git commit --allow-empty -m 'Initial commit'
+# > git push --set-upstream $TARGET_REMOTE $TARGET_BRANCH
+
+# Usage:
+#   1. `./publish.sh setup` to setup the repo
+#   2. Do whatever to produce a build in $SOURCE_FOLDER
+#   3. `./publish.sh run` to publish your stuff
+#   4. Go to 2 until satisfied
+#   5. `./publish.sh teardown` to clean up the repo
+
 case $1 in
 setup)
   echo "Setting up..."
