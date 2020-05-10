@@ -2,12 +2,7 @@
 title: ItaCa
 ---
 
-<img src="/assets/images/banner.jpg" style="width: 75%;" />
-
-<p style="text-align:right">
-<em>Blind monks examining an elephant</em> <br>
-Hanabusa Itchō
-</p>
+<img src="/assets/images/banner.jpg" style="width: 100%;" />
 
 ## What is ItaCa?
 
@@ -21,21 +16,11 @@ It is, however, made by Italians, and more generally by category theorists in It
 
 This is to say: despite its apparent absence from the scenes, Italian Category Theory exists, and strives to come home.
 
-We are still a small community, but we are slowly growing. Join us [on various channels](dummy)!
+We are still a small community, but we are slowly growing. Feel free to join us!
 
-The king of Itaca is
+<img src="/assets/images/elep-low.jpg" style="width: 100%;" align="right" />
 
-- Giuseppe (Beppe) Metere [giuseppe.metere@unipa.it](mailto:giuseppe.metere@unipa.it)
-
-A number of people worked and works in Itaca: among them,
-
-- Ivan Di Liberti [diliberti.math@gmail.com](mailto:diliberti.math@gmail.com)
-- Edoardo Lanari [edoardo.lanari.el@gmail.com](mailto:edoardo.lanari.el@gmail.com)
-- Fosco Loregian [fosco.loregian@gmail.com](mailto:fosco.loregian@gmail.com)
-
-fate voi le aggiunte o modifiche
-
-Feel free to contact us; see you in ItaCa.
-
-<img src="/assets/images/elep-low.jpg" style="width: 70%;" align="right" />
-
+<p style="text-align:right; font-size:small;">
+<em>— Blind monks examining an elephant</em> <br>
+Hanabusa Itchō
+</p>
