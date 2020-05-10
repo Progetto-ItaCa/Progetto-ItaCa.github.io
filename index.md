@@ -2,7 +2,7 @@
 title: ItaCa
 ---
 
-<img src="/assets/images/banner.jpg" style="width: 100%;" />
+<img src="/assets/images/banner.jpg" style="width: 75%;" />
 
 <p style="text-align:right">
 <em>Blind monks examining an elephant</em> <br>
