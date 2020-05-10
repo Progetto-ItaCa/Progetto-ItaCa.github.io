@@ -5,15 +5,15 @@ title: ItaCa
 <img src="/assets/images/banner.jpg" style="width: 100%;" />
 
 <p style="text-align:right">
-Kатегории! По всем отраслям знаний!<br>
-*Categories! Across all branches of knowledge.*
+<em>Blind monks examining an elephant</em> <br>
+Hanabusa Itchō
 </p>
 
 ## What is ItaCa?
 
-During the last [Category Theory](http://conferences.inf.ed.ac.uk/ct2019/) in Edinburgh, Scotland, it became apparent how many Italians are present in the Category Theory community: some of us proposed to join them all in a semi-official network. This is **ItaCa**: a group of (not necessarily) young mathematicians scattered all around the world, doing Category Theory.
-
 Our name stands for **Ita**lian **Ca**tegory theorists, but it also reminds the isle where Odysseus strived so hard to come back.
+
+During the last [Category Theory](http://conferences.inf.ed.ac.uk/ct2019/) in Edinburgh, Scotland, it became apparent how many Italians are present in the Category Theory community: some of us proposed to join them all in a semi-official network. This is **ItaCa**: a group of (not necessarily) young mathematicians scattered all around the world, doing Category Theory.
 
 The community we would like to create is as open and inclusive as possible, without distinction of gender, ethnicity, language, or mathematical opinion. The isle of ItaCa is open to all kinds of mathematicians, no matter their nationality and background.
 
@@ -32,6 +32,5 @@ ItaCa is composed by
 
 Feel free to contact us; see you in ItaCa.
 
-A stupid, stupid edit.
+<img src="/assets/images/elep-low.jpg" style="width: 100%;" />
 
-Another stupid edit

@@ -5,7 +5,7 @@
 	display: inline-block;
 	font-size: 1.8rem;
 	font-weight: bold;
-	color: #fd3e22;
+	color: #97492C;
 	text-decoration: none;
 	text-transform: uppercase;
 }
@@ -13,7 +13,7 @@
 .dropdown-content {
 	display: none;
 	position: absolute;
-	background-color: #f2e1d2;
+	background-color: #FCE8AD;
 	min-width: 140px;
 	padding: 4px 10px;
 	font-size: 0.5rem;
@@ -31,12 +31,12 @@ html {
 
 body {
 	font-size: 1.6rem;
-	background-color: #f2e1d2;
+	background-color: #FCE8AD;
 	color: #272b2e;
 }
 
 header {
-	border-bottom: 0.2rem solid #5b4e46;
+	border-bottom: 0.2rem solid #351E24;
 }
 
 nav {
@@ -48,12 +48,12 @@ img[alt='drawing'] {
 }
 
 a:link {
-	color: #fd3e22;
+	color: #97492C;
 }
 
 /* visited link */
 a:visited {
-	color: #fd3e22;
+	color: #97492C;
 }
 
 /* mouse over link */
@@ -64,7 +64,7 @@ a:hover {
 nav a {
 	font-size: 1.5rem;
 	/* font-weight: bold; */
-	color: #fd3e22;
+	color: #97492C;
 	text-decoration: none;
 	text-transform: uppercase;
 }
@@ -83,19 +83,19 @@ table {
 footer {
 	margin-top: 3rem;
 	padding: 1.2rem 0;
-	border-top: 0.2rem solid #5b4e46;
+	border-top: 0.2rem solid #351E24;
 	font-size: 1.2rem;
 	color: #555;
 }
 
 h1 {
 	font-size: 2.4rem;
-	color: #5b4e46;
+	color: #351E24;
 }
 
 h2 {
 	font-size: 2rem;
-	color: #5b4e46;
+	color: #351E24;
 }
 
 article .header {
@@ -106,7 +106,7 @@ article .header {
 
 .logo a {
 	font-weight: bold;
-	color: #5b4e46;
+	color: #351E24;
 	text-decoration: none;
 }
 
