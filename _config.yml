@@ -1,0 +1,14 @@
+title: Progetto ItaCa
+# email: your-email@example.com
+description: |
+  Kатегории! По всем отраслям знаний!
+  Categories! Across all branches of knowledge.
+url: "https://progetto-itaca.github.io"
+baseurl: "/"
+
+favicon: favicon.ico
+
+markdown: kramdown
+
+# exclude: [vendor, BACKUP, script, Gemfile, Gemfile.lock, .gitignore]
+
