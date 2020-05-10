@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans|Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
 
 .dropdown {
 	position: relative;
@@ -34,6 +35,7 @@ body {
 	font-size: 1.6rem;
 	background-color: #FCE8AD;
 	color: #272b2e;
+	text-align: justify;
 }
 
 header {
@@ -90,12 +92,12 @@ footer {
 }
 
 h1 {
-	font-size: 2.4rem;
+	/* font-size: 2.4rem; */
 	color: #351E24;
 }
 
 h2 {
-	font-size: 2rem;
+	/* font-size: 2rem; */
 	color: #351E24;
 }
 
@@ -106,7 +108,7 @@ article .header {
 }
 
 .logo a {
-	font-weight: bold;
+	/* font-weight: bold; */
 	color: #351E24;
 	text-decoration: none;
 }
@@ -174,7 +176,7 @@ article .header {
 		width: 55%;
 		margin: 0 auto;
 		padding: 0;
-		font-family: 'Roboto', sans-serif;
+		font-family: 'Montserrat', sans-serif;
 	}
 	header {
 		margin: 0 0 3rem;
