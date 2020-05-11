@@ -12,7 +12,7 @@ The main event will last a couple of hours, but everyone is invited to stay long
 
 ## Schedule
 
-In the table below you will notice that every talk comes with some additional material: an abstract (<i class="fas fa-quote-right"></i>), the slides (<i class="fas fa-book-open"></i>) and a video (<i class="fab fa-youtube"></i>). We are hosting the video on our [YT channel]().
+In the table below you will notice that every talk comes with some additional material: an abstract (@icn-quote-right), the slides (@icn-book-open) and a video (@icn-youtube). We are hosting the video on our [YT channel]().
 
 | time  ||||||               |
 |:-----:||||||---------------|
