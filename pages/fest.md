@@ -6,13 +6,13 @@ title: Itaca Fest
 
 ItaCaFest is an online webinar aimed to gather the community of ItaCa. 
 
-The seminar will be live on [Zoom]() every Thursday at 13.00 CET. The password of the meeting is __ItaCa__. 
+The seminar will be live on [Zoom]() every __Thursday__ at __13.00 CET__. The password of the meeting is __ItaCa__. 
 
-The main event will last a couple of hours, but everyone is invited to stay longer for the (scientific) chat. In order to make the scientific conversation smoother we have integrated the [STRUMENTO DELLA MORTE DI BEPPE].
+The main event will last a couple of hours, but everyone is invited to stay longer for the (scientific) chat. In order to make the scientific conversation smoother we have integrated the [STRUMENTO DELLA MORTE DI BEPPE]().
 
 ## Schedule
 
-In the table below you will notice that every talk comes with some additional material: an abstract (A), the slides (B) and a video (C). We are hosting the video on our YT channel.
+In the table below you will notice that every talk comes with some additional material: an abstract (<i class="fas fa-quote-right"></i>), the slides (<i class="fas fa-book-open"></i>) and a video (<i class="fab fa-youtube"></i>). We are hosting the video on our [YT channel]().
 
 | time  ||||||               |
 |:-----:||||||---------------|
