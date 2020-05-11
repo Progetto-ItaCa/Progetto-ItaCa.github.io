@@ -8,7 +8,7 @@ ItaCaFest is an online webinar aimed to gather the community of ItaCa.
 
 The seminar will be live on [Zoom]() every __Thursday__ at __13.00 CET__. The password of the meeting is __ItaCa__. 
 
-The main event will last a couple of hours, but everyone is invited to stay longer for the (scientific) chat. In order to make the scientific conversation smoother we have integrated the [STRUMENTO DELLA MORTE DI BEPPE](). We host the video content of this meeting on our [YT channel]().
+The main event will last a couple of hours, but everyone is invited to stay longer for the (scientific) chat. In order to make the scientific conversation smoother we have integrated [Whiteboard](https://www.whiteboard.team). We host the video content of this meeting on our [YT channel]().
 
 ## Schedule
 
