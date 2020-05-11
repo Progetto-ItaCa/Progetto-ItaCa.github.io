@@ -9,18 +9,20 @@
 	color: #97492C;
 	text-decoration: none;
 	text-transform: uppercase;
+	cursor: pointer;
 }
 
 .dropdown-content {
 	display: none;
 	position: absolute;
 	background-color: #FCE8AD;
-	opacity: 0.8;
-	min-width: 80px;
+	/* opacity: 0.8; */
+	min-width: 10px;
 	padding: 4px 10px;
 	font-size: 0.5rem;
 	text-align: right;
 	font-weight: bold;
+	right: -10px;
 }
 
 .dropdown:hover .dropdown-content {
