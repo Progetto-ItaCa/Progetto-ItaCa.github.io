@@ -3,22 +3,19 @@ title: People
 ---
 # ItaCa committee(s)
 
-The creator of the Itaca project is
+The creator of the ItaCa project and head of its Steering Committee is:
 
-- Giuseppe (Beppe) Metere [giuseppe.metere@unipa.it](mailto:giuseppe.metere@unipa.it)
+- [Giuseppe (Beppe) Metere](http://math.unipa.it/metere)
 
-Many people worked and still work in the Itaca project: among them,
+Members of the ItaCa Steering Committee currently include:
 
-- Ivan Di Liberti [diliberti.math@gmail.com](mailto:diliberti.math@gmail.com)
-[web](https://diliberti.github.io)
-- Edoardo Lanari [edoardo.lanari.el@gmail.com](mailto:edoardo.lanari.el@gmail.com)
-[web](https://sites.google.com/view/edoardo-lanari/)
-- Fosco Loregian [fosco.loregian@gmail.com](mailto:fosco.loregian@gmail.com)
-[web](http://tetrapharmakon.github.io)
-- Andrea Montoli [andrea.montoli@unimi.it](mailto:andrea.montoli@unimi.it)
-[web](https://www.unimi.it/it/ugov/person/andrea-montoli)
+- 
+- 
+- 
 
-Feel free to join us or reach out with an email.
+This website is managed by [Ivan Di Liberti](https://diliberti.github.io), [Fosco Loregian](https://tetrapharmakon.github.io) and Daniele Palombi. 
+
+Feel free to join us or reach out with an email at [webmasters.itaca@gmail.com](mailto:webmasters.itaca@gmail.com)
 
 # Friends of ItaCa
 
