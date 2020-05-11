@@ -13,10 +13,15 @@ Members of the ItaCa Steering Committee currently include:
 - 
 - 
 
-This website is managed by [Ivan Di Liberti](https://diliberti.github.io), [Fosco Loregian](https://tetrapharmakon.github.io) and Daniele Palombi. 
-
 Feel free to join us or reach out with an email at [webmasters.itaca@gmail.com](mailto:webmasters.itaca@gmail.com)
 
 # Friends of ItaCa
 
 ...
+
+
+
+
+
+
+This website is managed by [Ivan Di Liberti](https://diliberti.github.io), [Fosco Loregian](https://tetrapharmakon.github.io) and Daniele Palombi. 
