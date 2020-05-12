@@ -10,7 +10,7 @@ The seminar will be live on [Zoom]() every __Thursday__ at __13.00 CET__. The pa
 
 The main event will last a couple of hours, but everyone is invited to stay longer for the (scientific) chat. In order to make the scientific conversation smoother we have integrated [Whiteboard](https://www.whiteboard.team). We host the video content of this meeting on our [YT channel]().
 
-If you would like to be a speaker, or you want to contact the organizers of the seminar, you can reach us via [email](). Make sure to include the word FEST20 in the subject.
+If you would like to be a speaker, or you want to contact the organizers of the seminar, you can reach us via [email](). Make sure to include the word __FEST20__ in the subject.
 
 ## Schedule
 
