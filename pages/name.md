@@ -24,4 +24,4 @@ Feel free to join us or reach out with an email at [webmasters.itaca@gmail.com](
 
 
 
-This website is managed by [Ivan Di Liberti](https://diliberti.github.io), [Fosco Loregian](https://tetrapharmakon.github.io) and [Daniele Palombi](https://dpl0a.github.io). 
+This website is managed by [Fosco Loregian](https://tetrapharmakon.github.io) and [Daniele Palombi](https://dpl0a.github.io). 
