@@ -113,6 +113,7 @@ article .header {
 	/* font-weight: bold; */
 	color: #351E24;
 	text-decoration: none;
+	margin-top: 3px;
 }
 
 @media (max-width: 319px) {
