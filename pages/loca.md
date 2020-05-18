@@ -2,11 +2,13 @@
 title: Where is ItaCa
 ---
 
-There is no place like _hom_: this is where we are located on the planet.
+THIS PAGE IS UNDER CONSTRUCTION!
 
-- blue dots: ItaCa citizens
-- red dots: places with some italian category theorists in it
-- black dots: places with some category theory in it
+There is no place like _hom_. This is where we are located on the planet:
+<!-- blue dots: ItaCa citizens
+red dots: places with some italian category theorists in it
+black dots: places with some category theory in it
+ -->
 
 <!-- E' il caso di inserire tanta gente?
 Also, cosa dite del file itaca.json che contiene nomi e affiliazioni di
