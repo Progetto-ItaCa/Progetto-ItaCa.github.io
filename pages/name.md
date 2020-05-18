@@ -7,18 +7,19 @@ The creator of the ItaCa project and head of its Steering Committee is:
 
 - [Giuseppe (Beppe) Metere](http://math.unipa.it/metere)
 
-Members of the ItaCa Steering Committee currently include:
+The project is still very yound and the rest of the Steering Committee is in the process of being decided.
 
-- 
-- 
-- 
+Members of the **ItaCa Steering Committee** currently include:
+
+- Yet to come.
+
 
 Feel free to join us or reach out with an email at [webmasters.itaca@gmail.com](mailto:webmasters.itaca@gmail.com)
 
-# Friends of ItaCa
+<!--# Friends of ItaCa
 
 ...
-
+-->
 
 
 
