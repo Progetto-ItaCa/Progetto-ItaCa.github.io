@@ -86,6 +86,7 @@ table {
 }
 
 footer {
+	border-bottom: 0.2rem solid #351E24;
 	margin-top: 3rem;
 	padding: 1.2rem 0;
 	border-top: 0.2rem solid #351E24;
@@ -159,7 +160,7 @@ article .header {
 		text-align: center;
 	}
 	footer {
-		margin: 4.2rem 0;
+		text-align: center;
 	}
 	.logo {
 		text-align: center;
