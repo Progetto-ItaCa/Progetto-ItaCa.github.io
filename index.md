@@ -14,7 +14,7 @@ The community we would like to create is as open and inclusive as possible, with
 
 It is, however, made by Italians, and more generally by category theorists in Italy, and has (will always have?) a core of Italians among the organizers and promoters.
 
-This is to say: despite its apparent absence from the scenes, Italian Category Theory exists <!---and strives to come home-->.
+This is to say: despite its apparent absence from the scenes, Italian Category Theory exists<!-- and strives to come home-->.
 
 We are still a small community, but we are slowly growing. Feel free to join us!
 
