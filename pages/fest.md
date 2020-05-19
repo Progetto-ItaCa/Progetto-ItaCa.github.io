@@ -18,23 +18,25 @@ If you would like to be a speaker, or you want to contact the organizers of the 
 In the table below you will notice that every talk comes with some additional material: an abstract, the slides and a video . 
 
 
-<!-- ### First meeting (17?24? Giugno)
-| time  ||||||               |
-|:-----:||||||---------------|
-| 14.00 |||||| Gambino  	 |		
-| 14.45 |||||| Question time |
-| 15.00 |||||| Gagna         |
-| 15.45 |||||| Question time |
-| 16.00 |||||| Free chat     |
+### First meeting June 17 2020
 
-### Second meeting (15?22? Luglio)
-| time  ||||||               |
-|:-----:||||||---------------|
-| 14.00 |||||| Maietti	     |
-| 14.45 |||||| Question time |
-| 15.00 |||||| Santamaria    |
-| 15.45 |||||| Question time |
-| 16.00 |||||| Free chat     | -->
+| time  ||||||  Speaker       |||| 
+|:-----:||||||----------------||||---------------------------|
+| 14.00 |||||| **A. Gagna**   |||| Charles university Prague |	
+| 14.45 |||||| Question time  ||||                           |
+| 15.00 |||||| **N. Gambino** |||| University of Leeds       |
+| 15.45 |||||| Question time  ||||                           |
+| 16.00 |||||| Free chat      ||||                           |
+
+### Second meeting July 16 2020
+
+| time  ||||||  Speaker          ||||                      | 
+|:-----:||||||-------------------||||----------------------| 
+| 14.00 |||||| **M. Maietti**	   |||| Università di Padova | 
+| 14.45 |||||| Question time     ||||                      | 
+| 15.00 |||||| **A. Santamaria** |||| University of Bath   | 
+| 15.45 |||||| Question time     ||||                      | 
+| 16.00 |||||| Free chat         ||||                      | 
 
 
 

@@ -9,9 +9,9 @@ The creator of the ItaCa project and head of its Steering Committee is:
 
 The project is still very young and the rest of the Steering Committee is in the process of being decided.
 
-Members of the **ItaCa Steering Committee** currently include:
+<!-- Members of the **ItaCa Steering Committee** currently include:
 
-- Yet to come.
+- Yet to come. -->
 
 
 Feel free to join us or reach out with an email at [webmasters.itaca@gmail.com](mailto:webmasters.itaca@gmail.com)
@@ -20,9 +20,3 @@ Feel free to join us or reach out with an email at [webmasters.itaca@gmail.com](
 
 ...
 -->
-
-
-
-
-
-This website is managed by [Fosco Loregian](https://tetrapharmakon.github.io) and [Daniele Palombi](https://dpl0a.github.io). 
