@@ -18,17 +18,17 @@ If you would like to be a speaker, or you want to contact the organizers of the 
 In the table below you will notice that every talk comes with some additional material: an abstract, the slides and a video . 
 
 
-### First meeting June 17 2020
+### First meeting ⎯ June 17 2020
 
 | time  ||||||  Speaker       ||||                           |
 |:-----:||||||----------------||||---------------------------|
-| 14.00 |||||| **A. Gagna**   |||| Charles university Prague |	
+| 14.00 |||||| **A. Gagna**   |||| Charles University Prague |	
 | 14.45 |||||| Question time  ||||                           |
 | 15.00 |||||| **N. Gambino** |||| University of Leeds       |
 | 15.45 |||||| Question time  ||||                           |
 | 16.00 |||||| Free chat      ||||                           |
 
-### Second meeting July 16 2020
+### Second meeting ⎯ July 16 2020
 
 | time  ||||||  Speaker          ||||                      | 
 |:-----:||||||-------------------||||----------------------| 
