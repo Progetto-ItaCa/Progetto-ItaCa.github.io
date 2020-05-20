@@ -6,7 +6,7 @@ title: Itaca Fest
 
 ItaCaFest is an online webinar aimed to gather the community of ItaCa. 
 
-The seminar will be live on [Zoom]() every __Thursday__ at __13.00 CET__. The password of the meeting is __ItaCa__. 
+The seminar will be live on [Zoom](https://zoom.us). The password of the meeting is __ItaCa__. 
 
 The main event will last a couple of hours, but everyone is invited to stay longer for the (scientific) chat. In order to make the scientific conversation smoother we have integrated [Whiteboard](https://www.whiteboard.team). We host the video content of this meeting on our [YT channel]().
 
@@ -18,7 +18,7 @@ If you would like to be a speaker, or you want to contact the organizers of the 
 In the table below you will notice that every talk comes with some additional material: an abstract, the slides and a video . 
 
 
-### First meeting ⎯ June 17 2020
+### First meeting ⎯ June 17 2020 ⎯ 14:00CET
 
 | time  ||||||  Speaker       ||||                           |
 |:-----:||||||----------------||||---------------------------|
@@ -28,7 +28,7 @@ In the table below you will notice that every talk comes with some additional ma
 | 15.45 |||||| Question time  ||||                           |
 | 16.00 |||||| Free chat      ||||                           |
 
-### Second meeting ⎯ July 16 2020
+### Second meeting ⎯ July 16 2020 ⎯ 14:00CET
 
 | time  ||||||  Speaker          ||||                      | 
 |:-----:||||||-------------------||||----------------------| 
