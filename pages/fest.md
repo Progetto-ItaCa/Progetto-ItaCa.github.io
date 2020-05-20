@@ -22,21 +22,21 @@ In the table below you will notice that every talk comes with some additional ma
 
 | time  ||||||  Speaker       ||||                           |
 |:-----:||||||----------------||||---------------------------|
-| 14.00 |||||| **A. GAGNA**   |||| Charles University Prague |	
-| 14.45 |||||| Question time  ||||                           |
-| 15.00 |||||| **N. GAMBINO** |||| University of Leeds       |
-| 15.45 |||||| Question time  ||||                           |
-| 16.00 |||||| Free chat      ||||                           |
+| 14:00 |||||| **A. GAGNA**   |||| Charles University Prague |	
+| 14:45 |||||| Question time  ||||                           |
+| 15:00 |||||| **N. GAMBINO** |||| University of Leeds       |
+| 15:45 |||||| Question time  ||||                           |
+| 16:00 |||||| Free chat      ||||                           |
 
 ### Second meeting ⎯ July 16 2020 ⎯ 14:00CET
 
 | time  ||||||  Speaker          ||||                      | 
 |:-----:||||||-------------------||||----------------------| 
-| 14.00 |||||| **M. MAIETTI**	   |||| Università di Padova | 
-| 14.45 |||||| Question time     ||||                      | 
-| 15.00 |||||| **A. SANTAMARIA** |||| Università di Pisa   | 
-| 15.45 |||||| Question time     ||||                      | 
-| 16.00 |||||| Free chat         ||||                      | 
+| 14:00 |||||| **M. MAIETTI**	   |||| Università di Padova | 
+| 14:45 |||||| Question time     ||||                      | 
+| 15:00 |||||| **A. SANTAMARIA** |||| Università di Pisa   | 
+| 15:45 |||||| Question time     ||||                      | 
+| 16:00 |||||| Free chat         ||||                      | 
 
 
 
