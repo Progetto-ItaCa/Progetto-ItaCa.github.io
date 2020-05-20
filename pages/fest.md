@@ -20,7 +20,7 @@ In the table below you will notice that every talk comes with some additional ma
 
 ### First meeting June 17 2020
 
-| time  ||||||  Speaker       |||| 
+| time  ||||||  Speaker       ||||                           |
 |:-----:||||||----------------||||---------------------------|
 | 14.00 |||||| **A. Gagna**   |||| Charles university Prague |	
 | 14.45 |||||| Question time  ||||                           |
@@ -34,7 +34,7 @@ In the table below you will notice that every talk comes with some additional ma
 |:-----:||||||-------------------||||----------------------| 
 | 14.00 |||||| **M. Maietti**	   |||| Università di Padova | 
 | 14.45 |||||| Question time     ||||                      | 
-| 15.00 |||||| **A. Santamaria** |||| University of Bath   | 
+| 15.00 |||||| **A. Santamaria** |||| Università di Pisa   | 
 | 15.45 |||||| Question time     ||||                      | 
 | 16.00 |||||| Free chat         ||||                      | 
 
