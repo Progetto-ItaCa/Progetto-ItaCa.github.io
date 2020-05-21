@@ -16,7 +16,7 @@ If you would like to be a speaker, or you want to contact the organizers of the 
 
 In the table below you will notice that every talk comes with some additional material: an abstract, the slides and a video . 
 
-### First meeting ⎯ June 17 2020 ⎯ 14:00CET
+### First meeting ⎯ June 17 2020 ⎯ 14:00CEST
 
 | time  ||||||  Speaker       ||||                           |
 |:-----:||||||----------------||||---------------------------|
@@ -26,7 +26,7 @@ In the table below you will notice that every talk comes with some additional ma
 | 15:45 |||||| Question time  ||||                           |
 | 16:00 |||||| Free chat      ||||                           |
 
-### Second meeting ⎯ July 16 2020 ⎯ 14:00CET
+### Second meeting ⎯ July 16 2020 ⎯ 14:00CEST
 
 | time  ||||||  Speaker          ||||                      | 
 |:-----:||||||-------------------||||----------------------| 
