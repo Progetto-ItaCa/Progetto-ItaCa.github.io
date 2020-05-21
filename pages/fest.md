@@ -2,7 +2,7 @@
 title: Itaca Fest
 ---
 
-# ItacaFest
+# ItaCaFest
 
 ItaCaFest is an online webinar aimed to gather the community of ItaCa. 
 
