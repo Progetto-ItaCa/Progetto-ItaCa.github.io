@@ -26,6 +26,7 @@ In the table below you will notice that every talk comes with some additional ma
 | 15:45 | Question time    |                      |
 | 16:00 | Free chat        |                      | -->
 
+<center>
 <table>
   <thead>
     <tr>
@@ -59,6 +60,7 @@ In the table below you will notice that every talk comes with some additional ma
     </tr>
   </tbody>
 </table>
+</center>
 
 ### Second meeting ⎯ July 16 2020 ⎯ 14:00CEST
 <!-- 
@@ -70,6 +72,7 @@ In the table below you will notice that every talk comes with some additional ma
 | 15:45 | Question time     |                      | 
 | 16:00 | Free chat         |                      |  -->
 
+<center>
 <table>
   <thead>
     <tr>
@@ -103,6 +106,7 @@ In the table below you will notice that every talk comes with some additional ma
     </tr>
   </tbody>
 </table>
+</center>
 
 ## Programme Committee
 
