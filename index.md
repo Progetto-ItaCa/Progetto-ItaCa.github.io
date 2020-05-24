@@ -16,7 +16,7 @@ It is, however, made by Italians, and more generally by category theorists in It
 
 This is to say: despite its apparent absence from the scenes, Italian Category Theory exists<!-- and strives to come home-->.
 
-We are still a small community, but we are slowly growing. Feel free to join us!
+We are still a small community, but we are slowly growing. Feel free to join us! In particular, feel free to join our [Google group](mailto:progettoitaca+subscribe@googlegroups.com) sending a subscribe email, and our [Facebook group](https://www.facebook.com/groups/507590330041282/)
 
 <img src="/assets/images/elep-low.jpg" style="width: 100%;" align="right" />
 

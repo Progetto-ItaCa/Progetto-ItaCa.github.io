@@ -14,7 +14,7 @@ The project is still very young and the rest of the Steering Committee is in the
 - Yet to come. -->
 
 
-Feel free to join us or reach out with an email at [webmasters.itaca@gmail.com](mailto:webmasters.itaca@gmail.com)
+Feel free to join us or reach out with an email at [webmasters.itaca@gmail.com](mailto:webmasters.itaca@gmail.com). In particular, feel free to join our [Google group](mailto:progettoitaca+subscribe@googlegroups.com) sending a subscribe email, and our [Facebook group](https://www.facebook.com/groups/507590330041282/)
 
 <!--# Friends of ItaCa
 
