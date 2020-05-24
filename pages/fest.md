@@ -18,6 +18,7 @@ In the table below you will notice that every talk comes with some additional ma
 
 ### First meeting ⎯ June 17 2020 ⎯ 14:00CEST
 
+<<<<<<< HEAD
 <!-- | Time  |     Speaker      |     Affiliation      |
 |:-----:|:----------------:|:--------------------:|
 | 14:00 | [**A. GAGNA**](https://sites.google.com/view/andreagagna/home){:target="_blank"} | Charles University Prague |	
@@ -103,7 +104,6 @@ In the table below you will notice that every talk comes with some additional ma
     </tr>
   </tbody>
 </table>
-
 
 ## Programme Committee
 
