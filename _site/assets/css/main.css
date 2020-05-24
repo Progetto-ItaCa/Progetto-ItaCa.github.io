@@ -206,3 +206,15 @@ article .header {
 		font-size: 1.8rem;
 	}
 }
+
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 30px;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
