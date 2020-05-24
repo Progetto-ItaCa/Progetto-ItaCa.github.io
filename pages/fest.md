@@ -18,23 +18,23 @@ In the table below you will notice that every talk comes with some additional ma
 
 ### First meeting ⎯ June 17 2020 ⎯ 14:00CEST
 
-| Time  ||||||     Speaker      ||||     Affiliation      |
-|:-----:||||||:----------------:||||:--------------------:|
-| 14:00 |||||| [**A. GAGNA**](https://sites.google.com/view/andreagagna/home){:target="_blank"} |||| Charles University Prague |	
-| 14:45 |||||| Question time    ||||                      |
-| 15:00 |||||| [**N. GAMBINO**](http://www1.maths.leeds.ac.uk/~pmtng/){:target="_blank"} |||| University of Leeds |
-| 15:45 |||||| Question time    ||||                      |
-| 16:00 |||||| Free chat        ||||                      |
+| Time  |     Speaker      |     Affiliation      |
+|:-----:|:----------------:|:--------------------:|
+| 14:00 | [**A. GAGNA**](https://sites.google.com/view/andreagagna/home){:target="_blank"} | Charles University Prague |	
+| 14:45 | Question time    |                      |
+| 15:00 | [**N. GAMBINO**](http://www1.maths.leeds.ac.uk/~pmtng/){:target="_blank"} | University of Leeds |
+| 15:45 | Question time    |                      |
+| 16:00 | Free chat        |                      |
 
 ### Second meeting ⎯ July 16 2020 ⎯ 14:00CEST
 
-| Time  ||||||     Speaker       ||||     Affiliation      |
-|:-----:||||||:-----------------:||||:--------------------:|
-| 14:00 |||||| [**M. MAIETTI**](https://www.math.unipd.it/~maietti/){:target="_blank"} |||| Università di Padova | 
-| 14:45 |||||| Question time     ||||                      | 
-| 15:00 |||||| [**A. SANTAMARIA**](https://www.researchgate.net/profile/Alessio_Santamaria){:target="_blank"} |||| Università di Pisa | 
-| 15:45 |||||| Question time     ||||                      | 
-| 16:00 |||||| Free chat         ||||                      | 
+| Time  |     Speaker       |     Affiliation      |
+|:-----:|:-----------------:|:--------------------:|
+| 14:00 | [**M. MAIETTI**](https://www.math.unipd.it/~maietti/){:target="_blank"} | Università di Padova | 
+| 14:45 | Question time     |                      | 
+| 15:00 | [**A. SANTAMARIA**](https://www.researchgate.net/profile/Alessio_Santamaria){:target="_blank"} | Università di Pisa | 
+| 15:45 | Question time     |                      | 
+| 16:00 | Free chat         |                      | 
 
 ## Programme Committee
 
