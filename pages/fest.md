@@ -41,7 +41,7 @@ In the table below you will notice that every talk comes with some additional ma
       <td style="text-align: center">14:00</td>
       <td style="text-align: center"><a href="https://sites.google.com/view/andreagagna/home" target="_blank"><strong>A. GAGNA</strong></a></td>
       <td style="text-align: center">Charles University Prague</td>
-      <td>A / V</td>
+      <td style="text-align: center">A / V</td>
     </tr>
     <tr>
       <td style="text-align: center">14:45</td>
@@ -51,7 +51,7 @@ In the table below you will notice that every talk comes with some additional ma
       <td style="text-align: center">15:00</td>
       <td style="text-align: center"><a href="http://www1.maths.leeds.ac.uk/~pmtng/" target="_blank"><strong>N. GAMBINO</strong></a></td>
       <td style="text-align: center">University of Leeds</td>
-      <td>A / V</td>
+      <td style="text-align: center">A / V</td>
     </tr>
     <tr>
       <td style="text-align: center">15:45</td>
@@ -90,7 +90,7 @@ In the table below you will notice that every talk comes with some additional ma
       <td style="text-align: center">14:00</td>
       <td style="text-align: center"><a href="https://www.math.unipd.it/~maietti/" target="_blank"><strong>M. MAIETTI</strong></a></td>
       <td style="text-align: center">Università di Padova</td>
-      <td>A / V</td>
+      <td style="text-align: center">A / V</td>
     </tr>
     <tr>
       <td style="text-align: center">14:45</td>
@@ -100,7 +100,7 @@ In the table below you will notice that every talk comes with some additional ma
       <td style="text-align: center">15:00</td>
       <td style="text-align: center"><a href="https://www.researchgate.net/profile/Alessio_Santamaria" target="_blank"><strong>A. SANTAMARIA</strong></a></td>
       <td style="text-align: center">Università di Pisa</td>
-      <td>A / V</td>
+      <td style="text-align: center">A / V</td>
     </tr>
     <tr>
       <td style="text-align: center">15:45</td>
