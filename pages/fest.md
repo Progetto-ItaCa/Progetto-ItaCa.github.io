@@ -33,7 +33,7 @@ In the table below you will notice that every talk comes with some additional ma
       <th style="text-align: center">Time</th>
       <th style="text-align: center">Speaker</th>
       <th style="text-align: center">Affiliation</th>
-      <th style="text-align: center">Abs / Video</th>
+      <th style="text-align: center">Material</th>
     </tr>
   </thead>
   <tbody>
@@ -82,7 +82,7 @@ In the table below you will notice that every talk comes with some additional ma
       <th style="text-align: center">Time</th>
       <th style="text-align: center">Speaker</th>
       <th style="text-align: center">Affiliation</th>
-      <th style="text-align: center">Abs / Video</th>
+      <th style="text-align: center">Material</th>
     </tr>
   </thead>
   <tbody>
