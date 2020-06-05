@@ -16,7 +16,7 @@ If you would like to be a speaker, or you want to contact the organizers of the 
 
 In the table below you will notice that every talk comes with some additional material: an abstract, the slides and a video . 
 
-### First meeting ⎯ June 17 2020 ⎯ 14:00 CEST
+### First meeting ⎯ June 17 2020 ⎯ 14:00 CEST [poster](poster.pdf)
 
 <center>
 <table>
