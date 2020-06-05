@@ -1,51 +1,8 @@
 \documentclass[a3paper]{article}
-\usepackage{ wallpaper
-           , anyfontsize
-           , fontspec
-           , lipsum
-           , xcolor
-           , amsmath
-           , qrcode
-           , fontawesome
-           }
-\setmainfont[ BoldFont={LinLibertine_RB}
-            , SmallCapsFont={LinLibertine_aBS}
-            ]{Linux Libertine O}
-\thispagestyle{empty}
-\definecolor{bgYellow}{HTML}{FCE8AD}
-\definecolor{dampBlack}{HTML}{272B2E}
-\definecolor{dampRed}{HTML}{97492C}
-\qrset{padding,nolink,height=.75in}
-  \def\fbQR{\qrcode{https://www.facebook.com/groups/507590330041282/}}
-  \def\wbQR{\qrcode{https://progetto-itaca.github.io}}
-  \def\ytQR{\qrcode{https://www.youtube.com/channel/UCKdVVjPg_dHhbIiuzLh4Llg}}
-
-\def\fsize#1#2{{\fontsize{#1}{#1}\selectfont #2}}
-\pagecolor{bgYellow}
-\linespread{1.4}
-\usepackage[colorlinks=true,urlcolor=dampRed]{hyperref}
-\newcommand{\talk}[3]{
-  \fsize{20}{\textbf{#1 \hspace{\fill} $\bullet$ {\color{dampBlack!90}\scshape #2} |}}\\[2mm]%
-  \indent \fsize{18}{\textit{#3}}
-} % @1 speaker - affil; @2 title; @3 abstract
-
-\usepackage[left=4cm,right=4cm]{geometry}
-
-\LRCornerWallPaper{1}{../images/elep-low.pdf}
-\ULCornerWallPaper{1}{../images/banner.pdf}
-
+\input{src/layout.tex}
 \begin{document}
 % == HEADER ============================================================
-\Large
-\color{dampBlack}
-\begin{flushright}
-  \vspace*{3mm}
-  \hrulefill\\[2em]
-  \noindent\fsize{60}{\textbf{ItaCa Fest I}}\\[4mm]
-  \fsize{36}{\textbf{June 17 2020 --- \href{http://www.zoom.com/dummy}{14:00 CEST}}}\\[2em]
-\end{flushright}
-
-\vspace*{\fill}
+\input{src/header.tex}
 % == BODY ============================================================
 
 \talk
@@ -59,13 +16,6 @@
   {The notion of a distributive law between monads goes back to fundamental work of Jon Beck from the late '60s. Just as a monad describes a kind of algebraic structure, a distributive law between two monads describes how the algebraic structure for one monad distributes over the algebraic structure for the other, as in the notion of a ring (where products distribute over sums). \\
   \indent I will give a survey of variations of distributive laws, according to three orthogonal directions: replacing monads with relative monads (in the sense of Altenkirch et al), replacing categories with objects of a 2-category (à la Street), and increasing categorical dimension. One application is to substitution monoidal structures and operads. This is based on joint work with Fiore, Hyland and Winskel and recent joint work with Lobbia.}
 
-\vspace*{\fill}
 % == FOOTER ============================================================
-\noindent\fsize{50}{ %
-  \faFacebookSquare \,\fbQR
-  \hspace{\fill}
-  \faYoutube \,\ytQR
-  \hspace{\fill} 
-  \faGithubAlt \,\wbQR
-  }%
+\input{src/footer.tex}
 \end{document}
