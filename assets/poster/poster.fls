@@ -145,6 +145,12 @@ INPUT /home/fouche/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 INPUT /home/fouche/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 INPUT /home/fouche/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 INPUT /home/fouche/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT /home/fouche/texlive/texmf-dist/tex/lualatex/luacode/luacode.sty
+INPUT /home/fouche/texlive/texmf-dist/tex/lualatex/luacode/luacode.sty
+INPUT /home/fouche/texlive/texmf-dist/tex/luatex/luatexbase/luatexbase.sty
+INPUT /home/fouche/texlive/texmf-dist/tex/luatex/luatexbase/luatexbase.sty
+INPUT /home/fouche/texlive/texmf-dist/tex/luatex/ctablestack/ctablestack.sty
+INPUT /home/fouche/texlive/texmf-dist/tex/luatex/ctablestack/ctablestack.sty
 INPUT ./poster.aux
 INPUT ./poster.aux
 OUTPUT poster.aux

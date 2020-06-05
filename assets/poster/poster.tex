@@ -1,21 +1,28 @@
 \documentclass[a3paper]{article}
 \input{src/layout.tex}
+\usepackage{luacode}
 \begin{document}
 % == HEADER ============================================================
 \input{src/header.tex}
-% == BODY ============================================================
-
-\talk
-  {ANDREA GAGNA}
-  {Oplax 3-functors}
-  {We motivate the introduction of a notion of normalized oplax 3-functors from a homotopical point of view. We explain the algebra of trees needed for the definition and show that they induce a canonical simplicial morphism. Finally, we characterize the simplicial morphisms between nerves coming from normalized oplax 3-functors.}\\[1em]
-
-\talk
-  {NICOLA GAMBINO}
-  {Variations on distributive laws}
-  {The notion of a distributive law between monads goes back to fundamental work of Jon Beck from the late '60s. Just as a monad describes a kind of algebraic structure, a distributive law between two monads describes how the algebraic structure for one monad distributes over the algebraic structure for the other, as in the notion of a ring (where products distribute over sums). \\
-  \indent I will give a survey of variations of distributive laws, according to three orthogonal directions: replacing monads with relative monads (in the sense of Altenkirch et al), replacing categories with objects of a 2-category (à la Street), and increasing categorical dimension. One application is to substitution monoidal structures and operads. This is based on joint work with Fiore, Hyland and Winskel and recent joint work with G. Lobbia.}
-
+% == BODY ==============================================================
+\begin{luacode}
+require("lualibs.lua")
+local file = io.open('talks.json')
+local jsonstring = file:read('*a')
+file.close()
+local jsondata =  utilities.json.tolua(jsonstring)
+for key, value in pairs(jsondata) do
+  if value["id"] == 1 then 
+      tex.print('\\talk{' .. 
+        value["speaker"]  .. 
+        '}{'              .. 
+        value["title"]    .. 
+        '}{'              .. 
+        value["abstract"] .. 
+        '}\\\\[1em]')
+  end
+end
+\end{luacode}
 % == FOOTER ============================================================
-\input{src/footer.tex}
+\input{src/footer.tex} 
 \end{document}
