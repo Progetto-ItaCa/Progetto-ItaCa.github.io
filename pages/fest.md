@@ -33,7 +33,7 @@ In the table below you will notice that every talk comes with some additional ma
     <tr style="background-color:#fbe49d	">
       <td style="text-align: center">14:00</td>
       <td style="text-align: center"><a href="https://sites.google.com/view/andreagagna/home" target="_blank"><strong>A. GAGNA</strong></a></td>
-      <td style="text-align: center">Charles University Prague</td>
+      <td style="text-align: center">Univerzita Karlova</td>
       <td style="text-align: center"><b>Oplax 3-functors</b></td>
       <td style="text-align: center"><a href="#gagna-abs">▤</a> ▶</td>
     </tr>
