@@ -13,6 +13,8 @@ INPUT /home/fouche/texlive/texmf-dist/tex/latex/base/article.cls
 INPUT /home/fouche/texlive/texmf-dist/tex/latex/base/size10.clo
 INPUT /home/fouche/texlive/texmf-dist/tex/latex/base/size10.clo
 INPUT /home/fouche/texlive/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-regular.luc
+INPUT ./src/layout.tex
+INPUT ./src/layout.tex
 INPUT /home/fouche/texlive/texmf-dist/tex/latex/wallpaper/wallpaper.sty
 INPUT /home/fouche/texlive/texmf-dist/tex/latex/wallpaper/wallpaper.sty
 INPUT /home/fouche/texlive/texmf-dist/tex/latex/base/ifthen.sty
@@ -164,6 +166,8 @@ INPUT ./poster.out
 INPUT ./poster.out
 OUTPUT poster.out
 OUTPUT poster.pdf
+INPUT ./src/header.tex
+INPUT ./src/header.tex
 INPUT /home/fouche/texlive/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
 INPUT /home/fouche/texlive/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
 INPUT /home/fouche/texlive/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
@@ -176,6 +180,8 @@ INPUT /home/fouche/texlive/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
 INPUT /home/fouche/texlive/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT /home/fouche/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /home/fouche/texlive/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT ./src/footer.tex
+INPUT ./src/footer.tex
 INPUT /home/fouche/texlive/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
 INPUT /home/fouche/texlive/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
 INPUT /home/fouche/texlive/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm

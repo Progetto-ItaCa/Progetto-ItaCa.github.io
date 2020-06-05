@@ -1,6 +1,8 @@
 case "$1" in
 "poster")
-  latexmk -lualatex -outdir="assets/poster" poster.tex ;;
+  cd assets/poster/
+  latexmk -lualatex poster.tex 
+  cp poster.pdf ../../pages/poster.pdf;;
 "site")
   jekyll serve ;;
 "git")

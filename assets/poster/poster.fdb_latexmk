@@ -1,5 +1,5 @@
 # Fdb version 3
-["lualatex"] 1591365232 "poster.tex" "poster.pdf" "poster" 1591365235
+["lualatex"] 1591367432 "poster.tex" "poster.pdf" "poster" 1591367435
   "../images/banner.pdf" 1591355511 3373624 09a3748a8a42d3d05b7c6d021a0e2e2a ""
   "../images/elep-low.pdf" 1591355441 2800594 2318b1ef166f4f7a9def21c509aa801f ""
   "/home/fouche/texlive/texmf-dist/fonts/opentype/public/fontawesome/FontAwesome.otf" 1480098676 132548 9f6ff7d7cfd6f76d7a9c242bdd48c144 ""
@@ -94,11 +94,14 @@
   "/usr/share/fonts/LinLibertine_RB.ttf" 1308637862 834472 3529dea4e2b75ad8bc84d80a825e9e2b ""
   "/usr/share/fonts/LinLibertine_aBS.ttf" 1308637862 833160 1d6a1a6c450c5dcf8cad709d1e0373c3 ""
   "/usr/share/fonts/linlibertine_it-4.2.6ro.ttf" 1468919330 595836 115ed86ae81a4fd10ae5d452b69e1b7e ""
-  "poster.aux" 1591365235 4077 4285241f00b9c007c97c32325d38ec55 ""
-  "poster.out" 1591365234 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "poster.tex" 1591365231 3136 fbea9fbe3a90e9eb4ab238d6cf3da45b ""
+  "poster.aux" 1591367435 4077 4285241f00b9c007c97c32325d38ec55 ""
+  "poster.out" 1591367434 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "poster.tex" 1591367430 1637 352a238cdb6637a4762a72a41073172a ""
+  "src/footer.tex" 1591366880 151 e56a136d49f94384aeae9a896f5ab93e ""
+  "src/header.tex" 1591366768 257 35e452682ff5e1bcc7296c201aa07f28 ""
+  "src/layout.tex" 1591366746 1160 0b349ebbcc288f215923f1a63d277e49 ""
   (generated)
+  "poster.out"
+  "poster.log"
   "poster.pdf"
   "poster.aux"
-  "poster.log"
-  "poster.out"
