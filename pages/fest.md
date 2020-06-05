@@ -10,7 +10,7 @@ The seminar will be live on [Zoom](https://zoom.us){:target="_blank"}. The passw
 
 The main event will last a couple of hours, but everyone is invited to stay longer for the (scientific) chat. The sound of chalk on a blackboard is inimitable, but we will be using [Whiteboard](https://whiteboardfox.com/){:target="_blank"} to allow people to chat and doodling at the same time. We host the video content of this meeting on our [YT channel](https://www.youtube.com/channel/UCKdVVjPg_dHhbIiuzLh4Llg){:target="_blank"}.
 
-If you would like to be a speaker, or you want to contact the organizers of the seminar, you can reach us via email at **webmasters.itaca@gmail.com**. Make sure to include the word __FEST20__ in the subject.
+If you would like to be a speaker, or you want to contact the organizers of the seminar, you can reach us via email at **[webmasters.itaca@gmail.com](mailto:webmasters.itaca@gmail.com)**. Make sure to include the word __FEST20__ in the subject.
 
 ## Schedule
 
