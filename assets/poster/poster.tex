@@ -1,8 +1,29 @@
 \documentclass{article}
-\usepackage{wallpaper}
+\usepackage{ wallpaper
+           , anyfontsize
+           , fontspec
+           , lipsum
+           , xcolor
+           }
+\setmainfont{Open Sans}
+\definecolor{bgYellow}{HTML}{FCE8AD}
+\def\fsize#1#2{\fontsize{#1}{#1}\selectfont #2}
+\pagecolor{bgYellow}
+\newcommand{\talk}[3]{
+  {\textsc{#1}} --- #2. \textit{#3}
+} % @1 speaker - affil; @2 title; @3 abstract
 
 \LRCornerWallPaper{1}{../images/elep-low.pdf}
 \ULCornerWallPaper{1}{../images/banner.pdf}
 \begin{document}
-This is ItaCa
+\begin{flushright}
+  \hrulefill\\[2mm]
+  \noindent\fsize{40}{ItaCa Fest}\\[5mm]
+  \fsize{25}{June 17 2020 -- 14:00 CEST}\\[5mm]
+\end{flushright}
+
+\large
+\talk{Tizio Caio}{Università de stocazzo}{\lipsum[2]}\\[2em]
+
+\talk{Tizio Caio}{Università de stocazzo}{\lipsum[2]}
 \end{document}
