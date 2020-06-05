@@ -6,13 +6,15 @@
            , xcolor
            }
 \setmainfont[BoldFont={OpenSans-Bold}]{Open Sans}
+\thispagestyle{empty}
 \definecolor{bgYellow}{HTML}{FCE8AD}
 \def\fsize#1#2{\fontsize{#1}{#1}\selectfont #2}
 \pagecolor{bgYellow}
 \newcommand{\talk}[3]{
   {\textbf{#1}} --- #2. \textit{#3}
 } % @1 speaker - affil; @2 title; @3 abstract
-
+\newfontfamily{\FA}{Font Awesome 5 Free}
+\usepackage{fontawesome}
 \LRCornerWallPaper{1}{../images/elep-low.pdf}
 \ULCornerWallPaper{1}{../images/banner.pdf}
 \begin{document}
@@ -26,4 +28,9 @@
 \talk{Tizio Caio}{Università de stocazzo}{\lipsum[2]}\\[2em]
 
 \talk{Tizio Caio}{Università de stocazzo}{\lipsum[2]}
+
+\vspace*{\fill}
+{\fsize{18}
+\noindent Zoom \hspace{\fill}\faYoutube Youtube \hspace{\fill} Web}\\
+\hrulefill
 \end{document}
