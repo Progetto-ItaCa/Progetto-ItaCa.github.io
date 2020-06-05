@@ -25,7 +25,7 @@ In the table below you will notice that every talk comes with some additional ma
       <th style="text-align: center">Time</th>
       <th style="text-align: center">Speaker</th>
       <th style="text-align: center">Affiliation</th>
-      <th></th>
+      <th>Talk</th>
       <th style="text-align: center">Material</th>
     </tr>
   </thead>
@@ -33,7 +33,7 @@ In the table below you will notice that every talk comes with some additional ma
     <tr style="background-color:#fbe49d	">
       <td style="text-align: center">14:00</td>
       <td style="text-align: center"><a href="https://sites.google.com/view/andreagagna/home" target="_blank"><strong>A. GAGNA</strong></a></td>
-      <td style="text-align: center">Univerzita Karlova</td>
+      <td style="text-align: center"><a href="https://cuni.cz/uken-1.html">Univerzita Karlova</a></td>
       <td style="text-align: center"><b>Oplax 3-functors</b></td>
       <td style="text-align: center"><a href="#gagna-abs">▤</a> ▶</td>
     </tr>
@@ -44,7 +44,7 @@ In the table below you will notice that every talk comes with some additional ma
     <tr style="background-color:#fbe49d">
       <td style="text-align: center">15:00</td>
       <td style="text-align: center"><a href="http://www1.maths.leeds.ac.uk/~pmtng/" target="_blank"><strong>N. GAMBINO</strong></a></td>
-      <td style="text-align: center">University of Leeds</td>
+      <td style="text-align: center"><a href="https://eps.leeds.ac.uk/maths">University of Leeds</a></td>
       <td style="text-align: center"><b>Variations on distributive laws</b></td>
       <td style="text-align: center"><a href="#gambino-abs">▤</a> ▶</td>
     </tr>
@@ -85,7 +85,7 @@ I will give a survey of variations of distributive laws, according to three orth
       <th style="text-align: center">Time</th>
       <th style="text-align: center">Speaker</th>
       <th style="text-align: center">Affiliation</th>
-      <th></th>
+      <th>Talk</th>
       <th style="text-align: center">Material</th>
     </tr>
   </thead>
