@@ -104,10 +104,11 @@ INPUT /home/fouche/texlive/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-g
 INPUT /home/fouche/texlive/texmf-var/luatex-cache/generic/fonts/otl/fontawesome.luc
 INPUT /home/fouche/texlive/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-xeluatex.tex
 INPUT /home/fouche/texlive/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-xeluatex.tex
-INPUT /home/fouche/texlive/texmf-var/luatex-cache/generic/fonts/otl/opensans-regular.luc
-INPUT /home/fouche/texlive/texmf-var/luatex-cache/generic/fonts/otl/opensans-bold.luc
-INPUT /home/fouche/texlive/texmf-var/luatex-cache/generic/fonts/otl/opensans-bolditalic.luc
-INPUT /home/fouche/texlive/texmf-var/luatex-cache/generic/fonts/otl/opensans-italic.luc
+INPUT /home/fouche/texlive/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-re-4-7.luc
+INPUT /home/fouche/texlive/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-rb.luc
+INPUT /home/fouche/texlive/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-bi-4-1.luc
+INPUT /home/fouche/texlive/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-it-4-2.luc
+INPUT /home/fouche/texlive/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-abs.luc
 INPUT /home/fouche/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
 INPUT /home/fouche/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
 INPUT /home/fouche/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
