@@ -5,12 +5,12 @@
            , lipsum
            , xcolor
            }
-\setmainfont{Open Sans}
+\setmainfont[BoldFont={OpenSans-Bold}]{Open Sans}
 \definecolor{bgYellow}{HTML}{FCE8AD}
 \def\fsize#1#2{\fontsize{#1}{#1}\selectfont #2}
 \pagecolor{bgYellow}
 \newcommand{\talk}[3]{
-  {\textsc{#1}} --- #2. \textit{#3}
+  {\textbf{#1}} --- #2. \textit{#3}
 } % @1 speaker - affil; @2 title; @3 abstract
 
 \LRCornerWallPaper{1}{../images/elep-low.pdf}
@@ -18,8 +18,8 @@
 \begin{document}
 \begin{flushright}
   \hrulefill\\[2mm]
-  \noindent\fsize{40}{ItaCa Fest}\\[5mm]
-  \fsize{25}{June 17 2020 -- 14:00 CEST}\\[5mm]
+  \noindent\fsize{40}{\textbf{ItaCa Fest}}\\[5mm]
+  \fsize{25}{\textbf{June 17 2020 -- 14:00 CEST}}\\[5mm]
 \end{flushright}
 
 \large

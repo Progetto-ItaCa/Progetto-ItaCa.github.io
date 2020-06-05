@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.12.21)  5 JUN 2020 13:28
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.12.21)  5 JUN 2020 13:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -308,7 +308,7 @@ Package: lipsum 2018/11/24 v2.1a 150 paragraphs of Lorem Ipsum dummy text
 )
 
 Package fontspec Info: Font family 'OpenSans(0)' created for font 'Open Sans'
-(fontspec)             with options [Ligatures=TeX].
+(fontspec)             with options [Ligatures=TeX,BoldFont={OpenSans-Bold}].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
@@ -316,14 +316,16 @@ Package fontspec Info: Font family 'OpenSans(0)' created for font 'Open Sans'
 (fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Open
 (fontspec)             Sans/OT:script=latn;language=DFLT;mapping=tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-(fontspec)             - 'bold' (bx/n) with NFSS spec.: <->"Open
-(fontspec)             Sans/B/OT:script=latn;language=DFLT;mapping=tex-text;"
+(fontspec)             - 'bold' (bx/n) with NFSS spec.:
+(fontspec)             <->"OpenSans-Bold/OT:script=latn;language=DFLT;mapping=t
+ex-text;"
 (fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.: 
 (fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Open
 (fontspec)             Sans/I/OT:script=latn;language=DFLT;mapping=tex-text;"
 (fontspec)             - 'italic small caps'  (m/itsc) with NFSS spec.: 
-(fontspec)             - 'bold italic' (bx/it) with NFSS spec.: <->"Open
-(fontspec)             Sans/BI/OT:script=latn;language=DFLT;mapping=tex-text;"
+(fontspec)             - 'bold italic' (bx/it) with NFSS spec.:
+(fontspec)             <->"OpenSans-Bold/I/OT:script=latn;language=DFLT;mapping
+=tex-text;"
 (fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 
 LaTeX Info: Redefining \rmfamily on input line 9.
@@ -406,11 +408,6 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 18.
 
-
-LaTeX Font Warning: Font shape `TU/OpenSans(0)/m/sc' undefined
-(Font)              using `TU/OpenSans(0)/m/n' instead on input line 26.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 26--27
 
  []
@@ -421,18 +418,14 @@ File: ../images/banner.pdf Graphic file (type pdf)
 <use ../images/banner.pdf>
 [1
 
-] (./poster.aux)
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
- ) 
+] (./poster.aux) ) 
 Here is how much of TeX's memory you used:
- 12814 strings out of 492933
- 273282 string characters out of 6134416
- 606641 words of memory out of 5000000
- 16811 multiletter control sequences out of 15000+600000
- 532442 words of font info for 37 fonts, out of 8000000 for 9000
+ 12817 strings out of 492933
+ 273510 string characters out of 6134416
+ 606684 words of memory out of 5000000
+ 16812 multiletter control sequences out of 15000+600000
+ 532466 words of font info for 40 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 39i,14n,67p,340b,443s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 39i,14n,67p,366b,443s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on poster.xdv (1 page, 13520 bytes).
+Output written on poster.xdv (1 page, 13612 bytes).
