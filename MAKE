@@ -1,12 +1,26 @@
 case "$1" in
-"poster")
-  cd assets/poster/
-  latexmk -lualatex poster.tex 
-  cp poster.pdf ../../pages/poster.pdf;;
+"a3")
+  cd assets/manifesti/
+  latexmk -lualatex a3poster.tex 
+  cp a3poster.pdf ../../pages/a3poster.pdf 
+  cd ../.. ;;
+"a4")
+  cd assets/manifesti/
+  latexmk -lualatex a4poster.tex 
+  cp a4poster.pdf ../../pages/a4poster.pdf 
+  cd ../.. ;;
+"f")
+  cd assets/manifesti/
+  latexmk -lualatex flyer.tex 
+  cp flyer.pdf ../../pages/flyer.pdf 
+  cd ../.. ;;
 "site")
   jekyll serve ;;
 "git")
   git add -A
   git commit -m "automated update"
   git push ;;
+"c")
+  cd assets/manifesti/
+  latexmk -C ;;
 esac

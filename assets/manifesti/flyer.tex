@@ -1,0 +1,28 @@
+\documentclass[a5paper]{article}
+\input{fsrc/flayout.tex}
+\usepackage{luacode}
+\begin{document}
+% == HEADER ============================================================
+\input{fsrc/fheader.tex}
+% == BODY ==============================================================
+\begin{luacode}
+require("lualibs.lua")
+local file = io.open('talks.json')
+local jsonstring = file:read('*a')
+file:close()
+local jsondata =  utilities.json.tolua(jsonstring)
+for key, value in pairs(jsondata) do
+  if value["id"] == 1 then 
+      tex.print('\\talk{' .. 
+        value["speaker"]  .. 
+        '}{'              .. 
+        value["title"]    .. 
+        '}{'              .. 
+        value["abstract"] .. 
+        '}\\\\[1em]')
+  end
+end
+\end{luacode}
+% == FOOTER ============================================================
+\input{fsrc/ffooter.tex} 
+\end{document}
