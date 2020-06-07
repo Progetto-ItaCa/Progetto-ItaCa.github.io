@@ -2,7 +2,7 @@ case "$1" in
 "poster")
   cd assets/poster/
   latexmk -lualatex poster.tex 
-  cp poster.pdf ../../pages/poster.pdf;;
+  cp poster.pdf ../../pages/poster.pdf ;;
 "site")
   jekyll serve ;;
 "git")
