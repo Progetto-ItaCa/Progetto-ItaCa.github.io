@@ -23,4 +23,14 @@ case "$1" in
 "c")
   cd assets/manifesti/
   latexmk -C ;;
+"all")
+  cd assets/manifesti/
+  latexmk -lualatex a3poster.tex 
+  cp a3poster.pdf ../../pages/a3poster.pdf 
+  latexmk -lualatex a4poster.tex 
+  cp a4poster.pdf ../../pages/a4poster.pdf 
+  latexmk -lualatex flyer.tex 
+  cp flyer.pdf ../../pages/flyer.pdf 
+  latexmk -C
+  cd ../.. ;;
 esac

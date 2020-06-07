@@ -1,35 +1,15 @@
-\usepackage{ wallpaper
-           , anyfontsize
-           , fontspec
-           , lipsum
-           , xcolor
-           , amsmath
-           , qrcode
-           , fontawesome
-           }
-\setmainfont[ BoldFont={LinLibertine_RB}
-            , SmallCapsFont={LinLibertine_aBS}
-            ]{Linux Libertine O}
-\thispagestyle{empty}
-\definecolor{bgYellow}{HTML}{FCE8AD}
-\definecolor{dampBlack}{HTML}{272B2E}
-\definecolor{dampRed}{HTML}{97492C}
-\qrset{padding,nolink,height=.25in}
-  \def\fbQR{\qrcode{https://www.facebook.com/groups/507590330041282/}}
-  \def\wbQR{\qrcode{https://progetto-itaca.github.io}}
-  \def\ytQR{\qrcode{https://www.youtube.com/channel/UCKdVVjPg_dHhbIiuzLh4Llg}}
+\input{packs.tex}
 
-\def\fsize#1#2{{\fontsize{#1}{#1}\selectfont #2}}
-\pagecolor{bgYellow}
-\usepackage[colorlinks=true,urlcolor=dampRed]{hyperref}
+\linespread{0.8}
 \newcommand{\talk}[3]{
-  \fsize{11}{\textbf{#1 \hspace{\fill} $\bullet$ {\color{dampBlack!90}\scshape #2} |}}\\[2mm]%
+  \fsize{11}{
+    \bfseries #1 %
+    \hspace{\fill} %
+    $\bullet$ %
+    \textcolor{dampBlack!90}{%
+      \scshape #2} |%
+      }\\[2mm]%
   \indent \fsize{9}{\textit{#3}}
 } % @1 speaker - affil; @2 title; @3 abstract
 
 \usepackage[left=2cm,right=2cm]{geometry}
-
-\LRCornerWallPaper{1}{../images/elep-low.pdf}
-\ULCornerWallPaper{1}{../images/banner.pdf}
-
-\linespread{0.8}
