@@ -1,0 +1,15 @@
+\input{packs.tex}
+\qrset{padding,nolink,height=.25in}
+\linespread{0.8}
+\newcommand{\talk}[3]{
+  \fsize{11}{
+    \bfseries #1 %
+    \hspace{\fill} %
+    $\bullet$ %
+    \textcolor{dampBlack!90}{%
+      \scshape #2} |%
+      }\\[2mm]%
+  \indent \fsize{9}{\textit{#3}}
+} % @1 speaker - affil; @2 title; @3 abstract
+
+\usepackage[left=2cm,right=2cm]{geometry}

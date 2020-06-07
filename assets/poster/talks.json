@@ -1,0 +1,43 @@
+[{
+  "id": 1,
+  "speaker": "Andrea Gagna",
+  "title": "Oplax 3-functors",
+  "abstract": "We motivate the introduction of a notion of normalized oplax 3-functors from a homotopical point of view. We explain the algebra of trees needed for the definition and show that they induce a canonical simplicial morphism. Finally, we characterize the simplicial morphisms between nerves coming from normalized oplax 3-functors.",
+  "affil": "Karlova Univerzita"
+},
+{
+  "id": 1,
+  "speaker": "Nicola Gambino",
+  "title": "Variations on distributive laws",
+  "abstract": "The notion of a distributive law between monads goes back to fundamental work of Jon Beck from the late '60s. Just as a monad describes a kind of algebraic structure, a distributive law between two monads describes how the algebraic structure for one monad distributes over the algebraic structure for the other, as in the notion of a ring (where products distribute over sums).\n\n I will give a survey of variations of distributive laws, according to three orthogonal directions: replacing monads with relative monads (in the sense of Altenkirch et al), replacing categories with objects of a 2-category (à la Street), and increasing categorical dimension. One application is to substitution monoidal structures and operads. This is based on joint work with Fiore, Hyland and Winskel and recent joint work with Lobbia.",
+  "affil": "University of Leeds"
+},
+{
+  "id":2,
+  "speaker": "Milly Maietti",
+  "title": "TBA",
+  "abstract": "TBA",
+  "affil": "Università di Padova"
+},
+{
+  "id":2,
+  "speaker": "Alessio Santamaria",
+  "title": "TBA",
+  "abstract": "TBA",
+  "affil": "Università di Pisa"
+},
+{
+  "id":3,
+  "speaker": "Simone Virili",
+  "title": "TBA",
+  "abstract": "TBA",
+  "affil": "TBA"
+},
+{
+  "id":3,
+  "speaker": "Martina Rovelli",
+  "title": "TBA",
+  "abstract": "TBA",
+  "affil": "TBA"
+}
+];
