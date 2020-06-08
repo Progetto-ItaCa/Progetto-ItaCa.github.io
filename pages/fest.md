@@ -6,7 +6,9 @@ title: Itaca Fest
 
 ItaCaFest is an online webinar aimed to gather the community of ItaCa. 
 
-The seminar will be live on [Zoom](https://zoom.us){:target="_blank"}. The password of the meeting is __ItaCa__. 
+The seminar will be live on [Zoom](https://zoom.us){:target="_blank"} at https://cesnet.zoom.us/j/92938745753 
+
+The password of the meeting is __ItaCa__. 
 
 The main event will last a couple of hours, but everyone is invited to stay longer for the (scientific) chat. The sound of chalk on a blackboard is inimitable, but we will be using [Whiteboard](https://whiteboardfox.com/){:target="_blank"} to allow people to chat and doodling at the same time. We host the video content of this meeting on our [YT channel](https://www.youtube.com/channel/UCKdVVjPg_dHhbIiuzLh4Llg){:target="_blank"}.
 
