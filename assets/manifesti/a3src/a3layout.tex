@@ -3,13 +3,12 @@
 \linespread{1.4}
 \newcommand{\talk}[3]{
   \fsize{20}{%
-    \bfseries #1 %
-    \hspace{\fill} %
-    $\bullet$ %
+    \bfseries #1 \\[-1.5em] %
+    \flushright $\bullet$ %
     \textcolor{dampBlack!90}{%
       \scshape #2} |%
       }\\[2mm]%
   \indent \fsize{18}{\textit{#3}}
 } % @1 speaker - affil; @2 title; @3 abstract
 
-\usepackage[left=4cm,right=4cm]{geometry}
+\usepackage[left=4cm,right=4cm, top=6.5cm, bottom=6.5cm]{geometry}

@@ -96,7 +96,7 @@ I will give a survey of variations of distributive laws, according to three orth
       <td style="text-align: center">14:00</td>
       <td style="text-align: center"><a href="https://www.math.unipd.it/~maietti/" target="_blank"><strong>M. MAIETTI</strong></a></td>
       <td style="text-align: center">Università di Padova</td>
-      <td style="text-align: center"><b>- TBA -</b></td>
+      <td style="text-align: center"><b>Predicative generalizations of topos-like structures</b></td>
       <td style="text-align: center"><a href="#milly-abs">▤</a> ▶</td>
     </tr>
     <tr>
@@ -107,7 +107,7 @@ I will give a survey of variations of distributive laws, according to three orth
       <td style="text-align: center">15:00</td>
       <td style="text-align: center"><a href="https://www.researchgate.net/profile/Alessio_Santamaria" target="_blank"><strong>A. SANTAMARIA</strong></a></td>
       <td style="text-align: center">Università di Pisa</td>
-      <td style="text-align: center"><b>- TBA -</b></td>
+      <td style="text-align: center"><b>Towards a Calculus of Substitution for Dinatural Transformations</b></td>
       <td style="text-align: center"><a href="#santamaria-abs">▤</a> ▶</td>
     </tr>
     <tr>
