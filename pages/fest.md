@@ -125,16 +125,16 @@ I will give a survey of variations of distributive laws, according to three orth
 <a name="milly-abs"></a>
 
 #### Milly Maietti
-##### (Università di Padova) <i> -TBA- </i>.
+##### (Università di Padova) <i> Predicative generalizations of topos-like structures </i>.
 
-TBA TBA TBA
+Predicative generalizations of the notion of elementary topos had been already investigated in the literature starting from the work by I. Moerdijk and E. Palmgren and later by B. van der Berg. In this talk we propose generalizations of the concept of arithmetic quasi-topos and hence of elementary topos which enjoy an internal language which is predicative a' la Russell and are such that when applying suitable reducibility axioms we get the original (impredicative) notions back. The main difference with previous notions of predicative toposes is that in our notions we just require a non-iterative power-object construction. Genuine examples of quasi-toposes and predicative toposes may be built by employing the notion of elementary quotient completion introduced in joint work with P. Rosolini and applied to predicative versions of triposes in replacement to the usual Hyland-Johnstone-Pitts's tripos-to-topos construction.
 
 <a name="santamaria-abs"></a>
 
 #### Alessio Santamaria
-##### (Università di Pisa) <i> -TBA- </i>.
+##### (Università di Pisa) <i> Towards a Calculus of Substitution for Dinatural Transformations </i>.
 
-TBA TBA TBA
+In 1972, with the papers "Many-Variable Functorial Calculus, I" and "An Abstract Approach of Coherence", Kelly started a long-term project on achieving an abstract theory of coherence. To do so, he argues that a "tidy calculus of substitution" of functors in many variables and appropriately general natural transformations is in order; such a calculus ought to generalise the usual Godement calculus of functors in one variable and ordinary natural transformations. Inspired by the work he did with Eilenberg on extranatural transformations in 1966, he developed this calculus for (many-variable) covariant functors and natural transformations. Upon trying the mixed-variance case, he ran into problems linked to the fact that extranaturals do not compose. In this talk, I will show how we realised that the full mixed-variance case wanted by Kelly involves a simple generalisation of dinatural transformations; a sufficient and essentially necessary condition for two consecutive dinatural transformations to compose will be mentioned, and I will present a new definition of horizontal composition of dinaturals. Armed with these results, I will show how to achieve he first steps made by Kelly (in the mixed-variance case, this time) towards a full substitution calculus. There are still some conceptual difficulties about the remaining steps which are yet to be overcome.
 
 ## Programme Committee
 
