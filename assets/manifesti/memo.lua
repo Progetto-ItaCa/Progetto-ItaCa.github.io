@@ -1,4 +1,3 @@
-\begin{luacode}
 function interp(s, tab)
   return (s:gsub('($%b{})', function(w) return tab[w:sub(3, -2)] or w end))
 end
@@ -14,9 +13,4 @@ print( [[\Large
   \fsize{36}{\textbf{${day} --- \href{${url}}{14:00 CEST}}}\\[2em]
 \end{flushright}
 
-\vspace*{\fill}]] 
-  % { edition = "II"
-    , day = "July 16, 2020"
-    , url = "https://cesnet.zoom.us/j/92938745753"
-    } )
-\end{luacode}
+\vspace*{\fill}]] % {edition = "II", day = "July 16, 2020", url = "https://cesnet.zoom.us/j/92938745753"} )
