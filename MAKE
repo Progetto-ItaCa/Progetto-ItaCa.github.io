@@ -2,17 +2,17 @@ case "$1" in
 "a3")
   cd assets/manifesti/
   latexmk -lualatex a3poster.tex 
-  cp a3poster.pdf ../../pages/a3poster.pdf 
+  cp a3poster.pdf ../../pages/a3poster-$2.pdf 
   cd ../.. ;;
 "a4")
   cd assets/manifesti/
   latexmk -lualatex a4poster.tex 
-  cp a4poster.pdf ../../pages/a4poster.pdf 
+  cp a4poster.pdf ../../pages/a4poster-$2.pdf 
   cd ../.. ;;
 "f")
   cd assets/manifesti/
   latexmk -lualatex flyer.tex 
-  cp flyer.pdf ../../pages/flyer.pdf 
+  cp flyer.pdf ../../pages/flyer-$2.pdf 
   cd ../.. ;;
 "site")
   jekyll serve ;;
@@ -26,11 +26,11 @@ case "$1" in
 "all")
   cd assets/manifesti/
   latexmk -lualatex a3poster.tex 
-  cp a3poster.pdf ../../pages/a3poster.pdf 
+  cp a3poster.pdf ../../pages/a3poster-$2.pdf 
   latexmk -lualatex a4poster.tex 
-  cp a4poster.pdf ../../pages/a4poster.pdf 
+  cp a4poster.pdf ../../pages/a4poster-$2.pdf 
   latexmk -lualatex flyer.tex 
-  cp flyer.pdf ../../pages/flyer.pdf 
+  cp flyer.pdf ../../pages/flyer-$2.pdf 
   latexmk -C
   cd ../.. ;;
 esac
