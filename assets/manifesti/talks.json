@@ -16,15 +16,15 @@
   {
      "id":2,
      "speaker":"Milly Maietti",
-     "title":"TBA",
-     "abstract":"TBA",
+     "title":"Predicative generalizations of topos-like structures",
+     "abstract":"Predicative generalizations of the notion of elementary topos had been already investigated in the literature starting from the work by I. Moerdijk and E. Palmgren and later by B. van der Berg.\n\n In this talk we propose generalizations of the concept of arithmetic quasi-topos and hence of elementary topos which enjoy an internal language which is predicative a' la Russell and are such that when applying suitable reducibility axioms we get the original (impredicative) notions back.\n\n The main difference with previous notions of predicative toposes is that in our notions we just require a non-iterative power-object construction.\n\n Genuine examples of quasi-toposes and predicative toposes may be built by employing the notion of elementary quotient completion introduced in joint work with P. Rosolini and applied to predicative versions of triposes in replacement to the usual Hyland-Johnstone-Pitts's tripos-to-topos construction.",
      "affil":"Università di Padova"
   },
   {
      "id":2,
      "speaker":"Alessio Santamaria",
-     "title":"TBA",
-     "abstract":"TBA",
+     "title":"Towards a Calculus of Substitution for Dinatural Transformations",
+     "abstract":"Dinatural transformations, which generalise the ubiquitous natural transformations to the case where the domain and codomain functors are of mixed variance, fail to compose in general; this has been known since they were discovered by Dubuc and Street in 1970. Many ad hoc solutions to this remarkable shortcoming have been found, but a general theory of compositionality was missing until Petrić, in 2003, introduced the concept of g-dinatural transformations, that is, dinatural transformations together with an appropriate graph: he showed how acyclicity of the composite graph of two arbitrary dinatural transformations is a sufficient and essentially necessary condition for the composite transformation to be in turn dinatural. In this talk I'll give a brief overview of an alternative, semantic rather than syntactic, proof of Petrić's theorem, which my PhD supervisor (Guy McCusker) and I independently rediscovered with no knowledge of its prior existence; I'll then show how to use it to define a generalised functor category, whose objects are functors of mixed variance in many variables, and whose morphisms are transformations that happen to be dinatural only in some of their variables.\n\n I'll also define a notion of horizontal composition for dinatural transformations, extending the well-known version for natural transformations, and prove it is associative and unitary. Horizontal composition embodies substitution of functors into transformations and vice-versa, and is intuitively reflected from the string-diagram point of view by substitution of graphs into graphs.\n\n This work represents the first, fundamental steps towards a substitution calculus for dinatural transformations as sought originally by Kelly, with the intention then to apply it to describe coherence problems abstractly. There are still fundamental difficulties that are yet to be overcome in order to achieve such a calculus, and these will be the subject of future work; however, our contribution places us well in track on the path traced by Kelly towards a calculus of substitution for dinatural transformations.",
      "affil":"Università di Pisa"
   }
 ]

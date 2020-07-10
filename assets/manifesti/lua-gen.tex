@@ -5,7 +5,7 @@
   file:close()
   local jsondata =  utilities.json.tolua(jsonstring)
   for key, value in pairs(jsondata) do
-    if value["id"] == 1 then 
+    if value["id"] == 2 then 
         tex.print('\\talk{' .. 
           value["speaker"]  .. 
           '}{'              .. 
