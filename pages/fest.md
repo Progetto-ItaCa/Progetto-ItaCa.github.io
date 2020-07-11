@@ -19,6 +19,7 @@ If you would like to be a speaker, or you want to contact the organizers of the 
 In the table below you will notice that every talk comes with some additional material: an abstract, the slides and a video . 
 
 ### First meeting ⎯ June 17 2020 ⎯ 14:00 CEST 
+<a name="fest1"></a>
 #### [a3poster](a3poster.pdf), [a4poster](a4poster.pdf), [flyer](flyer.pdf)
 <center>
 <table>
@@ -79,6 +80,7 @@ The notion of a distributive law between monads goes back to fundamental work of
 I will give a survey of variations of distributive laws, according to three orthogonal directions: replacing monads with relative monads (in the sense of Altenkirch et al), replacing categories with objects of a 2-category (à la Street), and increasing categorical dimension. One application is to substitution monoidal structures and operads. This is based on joint work with Fiore, Hyland and Winskel and recent [joint work with Lobbia](http://arxiv.org/abs/0907.1359).
 
 ### Second meeting ⎯ July 16 2020 ⎯ 14:00 CEST
+<a name="fest2"></a>
 #### [a3poster](a3poster-2.pdf), [a4poster](a4poster-2.pdf), [flyer](flyer-2.pdf)
 
 <center>
