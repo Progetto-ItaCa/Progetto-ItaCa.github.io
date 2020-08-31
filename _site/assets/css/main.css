@@ -208,11 +208,13 @@ article .header {
 }
 
 table {
-    border-collapse: collapse;
+		border-collapse: collapse;
+		width: 100%;
 }
 
 th, td {
-    padding: 10px;
+		padding: 10px;
+		text-align: center;
 }
 
 table, th, td {
