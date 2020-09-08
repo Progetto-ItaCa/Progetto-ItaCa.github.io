@@ -62,6 +62,26 @@ If you would like to be a speaker, or you want to contact the organizers of the 
 </table>
 </center>
 
+### Complete internal categories
+#### E. Ghiorzi
+Size issues are a common pathology afflicting category theory by getting in the way of otherwise natural results. While small categories are immune to size issues, the only complete ones are partial orders. So, internal category theory, which generalizes the theory of small categories while featuring notable examples of completeness, appears as an attractive setting. Remarkably, complete internal categories are also cocomplete and the adjoint functor theorem requires no solution set condition. Unfortunatly, there is no internal base category playing the role of the category of sets. Consequently, fundamental results such as the Yoneda lemma cannot be internalized. This motivates the developement of a theory of internal enrichment, combining the good behaviour of internal categories with the expressivity of enriched category theory.
+
+### Colimits as algebraic operations
+#### P. Perrone
+In this work we study colimits of diagrams from the point of view of 2-dimensional universal algebra, treating them as an algebraic operation that one can take on diagrams, or on presheaves. These operations satisfy coherence conditions automatically, coming from the universal property of colimits.
+
+As first stated by René Guitart, small diagrams form a pseudomonad on the category of locally small categories, with multiplication given by the Grothendieck construction. Cocomplete categories with a choice of colimit for each diagram are pseudoalgebras over this monad, via a (known) generalization of the usual Fubini theorem for colimits. Not all pseudoalgebras arise in this way, as we show.
+
+We assign to each small diagram a presheaf by taking the "free colimit". We call this construction the "image presheaf". 
+We show that "having the same image presheaf" is a stronger condition than having the same colimit, which generalizes the concept of "final/cofinal functor".
+Moreover, the presheaves that arise as images of small diagrams (called "small presheaves") form themselves a pseudomonad, whose algebras are exactly cocomplete categories (as shown by Steve Lack). We show that taking the image gives a morphism of pseudomonads, so that cocomplete categories can be seen as being Diagram-algebras via a generalization of the classical restriction of scalars construction.
+
+Finally, we can instantiate the theory of partial evaluations (suitably extended to the 2-dimensional context) for these particular pseudomonads, and show how partial evaluations of colimits correspond exactly to pointwise left Kan extensions ("Kan extensions are partial colimits").
+
+Upon interest, we may also discuss a tight analogy with the monads of probability theory, which has largely motivated this investigation.
+
+Joint work with Walter Tholen.
+
 ## Past Events
 
 ### June 17, 2020 ⎯ 14:00 CEST 
