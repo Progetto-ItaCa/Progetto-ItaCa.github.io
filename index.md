@@ -4,7 +4,7 @@ title: ItaCa
 
 <img src="/assets/images/banner.jpg" style="width: 100%;" />
 
-# ItaCa Fest III 2020 is coming!
+# [ItaCa Fest III](pages/fest.html) is coming!
 
 Live on [zoom](https://cesnet.zoom.us/j/92938745753), September 23, 2020 at 14:00 CEST.
 
