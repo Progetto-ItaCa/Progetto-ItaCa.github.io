@@ -6,7 +6,7 @@ title: Itaca Fest
 
 ItaCa Fest is an online webinar aimed to gather the community of ItaCa. 
 
-The seminar will be live on [Zoom](https://zoom.us){:target="_blank"} at https://cesnet.zoom.us/j/92938745753 
+The seminar will be live on [Zoom](https://zoom.us){:target="_blank"} at https://cesnet.zoom.us/j/93144245001 
 
 The password of the meeting is __ItaCa__. 
 
@@ -37,7 +37,7 @@ If you would like to be a speaker, or you want to contact the organizers of the 
       <td><a href="https://compsci.appstate.edu/faculty-staff/dr-enrico-ghiorzi" target="_blank"><strong>GHIORZI</strong></a></td>
       <td><a href="">Appalachian State University</a></td>
       <td><b>Complete internal categories</b></td>
-      <td><a href="#ghiorzi-abs">▤</a> ▶</td>
+      <td><a href="#ghiorzi-abs">▤</a> <a href="https://youtu.be/K1J1gSU1rYs" target="_blank">▶</a></td>
     </tr>
     <tr>
       <td>14:45</td>
@@ -48,7 +48,7 @@ If you would like to be a speaker, or you want to contact the organizers of the 
       <td><a href="http://www.paoloperrone.org" target="_blank"><strong>PERRONE</strong></a></td>
       <td><a href="">MIT Department of Mathematics</a></td>
       <td><b>Colimits as algebraic operations</b></td>
-      <td><a href="#perrone-abs">▤</a> ▶</td>
+      <td><a href="#perrone-abs">▤</a> <a href="https://youtu.be/ZJjcTHpHoZo" target="_blank">▶</a></td>
     </tr>
     <tr>
       <td>15:45</td>

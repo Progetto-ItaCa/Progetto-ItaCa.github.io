@@ -6,7 +6,7 @@ title: ItaCa
 
 # [ItaCa Fest III](pages/fest.html) is coming!
 
-Live on [zoom](https://cesnet.zoom.us/j/92938745753), September 23, 2020 at 14:00 CEST.
+Live on [zoom](https://cesnet.zoom.us/j/93144245001), September 23, 2020 at 14:00 CEST.
 
 ## What is ItaCa?
 
