@@ -1,0 +1,40 @@
+\begin{luacode}
+  require("lualibs.lua")
+  local layout = io.open('./lay.json')
+  local layjsonstring = layout:read('*a')
+  layout:close()
+  local layjsondata =  utilities.json.tolua(layjsonstring)
+  tex.print(
+    '\\input{packs.tex}'
+.. '\\qrset{padding,nolink,height='
+.. value["preamble"][1]
+.. '}'
+.. '\\linespread{'
+.. value["preamble"][2]
+.. '}'
+.. '\\newcommand{\\talk}[3]{'
+..   '\\fsize{'
+..   value["preamble"][3]
+..   '}{'
+..   '\\noindent\\bfseries #1 \\\\ %'
+..     '$\\bullet$ %'
+..     '\\textcolor{dampBlack!90}{%'
+..       '\\scshape #2} |%'
+..       '}\\\\['
+..       value["preamble"][4]
+..       ']%'
+..   '\\indent \\fsize{'
+..   value["preamble"][5]
+..   '}{\\textit{#3}}'
+.. '}'
+.. '\\usepackage['
+..      'left='
+..      value["preamble"][6]
+..    ', right='
+..    value["preamble"][7]
+..    ', top='
+..    value["preamble"][8]
+..    ', bottom='
+..    value["preamble"][9]
+.. ']{geometry}')
+\end{luacode}
