@@ -2,9 +2,7 @@
 title: Where is ItaCa
 ---
 
-THIS PAGE IS UNDER CONSTRUCTION!
-
-There is no place like _hom_. This is where we are located on the planet:
+# There is no place like _hom_. 
 <!-- blue dots: ItaCa citizens
 red dots: places with some italian category theorists in it
 black dots: places with some category theory in it
