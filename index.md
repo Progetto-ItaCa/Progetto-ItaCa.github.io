@@ -4,10 +4,6 @@ title: ItaCa
 
 <img src="/assets/images/banner.jpg" style="width: 100%;" />
 
-# [ItaCa Fest III](pages/fest.html) is coming!
-
-Live on [zoom](https://cesnet.zoom.us/j/93144245001), September 23, 2020 at 14:00 CEST.
-
 ## What is ItaCa?
 
 Our name stands for **Ita**lian **Ca**tegory theorists, but it also reminds the isle where Odysseus strived so hard to come back.
