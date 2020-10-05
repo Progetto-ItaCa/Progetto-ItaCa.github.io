@@ -6,7 +6,7 @@ title: Itaca Fest
 
 ItaCa Fest is an online webinar aimed to gather the community of ItaCa. 
 
-The seminar will be live on [Zoom](https://zoom.us){:target="_blank"} at https://cesnet.zoom.us/j/93144245001 
+The seminar will be live on [Zoom](https://zoom.us){:target="_blank"} at https://cesnet.zoom.us/j/93072220100 
 
 The password of the meeting is __ItaCa__. 
 
