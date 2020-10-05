@@ -16,7 +16,65 @@ If you would like to be a speaker, or you want to contact the organizers of the 
 
 ## Schedule
 
-### Upcoming Event ⎯ September 23, 2020 ⎯ 14:00 CEST
+### Upcoming Event ⎯ October 21, 2020 ⎯ 14:00 CEST
+
+<a name="fest3"></a>
+<!-- #### [a3poster](a3poster.pdf), [a4poster](a4poster.pdf), [flyer](flyer.pdf) -->
+<center>
+<table>
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Speaker</th>
+      <th>Affiliation</th>
+      <th>Talk</th>
+      <th>Material</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color:#fbe49d	">
+      <td>14:00</td>
+      <td><a href="https://maths.anu.edu.au/people/academics/martina-rovelli" target="_blank"><strong>ROVELLI</strong></a></td>
+      <td><a href="">MSI</a></td>
+      <td><b>Towards an explicit comparison between globular and simplicial models of (∞,2)-categories</b></td>
+      <td><a href="#rovelli-abs">▤</a> <a href="" target="_blank">▶</a></td>
+    </tr>
+    <tr>
+      <td>14:45</td>
+      <td colspan="4">Question time </td>
+    </tr>
+    <tr style="background-color:#fbe49d">
+      <td>15:00</td>
+      <td><a href="" target="_blank"><strong>VIRILI</strong></a></td>
+      <td><a href="">Università di Udine</a></td>
+      <td><b>Factorization systems on derivators</b></td>
+      <td><a href="#virili-abs">▤</a> <a href="" target="_blank">▶</a></td>
+    </tr>
+    <tr>
+      <td>15:45</td>
+      <td colspan="4">Question time </td>
+    </tr>
+    <tr>
+      <td>16:00</td>
+      <td colspan="4">Free chat </td>
+    </tr>
+  </tbody>
+</table>
+</center>
+
+### Martina Rovelli
+#### Towards an explicit comparison between globular and simplicial models of (∞,2)-categories
+
+Many mathematical objects of interest assemble naturally into what is referred to as an (∞,n)-category, a notion that can be implemented by means of several models, each presenting its own advantages and disadvantages. Amongst those, there are Rezk’s globular model of Θ<sub>n</sub>-spaces and Verity’s simplicial model of saturated n-complicial sets. The equivalence between those has been established for n=0,1,2, although only for n=0,1 an explicit comparison is available. I will present work in progress (joint with J. Bergner and V. Ozornova) towards producing an explicit comparison between the two approaches in the case n=2 or higher.
+
+### Simone Virili
+#### Factorization Systems on Derivators
+
+Factorization systems are an important part of modern category theory, as they can be found in very common situations. Furthermore, they provide the category where they live in with a rather rich structure. In this talk we extend this classical theory introducing a higher version of this concept, called derivator factorization systems, in the language of Grothendieck (pre)derivators. We will present three different approaches to derivator factorization system: as suitable pairs of "coherently orthogonal" sub-derivators, as "factorization functors" and as pseudoalgebras over the squaring monad. An important result will then be to prove that, in discrete derivators (i.e., the derivators enhancing classical category theory) and in stable derivators (i.e., the derivators enhancing triangulated categories), these three approaches are all equivalent. Finally, we will show that, when a derivator originates from a stable ∞-category, the derivator factorization systems are in bijection with the (homotopy) factorization systems introduced by Joyal.
+
+## Past Events
+
+### September 23, 2020 ⎯ 14:00 CEST
 
 <a name="fest3"></a>
 <!-- #### [a3poster](a3poster.pdf), [a4poster](a4poster.pdf), [flyer](flyer.pdf) -->
@@ -61,28 +119,6 @@ If you would like to be a speaker, or you want to contact the organizers of the 
   </tbody>
 </table>
 </center>
-
-### Complete internal categories
-#### E. Ghiorzi
-Size issues are a common pathology afflicting category theory by getting in the way of otherwise natural results. While small categories are immune to size issues, the only complete ones are partial orders. So, internal category theory, which generalizes the theory of small categories while featuring notable examples of completeness, appears as an attractive setting. Remarkably, complete internal categories are also cocomplete and the adjoint functor theorem requires no solution set condition. Unfortunatly, there is no internal base category playing the role of the category of sets. Consequently, fundamental results such as the Yoneda lemma cannot be internalized. This motivates the developement of a theory of internal enrichment, combining the good behaviour of internal categories with the expressivity of enriched category theory.
-
-### Colimits as algebraic operations
-#### P. Perrone
-In this work we study colimits of diagrams from the point of view of 2-dimensional universal algebra, treating them as an algebraic operation that one can take on diagrams, or on presheaves. These operations satisfy coherence conditions automatically, coming from the universal property of colimits.
-
-As first stated by René Guitart, small diagrams form a pseudomonad on the category of locally small categories, with multiplication given by the Grothendieck construction. Cocomplete categories with a choice of colimit for each diagram are pseudoalgebras over this monad, via a (known) generalization of the usual Fubini theorem for colimits. Not all pseudoalgebras arise in this way, as we show.
-
-We assign to each small diagram a presheaf by taking the "free colimit". We call this construction the "image presheaf". 
-We show that "having the same image presheaf" is a stronger condition than having the same colimit, which generalizes the concept of "final/cofinal functor".
-Moreover, the presheaves that arise as images of small diagrams (called "small presheaves") form themselves a pseudomonad, whose algebras are exactly cocomplete categories (as shown by Steve Lack). We show that taking the image gives a morphism of pseudomonads, so that cocomplete categories can be seen as being Diagram-algebras via a generalization of the classical restriction of scalars construction.
-
-Finally, we can instantiate the theory of partial evaluations (suitably extended to the 2-dimensional context) for these particular pseudomonads, and show how partial evaluations of colimits correspond exactly to pointwise left Kan extensions ("Kan extensions are partial colimits").
-
-Upon interest, we may also discuss a tight analogy with the monads of probability theory, which has largely motivated this investigation.
-
-Joint work with Walter Tholen.
-
-## Past Events
 
 ### June 17, 2020 ⎯ 14:00 CEST 
 <a name="fest1"></a>
