@@ -35,7 +35,7 @@ If you would like to be a speaker, or you want to contact the organizers of the 
     <tr style="background-color:#fbe49d	">
       <td>14:00</td>
       <td><a href="https://maths.anu.edu.au/people/academics/martina-rovelli" target="_blank"><strong>ROVELLI</strong></a></td>
-      <td><a href="">MSI</a></td>
+      <td><a href="">ANU</a></td>
       <td><b>Towards an explicit comparison between globular and simplicial models of (∞,2)-categories</b></td>
       <td><a href="#rovelli-abs">▤</a> <a href="" target="_blank">▶</a></td>
     </tr>
@@ -45,8 +45,8 @@ If you would like to be a speaker, or you want to contact the organizers of the 
     </tr>
     <tr style="background-color:#fbe49d">
       <td>15:00</td>
-      <td><a href="" target="_blank"><strong>VIRILI</strong></a></td>
-      <td><a href="">Università di Udine</a></td>
+      <td><a href="https://scholar.google.es/citations?user=TSbjyfUAAAAJ&hl=en" target="_blank"><strong>VIRILI</strong></a></td>
+      <td>Università di Udine</td>
       <td><b>Factorization systems on derivators</b></td>
       <td><a href="#virili-abs">▤</a> <a href="" target="_blank">▶</a></td>
     </tr>
@@ -62,10 +62,14 @@ If you would like to be a speaker, or you want to contact the organizers of the 
 </table>
 </center>
 
+<div id="rovelli-abs"></div>
+
 ### Martina Rovelli
 #### Towards an explicit comparison between globular and simplicial models of (∞,2)-categories
 
 Many mathematical objects of interest assemble naturally into what is referred to as an (∞,n)-category, a notion that can be implemented by means of several models, each presenting its own advantages and disadvantages. Amongst those, there are Rezk’s globular model of Θ<sub>n</sub>-spaces and Verity’s simplicial model of saturated n-complicial sets. The equivalence between those has been established for n=0,1,2, although only for n=0,1 an explicit comparison is available. I will present work in progress (joint with J. Bergner and V. Ozornova) towards producing an explicit comparison between the two approaches in the case n=2 or higher.
+
+<div id="virili-abs"></div>
 
 ### Simone Virili
 #### Factorization Systems on Derivators
