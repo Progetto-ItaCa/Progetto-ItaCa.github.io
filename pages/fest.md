@@ -35,7 +35,7 @@ If you would like to be a speaker, or you want to contact the organizers of the 
     <tr style="background-color:#fbe49d	">
       <td>14:00</td>
       <td><a href="https://maths.anu.edu.au/people/academics/martina-rovelli" target="_blank"><strong>ROVELLI</strong></a></td>
-      <td><a href="">ANU</a></td>
+      <td><a href="https://www.anu.edu.au">ANU</a></td>
       <td><b>Towards an explicit comparison between globular and simplicial models of (∞,2)-categories</b></td>
       <td><a href="#rovelli-abs">▤</a> <a href="" target="_blank">▶</a></td>
     </tr>
