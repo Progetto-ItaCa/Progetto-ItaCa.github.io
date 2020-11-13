@@ -44,7 +44,7 @@ If you would like to be a speaker, or you want to contact the organizers of the 
     <tr style="background-color:#fbe49d">
       <td>15:00</td>
       <td><a href="" target="_blank"><strong>NARDIN</strong></a></td>
-      <td>Regensburg</td>
+      <td>Universität Regensburg</td>
       <td><b>TBA</b></td>
       <td><a href="#narding-abs">▤</a> <a href="" target="_blank">▶</a></td>
     </tr>
