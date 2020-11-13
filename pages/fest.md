@@ -46,7 +46,7 @@ If you would like to be a speaker, or you want to contact the organizers of the 
       <td><a href="" target="_blank"><strong>NARDIN</strong></a></td>
       <td>Universität Regensburg</td>
       <td><b>TBA</b></td>
-      <td><a href="#narding-abs">▤</a> <a href="" target="_blank">▶</a></td>
+      <td><a href="#nardin-abs">▤</a> <a href="" target="_blank">▶</a></td>
     </tr>
     <tr>
       <td>15:45</td>
