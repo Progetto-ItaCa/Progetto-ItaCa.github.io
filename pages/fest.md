@@ -97,7 +97,7 @@ Hyperdoctrines were introduced by F.W. Lawvere to synthesize the structural prop
       <td><a href="https://maths.anu.edu.au/people/academics/martina-rovelli" target="_blank"><strong>ROVELLI</strong></a></td>
       <td><a href="https://www.anu.edu.au">ANU</a></td>
       <td><b>Towards an explicit comparison between globular and simplicial models of (∞,2)-categories</b></td>
-      <td><a href="#rovelli-abs">▤</a> <a href="" target="_blank">▶</a></td>
+      <td><a href="#rovelli-abs">▤</a> <a href="https://www.youtube.com/watch?v=JvViiA7WSqQ" target="_blank">▶</a></td>
     </tr>
     <tr>
       <td>14:45</td>
@@ -108,7 +108,7 @@ Hyperdoctrines were introduced by F.W. Lawvere to synthesize the structural prop
       <td><a href="https://scholar.google.es/citations?user=TSbjyfUAAAAJ&hl=en" target="_blank"><strong>VIRILI</strong></a></td>
       <td>Università di Udine</td>
       <td><b>Factorization systems on derivators</b></td>
-      <td><a href="#virili-abs">▤</a> <a href="" target="_blank">▶</a></td>
+      <td><a href="#virili-abs">▤</a> <a href="https://www.youtube.com/watch?v=u41xr3VVv1A" target="_blank">▶</a></td>
     </tr>
     <tr>
       <td>15:45</td>
