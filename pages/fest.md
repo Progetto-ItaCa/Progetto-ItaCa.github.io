@@ -275,7 +275,7 @@ Factorization systems are an important part of modern category theory, as they c
 
 ## Programme Committee
 
-- [Giuseppe Metere](http://math.unipa.it/metere/)
-- [Ivan Di Liberti](https://diliberti.github.io)
-- [Edoardo Lanari](https://sites.google.com/view/edoardo-lanari/)
-- [Fosco Loregian](http://tetrapharmakon.github.io)
+- [Giuseppe Metere](http://math.unipa.it/metere/){:target="_blank"}
+- [Ivan Di Liberti](https://diliberti.github.io){:target="_blank"}
+- [Edoardo Lanari](https://edolana.github.io){:target="_blank"}
+- [Fosco Loregian](http://tetrapharmakon.github.io){:target="_blank"}
