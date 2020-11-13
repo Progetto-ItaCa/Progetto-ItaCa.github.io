@@ -6,9 +6,7 @@ title: Itaca Fest
 
 ItaCa Fest is an online webinar aimed to gather the community of ItaCa. 
 
-The seminar will be live on [Zoom](https://zoom.us){:target="_blank"} at https://cesnet.zoom.us/j/93072220100 
-
-The password of the meeting is __ItaCa__. 
+The seminar will be live on [Zoom](https://zoom.us){:target="_blank"} at <a href="https://us02web.zoom.us/j/83503300759?pwd=NTNSRzRadEo1a3Uyc3ZSM3FVOGd5Zz09">this link</a>.
 
 The main event will last a couple of hours, but everyone is invited to stay longer for the (scientific) chat. The sound of chalk on a blackboard is inimitable, but we will be using [Whiteboard](https://whiteboardfox.com/){:target="_blank"} to allow people to chat and doodle at the same time. We host the video content of this meeting on our [YT channel](https://www.youtube.com/channel/UCKdVVjPg_dHhbIiuzLh4Llg){:target="_blank"}.
 
@@ -16,8 +14,70 @@ If you would like to be a speaker, or you want to contact the organizers of the 
 
 ## Schedule
 
-### Upcoming Event ⎯ October 21, 2020 ⎯ 14:00 CEST
+### Upcoming Event ⎯ November 25, 2020 ⎯ 14:00 CEST
 
+<a name="fest3"></a>
+<!-- #### [a3poster](a3poster.pdf), [a4poster](a4poster.pdf), [flyer](flyer.pdf) -->
+<center>
+<table>
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Speaker</th>
+      <th>Affiliation</th>
+      <th>Talk</th>
+      <th>Material</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color:#fbe49d	">
+      <td>14:00</td>
+      <td><a href="" target="_blank"><strong>TROTTA</strong></a></td>
+      <td><a href="">Università di Verona</a></td>
+      <td><b>The existential completion, choice principles and applications</b></td>
+      <td><a href="#trotta-abs">▤</a> <a href="" target="_blank">▶</a></td>
+    </tr>
+    <tr>
+      <td>14:45</td>
+      <td colspan="4">Question time </td>
+    </tr>
+    <tr style="background-color:#fbe49d">
+      <td>15:00</td>
+      <td><a href="" target="_blank"><strong>NARDIN</strong></a></td>
+      <td>Regensburg</td>
+      <td><b>TBA</b></td>
+      <td><a href="#narding-abs">▤</a> <a href="" target="_blank">▶</a></td>
+    </tr>
+    <tr>
+      <td>15:45</td>
+      <td colspan="4">Question time </td>
+    </tr>
+    <tr>
+      <td>16:00</td>
+      <td colspan="4">Free chat </td>
+    </tr>
+  </tbody>
+</table>
+</center>
+
+<div id="trotta-abs"></div>
+
+### Davide Trotta
+#### The existential completion, choice principles and applications
+
+Hyperdoctrines were introduced by F.W. Lawvere to synthesize the structural properties of logical systems. The intuition is that a hyperdoctrine determines an appropriate categorical structure to abstract both notions of first-order theory and interpretation. In some recent works, Maietti and Rosolini generalized the notion of hyperdoctrine, introducing that of elementary and existential doctrine to give an abstract description of constructions used to formalize constructive mathematics in foundations based on intensional type theory. The main goal of this talk is to present the existential completion of an elementary doctrine, its connections with some choice principles and applications. First, we show that this construction allows us to extend the notion of exact completion to an arbitrary elementary doctrine, i.e. we prove that there is a bi-adjunction between the 2-category of elementary doctrines into the 2-category of exact categories. Then, employing the existential completion, we provide an algebraic characterization of some choice principles, including Hilbert’s epsilon operator. Finally, we present various examples of existential completions, including the syntactic doctrine of the regular logic, the doctrine of variations on a finite product category with weak equalizers, the subobject doctrine on a finitely complete category, and the doctrine of formal monomorphisms associated with an M-category.
+
+<div id="nardin-abs"></div>
+
+### Denis Nardin
+#### TBA
+ TBA
+
+
+
+## Past Events
+
+### October 21, 2020 ⎯ 14:00 CEST
 <a name="fest3"></a>
 <!-- #### [a3poster](a3poster.pdf), [a4poster](a4poster.pdf), [flyer](flyer.pdf) -->
 <center>
@@ -75,8 +135,6 @@ Many mathematical objects of interest assemble naturally into what is referred t
 #### Factorization Systems on Derivators
 
 Factorization systems are an important part of modern category theory, as they can be found in very common situations. Furthermore, they provide the category where they live in with a rather rich structure. In this talk we extend this classical theory introducing a higher version of this concept, called derivator factorization systems, in the language of Grothendieck (pre)derivators. We will present three different approaches to derivator factorization system: as suitable pairs of "coherently orthogonal" sub-derivators, as "factorization functors" and as pseudoalgebras over the squaring monad. An important result will then be to prove that, in discrete derivators (i.e., the derivators enhancing classical category theory) and in stable derivators (i.e., the derivators enhancing triangulated categories), these three approaches are all equivalent. Finally, we will show that, when a derivator originates from a stable ∞-category, the derivator factorization systems are in bijection with the (homotopy) factorization systems introduced by Joyal.
-
-## Past Events
 
 ### September 23, 2020 ⎯ 14:00 CEST
 
