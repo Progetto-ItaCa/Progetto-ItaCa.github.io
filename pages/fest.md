@@ -45,7 +45,7 @@ If you would like to be a speaker, or you want to contact the organizers of the 
       <td>15:00</td>
       <td><a href="" target="_blank"><strong>NARDIN</strong></a></td>
       <td>Universität Regensburg</td>
-      <td><b>TBA</b></td>
+      <td><b>Equivariant multiplicative structures</b></td>
       <td><a href="#nardin-abs">▤</a> <a href="" target="_blank">▶</a></td>
     </tr>
     <tr>
@@ -70,8 +70,9 @@ Hyperdoctrines were introduced by F.W. Lawvere to synthesize the structural prop
 <div id="nardin-abs"></div>
 
 ### Denis Nardin
-#### TBA
- TBA
+#### Equivariant multiplicative structures
+
+I will explain some ideas to encode multiplicative structures arising in equivariant homotopy theory (in particular the Hill-Hopkins-Ravenel norm) via the framework of parametrized higher category theory. I will show how this can be thought of a generalization of ordinary multiplicative structures and present how it can be used to give a universal property of the Hill-Hopkins-Ravenel norm.
 
 
 
