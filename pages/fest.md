@@ -45,8 +45,8 @@ If you would like to be a speaker, or you want to contact the organizers of the 
     <tr style="background-color:#fbe49d">
       <td>11:00</td>
       <td><a href="" target="_blank"><strong>PAOLI</strong></a></td>
-      <td>TBA</td>
-      <td><b>University of Leicester</b></td>
+      <td>University of Leicester</td>
+      <td><b>TBA</b></td>
       <td><a href="#paoli-abs">▤</a> <a href="" target="_blank">▶</a></td>
     </tr>
     <tr>
