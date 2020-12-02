@@ -34,7 +34,7 @@ If you would like to be a speaker, or you want to contact the organizers of the 
     <tr style="background-color:#fbe49d	">
       <td>10:00</td>
       <td><a href="" target="_blank"><strong>TENDAS</strong></a></td>
-      <td>TBA</td>
+      <td>Macquarie University</td>
       <td><b>Equivalent characterizations of accessible V-categories</b></td>
       <td><a href="#tendas-abs">▤</a> <a href="" target="_blank">▶</a></td>
     </tr>
@@ -46,7 +46,7 @@ If you would like to be a speaker, or you want to contact the organizers of the 
       <td>11:00</td>
       <td><a href="" target="_blank"><strong>PAOLI</strong></a></td>
       <td>TBA</td>
-      <td><b>TBA</b></td>
+      <td><b>University of Leicester</b></td>
       <td><a href="#paoli-abs">▤</a> <a href="" target="_blank">▶</a></td>
     </tr>
     <tr>
@@ -61,8 +61,8 @@ If you would like to be a speaker, or you want to contact the organizers of the 
         <tr style="background-color:#fbe49d	">
       <td>14:00</td>
       <td><a href="" target="_blank"><strong>LOREGIAN</strong></a></td>
-      <td>TBA</td>
-      <td><b>TBA</b></td>
+      <td>Tallinn University of Technology</td>
+      <td><b>Coends of higher arity</b></td>
       <td><a href="#lore-abs">▤</a> <a href="" target="_blank">▶</a></td>
     </tr>
     <tr>
@@ -72,8 +72,8 @@ If you would like to be a speaker, or you want to contact the organizers of the 
     <tr style="background-color:#fbe49d">
       <td>15:00</td>
       <td><a href="" target="_blank"><strong>ROSOLINI</strong></a></td>
-      <td>TBA</td>
-      <td><b>TBA</b></td>
+      <td>Università di Genova</td>
+      <td><b>The Comonad of Identities</b></td>
       <td><a href="#roso-abs">▤</a> <a href="" target="_blank">▶</a></td>
     </tr>
     <tr>
@@ -105,14 +105,14 @@ TBA
 <div id="lore-abs"></div>
 
 ### Fosco Loregian
-#### TBA
+#### Coends of higher arity
 
 TBA
 
 <div id="roso-abs"></div>
 
 ### Pino Rosolini
-#### TBA
+#### The Comonad of Identities
 
 TBA
 
