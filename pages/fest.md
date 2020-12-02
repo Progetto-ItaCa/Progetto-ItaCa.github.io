@@ -14,10 +14,113 @@ If you would like to be a speaker, or you want to contact the organizers of the 
 
 ## Schedule
 
-### Upcoming Event ⎯ November 25, 2020 ⎯ 14:00 CEST
+### ItaCa Fest XMAS EDITION ⎯ December 16, 2020 ⎯ 10:00 CET
 
-<a name="fest3"></a>
-<!-- #### [a3poster](a3poster.pdf), [a4poster](a4poster.pdf), [flyer](flyer.pdf) -->
+(Note the change of time!)
+
+<a name="fest4"></a>
+<center>
+<table>
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Speaker</th>
+      <th>Affiliation</th>
+      <th>Talk</th>
+      <th>Material</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color:#fbe49d	">
+      <td>10:00</td>
+      <td><a href="" target="_blank"><strong>TENDAS</strong></a></td>
+      <td>TBA</td>
+      <td><b>Equivalent characterizations of accessible V-categories</b></td>
+      <td><a href="#tendas-abs">▤</a> <a href="" target="_blank">▶</a></td>
+    </tr>
+    <tr>
+      <td>10:45</td>
+      <td colspan="4">Question time </td>
+    </tr>
+    <tr style="background-color:#fbe49d">
+      <td>11:00</td>
+      <td><a href="" target="_blank"><strong>PAOLI</strong></a></td>
+      <td>TBA</td>
+      <td><b>TBA</b></td>
+      <td><a href="#paoli-abs">▤</a> <a href="" target="_blank">▶</a></td>
+    </tr>
+    <tr>
+      <td>11:45</td>
+      <td colspan="4">Question time </td>
+    </tr>
+    <tr>
+      <td>12:00</td>
+      <td colspan="4">Lunch break</td>
+    </tr>
+    <!-- -- -->
+        <tr style="background-color:#fbe49d	">
+      <td>14:00</td>
+      <td><a href="" target="_blank"><strong>LOREGIAN</strong></a></td>
+      <td>TBA</td>
+      <td><b>TBA</b></td>
+      <td><a href="#lore-abs">▤</a> <a href="" target="_blank">▶</a></td>
+    </tr>
+    <tr>
+      <td>14:45</td>
+      <td colspan="4">Question time </td>
+    </tr>
+    <tr style="background-color:#fbe49d">
+      <td>15:00</td>
+      <td><a href="" target="_blank"><strong>ROSOLINI</strong></a></td>
+      <td>TBA</td>
+      <td><b>TBA</b></td>
+      <td><a href="#roso-abs">▤</a> <a href="" target="_blank">▶</a></td>
+    </tr>
+    <tr>
+      <td>15:45</td>
+      <td colspan="4">Question time </td>
+    </tr>
+    <tr>
+      <td>16:00</td>
+      <td colspan="4">Free chat </td>
+    </tr>
+  </tbody>
+</table>
+</center>
+
+<div id="tendas-abs"></div>
+
+### Giacomo Tendas
+#### Equivalent characterizations of accessible V-categories
+
+TBA
+
+<div id="paoli-abs"></div>
+
+### Simona Paoli
+#### TBA
+
+TBA
+
+<div id="lore-abs"></div>
+
+### Fosco Loregian
+#### TBA
+
+TBA
+
+<div id="roso-abs"></div>
+
+### Pino Rosolini
+#### TBA
+
+TBA
+
+## Past Events
+
+### November 25, 2020 ⎯ 14:00 CET
+
+<a name="fest4"></a>
 <center>
 <table>
   <thead>
@@ -35,7 +138,7 @@ If you would like to be a speaker, or you want to contact the organizers of the 
       <td><a href="" target="_blank"><strong>TROTTA</strong></a></td>
       <td><a href="">Università di Verona</a></td>
       <td><b>The existential completion, choice principles and applications</b></td>
-      <td><a href="#trotta-abs">▤</a> <a href="" target="_blank">▶</a></td>
+      <td><a href="#trotta-abs">▤</a> <a href="https://www.youtube.com/watch?v=sAMVU_5RQJQ" target="_blank">▶</a></td>
     </tr>
     <tr>
       <td>14:45</td>
@@ -46,7 +149,7 @@ If you would like to be a speaker, or you want to contact the organizers of the 
       <td><a href="" target="_blank"><strong>NARDIN</strong></a></td>
       <td>Universität Regensburg</td>
       <td><b>Equivariant multiplicative structures</b></td>
-      <td><a href="#nardin-abs">▤</a> <a href="" target="_blank">▶</a></td>
+      <td><a href="#nardin-abs">▤</a> <a href="https://www.youtube.com/watch?v=nFdUMw5qMAU" target="_blank">▶</a></td>
     </tr>
     <tr>
       <td>15:45</td>
@@ -74,9 +177,6 @@ Hyperdoctrines were introduced by F.W. Lawvere to synthesize the structural prop
 
 I will explain some ideas to encode multiplicative structures arising in equivariant homotopy theory (in particular the Hill-Hopkins-Ravenel norm) via the framework of parametrized higher category theory. I will show how this can be thought of a generalization of ordinary multiplicative structures and present how it can be used to give a universal property of the Hill-Hopkins-Ravenel norm.
 
-
-
-## Past Events
 
 ### October 21, 2020 ⎯ 14:00 CEST
 <a name="fest3"></a>
