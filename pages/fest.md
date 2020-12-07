@@ -46,7 +46,7 @@ If you would like to be a speaker, or you want to contact the organizers of the 
       <td>11:00</td>
       <td><a href="" target="_blank"><strong>PAOLI</strong></a></td>
       <td>University of Leicester</td>
-      <td><b>TBA</b></td>
+      <td><b>Weakly globular double categories and weak units</b></td>
       <td><a href="#paoli-abs">▤</a> <a href="" target="_blank">▶</a></td>
     </tr>
     <tr>
@@ -98,16 +98,18 @@ TBA
 <div id="paoli-abs"></div>
 
 ### Simona Paoli
-#### TBA
+#### Weakly globular double categories and weak units
 
-TBA
+Weakly globular double categories are a model of weak 2-categories based on the notion of weak globularity, and they are known to be suitably equivalent to Tamsamani 2-categories. Fair 2-categories, introduced by J. Kock, model weak 2-categories with strictly associative compositions and weak unit laws. In this talk I will illustrate how to establish a direct comparison between weakly globular double categories and fair 2-categories and prove they are equivalent after localisation with respect to the 2-equivalences. This comparison sheds new light on weakly globular double categories as encoding a strictly associative, though not strictly unital, composition, as well as the category of weak units via the weak globularity condition.
 
 <div id="lore-abs"></div>
 
 ### Fosco Loregian
 #### Coends of higher arity
 
-TBA
+We specialise a recently introduced notion of generalised dinaturality to the case where the domain (resp., codomain) is constant, obtaining notions of ends (resp., coends) of higher arity, dubbed herein (p,q)-ends (resp., (p,q)-coends). While higher arity co/ends are particular instances of "totally symmetrised" (ordinary) co/ends, they serve an important technical role in the study of a number of new categorical phenomena, which may be broadly classified as two new variants of category theory.
+The first of these, weighted category theory, consists of the study of weighted variants of the classical notions and construction found in ordinary category theory, besides that of a limit. This leads to a host of varied and rich notions, such as weighted Kan extensions, weighted adjunctions, and weighted ends.
+The second, diagonal category theory, proceeds in a different (albeit related) direction, in which one replaces universality with respect to natural transformations with universality with respect to dinatural transformations, mimicking the passage from limits to ends. In doing so, one again encounters a number of new interesting notions, among which one similarly finds diagonal Kan extensions, diagonal adjunctions, and diagonal ends.
 
 <div id="roso-abs"></div>
 
@@ -164,7 +166,7 @@ TBA
 </center>
 
 <div id="trotta-abs"></div>
-
+<!-- 
 ### Davide Trotta
 #### The existential completion, choice principles and applications
 
@@ -175,7 +177,8 @@ Hyperdoctrines were introduced by F.W. Lawvere to synthesize the structural prop
 ### Denis Nardin
 #### Equivariant multiplicative structures
 
-I will explain some ideas to encode multiplicative structures arising in equivariant homotopy theory (in particular the Hill-Hopkins-Ravenel norm) via the framework of parametrized higher category theory. I will show how this can be thought of a generalization of ordinary multiplicative structures and present how it can be used to give a universal property of the Hill-Hopkins-Ravenel norm.
+I will explain some ideas to encode multiplicative structures arising in equivariant homotopy theory (in particular the Hill-Hopkins-Ravenel norm) via the framework of parametrized higher category theory. I will show how this can be thought of a generalization of ordinary multiplicative structures and present how it can be used to give a universal property of the Hill-Hopkins-Ravenel norm. 
+-->
 
 
 ### October 21, 2020 ⎯ 14:00 CEST
@@ -225,7 +228,7 @@ I will explain some ideas to encode multiplicative structures arising in equivar
 
 <div id="rovelli-abs"></div>
 
-### Martina Rovelli
+<!-- ### Martina Rovelli
 #### Towards an explicit comparison between globular and simplicial models of (∞,2)-categories
 
 Many mathematical objects of interest assemble naturally into what is referred to as an (∞,n)-category, a notion that can be implemented by means of several models, each presenting its own advantages and disadvantages. Amongst those, there are Rezk’s globular model of Θ<sub>n</sub>-spaces and Verity’s simplicial model of saturated n-complicial sets. The equivalence between those has been established for n=0,1,2, although only for n=0,1 an explicit comparison is available. I will present work in progress (joint with J. Bergner and V. Ozornova) towards producing an explicit comparison between the two approaches in the case n=2 or higher.
@@ -235,7 +238,7 @@ Many mathematical objects of interest assemble naturally into what is referred t
 ### Simone Virili
 #### Factorization Systems on Derivators
 
-Factorization systems are an important part of modern category theory, as they can be found in very common situations. Furthermore, they provide the category where they live in with a rather rich structure. In this talk we extend this classical theory introducing a higher version of this concept, called derivator factorization systems, in the language of Grothendieck (pre)derivators. We will present three different approaches to derivator factorization system: as suitable pairs of "coherently orthogonal" sub-derivators, as "factorization functors" and as pseudoalgebras over the squaring monad. An important result will then be to prove that, in discrete derivators (i.e., the derivators enhancing classical category theory) and in stable derivators (i.e., the derivators enhancing triangulated categories), these three approaches are all equivalent. Finally, we will show that, when a derivator originates from a stable ∞-category, the derivator factorization systems are in bijection with the (homotopy) factorization systems introduced by Joyal.
+Factorization systems are an important part of modern category theory, as they can be found in very common situations. Furthermore, they provide the category where they live in with a rather rich structure. In this talk we extend this classical theory introducing a higher version of this concept, called derivator factorization systems, in the language of Grothendieck (pre)derivators. We will present three different approaches to derivator factorization system: as suitable pairs of "coherently orthogonal" sub-derivators, as "factorization functors" and as pseudoalgebras over the squaring monad. An important result will then be to prove that, in discrete derivators (i.e., the derivators enhancing classical category theory) and in stable derivators (i.e., the derivators enhancing triangulated categories), these three approaches are all equivalent. Finally, we will show that, when a derivator originates from a stable ∞-category, the derivator factorization systems are in bijection with the (homotopy) factorization systems introduced by Joyal. -->
 
 ### September 23, 2020 ⎯ 14:00 CEST
 
