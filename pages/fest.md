@@ -33,7 +33,7 @@ If you would like to be a speaker, or you want to contact the organizers of the 
   <tbody>
     <tr style="background-color:#fbe49d	">
       <td>10:00</td>
-      <td><a href="" target="_blank"><strong>TENDAS</strong></a></td>
+      <td><a href="https://researchers.mq.edu.au/en/persons/giacomo-tendas" target="_blank"><strong>TENDAS</strong></a></td>
       <td>Macquarie University</td>
       <td><b>Equivalent characterizations of accessible V-categories</b></td>
       <td><a href="#tendas-abs">▤</a> <a href="" target="_blank">▶</a></td>
@@ -44,7 +44,7 @@ If you would like to be a speaker, or you want to contact the organizers of the 
     </tr>
     <tr style="background-color:#fbe49d">
       <td>11:00</td>
-      <td><a href="" target="_blank"><strong>PAOLI</strong></a></td>
+      <td><a href="https://www2.le.ac.uk/departments/mathematics/extranet/staff-material/staff-profiles/simona-paoli" target="_blank"><strong>PAOLI</strong></a></td>
       <td>University of Leicester</td>
       <td><b>Weakly globular double categories and weak units</b></td>
       <td><a href="#paoli-abs">▤</a> <a href="" target="_blank">▶</a></td>
@@ -60,7 +60,7 @@ If you would like to be a speaker, or you want to contact the organizers of the 
     <!-- -- -->
         <tr style="background-color:#fbe49d	">
       <td>14:00</td>
-      <td><a href="" target="_blank"><strong>LOREGIAN</strong></a></td>
+      <td><a href="http://tetrapharmakon.github.io" target="_blank"><strong>LOREGIAN</strong></a></td>
       <td>Tallinn University of Technology</td>
       <td><b>Coends of higher arity</b></td>
       <td><a href="#lore-abs">▤</a> <a href="" target="_blank">▶</a></td>
@@ -71,7 +71,7 @@ If you would like to be a speaker, or you want to contact the organizers of the 
     </tr>
     <tr style="background-color:#fbe49d">
       <td>15:00</td>
-      <td><a href="" target="_blank"><strong>ROSOLINI</strong></a></td>
+      <td><a href="https://www.dima.unige.it/~rosolini/" target="_blank"><strong>ROSOLINI</strong></a></td>
       <td>Università di Genova</td>
       <td><b>The Comonad of Identities</b></td>
       <td><a href="#roso-abs">▤</a> <a href="" target="_blank">▶</a></td>
@@ -118,7 +118,9 @@ The second, diagonal category theory, proceeds in a different (albeit related) d
 ### Pino Rosolini
 #### The Comonad of Identities
 
-TBA
+Lawvere’s hyperdoctrines mark the beginning of applications of category theory to logic. In particular, existential elementary doctrines proved essential to give models of non-classical logics. The clear connection between (typed) logical theories and certain Pos-valued functors is exemplified by the embedding of the category of elementary doctrines into that of primary doctrines, which has a right adjoint given by a completion which freely adds quotients for equivalence relations.
+We extend that result in two ways: first we show that, in fact, the embedding is 2-functorial and 2-comonadic. Next, we show that the same applies to the more general case of elementary fibrations: the embedding of elementary fibrations into fibrations with finite products is 2-comonadic.
+This is joint work with Jacopo Emmenegger and Fabio Pasquali.
 
 ## Past Events
 
