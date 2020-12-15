@@ -54,7 +54,7 @@
      "title": "Factorization Systems on Derivators",
      "abstract": "Factorization systems are an important part of modern category theory, as they can be found in very common situations. Furthermore, they provide the category where they live in with a rather rich structure. In this talk we extend this classical theory introducing a higher version of this concept, called derivator factorization systems, in the language of Grothendieck (pre)derivators. We will present three different approaches to derivator factorization system: as suitable pairs of \"coherently orthogonal\" sub-derivators, as \"factorization functors\" and as pseudoalgebras over the squaring monad. An important result will then be to prove that, in discrete derivators (i.e., the derivators enhancing classical category theory) and in stable derivators (i.e., the derivators enhancing triangulated categories), these three approaches are all equivalent. Finally, we will show that, when a derivator originates from a stable ∞-category, the derivator factorization systems are in bijection with the (homotopy) factorization systems introduced by Joyal.",
      "affil": "Università di Udine"
-  }
+  },
   {
      "id":5,
      "speaker":"Davide Trotta",
