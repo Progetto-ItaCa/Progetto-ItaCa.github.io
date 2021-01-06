@@ -89,6 +89,6 @@
    "id":6,
    "speaker":"Giacomo Tendas",
    "title":"Equivalent characterizations of accessible V-categories",
-   "abstract":"" 
+   "abstract":"Ordinary accessible categories have been studied by various authors and, since their introduction, have been characterized in several ways. When moving to the enriched context, though, many aspects of the theory are still very little developed. Moreover, two different notions of accessibility for V-categories have been introduced: one is a direct generalization of the ordinary definition, and involves only conical filtered colimits; the other (introduced by Borceux, Quinteiro, and Rosický) involves colimits weighted by flat V-functors, a larger class of “filtered” colimits which includes the conical ones. In the first part of the talk we will compare these two notions and exhibit several examples of base of enrichment for which these coincide or differ. In the second part we will provide a characterization of enriched accessible categories (for both notions) using “virtual” orthogonality and reflectivity conditions. The idea is to generalize the known characterization of locally presentable categories (as orthogonality classes and accessibly embedded reflective subcategories of presheaves) to our non-cocomplete case. This is part of a joint work with Steve Lack" 
 }
 ]
