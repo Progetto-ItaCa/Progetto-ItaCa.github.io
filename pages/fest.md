@@ -6,9 +6,7 @@ title: Itaca Fest
 
 ItaCa Fest is an online webinar aimed to gather the community of ItaCa. 
 
-The seminar will be live on [Zoom](https://zoom.us){:target="_blank"} at https://cesnet.zoom.us/j/93072220100 
-
-The password of the meeting is __ItaCa__. 
+The seminar will be live on [Zoom](https://zoom.us){:target="_blank"} at <a href="https://us02web.zoom.us/j/83503300759?pwd=NTNSRzRadEo1a3Uyc3ZSM3FVOGd5Zz09">this link</a>.
 
 The main event will last a couple of hours, but everyone is invited to stay longer for the (scientific) chat. The sound of chalk on a blackboard is inimitable, but we will be using [Whiteboard](https://whiteboardfox.com/){:target="_blank"} to allow people to chat and doodle at the same time. We host the video content of this meeting on our [YT channel](https://www.youtube.com/channel/UCKdVVjPg_dHhbIiuzLh4Llg){:target="_blank"}.
 
@@ -16,8 +14,178 @@ If you would like to be a speaker, or you want to contact the organizers of the 
 
 ## Schedule
 
-### Upcoming Event ⎯ October 21, 2020 ⎯ 14:00 CEST
+### ItaCa Fest XMAS EDITION ⎯ December 16, 2020 ⎯ 10:00 CET
 
+(Note the change of time!)
+
+<a name="fest4"></a>
+<center>
+<table>
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Speaker</th>
+      <th>Affiliation</th>
+      <th>Talk</th>
+      <th>Material</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color:#fbe49d	">
+      <td>10:00</td>
+      <td><a href="https://researchers.mq.edu.au/en/persons/giacomo-tendas" target="_blank"><strong>TENDAS</strong></a></td>
+      <td>Macquarie University</td>
+      <td><b>Equivalent characterizations of accessible V-categories</b></td>
+      <td><a href="#tendas-abs">▤</a> <a href="" target="_blank">▶</a></td>
+    </tr>
+    <tr>
+      <td>10:45</td>
+      <td colspan="4">Question time </td>
+    </tr>
+    <tr style="background-color:#fbe49d">
+      <td>11:00</td>
+      <td><a href="https://www2.le.ac.uk/departments/mathematics/extranet/staff-material/staff-profiles/simona-paoli" target="_blank"><strong>PAOLI</strong></a></td>
+      <td>University of Leicester</td>
+      <td><b>Weakly globular double categories and weak units</b></td>
+      <td><a href="#paoli-abs">▤</a> <a href="" target="_blank">▶</a></td>
+    </tr>
+    <tr>
+      <td>11:45</td>
+      <td colspan="4">Question time </td>
+    </tr>
+    <tr>
+      <td>12:00</td>
+      <td colspan="4">Lunch break</td>
+    </tr>
+    <!-- -- -->
+        <tr style="background-color:#fbe49d	">
+      <td>14:00</td>
+      <td><a href="http://tetrapharmakon.github.io" target="_blank"><strong>LOREGIAN</strong></a></td>
+      <td>Tallinn University of Technology</td>
+      <td><b>Coends of higher arity</b></td>
+      <td><a href="#lore-abs">▤</a> <a href="" target="_blank">▶</a></td>
+    </tr>
+    <tr>
+      <td>14:45</td>
+      <td colspan="4">Question time </td>
+    </tr>
+    <tr style="background-color:#fbe49d">
+      <td>15:00</td>
+      <td><a href="https://www.dima.unige.it/~rosolini/" target="_blank"><strong>ROSOLINI</strong></a></td>
+      <td>Università di Genova</td>
+      <td><b>The Comonad of Identities</b></td>
+      <td><a href="#roso-abs">▤</a> <a href="" target="_blank">▶</a></td>
+    </tr>
+    <tr>
+      <td>15:45</td>
+      <td colspan="4">Question time </td>
+    </tr>
+    <tr>
+      <td>16:00</td>
+      <td colspan="4">Free chat </td>
+    </tr>
+  </tbody>
+</table>
+</center>
+
+<div id="tendas-abs"></div>
+
+### Giacomo Tendas
+#### Equivalent characterizations of accessible V-categories
+
+Ordinary accessible categories have been studied by various authors and, since their introduction, have been characterized in several ways. When moving to the enriched context, though, many aspects of the theory are still very little developed. Moreover, two different notions of accessibility for V-categories have been introduced: one is a direct generalization of the ordinary definition, and involves only conical filtered colimits; the other (introduced by Borceux, Quinteiro, and Rosický) involves colimits weighted by flat V-functors, a larger class of "filtered" colimits which includes the conical ones. In the first part of the talk we will compare these two notions and exhibit several examples of base of enrichment for which these coincide or differ.
+In the second part we will provide a characterization of enriched accessible categories (for both notions) using "virtual" orthogonality and reflectivity conditions. The idea is to generalize the known characterization of locally presentable categories (as orthogonality classes and accessibly embedded reflective subcategories of presheaves) to our non-cocomplete case.
+This is part of a joint work with Steve Lack.
+
+<div id="paoli-abs"></div>
+
+### Simona Paoli
+#### Weakly globular double categories and weak units
+
+Weakly globular double categories are a model of weak 2-categories based on the notion of weak globularity, and they are known to be suitably equivalent to Tamsamani 2-categories. Fair 2-categories, introduced by J. Kock, model weak 2-categories with strictly associative compositions and weak unit laws. In this talk I will illustrate how to establish a direct comparison between weakly globular double categories and fair 2-categories and prove they are equivalent after localisation with respect to the 2-equivalences. This comparison sheds new light on weakly globular double categories as encoding a strictly associative, though not strictly unital, composition, as well as the category of weak units via the weak globularity condition.
+
+<div id="lore-abs"></div>
+
+### Fosco Loregian
+#### Coends of higher arity
+
+We specialise a recently introduced notion of generalised dinaturality to the case where the domain (resp., codomain) is constant, obtaining notions of ends (resp., coends) of higher arity, dubbed herein (p,q)-ends (resp., (p,q)-coends). While higher arity co/ends are particular instances of "totally symmetrised" (ordinary) co/ends, they serve an important technical role in the study of a number of new categorical phenomena, which may be broadly classified as two new variants of category theory.
+The first of these, weighted category theory, consists of the study of weighted variants of the classical notions and construction found in ordinary category theory, besides that of a limit. This leads to a host of varied and rich notions, such as weighted Kan extensions, weighted adjunctions, and weighted ends.
+The second, diagonal category theory, proceeds in a different (albeit related) direction, in which one replaces universality with respect to natural transformations with universality with respect to dinatural transformations, mimicking the passage from limits to ends. In doing so, one again encounters a number of new interesting notions, among which one similarly finds diagonal Kan extensions, diagonal adjunctions, and diagonal ends. This is joint work with Théo de Oliveira Santos.
+
+<div id="roso-abs"></div>
+
+### Pino Rosolini
+#### The Comonad of Identities
+
+Lawvere’s hyperdoctrines mark the beginning of applications of category theory to logic. In particular, existential elementary doctrines proved essential to give models of non-classical logics. The clear connection between (typed) logical theories and certain Pos-valued functors is exemplified by the embedding of the category of elementary doctrines into that of primary doctrines, which has a right adjoint given by a completion which freely adds quotients for equivalence relations.
+We extend that result in two ways: first we show that, in fact, the embedding is 2-functorial and 2-comonadic. Next, we show that the same applies to the more general case of elementary fibrations: the embedding of elementary fibrations into fibrations with finite products is 2-comonadic.
+This is joint work with Jacopo Emmenegger and Fabio Pasquali.
+
+## Past Events
+
+### November 25, 2020 ⎯ 14:00 CET
+
+<a name="fest4"></a>
+<center>
+<table>
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Speaker</th>
+      <th>Affiliation</th>
+      <th>Talk</th>
+      <th>Material</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color:#fbe49d	">
+      <td>14:00</td>
+      <td><a href="" target="_blank"><strong>TROTTA</strong></a></td>
+      <td><a href="">Università di Verona</a></td>
+      <td><b>The existential completion, choice principles and applications</b></td>
+      <td><a href="#trotta-abs">▤</a> <a href="https://www.youtube.com/watch?v=sAMVU_5RQJQ" target="_blank">▶</a></td>
+    </tr>
+    <tr>
+      <td>14:45</td>
+      <td colspan="4">Question time </td>
+    </tr>
+    <tr style="background-color:#fbe49d">
+      <td>15:00</td>
+      <td><a href="" target="_blank"><strong>NARDIN</strong></a></td>
+      <td>Universität Regensburg</td>
+      <td><b>Equivariant multiplicative structures</b></td>
+      <td><a href="#nardin-abs">▤</a> <a href="https://www.youtube.com/watch?v=nFdUMw5qMAU" target="_blank">▶</a></td>
+    </tr>
+    <tr>
+      <td>15:45</td>
+      <td colspan="4">Question time </td>
+    </tr>
+    <tr>
+      <td>16:00</td>
+      <td colspan="4">Free chat </td>
+    </tr>
+  </tbody>
+</table>
+</center>
+
+<div id="trotta-abs"></div>
+<!-- 
+### Davide Trotta
+#### The existential completion, choice principles and applications
+
+Hyperdoctrines were introduced by F.W. Lawvere to synthesize the structural properties of logical systems. The intuition is that a hyperdoctrine determines an appropriate categorical structure to abstract both notions of first-order theory and interpretation. In some recent works, Maietti and Rosolini generalized the notion of hyperdoctrine, introducing that of elementary and existential doctrine to give an abstract description of constructions used to formalize constructive mathematics in foundations based on intensional type theory. The main goal of this talk is to present the existential completion of an elementary doctrine, its connections with some choice principles and applications. First, we show that this construction allows us to extend the notion of exact completion to an arbitrary elementary doctrine, i.e. we prove that there is a bi-adjunction between the 2-category of elementary doctrines into the 2-category of exact categories. Then, employing the existential completion, we provide an algebraic characterization of some choice principles, including Hilbert’s epsilon operator. Finally, we present various examples of existential completions, including the syntactic doctrine of the regular logic, the doctrine of variations on a finite product category with weak equalizers, the subobject doctrine on a finitely complete category, and the doctrine of formal monomorphisms associated with an M-category.
+
+<div id="nardin-abs"></div>
+
+### Denis Nardin
+#### Equivariant multiplicative structures
+
+I will explain some ideas to encode multiplicative structures arising in equivariant homotopy theory (in particular the Hill-Hopkins-Ravenel norm) via the framework of parametrized higher category theory. I will show how this can be thought of a generalization of ordinary multiplicative structures and present how it can be used to give a universal property of the Hill-Hopkins-Ravenel norm. 
+-->
+
+
+### October 21, 2020 ⎯ 14:00 CEST
 <a name="fest3"></a>
 <!-- #### [a3poster](a3poster.pdf), [a4poster](a4poster.pdf), [flyer](flyer.pdf) -->
 <center>
@@ -37,7 +205,7 @@ If you would like to be a speaker, or you want to contact the organizers of the 
       <td><a href="https://maths.anu.edu.au/people/academics/martina-rovelli" target="_blank"><strong>ROVELLI</strong></a></td>
       <td><a href="https://www.anu.edu.au">ANU</a></td>
       <td><b>Towards an explicit comparison between globular and simplicial models of (∞,2)-categories</b></td>
-      <td><a href="#rovelli-abs">▤</a> <a href="" target="_blank">▶</a></td>
+      <td><a href="#rovelli-abs">▤</a> <a href="https://www.youtube.com/watch?v=JvViiA7WSqQ" target="_blank">▶</a></td>
     </tr>
     <tr>
       <td>14:45</td>
@@ -48,7 +216,7 @@ If you would like to be a speaker, or you want to contact the organizers of the 
       <td><a href="https://scholar.google.es/citations?user=TSbjyfUAAAAJ&hl=en" target="_blank"><strong>VIRILI</strong></a></td>
       <td>Università di Udine</td>
       <td><b>Factorization systems on derivators</b></td>
-      <td><a href="#virili-abs">▤</a> <a href="" target="_blank">▶</a></td>
+      <td><a href="#virili-abs">▤</a> <a href="https://www.youtube.com/watch?v=u41xr3VVv1A" target="_blank">▶</a></td>
     </tr>
     <tr>
       <td>15:45</td>
@@ -64,7 +232,7 @@ If you would like to be a speaker, or you want to contact the organizers of the 
 
 <div id="rovelli-abs"></div>
 
-### Martina Rovelli
+<!-- ### Martina Rovelli
 #### Towards an explicit comparison between globular and simplicial models of (∞,2)-categories
 
 Many mathematical objects of interest assemble naturally into what is referred to as an (∞,n)-category, a notion that can be implemented by means of several models, each presenting its own advantages and disadvantages. Amongst those, there are Rezk’s globular model of Θ<sub>n</sub>-spaces and Verity’s simplicial model of saturated n-complicial sets. The equivalence between those has been established for n=0,1,2, although only for n=0,1 an explicit comparison is available. I will present work in progress (joint with J. Bergner and V. Ozornova) towards producing an explicit comparison between the two approaches in the case n=2 or higher.
@@ -74,9 +242,7 @@ Many mathematical objects of interest assemble naturally into what is referred t
 ### Simone Virili
 #### Factorization Systems on Derivators
 
-Factorization systems are an important part of modern category theory, as they can be found in very common situations. Furthermore, they provide the category where they live in with a rather rich structure. In this talk we extend this classical theory introducing a higher version of this concept, called derivator factorization systems, in the language of Grothendieck (pre)derivators. We will present three different approaches to derivator factorization system: as suitable pairs of "coherently orthogonal" sub-derivators, as "factorization functors" and as pseudoalgebras over the squaring monad. An important result will then be to prove that, in discrete derivators (i.e., the derivators enhancing classical category theory) and in stable derivators (i.e., the derivators enhancing triangulated categories), these three approaches are all equivalent. Finally, we will show that, when a derivator originates from a stable ∞-category, the derivator factorization systems are in bijection with the (homotopy) factorization systems introduced by Joyal.
-
-## Past Events
+Factorization systems are an important part of modern category theory, as they can be found in very common situations. Furthermore, they provide the category where they live in with a rather rich structure. In this talk we extend this classical theory introducing a higher version of this concept, called derivator factorization systems, in the language of Grothendieck (pre)derivators. We will present three different approaches to derivator factorization system: as suitable pairs of "coherently orthogonal" sub-derivators, as "factorization functors" and as pseudoalgebras over the squaring monad. An important result will then be to prove that, in discrete derivators (i.e., the derivators enhancing classical category theory) and in stable derivators (i.e., the derivators enhancing triangulated categories), these three approaches are all equivalent. Finally, we will show that, when a derivator originates from a stable ∞-category, the derivator factorization systems are in bijection with the (homotopy) factorization systems introduced by Joyal. -->
 
 ### September 23, 2020 ⎯ 14:00 CEST
 

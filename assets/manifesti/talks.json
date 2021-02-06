@@ -54,5 +54,41 @@
      "title": "Factorization Systems on Derivators",
      "abstract": "Factorization systems are an important part of modern category theory, as they can be found in very common situations. Furthermore, they provide the category where they live in with a rather rich structure. In this talk we extend this classical theory introducing a higher version of this concept, called derivator factorization systems, in the language of Grothendieck (pre)derivators. We will present three different approaches to derivator factorization system: as suitable pairs of \"coherently orthogonal\" sub-derivators, as \"factorization functors\" and as pseudoalgebras over the squaring monad. An important result will then be to prove that, in discrete derivators (i.e., the derivators enhancing classical category theory) and in stable derivators (i.e., the derivators enhancing triangulated categories), these three approaches are all equivalent. Finally, we will show that, when a derivator originates from a stable ∞-category, the derivator factorization systems are in bijection with the (homotopy) factorization systems introduced by Joyal.",
      "affil": "Università di Udine"
-  }
+  },
+  {
+     "id":5,
+     "speaker":"Davide Trotta",
+     "title":"The existential completion, choice principles and applications",
+     "abstract":"Hyperdoctrines were introduced by F.W. Lawvere to synthesize the structural properties of logical systems. The intuition is that a hyperdoctrine determines an appropriate categorical structure to abstract both notions of first-order theory and interpretation. In some recent works, Maietti and Rosolini generalized the notion of hyperdoctrine, introducing that of elementary and existential doctrine to give an abstract description of constructions used to formalize constructive mathematics in foundations based on intensional type theory. The main goal of this talk is to present the existential completion of an elementary doctrine, its connections with some choice principles and applications. First, we show that this construction allows us to extend the notion of exact completion to an arbitrary elementary doctrine, i.e. we prove that there is a bi-adjunction between the 2-category of elementary doctrines into the 2-category of exact categories. Then, employing the existential completion, we provide an algebraic characterization of some choice principles, including Hilbert’s epsilon operator. Finally, we present various examples of existential completions, including the syntactic doctrine of the regular logic, the doctrine of variations on a finite product category with weak equalizers, the subobject doctrine on a finitely complete category, and the doctrine of formal monomorphisms associated with an M-category." 
+  },
+  {
+   "id":5,
+   "speaker":"Denis Nardin",
+   "title":"Equivariant multiplicative structures",
+   "abstract":"I will explain some ideas to encode multiplicative structures arising in equivariant homotopy theory (in particular the Hill-Hopkins-Ravenel norm) via the framework of parametrized higher category theory. I will show how this can be thought of a generalization of ordinary multiplicative structures and present how it can be used to give a universal property of the Hill-Hopkins-Ravenel norm." 
+},
+{
+   "id":6,
+   "speaker":"Pino Rosolini",
+   "title":"The Comonad of Identities",
+   "abstract":"Lawvere’s hyperdoctrines mark the beginning of applications of category theory to logic. In particular, existential elementary doctrines proved essential to give models of non-classical logics. The clear connection between (typed) logical theories and certain Pos-valued functors is exemplified by the embedding of the category of elementary doctrines into that of primary doctrines, which has a right adjoint given by a completion which freely adds quotients for equivalence relations. We extend that result in two ways: first we show that, in fact, the embedding is 2-functorial and 2-comonadic. Next, we show that the same applies to the more general case of elementary fibrations: the embedding of elementary fibrations into fibrations with finite products is 2-comonadic. This is joint work with Jacopo Emmenegger and Fabio Pasquali." 
+},
+{
+   "id":6,
+   "speaker":"Fosco Loregian",
+   "title":"Coends of higher arity",
+   "abstract":"We specialise a recently introduced notion of generalised dinaturality to the case where the domain (resp., codomain) is constant, obtaining notions of ends (resp., coends) of higher arity, dubbed herein (p,q)-ends (resp., (p,q)-coends). While higher arity co/ends are particular instances of 'totally symmetrised' (ordinary) co/ends, they serve an important technical role in the study of a number of new categorical phenomena, which may be broadly classified as two new variants of category theory.  The first of these, weighted category theory, consists of the study of weighted variants of the classical notions and construction found in ordinary category theory, besides that of a limit. This leads to a host of varied and rich notions, such as weighted Kan extensions, weighted adjunctions, and weighted ends. The second, diagonal category theory, proceeds in a different (albeit related) direction, in which one replaces universality with respect to natural transformations with universality with respect to dinatural transformations, mimicking the passage from limits to ends. In doing so, one again encounters a number of new interesting notions, among which one similarly finds diagonal Kan extensions, diagonal adjunctions, and diagonal ends. This is joint work with Théo de Oliveira Santos." 
+},
+{
+   "id":6,
+   "speaker":"Simona Paoli",
+   "title":"Weakly globular double categories and weak units",
+   "abstract":"Weakly globular double categories are a model of weak 2-categories based on the notion of weak globularity, and they are known to be suitably equivalent to Tamsamani 2-categories. Fair 2-categories, introduced by J. Kock, model weak 2-categories with strictly associative compositions and weak unit laws. In this talk I will illustrate how to establish a direct comparison between weakly globular double categories and fair 2-categories and prove they are equivalent after localisation with respect to the 2-equivalences. This comparison sheds new light on weakly globular double categories as encoding a strictly associative, though not strictly unital, composition, as well as the category of weak units via the weak globularity condition." 
+},
+{
+   "id":6,
+   "speaker":"Giacomo Tendas",
+   "title":"Equivalent characterizations of accessible V-categories",
+   "abstract":"Ordinary accessible categories have been studied by various authors and, since their introduction, have been characterized in several ways. When moving to the enriched context, though, many aspects of the theory are still very little developed. Moreover, two different notions of accessibility for V-categories have been introduced: one is a direct generalization of the ordinary definition, and involves only conical filtered colimits; the other (introduced by Borceux, Quinteiro, and Rosický) involves colimits weighted by flat V-functors, a larger class of “filtered” colimits which includes the conical ones. In the first part of the talk we will compare these two notions and exhibit several examples of base of enrichment for which these coincide or differ. In the second part we will provide a characterization of enriched accessible categories (for both notions) using “virtual” orthogonality and reflectivity conditions. The idea is to generalize the known characterization of locally presentable categories (as orthogonality classes and accessibly embedded reflective subcategories of presheaves) to our non-cocomplete case. This is part of a joint work with Steve Lack" 
+}
 ]
