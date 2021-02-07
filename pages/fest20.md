@@ -36,7 +36,7 @@ If you would like to be a speaker, or you want to contact the organizers of the 
       <td><a href="https://researchers.mq.edu.au/en/persons/giacomo-tendas" target="_blank"><strong>TENDAS</strong></a></td>
       <td><a href="https://www.mq.edu.au/" target="_blank">Macquarie University</a></td>
       <td><b>Equivalent characterizations <br>of accessible V-categories</b></td>
-      <td><a href="#tendas-abs">▤</a> <a href="" target="_blank">▶</a></td>
+      <td><a href="#tendas-abs">▤</a> <a href="https://youtu.be/uJrJasi7Nbk" target="_blank">▶</a></td>
     </tr>
     <tr>
       <td>10:45</td>
@@ -47,7 +47,7 @@ If you would like to be a speaker, or you want to contact the organizers of the 
       <td><a href="https://www2.le.ac.uk/departments/mathematics/extranet/staff-material/staff-profiles/simona-paoli" target="_blank"><strong>PAOLI</strong></a></td>
       <td><a href="https://le.ac.uk/" target="_blank">University of Leicester</a></td>
       <td><b>Weakly globular double categories <br>and weak units</b></td>
-      <td><a href="#paoli-abs">▤</a> <a href="" target="_blank">▶</a></td>
+      <td><a href="#paoli-abs">▤</a> <a href="https://youtu.be/RzWa6Cg9_eo" target="_blank">▶</a></td>
     </tr>
     <tr>
       <td>11:45</td>
@@ -63,7 +63,7 @@ If you would like to be a speaker, or you want to contact the organizers of the 
       <td><a href="http://tetrapharmakon.github.io" target="_blank"><strong>LOREGIAN</strong></a></td>
       <td><a href="https://www.taltech.ee/en/" target="_blank">Tallinn University of Technology</a></td>
       <td><b>Coends of higher arity</b></td>
-      <td><a href="#lore-abs">▤</a> <a href="" target="_blank">▶</a></td>
+      <td><a href="#lore-abs">▤</a> <a href="https://youtu.be/VH9uL0Z5AM8" target="_blank">▶</a></td>
     </tr>
     <tr>
       <td>14:45</td>
@@ -74,7 +74,7 @@ If you would like to be a speaker, or you want to contact the organizers of the 
       <td><a href="https://www.dima.unige.it/~rosolini/" target="_blank"><strong>ROSOLINI</strong></a></td>
       <td><a href="https://unige.it" target="_blank">Università di Genova</a></td>
       <td><b>The Comonad of Identities</b></td>
-      <td><a href="#roso-abs">▤</a> <a href="" target="_blank">▶</a></td>
+      <td><a href="#roso-abs">▤</a> <a href="https://youtu.be/LUiEQ5sigk0" target="_blank">▶</a></td>
     </tr>
     <tr>
       <td>15:45</td>
