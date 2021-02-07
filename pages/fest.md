@@ -35,7 +35,7 @@ If you would like to be a speaker, or you want to contact the organizers of the 
       <td>10:00</td>
       <td><a href="https://researchers.mq.edu.au/en/persons/giacomo-tendas" target="_blank"><strong>TENDAS</strong></a></td>
       <td><a href="https://www.mq.edu.au/" target="_blank">Macquarie University</a></td>
-      <td><b>Equivalent characterizations of accessible V-categories</b></td>
+      <td><b>Equivalent characterizations <br>of accessible V-categories</b></td>
       <td><a href="#tendas-abs">▤</a> <a href="" target="_blank">▶</a></td>
     </tr>
     <tr>
@@ -46,7 +46,7 @@ If you would like to be a speaker, or you want to contact the organizers of the 
       <td>11:00</td>
       <td><a href="https://www2.le.ac.uk/departments/mathematics/extranet/staff-material/staff-profiles/simona-paoli" target="_blank"><strong>PAOLI</strong></a></td>
       <td><a href="https://le.ac.uk/" target="_blank">University of Leicester</a></td>
-      <td><b>Weakly globular double categories and weak units</b></td>
+      <td><b>Weakly globular double categories <br>and weak units</b></td>
       <td><a href="#paoli-abs">▤</a> <a href="" target="_blank">▶</a></td>
     </tr>
     <tr>
@@ -107,7 +107,7 @@ If you would like to be a speaker, or you want to contact the organizers of the 
       <td>14:00</td>
       <td><a href="" target="_blank"><strong>TROTTA</strong></a></td>
       <td><a href="https://www.univr.it" target="_blank">Università di Verona</a></td>
-      <td><b>The existential completion, choice principles and applications</b></td>
+      <td><b>The existential completion, choice <br>principles and applications</b></td>
       <td><a href="#trotta-abs">▤</a> <a href="https://www.youtube.com/watch?v=sAMVU_5RQJQ" target="_blank">▶</a></td>
     </tr>
     <tr>
@@ -154,7 +154,7 @@ If you would like to be a speaker, or you want to contact the organizers of the 
       <td>14:00</td>
       <td><a href="https://maths.anu.edu.au/people/academics/martina-rovelli" target="_blank"><strong>ROVELLI</strong></a></td>
       <td><a href="https://www.anu.edu.au" target="_blank">ANU</a></td>
-      <td><b>Towards an explicit comparison between globular and simplicial models of (∞,2)-categories</b></td>
+      <td><b>Towards an explicit comparison <br>between globular and simplicial <br>models of (∞,2)-categories</b></td>
       <td><a href="#rovelli-abs">▤</a> <a href="https://www.youtube.com/watch?v=JvViiA7WSqQ" target="_blank">▶</a></td>
     </tr>
     <tr>
@@ -250,7 +250,7 @@ If you would like to be a speaker, or you want to contact the organizers of the 
       <td>14:00</td>
       <td><a href="https://www.math.unipd.it/~maietti/" target="_blank"><strong>MAIETTI</strong></a></td>
       <td><a href="https://www.unipd.it" target="_blank">Università di Padova</a></td>
-      <td><b>Predicative generalizations of topos-like structures</b></td>
+      <td><b>Predicative generalizations <br>of topos-like structures</b></td>
       <td><a href="#maietti-abs">▤</a> <a href="https://www.youtube.com/watch?v=1zrLKweanGY">▶</a></td>
     </tr>
     <tr>
@@ -261,7 +261,7 @@ If you would like to be a speaker, or you want to contact the organizers of the 
       <td>15:00</td>
       <td><a href="https://www.researchgate.net/profile/Alessio_Santamaria" target="_blank"><strong>SANTAMARIA</strong></a></td>
       <td><a href="https://www.unipi.it" target="_blank">Università di Pisa</a></td>
-      <td><b>Towards a Calculus of Substitution for Dinatural Transformations</b></td>
+      <td><b>Towards a Calculus of Substitution <br>for Dinatural Transformations</b></td>
       <td><a href="#santamaria-abs">▤</a> <a href="https://www.youtube.com/watch?v=uMK92t4rblY">▶</a></td>
     </tr>
     <tr>
