@@ -1,7 +1,7 @@
 ---
 title: People
 ---
-# ItaCa committee(s)
+The community of ItaCa is growing: these are the people that helped so far. A larger list of people can be found <a href="../pages/loca.html">here</a>. Feel free to join us!
 
 ## the ItaCa Promoting Committee:
 <div id="pc"></div>
