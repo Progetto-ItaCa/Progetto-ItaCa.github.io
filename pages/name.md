@@ -20,7 +20,7 @@ The community of ItaCa is growing: these are the people that helped so far. A la
 - <a href="http://tetrapharmakon.github.io" target="_blank">Fosco Loregian</a>
 - Paolo Perrone
 
-## curators of the present website:
+## the curators of the present website:
 <div id="web"></div>
 
 - <a href="http://tetrapharmakon.github.io" target="_blank">Fosco Loregian</a>
@@ -43,6 +43,50 @@ The community of ItaCa is growing: these are the people that helped so far. A la
 - Greta Coraglia
 - Paolo Perrone
 - Ivan Di Liberti
+
+## ItaCa 2019's
+
+## organisers
+
+- Ivan Di Liberti
+- Andrea Montoli
+- Alessio Santamaria
+- Cipriano Jr. Cioffo
+- Davide di Micco
+
+### and speakers
+
+- Stefano Ariotta
+- Jacopo Emmenegger
+- Fabrizio Genovese
+- Edoardo Lanari
+- Gabriele Lobbia
+- Fosco Loregian
+- Samuele Maschio
+- Claudia 
+- Menini
+- Marco Perin
+- Ilaria Rossinelli
+
+## ItaCa 2020
+
+## speakers
+
+ -Andrea Gagna
+ -Nicola Gambino
+ -Simone Ghiorzi
+ -Fosco Loregian
+ -Milly Maietti
+ -Denis Nardin
+ -Simona Paoli
+ -Paolo Perrone
+ -Pino Rosolini
+ -Martina Rovelli
+ -Alessio Santamaria
+ -Giacomo Tendas
+ -Davide Trotta
+ -Simone Virili
+
 
 Feel free to join us or reach out with an email at [webmasters.itaca@gmail.com](mailto:webmasters.itaca@gmail.com). 
 

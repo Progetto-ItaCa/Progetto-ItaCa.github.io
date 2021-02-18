@@ -20,6 +20,7 @@ ItaCa Fest is an online webinar aimed to gather the community of ItaCa.
 
 - Tholen
 - Hadzihasanovic
+
 ## June 10, 2021
 
 <a href="" target="_blank">14.30 UTC+1</a> on <a href="">zoom</a>
