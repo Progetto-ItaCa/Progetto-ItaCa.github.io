@@ -23,7 +23,7 @@
 	text-align: right;
 	font-weight: bold;
 	right: -10px;
-	z-index: 10;
+	z-index: 10000;
 }
 
 .dropdown:hover .dropdown-content {
