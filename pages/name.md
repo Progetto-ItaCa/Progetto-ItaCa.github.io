@@ -68,7 +68,7 @@ The community of ItaCa is growing: these are the people that helped so far. A la
 - Marco Perin
 - Ilaria Rossinelli
 
-## ItaCa 2020
+## ItaCa 2020's
 
 ## speakers
 
