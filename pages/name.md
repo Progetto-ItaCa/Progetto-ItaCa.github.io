@@ -3,89 +3,54 @@ title: People
 ---
 The community of ItaCa is growing: these are the people that helped so far. A larger list of people can be found <a href="../pages/loca.html">here</a>. Feel free to join us!
 
-## the ItaCa Promoting Committee:
+## The ItaCa Promoting Committee:
 <div id="pc"></div>
 
-- <a href="http://math.unipa.it/metere" target="_blank">Giuseppe (Beppe) Metere</a> ♔
+- <a href="http://math.unipa.it/metere" target="_blank">Giuseppe (Beppe) Metere</a> (Head of the Promoting Committee)
 - <a href="http://diliberti.github.io" target="_blank">Ivan Di Liberti</a>
 - <a href="https://edolana.github.io" target="_blank">Edoardo Lanari</a>
 - <a href="http://tetrapharmakon.github.io" target="_blank">Fosco Loregian</a>
 
-## the Scientific Committee:
+## The current Scientific Committee:
 <div id="sc"></div>
 
-- Beppe Metere
-- Ivan Di Liberti
-- Edoardo Lanari
-- Fosco Loregian
-- Paolo Perrone
+- <a href="http://math.unipa.it/metere" target="_blank">Giuseppe (Beppe) Metere</a>
+- <a href="http://diliberti.github.io" target="_blank">Ivan Di Liberti</a>
+- <a href="https://edolana.github.io" target="_blank">Edoardo Lanari</a>
+- <a href="http://tetrapharmakon.github.io" target="_blank">Fosco Loregian</a>
+- <a href="http://www.paoloperrone.org" target="_blank">Paolo Perrone</a>
 
-## the curators of the present website:
+## The curators of the present website:
 <div id="web"></div>
 
-- Fosco Loregian
-- Daniele Palombi
+- <a href="http://tetrapharmakon.github.io" target="_blank">Fosco Loregian</a>
+- <a href="http://dpl0a.github.io" target="_blank">Daniele Palombi</a>
 
 ## ItaCa's social media managers:
 <div id="smm"></div>
 
-- Daniele Palombi
 - Gabriele Lobbia
+- <a href="http://dpl0a.github.io" target="_blank">Daniele Palombi</a>
 
-## the school of ItaCa:
+## The school of ItaCa:
 <div id="school"></div>
 
-- Fosco Loregian
-- Daniele Palombi
+- <a href="http://tetrapharmakon.github.io" target="_blank">Fosco Loregian</a>
 - Jacopo Emmenegger
 - Enrico Ghiorzi
-- Francesca Guffanti
+- <a href="http://www.paoloperrone.org" target="_blank">Paolo Perrone</a>
+- <a href="http://diliberti.github.io" target="_blank">Ivan Di Liberti</a>
 - Greta Coraglia
-- Paolo Perrone
-- Ivan Di Liberti
+- Francesca Guffanti
+- <a href="http://dpl0a.github.io" target="_blank">Daniele Palombi</a>
 
-## ItaCa 2019's
+## ItaCa 2019's organisers:
 
-### organisers:
-
-- Ivan Di Liberti
+- <a href="http://diliberti.github.io" target="_blank">Ivan Di Liberti</a>
 - Andrea Montoli
 - Alessio Santamaria
 - Cipriano Jr. Cioffo
 - Davide di Micco
-
-### and speakers:
-
-- Stefano Ariotta
-- Jacopo Emmenegger
-- Fabrizio Genovese
-- Edoardo Lanari
-- Gabriele Lobbia
-- Fosco Loregian
-- Samuele Maschio
-- Claudia 
-- Menini
-- Marco Perin
-- Ilaria Rossinelli
-
-## ItaCa 2020's
-
-### speakers:
-
- - Andrea Gagna
- - Nicola Gambino
- - Simone Ghiorzi
- - Fosco Loregian
- - Milly Maietti
- - Denis Nardin
- - Simona Paoli
- - Paolo Perrone
- - Pino Rosolini
- - Martina Rovelli
- - Alessio Santamaria
- - Giacomo Tendas
- - Davide Trotta
- - Simone Virili
 
 
 Feel free to join us or reach out with an email at [webmasters.itaca@gmail.com](mailto:webmasters.itaca@gmail.com). 
