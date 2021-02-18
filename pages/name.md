@@ -46,7 +46,7 @@ The community of ItaCa is growing: these are the people that helped so far. A la
 
 ## ItaCa 2019's
 
-### organisers
+### organisers:
 
 - Ivan Di Liberti
 - Andrea Montoli
@@ -54,7 +54,7 @@ The community of ItaCa is growing: these are the people that helped so far. A la
 - Cipriano Jr. Cioffo
 - Davide di Micco
 
-### and speakers
+### and speakers:
 
 - Stefano Ariotta
 - Jacopo Emmenegger
@@ -70,7 +70,7 @@ The community of ItaCa is growing: these are the people that helped so far. A la
 
 ## ItaCa 2020's
 
-### speakers
+### speakers:
 
  - Andrea Gagna
  - Nicola Gambino
