@@ -14,29 +14,29 @@ The community of ItaCa is growing: these are the people that helped so far. A la
 ## the Scientific Committee:
 <div id="sc"></div>
 
-- <a href="http://math.unipa.it/metere" target="_blank">Giuseppe (Beppe) Metere</a>
-- <a href="http://diliberti.github.io" target="_blank">Ivan Di Liberti</a>
-- <a href="https://edolana.github.io" target="_blank">Edoardo Lanari</a>
-- <a href="http://tetrapharmakon.github.io" target="_blank">Fosco Loregian</a>
+- Giuseppe (Beppe) Metere
+- Ivan Di Liberti
+- Edoardo Lanari
+- Fosco Loregian
 - Paolo Perrone
 
 ## the curators of the present website:
 <div id="web"></div>
 
-- <a href="http://tetrapharmakon.github.io" target="_blank">Fosco Loregian</a>
-- <a href="">Daniele Palombi</a>
+- Fosco Loregian
+- <a href="">Daniele Palombi
 
 ## ItaCa's social media managers:
 <div id="smm"></div>
 
-- <a href="">Daniele Palombi</a>
-- <a href="">Gabriele Lobbia</a>
+- Daniele Palombi
+- Gabriele Lobbia
 
 ## the school of ItaCa:
 <div id="school"></div>
 
-- <a href="http://tetrapharmakon.github.io" target="_blank">Fosco Loregian</a>
-- <a href="">Daniele Palombi</a>
+- Fosco Loregian
+- Daniele Palombi
 - Jacopo Emmenegger
 - Enrico Ghiorzi
 - Francesca Guffanti
