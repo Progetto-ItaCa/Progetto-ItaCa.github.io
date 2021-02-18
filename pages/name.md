@@ -72,20 +72,20 @@ The community of ItaCa is growing: these are the people that helped so far. A la
 
 ## speakers
 
- -Andrea Gagna
- -Nicola Gambino
- -Simone Ghiorzi
- -Fosco Loregian
- -Milly Maietti
- -Denis Nardin
- -Simona Paoli
- -Paolo Perrone
- -Pino Rosolini
- -Martina Rovelli
- -Alessio Santamaria
- -Giacomo Tendas
- -Davide Trotta
- -Simone Virili
+ - Andrea Gagna
+ - Nicola Gambino
+ - Simone Ghiorzi
+ - Fosco Loregian
+ - Milly Maietti
+ - Denis Nardin
+ - Simona Paoli
+ - Paolo Perrone
+ - Pino Rosolini
+ - Martina Rovelli
+ - Alessio Santamaria
+ - Giacomo Tendas
+ - Davide Trotta
+ - Simone Virili
 
 
 Feel free to join us or reach out with an email at [webmasters.itaca@gmail.com](mailto:webmasters.itaca@gmail.com). 
