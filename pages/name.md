@@ -14,7 +14,7 @@ The community of ItaCa is growing: these are the people that helped so far. A la
 ## the Scientific Committee:
 <div id="sc"></div>
 
-- Giuseppe (Beppe) Metere
+- Beppe Metere
 - Ivan Di Liberti
 - Edoardo Lanari
 - Fosco Loregian
@@ -24,7 +24,7 @@ The community of ItaCa is growing: these are the people that helped so far. A la
 <div id="web"></div>
 
 - Fosco Loregian
-- <a href="">Daniele Palombi
+- Daniele Palombi
 
 ## ItaCa's social media managers:
 <div id="smm"></div>
