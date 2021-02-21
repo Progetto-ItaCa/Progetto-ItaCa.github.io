@@ -85,7 +85,7 @@ ItaCa Fest is an online webinar aimed to gather the community of ItaCa.
     <tr style="background-color:#fbe49d">
       <td>15:30</td>
       <td><a href="https://ioc.ee/~amar/" target="_blank"><strong>Hadzihasanovic</strong></a></td>
-      <td><a href="https://www.taltech.ee" target="_blank">York University</a></td>
+      <td><a href="https://www.taltech.ee" target="_blank">TalTech</a></td>
       <td><b>TBA</b></td>
       <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
     </tr>
