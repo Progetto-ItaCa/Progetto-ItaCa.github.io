@@ -9,7 +9,7 @@ ItaCa Fest is an online webinar aimed to gather the community of ItaCa.
 
 ## April 19, 2021
 
-<a href="https://www.starts-at.com/event/1545390123" target="_blank">14.30 UTC+1</a> on <a href="">zoom</a>
+<a href="https://www.starts-at.com/event/1545390123" target="_blank">14:30 UTC+1</a> on <a href="">zoom</a>
 
 <a name="fest4"></a>
 <center>
@@ -56,7 +56,7 @@ ItaCa Fest is an online webinar aimed to gather the community of ItaCa.
 
 ## May 20, 2021
 
-<a href="https://www.starts-at.com/event/1456175659" target="_blank">14.30 UTC+1</a> on <a href="">zoom</a>
+<a href="https://www.starts-at.com/event/1456175659" target="_blank">14:30 UTC+1</a> on <a href="">zoom</a>
 
 <a name="fest4"></a>
 <center>
@@ -104,7 +104,7 @@ ItaCa Fest is an online webinar aimed to gather the community of ItaCa.
 
 ## June 10, 2021
 
-<a href="" target="_blank">14.30 UTC+1</a> on <a href="">zoom</a>
+<a href="" target="_blank">14:30 UTC+1</a> on <a href="">zoom</a>
 
 <a name="fest4"></a>
 <center>
@@ -149,4 +149,11 @@ ItaCa Fest is an online webinar aimed to gather the community of ItaCa.
 </table>
 </center>
 
-the <a href="name.html#pc">Programme Committee</a> and <a href="name.html#sc">Scientific Committee</a>.
+<!-- the <a href="name.html#pc">Programme Committee</a> and <a href="name.html#sc">Scientific Committee</a>. -->
+
+## Programme Committee
+- <a href="http://math.unipa.it/metere" target="_blank">Giuseppe (Beppe) Metere</a>
+- <a href="http://diliberti.github.io" target="_blank">Ivan Di Liberti</a>
+- <a href="https://edolana.github.io" target="_blank">Edoardo Lanari</a>
+- <a href="http://tetrapharmakon.github.io" target="_blank">Fosco Loregian</a>
+- <a href="http://www.paoloperrone.org" target="_blank">Paolo Perrone</a>
