@@ -4,7 +4,7 @@ title: Itaca Fest 2021
 
 # ItaCa Fest 2021
 
-ItaCa Fest is an online webinar aimed to gather the community of ItaCa. You can find us on [Researchseminars](https://researchseminars.org/seminar/itaca){:target="_blank"}.
+ItaCa Fest is an online webinar aimed to gather the community of ItaCa. You can find us on [researchseminars](https://researchseminars.org/seminar/itaca){:target="_blank"}.
 
 
 ## April 19, 2021
