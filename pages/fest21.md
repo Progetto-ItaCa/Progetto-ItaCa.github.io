@@ -160,7 +160,7 @@ ItaCa Fest is an online webinar aimed to gather the community of ItaCa.
 <hr>
 
 <p>
-This seminars series was supported by the “National Group for Algebraic and Geometric Structures, and their Applications” (GNSAGA – INDAM)”
+This seminars series is supported by the “National Group for Algebraic and Geometric Structures, and their Applications” (GNSAGA – INDAM)”
 </p>
 
 <img src="../INdAM_logo.svg" style="width: 150px;">
