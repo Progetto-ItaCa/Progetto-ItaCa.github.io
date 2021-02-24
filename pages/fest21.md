@@ -29,3 +29,9 @@ ItaCa Fest is an online webinar aimed to gather the community of ItaCa.
 - Saracco
 
 the <a href="name.html#pc">Programme Committee</a> and <a href="name.html#sc">Scientific Committee</a>.
+
+<hr>
+<p>
+This seminars series was supported by the “National Group for Algebraic and Geometric Structures, and their Applications” (GNSAGA – INDAM)”
+</p>
+<img src="../INdAM_logo.svg" style="width: 150px;">
