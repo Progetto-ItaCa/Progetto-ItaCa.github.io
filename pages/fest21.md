@@ -9,7 +9,7 @@ ItaCa Fest is an online webinar aimed to gather the community of ItaCa.
 
 ## April 19, 2021
 
-<a href="https://www.starts-at.com/event/1545390123" target="_blank">14:30 UTC+1</a> on <a href="">zoom</a>
+14:30 UTC+1 on <a href="">zoom</a>
 
 <a name="fest4"></a>
 <center>
@@ -56,7 +56,7 @@ ItaCa Fest is an online webinar aimed to gather the community of ItaCa.
 
 ## May 20, 2021
 
-<a href="https://www.starts-at.com/event/1456175659" target="_blank">14:30 UTC+1</a> on <a href="">zoom</a>
+14:30 UTC+1 on <a href="">zoom</a>
 
 <a name="fest4"></a>
 <center>
@@ -104,7 +104,7 @@ ItaCa Fest is an online webinar aimed to gather the community of ItaCa.
 
 ## June 10, 2021
 
-<a href="" target="_blank">14:30 UTC+1</a> on <a href="">zoom</a>
+14:30 UTC+1 on <a href="">zoom</a>
 
 <a name="fest4"></a>
 <center>
