@@ -157,9 +157,8 @@ ItaCa Fest is an online webinar aimed to gather the community of ItaCa. You can 
 - <a href="https://edolana.github.io" target="_blank">Edoardo Lanari</a>
 - <a href="http://tetrapharmakon.github.io" target="_blank">Fosco Loregian</a>
 - <a href="http://www.paoloperrone.org" target="_blank">Paolo Perrone</a>
-
 <header></header>
 
-This seminars series is supported by the “National Group for Algebraic and Geometric Structures, and their Applications” [(GNSAGA – INdAM)](https://www.altamatematica.it/gnsaga/)
+This seminars series is supported by the “National Group for Algebraic and Geometric Structures, and their Applications” [(GNSAGA – INdAM)](https://www.altamatematica.it/gnsaga/){:target="_blank"}
 
 <div style="text-align: center"><img src="../INdAM_logo.svg" style="width: 150px;"></div>
