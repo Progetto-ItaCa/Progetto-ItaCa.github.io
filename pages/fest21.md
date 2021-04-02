@@ -4,12 +4,12 @@ title: Itaca Fest 2021
 
 # ItaCa Fest 2021
 
-ItaCa Fest is an online webinar aimed to gather the community of ItaCa.
+ItaCa Fest is an online webinar aimed to gather the community of ItaCa. You can find us on [researchseminars](https://researchseminars.org/seminar/itaca){:target="_blank"}.
 
 
 ## April 19, 2021
 
-<a href="https://www.starts-at.com/event/1545390123" target="_blank">14:30 UTC+1</a> on <a href="">zoom</a>
+14:30 UTC+1 on <a href="">zoom</a>
 
 <a name="fest4"></a>
 <center>
@@ -64,7 +64,7 @@ Mathematicians of different stripes like to have groups act on different sorts o
 
 ## May 20, 2021
 
-<a href="https://www.starts-at.com/event/1456175659" target="_blank">14:30 UTC+1</a> on <a href="">zoom</a>
+14:30 UTC+1 on <a href="">zoom</a>
 
 <a name="fest4"></a>
 <center>
@@ -112,7 +112,7 @@ Mathematicians of different stripes like to have groups act on different sorts o
 
 ## June 10, 2021
 
-<a href="" target="_blank">14:30 UTC+1</a> on <a href="">zoom</a>
+14:30 UTC+1 on <a href="">zoom</a>
 
 <a name="fest4"></a>
 <center>
@@ -165,10 +165,8 @@ Mathematicians of different stripes like to have groups act on different sorts o
 - <a href="https://edolana.github.io" target="_blank">Edoardo Lanari</a>
 - <a href="http://tetrapharmakon.github.io" target="_blank">Fosco Loregian</a>
 - <a href="http://www.paoloperrone.org" target="_blank">Paolo Perrone</a>
-<hr>
+<header></header>
 
-<p>
-This seminars series is supported by the “National Group for Algebraic and Geometric Structures, and their Applications” (GNSAGA – INDAM)”
-</p>
+This seminars series is supported by the “National Group for Algebraic and Geometric Structures, and their Applications” [(GNSAGA – INdAM)](https://www.altamatematica.it/gnsaga/){:target="_blank"}
 
-<img src="../INdAM_logo.svg" style="width: 150px;">
+<div style="text-align: center"><img src="../INdAM_logo.svg" style="width: 150px;"></div>
