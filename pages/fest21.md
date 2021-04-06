@@ -176,12 +176,6 @@ The material in this talk is with Filippo Bonchi, Fabio Gadducci, Aleks Kissinge
 
 
 
-## Abstracts
-
-
-
-
-
 ## Programme Committee
 - <a href="http://math.unipa.it/metere" target="_blank">Giuseppe (Beppe) Metere</a>
 - <a href="http://diliberti.github.io" target="_blank">Ivan Di Liberti</a>
