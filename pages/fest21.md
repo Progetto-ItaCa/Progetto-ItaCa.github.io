@@ -73,9 +73,9 @@ It turns out that there is a tight correspondence between symmetric monoidal cat
 Given the above, a natural question is how much of this correspondence survives if we drop the assumption about Frobenius structure: i.e. can we use this correspondence to implement diagrammatic reasoning on vanilla symmetric monoidal categories. The answer is yes, but we need to restrict the kinds of cospans we consider: the underlying hypergraph has to be acyclic and satisfy an additional technical condition called monogamy. Moreover, we must restrict the DPO rewriting mechanism to a variant that we call convex DPO rewriting. The good news is that none of these modifications come with a significant algorithmic cost.
 
 The material in this talk is with Filippo Bonchi, Fabio Gadducci, Aleks Kissinger and Fabio Zanasi, and has been published in a series of papers:
- "Rewriting modulo symmetric monoidal structure", Proceedings of LiCS 2016
- "Confluence of Graph Rewriting with Interfaces", Proceedings of ESOP 2017
- "Rewriting with Frobenius", Proceedings of LiCS 2018
+- "Rewriting modulo symmetric monoidal structure", Proceedings of LiCS 2016
+- "Confluence of Graph Rewriting with Interfaces", Proceedings of ESOP 2017
+- "Rewriting with Frobenius", Proceedings of LiCS 2018
 
 
 
