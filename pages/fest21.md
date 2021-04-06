@@ -39,8 +39,8 @@ ItaCa Fest is an online webinar aimed to gather the community of ItaCa. You can 
       <td>15:30</td>
       <td><a href="https://www.ioc.ee/~pawel/" target="_blank"><strong>Sobociński</strong></a></td>
       <td><a href="https://www.taltech.ee" target="_blank">TalTech</a></td>
-      <td><b>TBA</b></td>
-      <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
+      <td><b>Rewriting Modulo Symmetric Monoidal Structure</b></td>
+      <td><a href="#sobocinski-abs">▤</a> <a href="" target="_blank">▶</a></td>
     </tr>
     <tr>
       <td>16:15</td>
@@ -149,7 +149,28 @@ ItaCa Fest is an online webinar aimed to gather the community of ItaCa. You can 
 </table>
 </center>
 
-<!-- the <a href="name.html#pc">Programme Committee</a> and <a href="name.html#sc">Scientific Committee</a>. -->
+
+
+## Abstracts
+
+<div id="sobocinski-abs"></div>
+### Paweł Sobociński
+#### Rewriting Modulo Symmetric Monoidal Structure
+
+String diagrams are an elegant, convenient and powerful syntax for arrows of symmetric monoidal categories. In recent years, they have been used as compositional descriptions of computational systems from various fields, including quantum foundations, linear algebra, control theory, automata theory, concurrency theory, and even linguistics. All of these applications rely on diagrammatic reasoning, which is to string diagrams as equational reasoning is to ordinary terms.
+
+If we are to take string diagrams out of research papers and into more practical applications, we need to ask ourselves about how to implement diagrammatic reasoning. This is the focus of my talk.
+
+It turns out that there is a tight correspondence between symmetric monoidal categories where every object has a coherent special Frobenius algebra structure and categories of cospans of hypergraphs. The correspondence, therefore, takes us from a topological understanding of string diagrams to a combinatorial data-structure-like description. Moreover, diagrammatic reasoning translates via this correspondence exactly to DPO rewriting with interfaces.
+
+Given the above, a natural question is how much of this correspondence survives if we drop the assumption about Frobenius structure: i.e. can we use this correspondence to implement diagrammatic reasoning on vanilla symmetric monoidal categories. The answer is yes, but we need to restrict the kinds of cospans we consider: the underlying hypergraph has to be acyclic and satisfy an additional technical condition called monogamy. Moreover, we must restrict the DPO rewriting mechanism to a variant that we call convex DPO rewriting. The good news is that none of these modifications come with a significant algorithmic cost.
+
+The material in this talk is with Filippo Bonchi, Fabio Gadducci, Aleks Kissinger and Fabio Zanasi, and has been published in a series of papers:
+ "Rewriting modulo symmetric monoidal structure", Proceedings of LiCS 2016
+ "Confluence of Graph Rewriting with Interfaces", Proceedings of ESOP 2017
+ "Rewriting with Frobenius", Proceedings of LiCS 2018
+
+
 
 ## Programme Committee
 - <a href="http://math.unipa.it/metere" target="_blank">Giuseppe (Beppe) Metere</a>
