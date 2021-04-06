@@ -60,6 +60,23 @@ ItaCa Fest is an online webinar aimed to gather the community of ItaCa. You can 
 
 Mathematicians of different stripes like to have groups act on different sorts of objects: vector spaces, topological spaces, C*-algebras, spectra, and so on. At the heart of all flavours of "equivariant mathematics" are operations such as restrictions and inductions (and conjugations, inflations, etc). The latter have been successfully axiomatized more than half a century ago (at least for finite groups) by the algebraic notion of Mackey functors. But Mackey functors take values in abelian groups, and the operations are modeled by homomorphisms between them; however, what gives rise to most Mackey functors found in Nature is a collection of categories of equivariant objects together with restriction and induction functors between them. These functors enjoy properties such as being adjoint, which are invisible to the classical axioms. In this talk I will introduce the recent theory of Mackey 2-functors, algebraic gadgets similar to additive derivators whose purpose is precisely to capture this higher-categorical layer of information. In order to motivate our 2-categorical flavour of axiomatic representation theory, I will evoke exemples from throughout mathematics and I will outline our first notable applications. For instance, we can export results from the usual theory of linear representations to more geometric and topological settings. This is joint work with Paul Balmer.
 
+<div id="sobocinski-abs"></div>
+### Paweł Sobociński
+#### Rewriting Modulo Symmetric Monoidal Structure
+
+String diagrams are an elegant, convenient and powerful syntax for arrows of symmetric monoidal categories. In recent years, they have been used as compositional descriptions of computational systems from various fields, including quantum foundations, linear algebra, control theory, automata theory, concurrency theory, and even linguistics. All of these applications rely on diagrammatic reasoning, which is to string diagrams as equational reasoning is to ordinary terms.
+
+If we are to take string diagrams out of research papers and into more practical applications, we need to ask ourselves about how to implement diagrammatic reasoning. This is the focus of my talk.
+
+It turns out that there is a tight correspondence between symmetric monoidal categories where every object has a coherent special Frobenius algebra structure and categories of cospans of hypergraphs. The correspondence, therefore, takes us from a topological understanding of string diagrams to a combinatorial data-structure-like description. Moreover, diagrammatic reasoning translates via this correspondence exactly to DPO rewriting with interfaces.
+
+Given the above, a natural question is how much of this correspondence survives if we drop the assumption about Frobenius structure: i.e. can we use this correspondence to implement diagrammatic reasoning on vanilla symmetric monoidal categories. The answer is yes, but we need to restrict the kinds of cospans we consider: the underlying hypergraph has to be acyclic and satisfy an additional technical condition called monogamy. Moreover, we must restrict the DPO rewriting mechanism to a variant that we call convex DPO rewriting. The good news is that none of these modifications come with a significant algorithmic cost.
+
+The material in this talk is with Filippo Bonchi, Fabio Gadducci, Aleks Kissinger and Fabio Zanasi, and has been published in a series of papers:
+ "Rewriting modulo symmetric monoidal structure", Proceedings of LiCS 2016
+ "Confluence of Graph Rewriting with Interfaces", Proceedings of ESOP 2017
+ "Rewriting with Frobenius", Proceedings of LiCS 2018
+
 
 
 ## May 20, 2021
@@ -161,22 +178,7 @@ Mathematicians of different stripes like to have groups act on different sorts o
 
 ## Abstracts
 
-<div id="sobocinski-abs"></div>
-### Paweł Sobociński
-#### Rewriting Modulo Symmetric Monoidal Structure
 
-String diagrams are an elegant, convenient and powerful syntax for arrows of symmetric monoidal categories. In recent years, they have been used as compositional descriptions of computational systems from various fields, including quantum foundations, linear algebra, control theory, automata theory, concurrency theory, and even linguistics. All of these applications rely on diagrammatic reasoning, which is to string diagrams as equational reasoning is to ordinary terms.
-
-If we are to take string diagrams out of research papers and into more practical applications, we need to ask ourselves about how to implement diagrammatic reasoning. This is the focus of my talk.
-
-It turns out that there is a tight correspondence between symmetric monoidal categories where every object has a coherent special Frobenius algebra structure and categories of cospans of hypergraphs. The correspondence, therefore, takes us from a topological understanding of string diagrams to a combinatorial data-structure-like description. Moreover, diagrammatic reasoning translates via this correspondence exactly to DPO rewriting with interfaces.
-
-Given the above, a natural question is how much of this correspondence survives if we drop the assumption about Frobenius structure: i.e. can we use this correspondence to implement diagrammatic reasoning on vanilla symmetric monoidal categories. The answer is yes, but we need to restrict the kinds of cospans we consider: the underlying hypergraph has to be acyclic and satisfy an additional technical condition called monogamy. Moreover, we must restrict the DPO rewriting mechanism to a variant that we call convex DPO rewriting. The good news is that none of these modifications come with a significant algorithmic cost.
-
-The material in this talk is with Filippo Bonchi, Fabio Gadducci, Aleks Kissinger and Fabio Zanasi, and has been published in a series of papers:
- "Rewriting modulo symmetric monoidal structure", Proceedings of LiCS 2016
- "Confluence of Graph Rewriting with Interfaces", Proceedings of ESOP 2017
- "Rewriting with Frobenius", Proceedings of LiCS 2018
 
 
 
