@@ -54,6 +54,14 @@ ItaCa Fest is an online webinar aimed to gather the community of ItaCa. You can 
 </table>
 </center>
 
+<div id="ivo-abs"></div>
+### Ivo Dell'Ambrogio
+#### Mackey 2-functors
+
+Mathematicians of different stripes like to have groups act on different sorts of objects: vector spaces, topological spaces, C*-algebras, spectra, and so on. At the heart of all flavours of "equivariant mathematics" are operations such as restrictions and inductions (and conjugations, inflations, etc). The latter have been successfully axiomatized more than half a century ago (at least for finite groups) by the algebraic notion of Mackey functors. But Mackey functors take values in abelian groups, and the operations are modeled by homomorphisms between them; however, what gives rise to most Mackey functors found in Nature is a collection of categories of equivariant objects together with restriction and induction functors between them. These functors enjoy properties such as being adjoint, which are invisible to the classical axioms. In this talk I will introduce the recent theory of Mackey 2-functors, algebraic gadgets similar to additive derivators whose purpose is precisely to capture this higher-categorical layer of information. In order to motivate our 2-categorical flavour of axiomatic representation theory, I will evoke exemples from throughout mathematics and I will outline our first notable applications. For instance, we can export results from the usual theory of linear representations to more geometric and topological settings. This is joint work with Paul Balmer.
+
+
+
 ## May 20, 2021
 
 14:30 UTC+1 on <a href="">zoom</a>
