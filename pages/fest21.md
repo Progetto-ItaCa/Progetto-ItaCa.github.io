@@ -28,7 +28,7 @@ ItaCa Fest is an online webinar aimed to gather the community of ItaCa. You can 
       <td>14:30</td>
       <td><a href="https://math.univ-lille1.fr/~dellambr/" target="_blank"><strong>Dell'Ambrogio</strong></a></td>
       <td><a href="http://math.univ-lille1.fr/d7/" target="_blank">Université de Lille</a></td>
-      <td><b>TBA</b></td>
+      <td><b>Mackey 2-functors</b></td>
       <td><a href="#ivo-abs">▤</a> <a href="" target="_blank">▶</a></td>
     </tr>
     <tr>
