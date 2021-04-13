@@ -9,7 +9,7 @@ ItaCa Fest is an online webinar aimed to gather the community of ItaCa. You can 
 
 ## April 19, 2021
 
-14:30 UTC+1 on <a href="">zoom</a>
+14:30 UTC+2 on <a href="">zoom</a>
 
 <a name="fest4"></a>
 <center>
@@ -81,7 +81,7 @@ The material in this talk is with Filippo Bonchi, Fabio Gadducci, Aleks Kissinge
 
 ## May 20, 2021
 
-14:30 UTC+1 on <a href="">zoom</a>
+14:30 UTC+2 on <a href="">zoom</a>
 
 <a name="fest4"></a>
 <center>
@@ -129,7 +129,7 @@ The material in this talk is with Filippo Bonchi, Fabio Gadducci, Aleks Kissinge
 
 ## June 10, 2021
 
-14:30 UTC+1 on <a href="">zoom</a>
+14:30 UTC+2 on <a href="">zoom</a>
 
 <a name="fest4"></a>
 <center>
