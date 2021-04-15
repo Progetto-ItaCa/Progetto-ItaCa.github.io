@@ -10,8 +10,6 @@ The seminar will be live on [Zoom](https://zoom.us){:target="_blank"} at <a href
 
 ## April 19, 2021
 
-14:30 UTC+2 on <a href="">zoom</a>
-
 <a name="fest4"></a>
 <center>
 <table>
