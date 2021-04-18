@@ -10,6 +10,8 @@ The seminar will be live on [Zoom](https://zoom.us){:target="_blank"} at <a href
 
 ## April 19, 2021
 
+14:30 UTC+2 on <a href="https://zoom.us/j/94880770089?pwd=clgxK2VkVEE5Ymw5ME1QWktiWExUZz09">zoom</a>
+
 <a name="fest4"></a>
 <center>
 <table>
@@ -80,7 +82,7 @@ The material in this talk is with Filippo Bonchi, Fabio Gadducci, Aleks Kissinge
 
 ## May 20, 2021
 
-14:30 UTC+2 on <a href="">zoom</a>
+14:30 UTC+2 on <a href="https://zoom.us/j/94880770089?pwd=clgxK2VkVEE5Ymw5ME1QWktiWExUZz09">zoom</a>
 
 <a name="fest4"></a>
 <center>
@@ -128,7 +130,7 @@ The material in this talk is with Filippo Bonchi, Fabio Gadducci, Aleks Kissinge
 
 ## June 10, 2021
 
-14:30 UTC+2 on <a href="">zoom</a>
+14:30 UTC+2 on <a href="https://zoom.us/j/94880770089?pwd=clgxK2VkVEE5Ymw5ME1QWktiWExUZz09">zoom</a>
 
 <a name="fest4"></a>
 <center>
