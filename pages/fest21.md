@@ -30,7 +30,7 @@ The seminar will be live on [Zoom](https://zoom.us){:target="_blank"} at <a href
       <td><a href="https://math.univ-lille1.fr/~dellambr/" target="_blank"><strong>Dell'Ambrogio</strong></a></td>
       <td><a href="http://math.univ-lille1.fr/d7/" target="_blank">Université de Lille</a></td>
       <td><b>Mackey 2-functors</b></td>
-      <td><a href="#ivo-abs">▤</a> <a href="" target="_blank">▶</a></td>
+      <td><a href="#ivo-abs">▤</a> <a href="https://www.youtube.com/watch?v=SYzOuo4foKI" target="_blank">▶</a></td>
     </tr>
     <tr>
       <td>15:15</td>
@@ -41,7 +41,7 @@ The seminar will be live on [Zoom](https://zoom.us){:target="_blank"} at <a href
       <td><a href="https://www.ioc.ee/~pawel/" target="_blank"><strong>Sobociński</strong></a></td>
       <td><a href="https://www.taltech.ee" target="_blank">TalTech</a></td>
       <td><b>Rewriting Modulo Symmetric Monoidal Structure</b></td>
-      <td><a href="#sobocinski-abs">▤</a> <a href="" target="_blank">▶</a></td>
+      <td><a href="#sobocinski-abs">▤</a> <a href="https://www.youtube.com/watch?v=8efqMwMvGSQ" target="_blank">▶</a></td>
     </tr>
     <tr>
       <td>16:15</td>
