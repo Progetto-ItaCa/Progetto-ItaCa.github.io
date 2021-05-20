@@ -6,7 +6,12 @@ title: Itaca Fest 2021
 
 ItaCa Fest is an online webinar aimed to gather the community of ItaCa. You can find us on [researchseminars](https://researchseminars.org/seminar/itaca){:target="_blank"}.
 
-The seminar will be live on [Zoom](https://zoom.us){:target="_blank"} at <a href="https://zoom.us/j/94880770089?pwd=clgxK2VkVEE5Ymw5ME1QWktiWExUZz09">this link</a>.
+The seminars will be live on [Zoom](https://zoom.us){:target="_blank"} at <a href="https://zoom.us/j/94880770089?pwd=clgxK2VkVEE5Ymw5ME1QWktiWExUZz09">this link</a>.
+
+For those who who can't open zoom from their browser:
+
+| ID: | 948 8077 0089 |
+| Passcode: | 102674 |
 
 ## Upcoming Event
 

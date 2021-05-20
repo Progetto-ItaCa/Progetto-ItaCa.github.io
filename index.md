@@ -5,7 +5,13 @@ title: ItaCa
 <img src="/assets/images/banner.jpg" style="width: 100%;" />
 
 
-# <a href="https://zoom.us/j/94880770089?pwd=clgxK2VkVEE5Ymw5ME1QWktiWExUZz09">Zoom link for ItaCa Fest 2021</a>
+## <a href="https://zoom.us/j/94880770089?pwd=clgxK2VkVEE5Ymw5ME1QWktiWExUZz09">Zoom link for ItaCa Fest 2021</a>
+
+For those who who can't open zoom from their browser:
+
+| ID: | 948 8077 0089 |
+| Passcode: | 102674 |
+
 ## What is ItaCa?
 
 Our name stands for **Ita**lian **Ca**tegory theorists, but it also reminds the isle where Odysseus strived so hard to come back.
