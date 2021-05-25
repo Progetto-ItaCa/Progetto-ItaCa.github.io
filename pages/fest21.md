@@ -15,71 +15,7 @@ For those who who can't open zoom from their browser:
 
 ## Upcoming Event
 
-## May 20, 2021
-
-14:30 UTC+2 on <a href="https://zoom.us/j/94880770089?pwd=clgxK2VkVEE5Ymw5ME1QWktiWExUZz09">zoom</a>
-
-<a name="fest4"></a>
-<center>
-<table>
-  <thead>
-    <tr>
-      <th>Time</th>
-      <th>Speaker</th>
-      <th>Affiliation</th>
-      <th>Talk</th>
-      <th>Material</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="background-color:#fbe49d	">
-      <td>14:30</td>
-      <td><a href="http://www.math.yorku.ca/~tholen/" target="_blank"><strong>Tholen</strong></a></td>
-      <td><a href="https://www.yorku.ca" target="_blank">York University</a></td>
-      <td><b>Revisiting Burroni's T-categories</b></td>
-      <td><a href="#tholen-abs">▤</a> <a href="" target="_blank">▶</a></td>
-    </tr>
-    <tr>
-      <td>15:15</td>
-      <td colspan="4">Question time </td>
-    </tr>
-    <tr style="background-color:#fbe49d">
-      <td>15:30</td>
-      <td><a href="https://ioc.ee/~amar/" target="_blank"><strong>Hadzihasanovic</strong></a></td>
-      <td><a href="https://www.taltech.ee" target="_blank">TalTech</a></td>
-      <td><b>The smash product of monoidal theories</b></td>
-      <td><a href="#amar-abs">▤</a> <a href="" target="_blank">▶</a></td>
-    </tr>
-    <tr>
-      <td>16:15</td>
-      <td colspan="4">Question time </td>
-    </tr>
-    <tr>
-      <td>16:30</td>
-      <td colspan="4">Free chat </td>
-    </tr>
-  </tbody>
-</table>
-</center>
-
-<div id="tholen-abs"></div>
-### Walter Tholen
-#### Revisiting Burroni's T-categories and the Street-Walters comprehensive factorization system
-
-Following the appearance of Lambek's multicategories and Barr's presentation of topological spaces as relational T-algebras, Albert Burroni introduced T-categories and T-functors in 1971. They provide an overarching environment for the general study of algebras and spaces, which encompasses elements of monad theory, internal category theory, and categorical topology.<br>
-&nbsp; In this talk we have a fresh look at Burroni's paper and point to the Street-Walters comprehensive factorization system for functors and the (antiperfect, perfect) factorization system for continuous maps of Tychonoff spaces to demonstrate that, despite its generality, Burroni's setting allows for the establishment of non-trivial results and the discovery of unexpected connections between seemingly unrelated theorems.
-(Joint work with Leila Yeganeh)
-
-<div id="amar-abs"></div>
-### Amar Hadzihasanovic
-#### The smash product of monoidal theories
-
-The smash product of pointed spaces is a classical construction of topology. The tensor product of props, which extends both the Boardman-Vogt product of symmetric operads and the tensor product of Lawvere theories, seems firmly like a piece of universal algebra.<br>
-&nbsp;In this talk, we will see that the two are facets of the same construction: a “smash product of pointed directed spaces”. Here, “directed spaces” are modelled by combinatorial structures called diagrammatic sets, developed as a homotopically sound foundation for diagrammatic rewriting in higher dimensions, while the cartesian product of spaces is replaced by a form of Gray product.<br>
-&nbsp;Most interestingly, the smash product applies to presentations of higher-dimensional theories and systematically produces oriented equations and higher-dimensional coherence data (oriented syzygies). This introduces a synthetic, compositional method in rewriting on higher structures.<br>
-&nbsp;This talk is based on my preprint [arXiv:2101.10361](https://arxiv.org/abs/2101.10361) with the same title.
-
-## June 10, 2021
+## June 15, 2021
 
 14:30 UTC+2 on <a href="https://zoom.us/j/94880770089?pwd=clgxK2VkVEE5Ymw5ME1QWktiWExUZz09">zoom</a>
 
@@ -191,6 +127,71 @@ String diagrams are an elegant, convenient and powerful syntax for arrows of sym
 - "Rewriting modulo symmetric monoidal structure", Proceedings of LiCS 2016
 - "Confluence of Graph Rewriting with Interfaces", Proceedings of ESOP 2017
 - "Rewriting with Frobenius", Proceedings of LiCS 2018
+
+## May 20, 2021
+
+14:30 UTC+2 on <a href="https://zoom.us/j/94880770089?pwd=clgxK2VkVEE5Ymw5ME1QWktiWExUZz09">zoom</a>
+
+<a name="fest4"></a>
+<center>
+<table>
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Speaker</th>
+      <th>Affiliation</th>
+      <th>Talk</th>
+      <th>Material</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color:#fbe49d	">
+      <td>14:30</td>
+      <td><a href="http://www.math.yorku.ca/~tholen/" target="_blank"><strong>Tholen</strong></a></td>
+      <td><a href="https://www.yorku.ca" target="_blank">York University</a></td>
+      <td><b>Revisiting Burroni's T-categories</b></td>
+      <td><a href="#tholen-abs">▤</a> <a href="https://youtu.be/dIoHjt4D_KQ" target="_blank">▶</a></td>
+    </tr>
+    <tr>
+      <td>15:15</td>
+      <td colspan="4">Question time </td>
+    </tr>
+    <tr style="background-color:#fbe49d">
+      <td>15:30</td>
+      <td><a href="https://ioc.ee/~amar/" target="_blank"><strong>Hadzihasanovic</strong></a></td>
+      <td><a href="https://www.taltech.ee" target="_blank">TalTech</a></td>
+      <td><b>The smash product of monoidal theories</b></td>
+      <td><a href="#amar-abs">▤</a> <a href="https://youtu.be/wQ-LDvYagU8" target="_blank">▶</a></td>
+    </tr>
+    <tr>
+      <td>16:15</td>
+      <td colspan="4">Question time </td>
+    </tr>
+    <tr>
+      <td>16:30</td>
+      <td colspan="4">Free chat </td>
+    </tr>
+  </tbody>
+</table>
+</center>
+
+<div id="tholen-abs"></div>
+### Walter Tholen
+#### Revisiting Burroni's T-categories and the Street-Walters comprehensive factorization system
+
+Following the appearance of Lambek's multicategories and Barr's presentation of topological spaces as relational T-algebras, Albert Burroni introduced T-categories and T-functors in 1971. They provide an overarching environment for the general study of algebras and spaces, which encompasses elements of monad theory, internal category theory, and categorical topology.<br>
+&nbsp; In this talk we have a fresh look at Burroni's paper and point to the Street-Walters comprehensive factorization system for functors and the (antiperfect, perfect) factorization system for continuous maps of Tychonoff spaces to demonstrate that, despite its generality, Burroni's setting allows for the establishment of non-trivial results and the discovery of unexpected connections between seemingly unrelated theorems.
+(Joint work with Leila Yeganeh)
+
+<div id="amar-abs"></div>
+### Amar Hadzihasanovic
+#### The smash product of monoidal theories
+
+The smash product of pointed spaces is a classical construction of topology. The tensor product of props, which extends both the Boardman-Vogt product of symmetric operads and the tensor product of Lawvere theories, seems firmly like a piece of universal algebra.<br>
+&nbsp;In this talk, we will see that the two are facets of the same construction: a “smash product of pointed directed spaces”. Here, “directed spaces” are modelled by combinatorial structures called diagrammatic sets, developed as a homotopically sound foundation for diagrammatic rewriting in higher dimensions, while the cartesian product of spaces is replaced by a form of Gray product.<br>
+&nbsp;Most interestingly, the smash product applies to presentations of higher-dimensional theories and systematically produces oriented equations and higher-dimensional coherence data (oriented syzygies). This introduces a synthetic, compositional method in rewriting on higher structures.<br>
+&nbsp;This talk is based on my preprint [arXiv:2101.10361](https://arxiv.org/abs/2101.10361) with the same title.
+
 
 ## Programme Committee
 - <a href="http://math.unipa.it/metere" target="_blank">Giuseppe (Beppe) Metere</a>
