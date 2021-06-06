@@ -14,4 +14,4 @@ Our background is quite diverse; we aim to make this course as interdisciplinary
 
 Our entire community participated, to varying degrees, in the organization of this course; having to choose a collective name for its teachers, we might as well call ourselves "Οὖτις", the name with which Odysseus deceived Polyphemus to save himself.
 
-We leave it to the students' imagination which monster, in this analogy, is threatening our future students, who we are teaching to save their lives.
+We leave it to the readers' imagination which monster, in this analogy, is threatening our future students, who we are teaching to save their lives.
