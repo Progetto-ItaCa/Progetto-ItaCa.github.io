@@ -12,10 +12,6 @@ Con poche eccezioni, agli atenei italiani manca un corso il cui argomento princi
 
 La nostra formazione è abbastanza varia; ci siamo riuniti col desiderio di dare a questo corso la forma più interdisciplinare possibile. Il corso verrà insegnato in italiano, per avvicinare il maggior numero di studenti possibile, ma anche per _stabilire un precedente_, e costruire una nomenclatura per _fare teoria delle categorie in italiano_.
 
-L'intera comunità attiva di ItaCa ha partecipato, a diverso titolo, all'organizzazione di questo corso; dovendo scegliere un nome collettivo per i suoi docenti, ci viene naturale scegliere "Οὖτις", il nome con cui Odisseo ingannò Polifemo per salvarsi dalla sua grotta.
-
-Lasciamo alla immaginazione degli studenti quale sia, in questa analogia, il mostro che minaccia i nostri futuri studenti, cui stiamo insegnando a salvarsi la vita.
-
 ## Programma
 
 Questo un programma di massima del corso:
