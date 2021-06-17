@@ -37,6 +37,7 @@ Stiamo lavorando per voi.
 - Greta Coraglia
 - Jacopo Emmenegger
 - Enrico Ghiorzi
+- Francesca Guffanti
 - Fosco Loregian
 - Beppe Metere
 - Daniele Palombi
