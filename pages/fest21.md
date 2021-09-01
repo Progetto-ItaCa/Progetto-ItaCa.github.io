@@ -62,6 +62,96 @@ For those who who can't open zoom from their browser:
 </table>
 </center>
 
+## October 21, 2021
+
+<a name="fest4"></a>
+<center>
+<table>
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Speaker</th>
+      <th>Affiliation</th>
+      <th>Talk</th>
+      <th>Material</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color:#fbe49d	">
+      <td>14:30</td>
+      <td><a href="" target="_blank"><strong>Trimble</strong></a></td>
+      <td><a href="" target="_blank">Western Connecticut State University</a></td>
+      <td><b>TBA</b></td>
+      <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
+    </tr>
+    <tr>
+      <td>15:15</td>
+      <td colspan="4">Question time </td>
+    </tr>
+    <tr style="background-color:#fbe49d">
+      <td>15:30</td>
+      <td><a href="" target="_blank"><strong>Zanfa</strong></a></td>
+      <td><a href="" target="_blank">Università degli studi dell'Insubria</a></td>
+      <td><b>TBA</b></td>
+      <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
+    </tr>
+    <tr>
+      <td>16:15</td>
+      <td colspan="4">Question time </td>
+    </tr>
+    <tr>
+      <td>16:30</td>
+      <td colspan="4">Free chat </td>
+    </tr>
+  </tbody>
+</table>
+</center>
+
+## November 18, 2021
+
+<a name="fest4"></a>
+<center>
+<table>
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Speaker</th>
+      <th>Affiliation</th>
+      <th>Talk</th>
+      <th>Material</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color:#fbe49d	">
+      <td>14:30</td>
+      <td><a href="http://www1.mat.uniroma1.it/~fiorenza/" target="_blank"><strong>Fiorenza</strong></a></td>
+      <td><a href="https://www.uniroma1.it/en/pagina-strutturale/home" target="_blank">Università degli Studi di Roma "La Sapienza"</a></td>
+      <td><b>TBA</b></td>
+      <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
+    </tr>
+    <tr>
+      <td>15:15</td>
+      <td colspan="4">Question time </td>
+    </tr>
+    <tr style="background-color:#fbe49d">
+      <td>15:30</td>
+      <td><a href="https://lipn.univ-paris13.fr/~olimpieri/" target="_blank"><strong>Olimpieri</strong></a></td>
+      <td><a href="https://lipn.univ-paris13.fr/" target="_blank">LIPN, Université Sorbonne Paris Nord</a></td>
+      <td><b>TBA</b></td>
+      <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
+    </tr>
+    <tr>
+      <td>16:15</td>
+      <td colspan="4">Question time </td>
+    </tr>
+    <tr>
+      <td>16:30</td>
+      <td colspan="4">Free chat </td>
+    </tr>
+  </tbody>
+</table>
+</center>
+
 
 ## Past Events
 ## June 15, 2021
