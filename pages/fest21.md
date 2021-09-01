@@ -16,6 +16,54 @@ For those who who can't open zoom from their browser:
 | ID: | 948 8077 0089 |
 | Passcode: | 102674 | -->
 
+## Upcoming Events
+## September 28, 2021
+
+<a name="fest4"></a>
+<center>
+<table>
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Speaker</th>
+      <th>Affiliation</th>
+      <th>Talk</th>
+      <th>Material</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color:#fbe49d	">
+      <td>14:30</td>
+      <td><a href="https://sites.google.com/view/mauroporta" target="_blank"><strong>Porta</strong></a></td>
+      <td><a href="https://irma.math.unistra.fr/?lang=en" target="_blank">IRMA, Université de Strasbourg</a></td>
+      <td><b>TBA</b></td>
+      <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
+    </tr>
+    <tr>
+      <td>15:15</td>
+      <td colspan="4">Question time </td>
+    </tr>
+    <tr style="background-color:#fbe49d">
+      <td>15:30</td>
+      <td><a href="https://perso.uclouvain.be/tim.vanderlinden/" target="_blank"><strong>Van der Linden</strong></a></td>
+      <td><a href="https://uclouvain.be/en/index.html" target="_blank">Université catholique de Louvain</a></td>
+      <td><b>TBA</b></td>
+      <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
+    </tr>
+    <tr>
+      <td>16:15</td>
+      <td colspan="4">Question time </td>
+    </tr>
+    <tr>
+      <td>16:30</td>
+      <td colspan="4">Free chat </td>
+    </tr>
+  </tbody>
+</table>
+</center>
+
+
+## Past Events
 ## June 15, 2021
 
 <a name="fest4"></a>
