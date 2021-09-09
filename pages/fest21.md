@@ -152,6 +152,51 @@ For those who who can't open zoom from their browser:
 </table>
 </center>
 
+## December 2021 - ItaCa Fest XMas edition
+
+<a name="fest4"></a>
+<center>
+<table>
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Speaker</th>
+      <th>Affiliation</th>
+      <th>Talk</th>
+      <th>Material</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color:#fbe49d	">
+      <td>14:30</td>
+      <td><a href="" target="_blank"><strong>Rogers</strong></a></td>
+      <td><a href="" target="_blank">Università degli Studi dell'Insubria</a></td>
+      <td><b>TBA</b></td>
+      <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
+    </tr>
+    <tr>
+      <td>15:15</td>
+      <td colspan="4">Question time </td>
+    </tr>
+    <tr style="background-color:#fbe49d">
+      <td>15:30</td>
+      <td><a href="" target="_blank"><strong>Gran</strong></a></td>
+      <td><a href="" target="_blank">Université catholique de Louvain</a></td>
+      <td><b>TBA</b></td>
+      <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
+    </tr>
+    <tr>
+      <td>16:15</td>
+      <td colspan="4">Question time </td>
+    </tr>
+    <tr>
+      <td>16:30</td>
+      <td colspan="4">Free chat </td>
+    </tr>
+  </tbody>
+</table>
+</center>
+
 
 ## Past Events
 ## June 15, 2021
