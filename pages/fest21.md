@@ -47,8 +47,8 @@ For those who who can't open zoom from their browser:
       <td>15:30</td>
       <td><a href="https://perso.uclouvain.be/tim.vanderlinden/" target="_blank"><strong>Van der Linden</strong></a></td>
       <td><a href="https://uclouvain.be/en/index.html" target="_blank">Université catholique de Louvain</a></td>
-      <td><b>TBA</b></td>
-      <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
+      <td><b>Algebras with representable representations</b></td>
+      <td><a href="#tim-abs">▤</a> <a href="" target="_blank">▶</a></td>
     </tr>
     <tr>
       <td>16:15</td>
@@ -61,6 +61,16 @@ For those who who can't open zoom from their browser:
   </tbody>
 </table>
 </center>
+
+<div id="tim-abs"></div>
+### Tim Van Der Linden
+#### Algebras with representable representations
+
+(Joint work with Xabier García-Martínez, Matsvei Tsishyn and Corentin Vienne)
+
+Just like group actions are represented by group automorphisms, Lie algebra actions are represented by derivations: up to isomorphism, a split extension of a Lie algebra B by a Lie algebra X corresponds to a Lie algebra morphism B -> Der(X) from B to the Lie algebra Der(X) of derivations on X. The aim of this talk is to elaborate on the question, whether the concept of a derivation can be extended to other types of non-associative algebras over a field K, in such a way that these generalised derivations characterise the K-algebra actions.
+We prove that the answer is no, as soon as the field K is infinite. In fact, we prove a stronger result: already the representability of all abelian actions – which are usually called representations or Beck modules – suffices for this to be true. Thus we characterise the variety of Lie algebras over an infinite field of characteristic different from 2 as the only variety of non-associative algebras which is a non-abelian category with representable representations. This emphasises the unique role played by the Lie algebra of linear endomorphisms gl(V) as a representing object for the representations on a vector space V.
+
 
 ## October 21, 2021
 
