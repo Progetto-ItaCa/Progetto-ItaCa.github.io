@@ -36,8 +36,8 @@ For those who who can't open zoom from their browser:
       <td>14:30</td>
       <td><a href="https://sites.google.com/view/mauroporta" target="_blank"><strong>Porta</strong></a></td>
       <td><a href="https://irma.math.unistra.fr/?lang=en" target="_blank">IRMA, Université de Strasbourg</a></td>
-      <td><b>TBA</b></td>
-      <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
+      <td><b>Pro and Ind-categories in Algebra and Geometry</b></td>
+      <td><a href="#porta-abs">▤</a> <a href="" target="_blank">▶</a></td>
     </tr>
     <tr>
       <td>15:15</td>
@@ -62,14 +62,20 @@ For those who who can't open zoom from their browser:
 </table>
 </center>
 
+<div id="porta-abs"></div>
+### Mauro Porta
+#### Pro and Ind-categories in Algebra and Geometry
+In this talk we are going to discuss some natural instances of pro and ind categories in algebraic and geometric contexts, highlighting the importance of working with objects in Ind(Cat<sub>&infin;</sub>) and Pro(Cat<sub>&infin;</sub>)  instead of their Cat<sub>&infin;</sub> realizations.
+Towards the end we will raise some questions, with the intent of determining what is the "correct" object to consider in these contexts, so as to optimize the generalization/applicability trade-off.
+
 <div id="tim-abs"></div>
 ### Tim Van Der Linden
 #### Algebras with representable representations
 
 (Joint work with Xabier García-Martínez, Matsvei Tsishyn and Corentin Vienne)
 
-Just like group actions are represented by group automorphisms, Lie algebra actions are represented by derivations: up to isomorphism, a split extension of a Lie algebra B by a Lie algebra X corresponds to a Lie algebra morphism B -> Der(X) from B to the Lie algebra Der(X) of derivations on X. The aim of this talk is to elaborate on the question, whether the concept of a derivation can be extended to other types of non-associative algebras over a field K, in such a way that these generalised derivations characterise the K-algebra actions.
-We prove that the answer is no, as soon as the field K is infinite. In fact, we prove a stronger result: already the representability of all abelian actions – which are usually called representations or Beck modules – suffices for this to be true. Thus we characterise the variety of Lie algebras over an infinite field of characteristic different from 2 as the only variety of non-associative algebras which is a non-abelian category with representable representations. This emphasises the unique role played by the Lie algebra of linear endomorphisms gl(V) as a representing object for the representations on a vector space V.
+Just like group actions are represented by group automorphisms, Lie algebra actions are represented by derivations: up to isomorphism, a split extension of a Lie algebra B by a Lie algebra _X_ corresponds to a Lie algebra morphism _B_ &rarr; **Der**(X) from _B_ to the Lie algebra **Der**(_X_) of derivations on _X_. The aim of this talk is to elaborate on the question, whether the concept of a derivation can be extended to other types of non-associative algebras over a field **K**, in such a way that these generalised derivations characterise the **K**-algebra actions.
+We prove that the answer is no, as soon as the field **K** is infinite. In fact, we prove a stronger result: already the representability of all abelian actions – which are usually called representations or Beck modules – suffices for this to be true. Thus we characterise the variety of Lie algebras over an infinite field of characteristic different from 2 as the only variety of non-associative algebras which is a non-abelian category with representable representations. This emphasises the unique role played by the Lie algebra of linear endomorphisms **gl**(_V_) as a representing object for the representations on a vector space _V_.
 
 
 ## October 21, 2021
