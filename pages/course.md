@@ -32,9 +32,28 @@ Questo un programma di massima del corso:
 - Strutture chiuse e monoidali chiuse, funtori monoidali, simmetria.
 - un altra volta Yoneda: cocompletamento libero, fibrazioni, teorema di densità.
 
-## Registro delle Lezioni
 
-Stiamo lavorando per voi.
+## Diario delle lezioni
+
+testo
+
+1. 7/10/2021  teaser; presentazione dei docenti, alcune idee sul contenuto del corso.
+2. 14/10/2021 _Paolo Perrone_. Concetti fondamentali: Definizione di categoria.
+<!--- 2. _Paolo Perrone_. Concetti fondamentali: Funtori -->
+<!--- 3. _Paolo Perrone_. Concetti fondamentali: Trasformazioni naturali -->
+<!--- 4. _Enrico Ghiorzi_ Mono ed epi; sezioni e retrazioni -->
+<!--- 5. _Enrico Ghiorzi_ Ulteriori propretà di mono ed epi (spezzanti). Esempi ed esercizi -->
+<!--- 6. _Enrico Ghiorzi_ Equivalenze; funtori pieni e fedeli; caratterizzazione delle equivalenze; categorie scheletriche -->
+<!--- 7. _Jacopo Emmenegger_ Prodotti finiti e oggetto terminale, esempi; coprodotti finiti e oggetto iniziale, esempi. -->
+<!--- 8. _Jacopo Emmenegger_ Limiti come coni universali e loro unicità; limiti particolari (prodotti, equalizzatori, pullback), esempi; limiti generati da limiti particolari; colimiti come coni universali, colimiti particolari (coprodotti, coequalizzatori, pushout), esempi. -->
+<!--- 9. _Jacopo Emmenegger_ Funtori che preservano e riflettono (co)limiti, esempi, condizioni sufficienti. -->
+<!--- 10. _Fosco Loregian_ intuizione sul lemma di Yoneda; funtori rappresentabili ed esempi -->
+<!--- 11. _Fosco Loregian_ Altri esempi di funtori rappresentabili; dimostrazione del lemma di Yoneda -->
+<!--- 12. _Fosco Loregian_ Esempi ed applicazioni del lemma di Yoneda: categorie di poset, poset come categorie, azioni di gruppi, etc. -->
+<!--- 13. _Jacopo Emmenegger_ Aggiunzioni tramite biezioni naturali, strutture libere come funtori aggiunti, esempi; (co)unità e sua proprietà universale, identità triangolari, equivalenza delle definizioni; aggiunzioni ed equivalenze; esempi. -->
+<!--- 14. _Jacopo Emmenegger_ Composizione e unicità di funtori aggiunti; applicazioni: anelli di polinomi, (co)limiti; aggiunti pieni/fedeli e (co)unità epi/mono. -->
+<!--- 15. _Jacopo Emmenegger_ Esponenziali e categorie cartesiane chiuse, esponenziale come aggiunto destro, esempi e non esempi; funtori aggiunti e funtori che preservano (co)limiti, applicazioni, esempi, sottocategorie riflessive. -->
+<!--- 16. _Jacopo Emmenegger_ Teorema del funtore aggiunto *DA FARE*. -->
 
 ---
 
