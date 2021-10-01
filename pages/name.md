@@ -31,6 +31,7 @@ The community of ItaCa is growing: these are the people that helped so far. A la
 
 - Gabriele Lobbia
 - <a href="http://dpl0a.github.io" target="_blank">Daniele Palombi</a>
+- <a href="https://matteocapucci.wordpress.com">Matteo Capucci</a>
 
 ## The school of ItaCa:
 <div id="school"></div>
@@ -53,6 +54,6 @@ The community of ItaCa is growing: these are the people that helped so far. A la
 - Davide di Micco
 
 
-Feel free to join us or reach out with an email at [webmasters.itaca@gmail.com](mailto:webmasters.itaca@gmail.com). 
+Feel free to join us or reach out with an email at [webmasters.itaca@gmail.com](mailto:webmasters.itaca@gmail.com).
 
 In particular, feel free to join our [Google group](mailto:progettoitaca+subscribe@googlegroups.com) sending a subscription email (it can have arbitrary subject and body), and our [Facebook group](https://www.facebook.com/groups/507590330041282/).
