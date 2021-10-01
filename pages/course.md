@@ -35,8 +35,6 @@ Questo un programma di massima del corso:
 
 ## Diario delle lezioni
 
-testo
-
 1. 7/10/2021  teaser; presentazione dei docenti, alcune idee sul contenuto del corso.
 2. 14/10/2021 _Paolo Perrone_. Concetti fondamentali: Definizione di categoria.
 <!--- 2. _Paolo Perrone_. Concetti fondamentali: Funtori -->
