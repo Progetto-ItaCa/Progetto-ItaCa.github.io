@@ -30,7 +30,7 @@ Questo un programma di massima del corso:
 - Monadi; proprietà delle monadi; algebre e teorema di Beck.
 - Categorie monoidali; definizioni, esempi, usi.
 - Strutture chiuse e monoidali chiuse, funtori monoidali, simmetria.
-- un altra volta Yoneda: cocompletamento libero, fibrazioni, teorema di densità.
+- un'altra volta Yoneda: cocompletamento libero, fibrazioni, teorema di densità.
 
 
 ## Diario delle lezioni
