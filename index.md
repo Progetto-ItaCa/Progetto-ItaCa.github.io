@@ -5,7 +5,9 @@ title: ItaCa
 <img src="/assets/images/banner.jpg" style="width: 100%;" />
 
 
-<!-- ## <a href="https://zoom.us/j/94880770089?pwd=clgxK2VkVEE5Ymw5ME1QWktiWExUZz09">Zoom link for ItaCa Fest 2021</a> -->
+## <a href="https://zoom.us/j/94880770089?pwd=clgxK2VkVEE5Ymw5ME1QWktiWExUZz09">Zoom link for ItaCa Fest 2021</a>
+
+ItaCa Fest will be back on *October 21, 2021*.
 
 <!-- For those who who can't open zoom from their browser:
 
