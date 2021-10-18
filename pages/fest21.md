@@ -8,74 +8,14 @@ ItaCa Fest is an online webinar aimed to gather the community of ItaCa. You can 
 
 ItaCa Fest will come back in September! Stay tuned. Here you can find our past events and speakers.
 
-The seminars will be live on [Zoom](https://zoom.us){:target="_blank"} at <a href="https://zoom.us/j/94880770089?pwd=clgxK2VkVEE5Ymw5ME1QWktiWExUZz09">this link</a>. The time is specified in the Italian time zone!
+The seminars will be live on [Zoom](https://zoom.us){:target="_blank"} at <a href="https://zoom.us/j/94880770089?pwd=clgxK2VkVEE5Ymw5ME1QWktiWExUZz09">this link</a>. The time is specified in the Italian time zone (UTC+2)!
 
 For those who who can't open zoom from their browser:
 
-| ID: | 948 8077 0089 |
-| Passcode: | 102674 | 
+| ID: | 94880770089 |
+| Passcode: | 102674 |
 
 ## Upcoming Events
-## September 28, 2021
-
-<a name="fest4"></a>
-<center>
-<table>
-  <thead>
-    <tr>
-      <th>Time</th>
-      <th>Speaker</th>
-      <th>Affiliation</th>
-      <th>Talk</th>
-      <th>Material</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="background-color:#fbe49d	">
-      <td>14:30</td>
-      <td><a href="https://sites.google.com/view/mauroporta" target="_blank"><strong>Porta</strong></a></td>
-      <td><a href="https://irma.math.unistra.fr/?lang=en" target="_blank">IRMA, Université de Strasbourg</a></td>
-      <td><b>Pro and Ind-categories in Algebra and Geometry</b></td>
-      <td><a href="#porta-abs">▤</a> <a href="" target="_blank">▶</a></td>
-    </tr>
-    <tr>
-      <td>15:15</td>
-      <td colspan="4">Question time </td>
-    </tr>
-    <tr style="background-color:#fbe49d">
-      <td>15:30</td>
-      <td><a href="https://perso.uclouvain.be/tim.vanderlinden/" target="_blank"><strong>Van der Linden</strong></a></td>
-      <td><a href="https://uclouvain.be/en/index.html" target="_blank">Université catholique de Louvain</a></td>
-      <td><b>Algebras with representable representations</b></td>
-      <td><a href="#tim-abs">▤</a> <a href="" target="_blank">▶</a></td>
-    </tr>
-    <tr>
-      <td>16:15</td>
-      <td colspan="4">Question time </td>
-    </tr>
-    <tr>
-      <td>16:30</td>
-      <td colspan="4">Free chat </td>
-    </tr>
-  </tbody>
-</table>
-</center>
-
-<div id="porta-abs"></div>
-### Mauro Porta
-#### Pro and Ind-categories in Algebra and Geometry
-In this talk we are going to discuss some natural instances of pro and ind categories in algebraic and geometric contexts, highlighting the importance of working with objects in Ind(Cat<sub>&infin;</sub>) and Pro(Cat<sub>&infin;</sub>)  instead of their Cat<sub>&infin;</sub> realizations.
-Towards the end we will raise some questions, with the intent of determining what is the "correct" object to consider in these contexts, so as to optimize the generalization/applicability trade-off.
-
-<div id="tim-abs"></div>
-### Tim Van Der Linden
-#### Algebras with representable representations
-
-(Joint work with Xabier García-Martínez, Matsvei Tsishyn and Corentin Vienne)
-
-Just like group actions are represented by group automorphisms, Lie algebra actions are represented by derivations: up to isomorphism, a split extension of a Lie algebra B by a Lie algebra _X_ corresponds to a Lie algebra morphism _B_ &rarr; **Der**(X) from _B_ to the Lie algebra **Der**(_X_) of derivations on _X_. The aim of this talk is to elaborate on the question, whether the concept of a derivation can be extended to other types of non-associative algebras over a field **K**, in such a way that these generalised derivations characterise the **K**-algebra actions.
-We prove that the answer is no, as soon as the field **K** is infinite. In fact, we prove a stronger result: already the representability of all abelian actions – which are usually called representations or Beck modules – suffices for this to be true. Thus we characterise the variety of Lie algebras over an infinite field of characteristic different from 2 as the only variety of non-associative algebras which is a non-abelian category with representable representations. This emphasises the unique role played by the Lie algebra of linear endomorphisms **gl**(_V_) as a representing object for the representations on a vector space _V_.
-
 
 ## October 21, 2021
 
@@ -96,8 +36,8 @@ We prove that the answer is no, as soon as the field **K** is infinite. In fact,
       <td>14:30</td>
       <td><a href="" target="_blank"><strong>Trimble</strong></a></td>
       <td><a href="" target="_blank">Western Connecticut State University</a></td>
-      <td><b>TBA</b></td>
-      <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
+      <td><b>Grothendieck groups of 2-rigs as lambda rings</b></td>
+      <td><a href="#todd-abs">▤</a> <a href="" target="_blank">▶</a></td>
     </tr>
     <tr>
       <td>15:15</td>
@@ -121,6 +61,13 @@ We prove that the answer is no, as soon as the field **K** is infinite. In fact,
   </tbody>
 </table>
 </center>
+
+<div id="todd-abs"></div>
+### Todd Trimble
+#### Grothendieck groups of 2-rigs as lambda rings
+
+This talk will report on recent joint work with John Baez and Joe Moeller. We introduce a notion of 2-rig as a way of categorifying the usual notion of rig (ring without negatives); examples include categories of group representations, categories of vector bundles over spaces, categories of coherent sheaves over projective varieties, and many others. We describe Schur functors on general 2-rigs, and indicate how the free 2-rig on one generator encodes Schur functors on 2-rigs. Finally, we indicate how the Grothendieck group of a 2-rig yields a lambda ring, where the theory of lambda-rings is a "plethory" obtained by decategorifying a conceptually simple 2-plethory that is associated with the free 2-rig.
+
 
 ## November 18, 2021
 
@@ -214,6 +161,67 @@ We prove that the answer is no, as soon as the field **K** is infinite. In fact,
 
 
 ## Past Events
+
+## September 28, 2021
+
+<a name="fest4"></a>
+<center>
+<table>
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Speaker</th>
+      <th>Affiliation</th>
+      <th>Talk</th>
+      <th>Material</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color:#fbe49d	">
+      <td>14:30</td>
+      <td><a href="https://sites.google.com/view/mauroporta" target="_blank"><strong>Porta</strong></a></td>
+      <td><a href="https://irma.math.unistra.fr/?lang=en" target="_blank">IRMA, Université de Strasbourg</a></td>
+      <td><b>Pro and Ind-categories in Algebra and Geometry</b></td>
+      <td><a href="#porta-abs">▤</a> <a href="" target="_blank">▶</a></td>
+    </tr>
+    <tr>
+      <td>15:15</td>
+      <td colspan="4">Question time </td>
+    </tr>
+    <tr style="background-color:#fbe49d">
+      <td>15:30</td>
+      <td><a href="https://perso.uclouvain.be/tim.vanderlinden/" target="_blank"><strong>Van der Linden</strong></a></td>
+      <td><a href="https://uclouvain.be/en/index.html" target="_blank">Université catholique de Louvain</a></td>
+      <td><b>Algebras with representable representations</b></td>
+      <td><a href="#tim-abs">▤</a> <a href="" target="_blank">▶</a></td>
+    </tr>
+    <tr>
+      <td>16:15</td>
+      <td colspan="4">Question time </td>
+    </tr>
+    <tr>
+      <td>16:30</td>
+      <td colspan="4">Free chat </td>
+    </tr>
+  </tbody>
+</table>
+</center>
+
+<div id="porta-abs"></div>
+### Mauro Porta
+#### Pro and Ind-categories in Algebra and Geometry
+In this talk we are going to discuss some natural instances of pro and ind categories in algebraic and geometric contexts, highlighting the importance of working with objects in Ind(Cat<sub>&infin;</sub>) and Pro(Cat<sub>&infin;</sub>)  instead of their Cat<sub>&infin;</sub> realizations.
+Towards the end we will raise some questions, with the intent of determining what is the "correct" object to consider in these contexts, so as to optimize the generalization/applicability trade-off.
+
+<div id="tim-abs"></div>
+### Tim Van Der Linden
+#### Algebras with representable representations
+
+(Joint work with Xabier García-Martínez, Matsvei Tsishyn and Corentin Vienne)
+
+Just like group actions are represented by group automorphisms, Lie algebra actions are represented by derivations: up to isomorphism, a split extension of a Lie algebra B by a Lie algebra _X_ corresponds to a Lie algebra morphism _B_ &rarr; **Der**(X) from _B_ to the Lie algebra **Der**(_X_) of derivations on _X_. The aim of this talk is to elaborate on the question, whether the concept of a derivation can be extended to other types of non-associative algebras over a field **K**, in such a way that these generalised derivations characterise the **K**-algebra actions.
+We prove that the answer is no, as soon as the field **K** is infinite. In fact, we prove a stronger result: already the representability of all abelian actions – which are usually called representations or Beck modules – suffices for this to be true. Thus we characterise the variety of Lie algebras over an infinite field of characteristic different from 2 as the only variety of non-associative algebras which is a non-abelian category with representable representations. This emphasises the unique role played by the Lie algebra of linear endomorphisms **gl**(_V_) as a representing object for the representations on a vector space _V_.
+
 ## June 15, 2021
 
 <a name="fest4"></a>
