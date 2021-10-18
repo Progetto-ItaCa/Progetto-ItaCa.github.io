@@ -36,7 +36,7 @@ For those who who can't open zoom from their browser:
       <td>14:30</td>
       <td><a href="" target="_blank"><strong>Zanfa</strong></a></td>
       <td><a href="" target="_blank">Università degli studi dell'Insubria</a></td>
-      <td><b>TBA</b></td>
+      <td><b>Generalized presheaf-bundle adjunctions</b></td>
       <td><a href="#zanfa-abs">▤</a> <a href="" target="_blank">▶</a></td>
     </tr>
     <tr>
