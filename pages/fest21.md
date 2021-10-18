@@ -32,23 +32,23 @@ For those who who can't open zoom from their browser:
     </tr>
   </thead>
   <tbody>
-    <tr style="background-color:#fbe49d	">
+    <tr style="background-color:#fbe49d">
       <td>14:30</td>
-      <td><a href="" target="_blank"><strong>Trimble</strong></a></td>
-      <td><a href="" target="_blank">Western Connecticut State University</a></td>
-      <td><b>Grothendieck groups of 2-rigs as lambda rings</b></td>
-      <td><a href="#todd-abs">▤</a> <a href="" target="_blank">▶</a></td>
+      <td><a href="" target="_blank"><strong>Zanfa</strong></a></td>
+      <td><a href="" target="_blank">Università degli studi dell'Insubria</a></td>
+      <td><b>TBA</b></td>
+      <td><a href="#zanfa-abs">▤</a> <a href="" target="_blank">▶</a></td>
     </tr>
     <tr>
       <td>15:15</td>
       <td colspan="4">Question time </td>
     </tr>
-    <tr style="background-color:#fbe49d">
+    <tr style="background-color:#fbe49d	">
       <td>15:30</td>
-      <td><a href="" target="_blank"><strong>Zanfa</strong></a></td>
-      <td><a href="" target="_blank">Università degli studi dell'Insubria</a></td>
-      <td><b>TBA</b></td>
-      <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
+      <td><a href="" target="_blank"><strong>Trimble</strong></a></td>
+      <td><a href="" target="_blank">Western Connecticut State University</a></td>
+      <td><b>Grothendieck groups of 2-rigs as lambda rings</b></td>
+      <td><a href="#todd-abs">▤</a> <a href="" target="_blank">▶</a></td>
     </tr>
     <tr>
       <td>16:15</td>
@@ -61,6 +61,11 @@ For those who who can't open zoom from their browser:
   </tbody>
 </table>
 </center>
+
+<div id="zanfa-abs"></div>
+### Riccardo Zanfa
+#### Generalized presheaf-bundle adjunctions
+We present two new results generalizing the well-known presheaf-bundle adjunction for topological spaces, which relate indexed categories (and presheaves) over a site (C,J) with toposes over the topos Sh(C,J). The content of this seminar can be found in a joint work with Olivia Caramello titled Relative topos theory via stacks, and currently available on arXiv.
 
 <div id="todd-abs"></div>
 ### Todd Trimble
