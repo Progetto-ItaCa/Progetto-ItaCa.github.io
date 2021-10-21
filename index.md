@@ -5,9 +5,14 @@ title: ItaCa
 <img src="/assets/images/banner.jpg" style="width: 100%;" />
 
 
-## <a href="https://zoom.us/j/94880770089?pwd=clgxK2VkVEE5Ymw5ME1QWktiWExUZz09">Zoom link for ItaCa Fest 2021</a>
+### <a href="https://zoom.us/j/94880770089?pwd=clgxK2VkVEE5Ymw5ME1QWktiWExUZz09">Zoom link for ItaCa Fest 2021</a>
 
 ItaCa Fest will be back on *October 21, 2021*.
+
+
+### ItaCa 2021: in person! December 20-21, 2021
+
+Follow [this link](https://genoa-logic-group.github.io/itaca-workshop-2021/). See you in Genova!
 
 <!-- For those who who can't open zoom from their browser:
 
