@@ -2,6 +2,6 @@
 title: Positions
 ---
 
-Category theory related open positions:
+Category-theory related open positions:
 
 ...

@@ -1,5 +1,5 @@
 ---
-title: Course
+title: Corso
 ---
 
 <div style="text-align: right"><a href="course-eng.html">EN</a>/IT</div>
