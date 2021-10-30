@@ -17,6 +17,130 @@ For those who who can't open zoom from their browser:
 
 ## Upcoming Events
 
+## November 18, 2021
+
+<a name="fest4"></a>
+<center>
+<table>
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Speaker</th>
+      <th>Affiliation</th>
+      <th>Talk</th>
+      <th>Material</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color:#fbe49d	">
+      <td>14:30</td>
+      <td><a href="http://www1.mat.uniroma1.it/~fiorenza/" target="_blank"><strong>Fiorenza</strong></a></td>
+      <td><a href="https://www.uniroma1.it/en/pagina-strutturale/home" target="_blank">Università degli Studi di Roma "La Sapienza"</a></td>
+      <td><b>TBA</b></td>
+      <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
+    </tr>
+    <tr>
+      <td>15:15</td>
+      <td colspan="4">Question time </td>
+    </tr>
+    <tr style="background-color:#fbe49d">
+      <td>15:30</td>
+      <td><a href="https://lipn.univ-paris13.fr/~olimpieri/" target="_blank"><strong>Olimpieri</strong></a></td>
+      <td><a href="https://lipn.univ-paris13.fr/" target="_blank">LIPN, Université Sorbonne Paris Nord</a></td>
+      <td><b>TBA</b></td>
+      <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
+    </tr>
+    <tr>
+      <td>16:15</td>
+      <td colspan="4">Question time </td>
+    </tr>
+    <tr>
+      <td>16:30</td>
+      <td colspan="4">Free chat </td>
+    </tr>
+  </tbody>
+</table>
+</center>
+
+### Domenico Fiorenza
+#### Categorical shadows lurking behind integral formulas for genera
+
+*Professor Friedrich*: And so, if you have a complex genus taking rational values, i.e., a ring homomorphism from the complex cobordism ring to the field **Q** of rational numbers, you have an integral formula expressing it.
+
+*The Categorist*: If a formula is true, it must be expressed by a commutative diagram.
+
+*Professor Friedrich*: But my formula is true!
+
+*The Categorist*: Then it must be expressed by a commutative diagram.
+
+*Professor Friedrich*: Show me.
+
+*The Categorist*: Let us consider the category of spectra...
+
+*Professor Friedrich*: And so?
+
+*The Categorist*: Well... I don't see a commutative diagram here.
+
+*Professor Friedrich*: And so?
+
+*The Categorist*: And so your formula must be false.
+
+*Professor Friedrich*: But my formula is true!
+
+*The Categorist*: Impossible.
+
+*Sir Michael*: There is something I think I know on the Spanier-Whitehead dual of a smooth manifold that may happen to be of some relevance here.
+
+(Emil Ionesco, Triceratops)
+
+## December 2021 - ItaCa Fest XMas edition
+
+<a name="fest4"></a>
+<center>
+<table>
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Speaker</th>
+      <th>Affiliation</th>
+      <th>Talk</th>
+      <th>Material</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color:#fbe49d	">
+      <td>14:30</td>
+      <td><a href="" target="_blank"><strong>Rogers</strong></a></td>
+      <td><a href="" target="_blank">Università degli Studi dell'Insubria</a></td>
+      <td><b>TBA</b></td>
+      <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
+    </tr>
+    <tr>
+      <td>15:15</td>
+      <td colspan="4">Question time </td>
+    </tr>
+    <tr style="background-color:#fbe49d">
+      <td>15:30</td>
+      <td><a href="" target="_blank"><strong>Gran</strong></a></td>
+      <td><a href="" target="_blank">Université catholique de Louvain</a></td>
+      <td><b>TBA</b></td>
+      <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
+    </tr>
+    <tr>
+      <td>16:15</td>
+      <td colspan="4">Question time </td>
+    </tr>
+    <tr>
+      <td>16:30</td>
+      <td colspan="4">Free chat </td>
+    </tr>
+  </tbody>
+</table>
+</center>
+
+
+## Past Events
+
 ## October 21, 2021
 
 <a name="fest4"></a>
@@ -74,98 +198,6 @@ We present two new results generalizing the well-known presheaf-bundle adjunctio
 This talk will report on recent joint work with John Baez and Joe Moeller. We introduce a notion of 2-rig as a way of categorifying the usual notion of rig (ring without negatives); examples include categories of group representations, categories of vector bundles over spaces, categories of coherent sheaves over projective varieties, and many others. We describe Schur functors on general 2-rigs, and indicate how the free 2-rig on one generator encodes Schur functors on 2-rigs. Finally, we indicate how the Grothendieck group of a 2-rig yields a lambda ring, where the theory of lambda-rings is a "plethory" obtained by decategorifying a conceptually simple 2-plethory that is associated with the free 2-rig.
 
 
-## November 18, 2021
-
-<a name="fest4"></a>
-<center>
-<table>
-  <thead>
-    <tr>
-      <th>Time</th>
-      <th>Speaker</th>
-      <th>Affiliation</th>
-      <th>Talk</th>
-      <th>Material</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="background-color:#fbe49d	">
-      <td>14:30</td>
-      <td><a href="http://www1.mat.uniroma1.it/~fiorenza/" target="_blank"><strong>Fiorenza</strong></a></td>
-      <td><a href="https://www.uniroma1.it/en/pagina-strutturale/home" target="_blank">Università degli Studi di Roma "La Sapienza"</a></td>
-      <td><b>TBA</b></td>
-      <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
-    </tr>
-    <tr>
-      <td>15:15</td>
-      <td colspan="4">Question time </td>
-    </tr>
-    <tr style="background-color:#fbe49d">
-      <td>15:30</td>
-      <td><a href="https://lipn.univ-paris13.fr/~olimpieri/" target="_blank"><strong>Olimpieri</strong></a></td>
-      <td><a href="https://lipn.univ-paris13.fr/" target="_blank">LIPN, Université Sorbonne Paris Nord</a></td>
-      <td><b>TBA</b></td>
-      <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
-    </tr>
-    <tr>
-      <td>16:15</td>
-      <td colspan="4">Question time </td>
-    </tr>
-    <tr>
-      <td>16:30</td>
-      <td colspan="4">Free chat </td>
-    </tr>
-  </tbody>
-</table>
-</center>
-
-## December 2021 - ItaCa Fest XMas edition
-
-<a name="fest4"></a>
-<center>
-<table>
-  <thead>
-    <tr>
-      <th>Time</th>
-      <th>Speaker</th>
-      <th>Affiliation</th>
-      <th>Talk</th>
-      <th>Material</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="background-color:#fbe49d	">
-      <td>14:30</td>
-      <td><a href="" target="_blank"><strong>Rogers</strong></a></td>
-      <td><a href="" target="_blank">Università degli Studi dell'Insubria</a></td>
-      <td><b>TBA</b></td>
-      <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
-    </tr>
-    <tr>
-      <td>15:15</td>
-      <td colspan="4">Question time </td>
-    </tr>
-    <tr style="background-color:#fbe49d">
-      <td>15:30</td>
-      <td><a href="" target="_blank"><strong>Gran</strong></a></td>
-      <td><a href="" target="_blank">Université catholique de Louvain</a></td>
-      <td><b>TBA</b></td>
-      <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
-    </tr>
-    <tr>
-      <td>16:15</td>
-      <td colspan="4">Question time </td>
-    </tr>
-    <tr>
-      <td>16:30</td>
-      <td colspan="4">Free chat </td>
-    </tr>
-  </tbody>
-</table>
-</center>
-
-
-## Past Events
 
 ## September 28, 2021
 

@@ -7,7 +7,7 @@ title: ItaCa
 
 ### <a href="https://zoom.us/j/94880770089?pwd=clgxK2VkVEE5Ymw5ME1QWktiWExUZz09">Zoom link for ItaCa Fest 2021</a>
 
-ItaCa Fest will be back on *October 21, 2021*.
+ItaCa Fest will be back on *November 18, 2021*.
 
 
 ### ItaCa 2021: in person! December 20-21, 2021
