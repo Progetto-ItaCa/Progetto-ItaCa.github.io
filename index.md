@@ -23,7 +23,7 @@ Follow [this link](https://genoa-logic-group.github.io/itaca-workshop-2021/). Se
 
 Our name stands for **Ita**lian **Ca**tegory theorists, but it also reminds the isle where Odysseus strived so hard to come back.
 
-During the last [Category Theory](http://conferences.inf.ed.ac.uk/ct2019/) in Scotland, it became apparent how many Italians are present in the Category Theory community: some of us proposed to join them all in a semi-official network. This is **ItaCa**: a group of mathematicians scattered all around the world, doing Category Theory.
+During the [Category Theory 2019](http://conferences.inf.ed.ac.uk/ct2019/) in Scotland, it became apparent how many Italians are present in the Category Theory community: some of us proposed to join them all in a semi-official network. This is **ItaCa**: a group of mathematicians scattered all around the world, doing Category Theory.
 
 The community we would like to create is as open and inclusive as possible, without distinction of gender, ethnicity, language, or mathematical opinion. The isle of ItaCa is open to all kinds of mathematicians, no matter their nationality and background.
 
