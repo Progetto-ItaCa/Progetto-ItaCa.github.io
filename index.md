@@ -33,6 +33,8 @@ This is to say: despite its apparent absence from the scenes, Italian Category T
 
 We are still a small community, but we are slowly growing. Feel free to **join us**! In particular, feel free to join our [Google group](mailto:progettoitaca+subscribe@googlegroups.com) sending a subscription email (it can have arbitrary subject and body), and our [Facebook group](https://www.facebook.com/groups/507590330041282/).
 
+In October 2021, we started the first Category Theory course of ItaCa; join us on our [zulip](https://itaca.zulipchat.com/) channel!
+
 <img src="/assets/images/elep-low.jpg" style="width: 100%;" align="right" />
 
 <p style="text-align:right; font-size:small;">
