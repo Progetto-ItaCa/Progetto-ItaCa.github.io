@@ -39,8 +39,8 @@ Questo un programma di massima del corso:
 2. 14/10/2021 _Paolo Perrone_. Concetti fondamentali: Definizione di categoria. [video](https://youtu.be/2kSgmgo1GO8)
 3. 21/10/2021 _Paolo Perrone_. Concetti fondamentali: Funtori. [video](https://youtu.be/M6iAJO0T-vs)
 4. 28/10/2021 _Paolo Perrone_. Concetti fondamentali: Trasformazioni naturali. [video](https://youtu.be/pgRWfh25x7M)
-5. 4/11/2021  _Enrico Ghiorzi_ Mono ed epi; sezioni e retrazioni. [video](https://youtu.be/YDr_SMoTuCY)
-6. 11/11/2021 _Enrico Ghiorzi_ Ulteriori propretà di mono ed epi (spezzanti). Esempi ed esercizi.
+5. 4/11/2021  _Enrico Ghiorzi_. Epi e mono: Definizioni base, sezioni e retrazioni. [video](https://youtu.be/YDr_SMoTuCY)
+6. 11/11/2021 _Enrico Ghiorzi_. Epi e mono: Esempi ed esercizi.
 <!--- 7. _Enrico Ghiorzi_ Equivalenze; funtori pieni e fedeli; caratterizzazione delle equivalenze; categorie scheletriche -->
 <!--- 8. _Jacopo Emmenegger_ Prodotti finiti e oggetto terminale, esempi; coprodotti finiti e oggetto iniziale, esempi. -->
 <!--- 9. _Jacopo Emmenegger_ Limiti come coni universali e loro unicità; limiti particolari (prodotti, equalizzatori, pullback), esempi; limiti generati da limiti particolari; colimiti come coni universali, colimiti particolari (coprodotti, coequalizzatori, pushout), esempi. -->
