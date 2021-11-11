@@ -36,7 +36,7 @@ For those who who can't open zoom from their browser:
       <td>14:30</td>
       <td><a href="http://www1.mat.uniroma1.it/~fiorenza/" target="_blank"><strong>Fiorenza</strong></a></td>
       <td><a href="https://www.uniroma1.it/en/pagina-strutturale/home" target="_blank">Università degli Studi di Roma "La Sapienza"</a></td>
-      <td><b>TBA</b></td>
+      <td><b>Categorical shadows lurking behind integral formulas for genera</b></td>
       <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
     </tr>
     <tr>
@@ -45,9 +45,9 @@ For those who who can't open zoom from their browser:
     </tr>
     <tr style="background-color:#fbe49d">
       <td>15:30</td>
-      <td><a href="https://lipn.univ-paris13.fr/~olimpieri/" target="_blank"><strong>Olimpieri</strong></a></td>
-      <td><a href="https://lipn.univ-paris13.fr/" target="_blank">LIPN, Université Sorbonne Paris Nord</a></td>
-      <td><b>TBA</b></td>
+      <td><a href="" target="_blank"><strong>Olimpieri</strong></a></td>
+      <td><a href="" target="_blank">University of Leeds</a></td>
+      <td><b>Categorifying Intersection Types</b></td>
       <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
     </tr>
     <tr>
@@ -92,6 +92,11 @@ For those who who can't open zoom from their browser:
 *Sir Michael*: There is something I think I know on the Spanier-Whitehead dual of a smooth manifold that may happen to be of some relevance here.
 
 (Emil Ionesco, Triceratops)
+
+### Federico Olimpieri
+#### Categorifying Intersection Types
+
+We study a family of distributors-induced bicategorical models of lambda-calculus, proving that they can be syntactically presented via intersection type systems. We first introduce a class of 2-monads whose algebras are monoidal categories modelling resource management. We lift these monads to distributors and define a parametric Kleisli bicategory, giving a sufficient condition for its cartesian closure. In this framework we define a proof-relevant semantics: the interpretation of a term associates to it the set of its typing derivations in appropriate systems. We prove that our model characterize solvability, adapting reducibility techniques to our setting. We conclude by describing wo examples of our construction.
 
 ## December 2021 - ItaCa Fest XMas edition
 
