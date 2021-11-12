@@ -8,7 +8,7 @@ ItaCa Fest is an online webinar aimed to gather the community of ItaCa. You can 
 
 ItaCa Fest will come back in September! Stay tuned. Here you can find our past events and speakers.
 
-The seminars will be live on [Zoom](https://zoom.us){:target="_blank"} at <a href="https://zoom.us/j/94880770089?pwd=clgxK2VkVEE5Ymw5ME1QWktiWExUZz09">this link</a>. The time is specified in the Italian time zone (UTC+2)!
+The seminars will be live on [Zoom](https://zoom.us){:target="_blank"} at <a href="https://zoom.us/j/94880770089?pwd=clgxK2VkVEE5Ymw5ME1QWktiWExUZz09">this link</a>. The time is specified in the Italian time zone (UTC+1)!
 
 For those who who can't open zoom from their browser:
 
@@ -311,7 +311,7 @@ We prove that the answer is no, as soon as the field **K** is infinite. In fact,
 
 ## May 20, 2021
 
-14:30 UTC+2 on <a href="https://zoom.us/j/94880770089?pwd=clgxK2VkVEE5Ymw5ME1QWktiWExUZz09">zoom</a>
+14:30 UTC+1 on <a href="https://zoom.us/j/94880770089?pwd=clgxK2VkVEE5Ymw5ME1QWktiWExUZz09">zoom</a>
 
 <a name="fest4"></a>
 <center>
