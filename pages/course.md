@@ -40,9 +40,9 @@ Questo un programma di massima del corso:
 3. 21/10/2021 _Paolo Perrone_. Concetti fondamentali: Funtori. [video](https://youtu.be/M6iAJO0T-vs)
 4. 28/10/2021 _Paolo Perrone_. Concetti fondamentali: Trasformazioni naturali. [video](https://youtu.be/pgRWfh25x7M)
 5. 4/11/2021  _Enrico Ghiorzi_. Epi e mono: Definizioni base, sezioni e retrazioni. [video](https://youtu.be/YDr_SMoTuCY)
-6. 11/11/2021 _Enrico Ghiorzi_. Epi e mono: Esempi ed esercizi.
-<!--- 7. _Enrico Ghiorzi_ Equivalenze; funtori pieni e fedeli; caratterizzazione delle equivalenze; categorie scheletriche -->
-<!--- 8. _Jacopo Emmenegger_ Prodotti finiti e oggetto terminale, esempi; coprodotti finiti e oggetto iniziale, esempi. -->
+6. 11/11/2021 _Enrico Ghiorzi_. Epi e mono: Esempi ed esercizi. [video](https://youtu.be/KmrSR3ecCPE)
+7. 18/11/2021 _Enrico Ghiorzi_ Equivalenze; funtori pieni e fedeli; caratterizzazione delle equivalenze; categorie scheletriche. [video](https://youtu.be/VYHqaSKqnh4)
+8. 25/11/2021 _Jacopo Emmenegger_ Prodotti finiti e oggetto terminale, esempi; coprodotti finiti e oggetto iniziale, esempi.
 <!--- 9. _Jacopo Emmenegger_ Limiti come coni universali e loro unicità; limiti particolari (prodotti, equalizzatori, pullback), esempi; limiti generati da limiti particolari; colimiti come coni universali, colimiti particolari (coprodotti, coequalizzatori, pushout), esempi. -->
 <!--- 10. _Jacopo Emmenegger_ Funtori che preservano e riflettono (co)limiti, esempi, condizioni sufficienti. -->
 <!--- 11. _Fosco Loregian_ intuizione sul lemma di Yoneda; funtori rappresentabili ed esempi -->
