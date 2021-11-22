@@ -98,7 +98,7 @@ For those who who can't open zoom from their browser:
 
 We study a family of distributors-induced bicategorical models of lambda-calculus, proving that they can be syntactically presented via intersection type systems. We first introduce a class of 2-monads whose algebras are monoidal categories modelling resource management. We lift these monads to distributors and define a parametric Kleisli bicategory, giving a sufficient condition for its cartesian closure. In this framework we define a proof-relevant semantics: the interpretation of a term associates to it the set of its typing derivations in appropriate systems. We prove that our model characterize solvability, adapting reducibility techniques to our setting. We conclude by describing wo examples of our construction.
 
-## December 2021 - ItaCa Fest XMas edition
+<!-- ## December 2021 - ItaCa Fest XMas edition
 
 <a name="fest4"></a>
 <center>
@@ -142,7 +142,7 @@ We study a family of distributors-induced bicategorical models of lambda-calculu
   </tbody>
 </table>
 </center>
-
+ -->
 
 ## Past Events
 
