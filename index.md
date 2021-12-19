@@ -14,7 +14,7 @@ ItaCa Fest will be back on *November 18, 2021*. -->
 
 Follow [this link](https://genoa-logic-group.github.io/itaca-workshop-2021/). See you in Genova, or on youtube!
 
-All seminars will be streamed at the link https://www.youtube.com/c/ProgettoItaCaCT
+All seminars will be streamed at the link <https://www.youtube.com/c/ProgettoItaCaCT>
 
 <!-- For those who who can't open zoom from their browser:
 
