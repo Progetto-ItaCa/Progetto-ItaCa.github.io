@@ -35,6 +35,43 @@ Questo un programma di massima del corso:
 
 ## Diario delle lezioni
 
+<style>
+  ul.lessons {
+    list-style: none;
+  }
+  ul.lessons details > summary:first-of-type {
+    list-style-position: outside;
+  }
+  ul.lessons details > summary.empty {
+    list-style-type: none;
+  }
+  ul.lessons ul {
+    padding-inline-start: 20px;
+  }
+</style>
+
+<ul class="lessons">
+  {% for lesson in site.data.course %}
+    <li>
+      <details>
+        <summary {% if lesson.sections.size == 0 %}class="empty"{% endif %}>
+          <time datetime="{{ lesson.published_at }}">{{ lesson.published_at | date: "%d/%m/%Y" }}</time> |
+          <a href="{{ lesson.url }}">{{ lesson.title }}</a>
+          {% if lesson.teacher %}<em>({{ lesson.teacher }})</em>{% endif %}
+        </summary>
+        <ul>
+          {% for section in lesson.sections %}
+            <li>
+              <a href="{{ section.url }}">{{ section.stamp }}</a>
+              {{ section.label }}
+            </li>
+          {% endfor %}
+        </ul>
+      </details>
+    </li>
+  {% endfor %}
+</ul>
+
 1. 7/10/2021  teaser; presentazione dei docenti, alcune idee sul contenuto del corso. [video](https://youtu.be/DIXypXx8-DE)
 2. 14/10/2021 _Paolo Perrone_. Concetti fondamentali: Definizione di categoria. [video](https://youtu.be/2kSgmgo1GO8)
 3. 21/10/2021 _Paolo Perrone_. Concetti fondamentali: Funtori. [video](https://youtu.be/M6iAJO0T-vs)
