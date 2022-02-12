@@ -6,5 +6,4 @@ _site/*
 .jekyll-metadata
 *.json
 !talks.json
-_*
 poster/*
