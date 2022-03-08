@@ -110,43 +110,6 @@ For those who who can't open zoom from their browser:
   </tbody>
 </table>
 </center>
-
-### Domenico Fiorenza
-#### Categorical shadows lurking behind integral formulas for genera
-
-*Professor Friedrich*: And so, if you have a complex genus taking rational values, i.e., a ring homomorphism from the complex cobordism ring to the field **Q** of rational numbers, you have an integral formula expressing it.
-
-*The Categorist*: If a formula is true, it must be expressed by a commutative diagram.
-
-*Professor Friedrich*: But my formula is true!
-
-*The Categorist*: Then it must be expressed by a commutative diagram.
-
-*Professor Friedrich*: Show me.
-
-*The Categorist*: Let us consider the category of spectra...
-
-*Professor Friedrich*: And so?
-
-*The Categorist*: Well... I don't see a commutative diagram here.
-
-*Professor Friedrich*: And so?
-
-*The Categorist*: And so your formula must be false.
-
-*Professor Friedrich*: But my formula is true!
-
-*The Categorist*: Impossible.
-
-*Sir Michael*: There is something I think I know on the Spanier-Whitehead dual of a smooth manifold that may happen to be of some relevance here.
-
-(Emil Ionesco, Triceratops)
-
-### Federico Olimpieri
-#### Categorifying Intersection Types
-
-We study a family of distributors-induced bicategorical models of lambda-calculus, proving that they can be syntactically presented via intersection type systems. We first introduce a class of 2-monads whose algebras are monoidal categories modelling resource management. We lift these monads to distributors and define a parametric Kleisli bicategory, giving a sufficient condition for its cartesian closure. In this framework we define a proof-relevant semantics: the interpretation of a term associates to it the set of its typing derivations in appropriate systems. We prove that our model characterize solvability, adapting reducibility techniques to our setting. We conclude by describing wo examples of our construction.
-
 ## October 21, 2021
 
 <a name="fest4"></a>
@@ -249,21 +212,6 @@ This talk will report on recent joint work with John Baez and Joe Moeller. We in
   </tbody>
 </table>
 </center>
-
-<div id="porta-abs"></div>
-### Mauro Porta
-#### Pro and Ind-categories in Algebra and Geometry
-In this talk we are going to discuss some natural instances of pro and ind categories in algebraic and geometric contexts, highlighting the importance of working with objects in Ind(Cat<sub>&infin;</sub>) and Pro(Cat<sub>&infin;</sub>)  instead of their Cat<sub>&infin;</sub> realizations.
-Towards the end we will raise some questions, with the intent of determining what is the "correct" object to consider in these contexts, so as to optimize the generalization/applicability trade-off.
-
-<div id="tim-abs"></div>
-### Tim Van Der Linden
-#### Algebras with representable representations
-
-(Joint work with Xabier García-Martínez, Matsvei Tsishyn and Corentin Vienne)
-
-Just like group actions are represented by group automorphisms, Lie algebra actions are represented by derivations: up to isomorphism, a split extension of a Lie algebra B by a Lie algebra _X_ corresponds to a Lie algebra morphism _B_ &rarr; **Der**(X) from _B_ to the Lie algebra **Der**(_X_) of derivations on _X_. The aim of this talk is to elaborate on the question, whether the concept of a derivation can be extended to other types of non-associative algebras over a field **K**, in such a way that these generalised derivations characterise the **K**-algebra actions.
-We prove that the answer is no, as soon as the field **K** is infinite. In fact, we prove a stronger result: already the representability of all abelian actions – which are usually called representations or Beck modules – suffices for this to be true. Thus we characterise the variety of Lie algebras over an infinite field of characteristic different from 2 as the only variety of non-associative algebras which is a non-abelian category with representable representations. This emphasises the unique role played by the Lie algebra of linear endomorphisms **gl**(_V_) as a representing object for the representations on a vector space _V_.
 
 ## June 15, 2021
 
@@ -464,6 +412,58 @@ We propose here a unified approach to globalization in a categorical setting, ex
 [HV] J. Hu, J. Vercruysse, *Geometrically partial actions*. Trans. Amer. Math. Soc. **373** (2020), no. 6, 4085--4143.
 
 [PJ] P. Saracco, J. Vercruysse, *Globalization for geometric partial comodules*. Preprint (2020).
+
+
+<div id="porta-abs"></div>
+### Mauro Porta
+#### Pro and Ind-categories in Algebra and Geometry
+In this talk we are going to discuss some natural instances of pro and ind categories in algebraic and geometric contexts, highlighting the importance of working with objects in Ind(Cat<sub>&infin;</sub>) and Pro(Cat<sub>&infin;</sub>)  instead of their Cat<sub>&infin;</sub> realizations.
+Towards the end we will raise some questions, with the intent of determining what is the "correct" object to consider in these contexts, so as to optimize the generalization/applicability trade-off.
+
+<div id="tim-abs"></div>
+### Tim Van Der Linden
+#### Algebras with representable representations
+
+(Joint work with Xabier García-Martínez, Matsvei Tsishyn and Corentin Vienne)
+
+Just like group actions are represented by group automorphisms, Lie algebra actions are represented by derivations: up to isomorphism, a split extension of a Lie algebra B by a Lie algebra _X_ corresponds to a Lie algebra morphism _B_ &rarr; **Der**(X) from _B_ to the Lie algebra **Der**(_X_) of derivations on _X_. The aim of this talk is to elaborate on the question, whether the concept of a derivation can be extended to other types of non-associative algebras over a field **K**, in such a way that these generalised derivations characterise the **K**-algebra actions.
+We prove that the answer is no, as soon as the field **K** is infinite. In fact, we prove a stronger result: already the representability of all abelian actions – which are usually called representations or Beck modules – suffices for this to be true. Thus we characterise the variety of Lie algebras over an infinite field of characteristic different from 2 as the only variety of non-associative algebras which is a non-abelian category with representable representations. This emphasises the unique role played by the Lie algebra of linear endomorphisms **gl**(_V_) as a representing object for the representations on a vector space _V_.
+
+### Domenico Fiorenza
+#### Categorical shadows lurking behind integral formulas for genera
+
+*Professor Friedrich*: And so, if you have a complex genus taking rational values, i.e., a ring homomorphism from the complex cobordism ring to the field **Q** of rational numbers, you have an integral formula expressing it.
+
+*The Categorist*: If a formula is true, it must be expressed by a commutative diagram.
+
+*Professor Friedrich*: But my formula is true!
+
+*The Categorist*: Then it must be expressed by a commutative diagram.
+
+*Professor Friedrich*: Show me.
+
+*The Categorist*: Let us consider the category of spectra...
+
+*Professor Friedrich*: And so?
+
+*The Categorist*: Well... I don't see a commutative diagram here.
+
+*Professor Friedrich*: And so?
+
+*The Categorist*: And so your formula must be false.
+
+*Professor Friedrich*: But my formula is true!
+
+*The Categorist*: Impossible.
+
+*Sir Michael*: There is something I think I know on the Spanier-Whitehead dual of a smooth manifold that may happen to be of some relevance here.
+
+(Emil Ionesco, Triceratops)
+
+### Federico Olimpieri
+#### Categorifying Intersection Types
+
+We study a family of distributors-induced bicategorical models of lambda-calculus, proving that they can be syntactically presented via intersection type systems. We first introduce a class of 2-monads whose algebras are monoidal categories modelling resource management. We lift these monads to distributors and define a parametric Kleisli bicategory, giving a sufficient condition for its cartesian closure. In this framework we define a proof-relevant semantics: the interpretation of a term associates to it the set of its typing derivations in appropriate systems. We prove that our model characterize solvability, adapting reducibility techniques to our setting. We conclude by describing wo examples of our construction.
 
 
 ## Programme Committee
