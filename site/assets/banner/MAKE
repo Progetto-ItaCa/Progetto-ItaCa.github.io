@@ -1,2 +1,0 @@
-latexmk -xelatex ban
-inkscape -l ban.svg ban.pdf
