@@ -155,19 +155,6 @@ For those who who can't open zoom from their browser:
 </table>
 </center>
 
-<div id="zanfa-abs"></div>
-### Riccardo Zanfa
-#### Generalized presheaf-bundle adjunctions
-We present two new results generalizing the well-known presheaf-bundle adjunction for topological spaces, which relate indexed categories (and presheaves) over a site (C,J) with toposes over the topos Sh(C,J). The content of this seminar can be found in a joint work with Olivia Caramello titled Relative topos theory via stacks, and currently available on arXiv.
-
-<div id="todd-abs"></div>
-### Todd Trimble
-#### Grothendieck groups of 2-rigs as lambda rings
-
-This talk will report on recent joint work with John Baez and Joe Moeller. We introduce a notion of 2-rig as a way of categorifying the usual notion of rig (ring without negatives); examples include categories of group representations, categories of vector bundles over spaces, categories of coherent sheaves over projective varieties, and many others. We describe Schur functors on general 2-rigs, and indicate how the free 2-rig on one generator encodes Schur functors on 2-rigs. Finally, we indicate how the Grothendieck group of a 2-rig yields a lambda ring, where the theory of lambda-rings is a "plethory" obtained by decategorifying a conceptually simple 2-plethory that is associated with the free 2-rig.
-
-
-
 ## September 28, 2021
 
 <a name="fest4"></a>
@@ -429,6 +416,16 @@ Towards the end we will raise some questions, with the intent of determining wha
 Just like group actions are represented by group automorphisms, Lie algebra actions are represented by derivations: up to isomorphism, a split extension of a Lie algebra B by a Lie algebra _X_ corresponds to a Lie algebra morphism _B_ &rarr; **Der**(X) from _B_ to the Lie algebra **Der**(_X_) of derivations on _X_. The aim of this talk is to elaborate on the question, whether the concept of a derivation can be extended to other types of non-associative algebras over a field **K**, in such a way that these generalised derivations characterise the **K**-algebra actions.
 We prove that the answer is no, as soon as the field **K** is infinite. In fact, we prove a stronger result: already the representability of all abelian actions – which are usually called representations or Beck modules – suffices for this to be true. Thus we characterise the variety of Lie algebras over an infinite field of characteristic different from 2 as the only variety of non-associative algebras which is a non-abelian category with representable representations. This emphasises the unique role played by the Lie algebra of linear endomorphisms **gl**(_V_) as a representing object for the representations on a vector space _V_.
 
+<div id="zanfa-abs"></div>
+### Riccardo Zanfa
+#### Generalized presheaf-bundle adjunctions
+We present two new results generalizing the well-known presheaf-bundle adjunction for topological spaces, which relate indexed categories (and presheaves) over a site (C,J) with toposes over the topos Sh(C,J). The content of this seminar can be found in a joint work with Olivia Caramello titled Relative topos theory via stacks, and currently available on arXiv.
+
+<div id="todd-abs"></div>
+### Todd Trimble
+#### Grothendieck groups of 2-rigs as lambda rings
+
+This talk will report on recent joint work with John Baez and Joe Moeller. We introduce a notion of 2-rig as a way of categorifying the usual notion of rig (ring without negatives); examples include categories of group representations, categories of vector bundles over spaces, categories of coherent sheaves over projective varieties, and many others. We describe Schur functors on general 2-rigs, and indicate how the free 2-rig on one generator encodes Schur functors on 2-rigs. Finally, we indicate how the Grothendieck group of a 2-rig yields a lambda ring, where the theory of lambda-rings is a "plethory" obtained by decategorifying a conceptually simple 2-plethory that is associated with the free 2-rig.
 ### Domenico Fiorenza
 #### Categorical shadows lurking behind integral formulas for genera
 
