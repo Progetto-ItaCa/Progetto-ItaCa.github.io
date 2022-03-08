@@ -5,17 +5,6 @@ title: Itaca Fest 2021
 # ItaCa Fest 2021
 
 ItaCa Fest is an online webinar aimed to gather the community of ItaCa.
-<!-- ItaCa Fest is an online webinar aimed to gather the community of ItaCa. You can find us on [researchseminars](https://researchseminars.org/seminar/itaca){:target="_blank"}.
-
-ItaCa Fest will come back in September! Stay tuned. Here you can find our past events and speakers.
-
-The seminars will be live on [Zoom](https://zoom.us){:target="_blank"} at <a href="https://zoom.us/j/94880770089?pwd=clgxK2VkVEE5Ymw5ME1QWktiWExUZz09">this link</a>. The time is specified in the Italian time zone (UTC+1/2 depending on the season)!
-
-For those who who can't open zoom from their browser:
-
-| ID: | 94880770089 |
-| Passcode: | 102674 | -->
-
 
 <!-- ## December 2021 - ItaCa Fest XMas edition
 
