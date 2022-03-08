@@ -10,17 +10,9 @@ title: ItaCa
 ItaCa Fest will be back on *November 18, 2021*. -->
 
 
-### ItaCa 2021: in person! December 20-21, 2021
+### ItaCa Fest 2022: we are coming back!
 
-Follow [this link](https://genoa-logic-group.github.io/itaca-workshop-2021/). See you in Genova, or on youtube!
-
-All seminars will be streamed at the link <https://www.youtube.com/c/ProgettoItaCaCT>
-
-<!-- For those who who can't open zoom from their browser:
-
-| ID: | 948 8077 0089 |
-| Passcode: | 102674 | -->
-
+Stay tuned.
 ## What is ItaCa?
 
 Our name stands for **Ita**lian **Ca**tegory theorists, but it also reminds the isle where Odysseus strived so hard to come back.
