@@ -22,7 +22,7 @@ ItaCa Fest is an online webinar aimed to gather the community of ItaCa.
   <tbody>
     <tr style="background-color:#fbe49d	">
       <td>15:00</td>
-      <td><a href="" target="_blank"><strong>TBA</strong></a></td>
+      <td><a href="" target="_blank"><strong>A. Lorenzin</strong></a></td>
       <td><a href="" target="_blank">TBA</a></td>
       <td><b>TBA</b></td>
       <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
@@ -33,7 +33,7 @@ ItaCa Fest is an online webinar aimed to gather the community of ItaCa.
     </tr>
     <tr style="background-color:#fbe49d">
       <td>16:00</td>
-      <td><a href="" target="_blank"><strong>TBA</strong></a></td>
+      <td><a href="" target="_blank"><strong>M. Karvonen</strong></a></td>
       <td><a href="" target="_blank">TBA</a></td>
       <td><b>TBA</b></td>
       <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
@@ -70,7 +70,7 @@ ItaCa Fest is an online webinar aimed to gather the community of ItaCa.
   <tbody>
     <tr style="background-color:#fbe49d	">
       <td>15:00</td>
-      <td><a href="" target="_blank"><strong>TBA</strong></a></td>
+      <td><a href="" target="_blank"><strong>G. Coraglia</strong></a></td>
       <td><a href="" target="_blank">TBA</a></td>
       <td><b>TBA</b></td>
       <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
@@ -81,7 +81,7 @@ ItaCa Fest is an online webinar aimed to gather the community of ItaCa.
     </tr>
     <tr style="background-color:#fbe49d">
       <td>16:00</td>
-      <td><a href="" target="_blank"><strong>TBA</strong></a></td>
+      <td><a href="" target="_blank"><strong>J. Kock</strong></a></td>
       <td><a href="" target="_blank">TBA</a></td>
       <td><b>TBA</b></td>
       <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
@@ -118,7 +118,7 @@ ItaCa Fest is an online webinar aimed to gather the community of ItaCa.
   <tbody>
     <tr style="background-color:#fbe49d	">
       <td>15:00</td>
-      <td><a href="" target="_blank"><strong>TBA</strong></a></td>
+      <td><a href="" target="_blank"><strong>F. Bonchi</strong></a></td>
       <td><a href="" target="_blank">TBA</a></td>
       <td><b>TBA</b></td>
       <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
@@ -129,7 +129,7 @@ ItaCa Fest is an online webinar aimed to gather the community of ItaCa.
     </tr>
     <tr style="background-color:#fbe49d">
       <td>16:00</td>
-      <td><a href="" target="_blank"><strong>TBA</strong></a></td>
+      <td><a href="" target="_blank"><strong>I. Blechschmidt</strong></a></td>
       <td><a href="" target="_blank">TBA</a></td>
       <td><b>TBA</b></td>
       <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
@@ -167,7 +167,7 @@ ItaCa Fest is an online webinar aimed to gather the community of ItaCa.
   <tbody>
     <tr style="background-color:#fbe49d	">
       <td>15:00</td>
-      <td><a href="" target="_blank"><strong>TBA</strong></a></td>
+      <td><a href="" target="_blank"><strong>A. Cigoli</strong></a></td>
       <td><a href="" target="_blank">TBA</a></td>
       <td><b>TBA</b></td>
       <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
@@ -178,7 +178,7 @@ ItaCa Fest is an online webinar aimed to gather the community of ItaCa.
     </tr>
     <tr style="background-color:#fbe49d">
       <td>16:00</td>
-      <td><a href="" target="_blank"><strong>TBA</strong></a></td>
+      <td><a href="" target="_blank"><strong>L. Reggio</strong></a></td>
       <td><a href="" target="_blank">TBA</a></td>
       <td><b>TBA</b></td>
       <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
@@ -215,7 +215,7 @@ ItaCa Fest is an online webinar aimed to gather the community of ItaCa.
   <tbody>
     <tr style="background-color:#fbe49d	">
       <td>15:00</td>
-      <td><a href="" target="_blank"><strong>TBA</strong></a></td>
+      <td><a href="" target="_blank"><strong>M. Escardó</strong></a></td>
       <td><a href="" target="_blank">TBA</a></td>
       <td><b>TBA</b></td>
       <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
@@ -226,7 +226,7 @@ ItaCa Fest is an online webinar aimed to gather the community of ItaCa.
     </tr>
     <tr style="background-color:#fbe49d">
       <td>16:00</td>
-      <td><a href="" target="_blank"><strong>TBA</strong></a></td>
+      <td><a href="" target="_blank"><strong>M. Capucci</strong></a></td>
       <td><a href="" target="_blank">TBA</a></td>
       <td><b>TBA</b></td>
       <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
@@ -263,7 +263,7 @@ ItaCa Fest is an online webinar aimed to gather the community of ItaCa.
   <tbody>
     <tr style="background-color:#fbe49d	">
       <td>15:00</td>
-      <td><a href="" target="_blank"><strong>TBA</strong></a></td>
+      <td><a href="" target="_blank"><strong>N. Di Vittorio</strong></a></td>
       <td><a href="" target="_blank">TBA</a></td>
       <td><b>TBA</b></td>
       <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
@@ -274,7 +274,7 @@ ItaCa Fest is an online webinar aimed to gather the community of ItaCa.
     </tr>
     <tr style="background-color:#fbe49d">
       <td>16:00</td>
-      <td><a href="" target="_blank"><strong>TBA</strong></a></td>
+      <td><a href="" target="_blank"><strong>G. Raptis</strong></a></td>
       <td><a href="" target="_blank">TBA</a></td>
       <td><b>TBA</b></td>
       <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
