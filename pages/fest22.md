@@ -247,6 +247,8 @@ ItaCa Fest is an online webinar aimed to gather the community of ItaCa.
 
 ## November 22, 2022
 
+## ! The timetable for November 2022 event has been changed to accomodate the first speaker from Macquarie University
+
 
 <a name="fest4"></a>
 <center>
@@ -262,29 +264,29 @@ ItaCa Fest is an online webinar aimed to gather the community of ItaCa.
   </thead>
   <tbody>
     <tr style="background-color:#fbe49d	">
-      <td>15:00</td>
+      <td>9:30</td>
       <td><a href="" target="_blank"><strong>N. Di Vittorio</strong></a></td>
       <td><a href="" target="_blank">TBA</a></td>
       <td><b>TBA</b></td>
       <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
     </tr>
     <tr>
-      <td>15:45</td>
+      <td>10:15</td>
       <td colspan="4">Question time </td>
     </tr>
     <tr style="background-color:#fbe49d">
-      <td>16:00</td>
+      <td>10:30</td>
       <td><a href="" target="_blank"><strong>G. Raptis</strong></a></td>
       <td><a href="" target="_blank">TBA</a></td>
       <td><b>TBA</b></td>
       <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
     </tr>
     <tr>
-      <td>16:45</td>
+      <td>11:15</td>
       <td colspan="4">Question time </td>
     </tr>
     <tr>
-      <td>17:00</td>
+      <td>12:00</td>
       <td colspan="4">Free chat </td>
     </tr>
   </tbody>
