@@ -4,15 +4,16 @@ title: ItaCa
 
 <img src="/assets/images/banner.jpg" style="width: 100%;" />
 
+## ItaCa Fest 2022: we are coming back!
+ItaCa Fest 2022 will be online at <a href="https://stockholmuniversity.zoom.us/j/68792232558">this link</a> starting
 
-<!-- ### <a href="https://zoom.us/j/94880770089?pwd=clgxK2VkVEE5Ymw5ME1QWktiWExUZz09">Zoom link for ItaCa Fest 2021</a>
+### April 20, 2022 -- 3pm GMT+2
 
-ItaCa Fest will be back on *November 18, 2021*. -->
+Save the date!
+
+And join us, G. Coraglia, J. Kock, F. Bonchi, I. Blechschmidt, A. Cigoli, L. Reggio, M. Escardó, M.Capucci, N. Di Vittorio, G. Raptis for another amazing edition of ItaCa Fest!
 
 
-### ItaCa Fest 2022: we are coming back!
-
-Stay tuned.
 ## What is ItaCa?
 
 Our name stands for **Ita**lian **Ca**tegory theorists, but it also reminds the isle where Odysseus strived so hard to come back.
