@@ -29,7 +29,7 @@ The seminar will be live on [Zoom](https://zoom.us){:target="_blank"} at
       <td><a href="https://sites.google.com/view/antonio-lorenzin" target="_blank"><strong>A. Lorenzin</strong></a></td>
       <td><a href="" target="_blank">UNIPV-UNIMIb</a></td>
       <td><b>Formality and strongly unique enhancements</b></td>
-      <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
+      <td><a href="">▤</a> <a href="https://www.youtube.com/watch?v=vEHhr1xfYFk" target="_blank">▶</a></td>
     </tr>
     <tr>
       <td>15:45</td>
@@ -40,7 +40,7 @@ The seminar will be live on [Zoom](https://zoom.us){:target="_blank"} at
       <td><a href="https://mysite.science.uottawa.ca/mkarvone/" target="_blank"><strong>M. Karvonen</strong></a></td>
       <td><a href="" target="_blank">University of Ottawa</a></td>
       <td><b>Inner automorphisms as 2-cells</b></td>
-      <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
+      <td><a href="">▤</a> <a href="https://www.youtube.com/watch?v=u1l8IpCc2sQ" target="_blank">▶</a></td>
     </tr>
     <tr>
       <td>16:45</td>
