@@ -87,7 +87,7 @@ ItaCa Fest is an online webinar aimed to gather the community of ItaCa.
       <td><a href="" target="_blank"><strong>Olimpieri</strong></a></td>
       <td><a href="" target="_blank">University of Leeds</a></td>
       <td><b>Categorifying Intersection Types</b></td>
-      <td><a href="">▤</a> <a href="https://www.youtube.com/watch?v=DjhHjd-LL4Q" target="_blank">▶</a></td>
+      <td><a href="#olimpieri-abs">▤</a> <a href="https://www.youtube.com/watch?v=DjhHjd-LL4Q" target="_blank">▶</a></td>
     </tr>
     <tr>
       <td>16:15</td>
@@ -414,6 +414,8 @@ We present two new results generalizing the well-known presheaf-bundle adjunctio
 #### Grothendieck groups of 2-rigs as lambda rings
 
 This talk will report on recent joint work with John Baez and Joe Moeller. We introduce a notion of 2-rig as a way of categorifying the usual notion of rig (ring without negatives); examples include categories of group representations, categories of vector bundles over spaces, categories of coherent sheaves over projective varieties, and many others. We describe Schur functors on general 2-rigs, and indicate how the free 2-rig on one generator encodes Schur functors on 2-rigs. Finally, we indicate how the Grothendieck group of a 2-rig yields a lambda ring, where the theory of lambda-rings is a "plethory" obtained by decategorifying a conceptually simple 2-plethory that is associated with the free 2-rig.
+
+<div id="fiorenza-abs"></div>
 ### Domenico Fiorenza
 #### Categorical shadows lurking behind integral formulas for genera
 
@@ -445,6 +447,7 @@ This talk will report on recent joint work with John Baez and Joe Moeller. We in
 
 (Emil Ionesco, Triceratops)
 
+<div id="olimpieri-abs"></div>
 ### Federico Olimpieri
 #### Categorifying Intersection Types
 
