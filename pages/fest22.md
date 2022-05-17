@@ -30,7 +30,7 @@ The seminar will be live on [Zoom](https://zoom.us){:target="_blank"} at
       <td>15:00</td>
       <td><a href="https://etagreta.github.io/" target="_blank"><strong>G. Coraglia</strong></a></td>
       <td><a href="" target="_blank">Università di Genova</a></td>
-      <td><b>TBA</b></td>
+      <td><b>Comonads for dependent types</b></td>
       <td><a href="#coraglia-abs">▤</a> <a href="" target="_blank">▶</a></td>
     </tr>
     <tr>
