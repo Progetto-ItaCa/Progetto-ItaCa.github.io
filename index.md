@@ -5,11 +5,14 @@ title: ItaCa
 <img src="/assets/images/banner.jpg" style="width: 100%;" />
 
 ## ItaCa Fest 2022: we are coming back!
-ItaCa Fest 2022 will be online at <a href="https://stockholmuniversity.zoom.us/j/68792232558">this link</a> starting
+ItaCa Fest 2022 will be online at <a href="https://stockholmuniversity.zoom.us/j/68792232558">this link</a>; save the date:
 
-### April 20, 2022 -- 3pm GMT+2
-
-Save the date!
+- [x] April 20, 2022 -- 3pm GMT+2
+- [x] May 19, 2022 -- 3pm GMT+2
+- [ ] June 28, 2022 -- 3pm GMT+2
+- [ ] September 20, 2022 -- 3pm GMT+2
+- [ ] October 18, 2022 -- 3pm GMT+2
+- [ ] November 22, 2022 -- 9.30am GMT+1
 
 And join us, G. Coraglia, J. Kock, F. Bonchi, I. Blechschmidt, A. Cigoli, L. Reggio, M. Escardó, M.Capucci, N. Di Vittorio, G. Raptis for another amazing edition of ItaCa Fest!
 
