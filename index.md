@@ -9,7 +9,7 @@ ItaCa Fest 2022 will be online at <a href="https://stockholmuniversity.zoom.us/j
 
 - [x] April 20, 2022 -- 3pm GMT+2
 - [x] May 19, 2022 -- 3pm GMT+2
-- [ ] June 28, 2022 -- 3pm GMT+2
+- [x] June 28, 2022 -- 3pm GMT+2
 - [ ] September 20, 2022 -- 3pm GMT+2
 - [ ] October 18, 2022 -- 3pm GMT+2
 - [ ] November 22, 2022 -- 9.30am GMT+1
