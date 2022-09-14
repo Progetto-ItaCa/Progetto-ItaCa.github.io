@@ -6,7 +6,7 @@ title: Itaca Fest 2022
 ItaCa Fest is an online webinar aimed to gather the community of ItaCa.
 
 The seminar will be live on [Zoom](https://zoom.us){:target="_blank"} at
-<a href="https://stockholmuniversity.zoom.us/j/68792232558">this link</a>
+<a href="nope">this link</a>
 
 # Upcoming
 
