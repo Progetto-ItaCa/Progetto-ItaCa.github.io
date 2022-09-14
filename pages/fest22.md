@@ -10,86 +10,10 @@ The seminar will be live on [Zoom](https://zoom.us){:target="_blank"} at
 
 # Upcoming
 
-## June 28, 2022
 
-
-<a name="fest4"></a>
-<center>
-<table>
-  <thead>
-    <tr>
-      <th>Time</th>
-      <th>Speaker</th>
-      <th>Affiliation</th>
-      <th>Talk</th>
-      <th>Material</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="background-color:#fbe49d	">
-      <td>15:00</td>
-      <td><a href="" target="_blank"><strong>F. Bonchi</strong></a></td>
-      <td><a href="" target="_blank">Università di Pisa</a></td>
-      <td><b>Deconstructing Tarski’s calculus of relations with Tape diagrams</b></td>
-      <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
-    </tr>
-    <tr>
-      <td>15:45</td>
-      <td colspan="4">Question time </td>
-    </tr>
-    <tr style="background-color:#fbe49d">
-      <td>16:00</td>
-      <td><a href="" target="_blank"><strong>I. Blechschmidt</strong></a></td>
-      <td><a href="" target="_blank">TBA</a></td>
-      <td><b>Reifying dynamical algebra</b></td>
-      <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
-    </tr>
-    <tr>
-      <td>16:45</td>
-      <td colspan="4">Question time </td>
-    </tr>
-    <tr>
-      <td>17:00</td>
-      <td colspan="4">Free chat </td>
-    </tr>
-  </tbody>
-</table>
-</center>
-
-### Filippo Bonchi
-#### Deconstructing Tarski's calculus of relations with Tape diagrams
-
-The calculus of (binary) relations has been introduced by Tarski as a variable-free alternative to first order logic. In this talk we introduce tape diagrams, a graphical language for expressing arrows of arbitrary finite biproduct rig categories, and we show how the calculus of relation can be encoded within tape diagrams.
-
-### Ingo Blechschmidt
-#### Reifying dynamical algebra
-##### Traveling the mathematical multiverse to apply tools for the countable also to the uncountable
-
-Commutative algebra abounds with proofs which are quite elegant and at
-the same time quite abstract. Even for concrete statements, proofs often
-appeal to transfinite methods like the axiom of choice or the law of
-excluded middle.
-Following Hilbert’s call, we should work to elucidate how these abstract
-proofs can be recast in more concrete, computational terms, regarding
-abstract proofs as intriguing guiding templates for formulating concrete
-proofs and regarding objects concocted by Zorn’s lemma such as maximal
-ideals as convenient fictions. One such technique for making
-computational sense of abstract proofs is dynamical algebra, going back
-to the work of Dominique Duval and her coauthors in the 1980's.
-The talk will first present the basic story of dynamical algebra with an
-illustrative example. Then we will report on joint work with Peter
-Schuster how to reify dynamical algebra using formal metatheorems of
-categorical logic, supplying a firm foundation to dynamical algebra,
-complementing previous approaches.
-A particular feature of our approach is that we apply a construction
-devised by Berardi and Valentini for the special case of countable
-rings, which indeed fundamentally requires the countability assumption,
-by a logical sleight of hand by Joyal and Tierney to arbitrary rings.
-This trick is applicable quite generally which is why we believe that it
-is of interest to a larger group of people. It is unlocked by
-categorical logic running on a certain fractal without points, the
-pointfree space of enumerations of a given set.
 ## September 20, 2022
+
+### ! The zoom link for this event has changed: see you online at [this new link](https://cs-ox-ac-uk.zoom.us/j/97878376376?pwd=QithMyt5NzdOeE1EWGJRcjBxamxnUT09)
 
 
 <a name="fest4"></a>
@@ -109,7 +33,7 @@ pointfree space of enumerations of a given set.
       <td>15:00</td>
       <td><a href="" target="_blank"><strong>A. Cigoli</strong></a></td>
       <td><a href="" target="_blank">TBA</a></td>
-      <td><b>TBA</b></td>
+      <td><b>Groupal Pseudofunctors</b></td>
       <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
     </tr>
     <tr>
@@ -120,7 +44,7 @@ pointfree space of enumerations of a given set.
       <td>16:00</td>
       <td><a href="" target="_blank"><strong>L. Reggio</strong></a></td>
       <td><a href="" target="_blank">TBA</a></td>
-      <td><b>TBA</b></td>
+      <td><b>Arboreal categories and homomorphism preservation theorems</b></td>
       <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
     </tr>
     <tr>
@@ -134,6 +58,24 @@ pointfree space of enumerations of a given set.
   </tbody>
 </table>
 </center>
+
+### Alan Cigoli
+#### Groupal Pseudofunctors
+
+Let B be an additive category and let Set denote the category of sets. A finite product preserving functor F from B to Set necessarily factors through the category Ab of abelian groups. This simple and important observation has no straightforward generalization when F and Set are replaced by a pseudo-functor and the 2-category Cat of categories, respectively. The latter situation occurs precisely when B is the base category of an opfibration.
+In this talk, we will focus on pseudo-functors corresponding to cartesian monoidal opfibrations of codomain B. Among such, we will eventually characterize, in terms of oplax and lax monoidal structure, those factorizing through the bicategory of symmetric categorical groups. This is the case, for example, when the starting opfibration has groupoidal fibres. This is joint work with S. Mantovani and G. Metere.
+
+### Luca Reggio
+#### Arboreal categories and homomorphism preservation theorems
+
+Game comonads, introduced by Abramsky, Dawar et al. in 2017, provide a categorical approach to (finite) model theory. In this framework one can capture, in a purely syntax-free way, various resource-sensitive logic fragments and corresponding combinatorial parameters.
+After an introduction to game comonads, I shall present an axiomatic framework which captures the essential common features of these constructions. This is based on the notion of arboreal category, in which every object is generated by its `paths’. I will then show how (resource-sensitive) homomorphism preservation theorems in logic can be recast and proved at this axiomatic level. This is joint work with Samson Abramsky.
+
+
+
+
+
+
 
 
 
@@ -354,3 +296,83 @@ In exploring the relation between a classical model of dependent types (comprehe
 Decomposition spaces are simplicial infinity-groupoids subject to an exactness condition weaker than the Segal condition. Where the Segal condition expresses composition, the weak condition expresses decomposition. The motivation for studying decomposition spaces is that they have incidence coalgebras and Möbius inversion. The most important class of simplicial maps for decomposition spaces are the CULF maps (standing for 'conservative' and 'unique-lifting-of-factorisation'), first studied by Lawvere; they induce coalgebra homomorphisms. The theorem I want to arrive at in the talk says that the infinity-category of (Rezk-complete) decomposition spaces and CULF maps is locally an infinity-topos. More precisely for each (Rezk-complete) decomposition space D, the slice infinity-category Decomp/D is equivalent to PrSh(Sd(D)), the infinity-topos of presheaves on the edgewise subdivision of D. Most of the talk will be spent on explaining preliminaries, though.
 
 This is joint work with Philip Hackney.
+
+## June 28, 2022
+
+
+<a name="fest4"></a>
+<center>
+<table>
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Speaker</th>
+      <th>Affiliation</th>
+      <th>Talk</th>
+      <th>Material</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color:#fbe49d	">
+      <td>15:00</td>
+      <td><a href="" target="_blank"><strong>F. Bonchi</strong></a></td>
+      <td><a href="" target="_blank">Università di Pisa</a></td>
+      <td><b>Deconstructing Tarski’s calculus of relations with Tape diagrams</b></td>
+      <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
+    </tr>
+    <tr>
+      <td>15:45</td>
+      <td colspan="4">Question time </td>
+    </tr>
+    <tr style="background-color:#fbe49d">
+      <td>16:00</td>
+      <td><a href="" target="_blank"><strong>I. Blechschmidt</strong></a></td>
+      <td><a href="" target="_blank">TBA</a></td>
+      <td><b>Reifying dynamical algebra</b></td>
+      <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
+    </tr>
+    <tr>
+      <td>16:45</td>
+      <td colspan="4">Question time </td>
+    </tr>
+    <tr>
+      <td>17:00</td>
+      <td colspan="4">Free chat </td>
+    </tr>
+  </tbody>
+</table>
+</center>
+
+### Filippo Bonchi
+#### Deconstructing Tarski's calculus of relations with Tape diagrams
+
+The calculus of (binary) relations has been introduced by Tarski as a variable-free alternative to first order logic. In this talk we introduce tape diagrams, a graphical language for expressing arrows of arbitrary finite biproduct rig categories, and we show how the calculus of relation can be encoded within tape diagrams.
+
+### Ingo Blechschmidt
+#### Reifying dynamical algebra
+##### Traveling the mathematical multiverse to apply tools for the countable also to the uncountable
+
+Commutative algebra abounds with proofs which are quite elegant and at
+the same time quite abstract. Even for concrete statements, proofs often
+appeal to transfinite methods like the axiom of choice or the law of
+excluded middle.
+Following Hilbert’s call, we should work to elucidate how these abstract
+proofs can be recast in more concrete, computational terms, regarding
+abstract proofs as intriguing guiding templates for formulating concrete
+proofs and regarding objects concocted by Zorn’s lemma such as maximal
+ideals as convenient fictions. One such technique for making
+computational sense of abstract proofs is dynamical algebra, going back
+to the work of Dominique Duval and her coauthors in the 1980's.
+The talk will first present the basic story of dynamical algebra with an
+illustrative example. Then we will report on joint work with Peter
+Schuster how to reify dynamical algebra using formal metatheorems of
+categorical logic, supplying a firm foundation to dynamical algebra,
+complementing previous approaches.
+A particular feature of our approach is that we apply a construction
+devised by Berardi and Valentini for the special case of countable
+rings, which indeed fundamentally requires the countability assumption,
+by a logical sleight of hand by Joyal and Tierney to arbitrary rings.
+This trick is applicable quite generally which is why we believe that it
+is of interest to a larger group of people. It is unlocked by
+categorical logic running on a certain fractal without points, the
+pointfree space of enumerations of a given set.
