@@ -5,7 +5,8 @@ title: ItaCa
 <img src="/assets/images/banner.jpg" style="width: 100%;" />
 
 ## ItaCa Fest 2022: we are coming back!
-ItaCa Fest 2022 will be online at <a href="https://stockholmuniversity.zoom.us/j/68792232558">this link</a>; save the date:
+<!-- ItaCa Fest 2022 will be online at <a href="https://stockholmuniversity.zoom.us/j/68792232558">this link</a>; save the date: -->
+ItaCa Fest 2022 will be online at <a href="nope">this link</a>; save the date:
 
 - [x] April 20, 2022 -- 3pm GMT+2
 - [x] May 19, 2022 -- 3pm GMT+2
