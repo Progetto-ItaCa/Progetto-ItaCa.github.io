@@ -13,8 +13,6 @@ The seminar will be live on [Zoom](https://zoom.us){:target="_blank"} at
 
 ## September 20, 2022
 
-### ! The zoom link for this event has changed: see you online at [this new link](https://cs-ox-ac-uk.zoom.us/j/97878376376?pwd=QithMyt5NzdOeE1EWGJRcjBxamxnUT09)
-
 
 <a name="fest4"></a>
 <center>

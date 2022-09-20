@@ -11,7 +11,7 @@ ItaCa Fest 2022 will be online at <a href="nope">this link</a>; save the date:
 - [x] April 20, 2022 -- 3pm GMT+2
 - [x] May 19, 2022 -- 3pm GMT+2
 - [x] June 28, 2022 -- 3pm GMT+2
-- [ ] September 20, 2022 -- 3pm GMT+2 (!! updated !! zoom link: [this](https://cs-ox-ac-uk.zoom.us/j/97878376376?pwd=QithMyt5NzdOeE1EWGJRcjBxamxnUT09))
+- [x] September 20, 2022 -- 3pm GMT+2
 - [ ] October 18, 2022 -- 3pm GMT+2
 - [ ] November 22, 2022 -- 9.30am GMT+1
 
