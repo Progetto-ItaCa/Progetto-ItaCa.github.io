@@ -51,11 +51,9 @@ Here is a list of a few papers we have in mind:
 - Rosicky, **Concrete Categories**
 - Rosicky, **Concrete categories and infinitary languages.**
 
-
-| {% cite ruby --file refs %} | bla | | |
-| {% cite bla --file refs %} | bla | | |
-
+| | | {% cite guitart1980extenseurs --style onlytitle --file ensemble %} |
+| | | {% cite kelly1989elementary --style onlytitle --file ensemble %} |
 
 ## References
 
-{% bibliography --file refs %}
+{% bibliography --file ensemble %}

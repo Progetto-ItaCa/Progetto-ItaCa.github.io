@@ -6,7 +6,8 @@ favicon: favicon.ico
 
 markdown: kramdown
 
-# plugins: ['jekyll/scholar']
+plugins:
+  - "jekyll/scholar"
 
 scholar:
-  style: ./onlytitle
+  style: apa # NOTE: this is just the default
