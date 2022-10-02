@@ -25,34 +25,30 @@ Anyone who is interested can contact the two people that (so far) are responsibl
 
 Here is a list of a few papers we have in mind:
 
-- R. Guitart, [Extenseurs](http://www.numdam.org/item/DIA_1980__3__A3_0.pdf).
-- M. Kelly, [Elementary observations on 2-categorical limits](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C14F8C3C46D45BCEC748660630EA7535/S0004972700002781a.pdf/elementary_observations_on_2categorical_limits.pdf)
-- R. Guitart, [Des machines aux bimodules](http://rene.guitart.pagesperso-orange.fr/textespublications/rg30.pdf)
-- R. Guitart, papers on autocategories
-  [papers](http://rene.guitart.pagesperso-orange.fr/textespublications/Guitart117.pdf)
-  [on](http://cahierstgdc.com/wp-content/uploads/2017/05/Guitart_55-2.pdf)
-  [autocategories](http://cahierstgdc.com/wp-content/uploads/2018/01/Guitart-58-1.pdf).
-- R. Betti, S. Kasangian, [Una proprietà del comportamento per gli automi completi](https://rendiconti.dmi.units.it/volumi/14/02.pdf)
-- Věra Trnková; Jiří Adámek; Václav Koubek; Jan Reiterman, **Free algebras, input processes and free monads**
-- Věra Trnková, **On descriptive classification of set-functors. I.**
-- Reiterman, **The Birkhoff theorem for finite algebras**
-- Vaclav Koubek, Jan Reiterman, **Categorical constructions of free algebras, colimits and completions of partial algebras,**
-- ALBERT BURRONI, **Algèbres graphiques (sur un concept de dimension dans les langages formels)**
-- Thomas Fox, **Coalgebras and cartesian categories**
-- Gray, **THE CATEGORICAL COMPREHENSION SCHEME**
-- Guitart, **Toute theorie est algebrique et topologique**
-- Ulmer, **Dense functors and Relative adjoints**
-- Ulmer, **The AFT and the Yoneda Embedding**
-- Ulmer, **Representable functors with Values in arbitrary categories**
-- Isbell, **Structure of Categories**
-- Grzegorz JARZEMBSKI, **FINITARY SPECTRAL ALGEBRAIC THEORIES**
-- Kainen, **Weak Adjoint functor theorem**
-- Kennison, **Limit preserving functors**
-- Rosicky, **Concrete Categories**
-- Rosicky, **Concrete categories and infinitary languages.**
-
 | | | {% cite guitart1980extenseurs --style onlytitle --file ensemble %} |
+| | | {% cite guitart1978machines --style onlytitle --file ensemble %} |
 | | | {% cite kelly1989elementary --style onlytitle --file ensemble %} |
+| | | {% cite ulmer1971yoneda --style onlytitle --file ensemble %} |
+| | | {% cite betti1982automi --style onlytitle --file ensemble %} |
+| | | {% cite Trnkova1975 --style onlytitle --file ensemble %} |
+| | | {% cite Trnkova1971 --style onlytitle --file ensemble %} |
+| | | {% cite Reiterman1982 --style onlytitle --file ensemble %} |
+| | | {% cite Koubek1979 --style onlytitle --file ensemble %} |
+| | | {% cite guitart2014autoca1 --style onlytitle --file ensemble %} |
+| | | {% cite guitart2014autoca2 --style onlytitle --file ensemble %} |
+| | | {% cite guitart2014autoca3 --style onlytitle --file ensemble %} |
+| | | {% cite CTGDC_1981__22_3_249_0 --style onlytitle --file ensemble %} |
+| | | {% cite Fox1976 --style onlytitle --file ensemble %} |
+| | | {% cite Gray1969 --style onlytitle --file ensemble %} |
+| | | {% cite CTGDC_2008__49_2_83_0 --style onlytitle --file ensemble %} |
+| | | {% cite Ulmer1968 --style onlytitle --file ensemble %} |
+| | | {% cite Ulmer1968-2 --style onlytitle --file ensemble %} |
+| | | {% cite MacLane1970 --style onlytitle --file ensemble %} |
+| | | {% cite bams/1183528163 --style onlytitle --file ensemble %} |
+| | | {% cite Jarzembski1988 --style onlytitle --file ensemble %} |
+| | | {% cite Kainen1971 --style onlytitle --file ensemble %} |
+| | | {% cite Kennison1968 --style onlytitle --file ensemble %} |
+| | | {% cite Rosick1981 --style onlytitle --file ensemble %} |
 
 ## References
 

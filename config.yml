@@ -11,3 +11,4 @@ plugins:
 
 scholar:
   style: apa # NOTE: this is just the default
+  order: descending
