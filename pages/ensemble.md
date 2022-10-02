@@ -21,8 +21,9 @@ Anyone who is interested can contact the two people that (so far) are responsibl
 
 (you can contact us also in case you want to become a "mentor"!).
 
-Here is a list of a few papers we have in mind:
+## Works in progress
 
+Here is a list of a few papers we have in mind:
 
 - R. Guitart, [Extenseurs](http://www.numdam.org/item/DIA_1980__3__A3_0.pdf).
 - M. Kelly, [Elementary observations on 2-categorical limits](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C14F8C3C46D45BCEC748660630EA7535/S0004972700002781a.pdf/elementary_observations_on_2categorical_limits.pdf)
@@ -49,3 +50,12 @@ Here is a list of a few papers we have in mind:
 - Kennison, **Limit preserving functors**
 - Rosicky, **Concrete Categories**
 - Rosicky, **Concrete categories and infinitary languages.**
+
+
+| {% cite ruby --file refs %} | bla | | |
+| {% cite bla --file refs %} | bla | | |
+
+
+## References
+
+{% bibliography --file refs %}

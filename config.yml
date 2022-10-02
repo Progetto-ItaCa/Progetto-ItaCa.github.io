@@ -5,3 +5,8 @@ baseurl: "/"
 favicon: favicon.ico
 
 markdown: kramdown
+
+# plugins: ['jekyll/scholar']
+
+scholar:
+  style: ./onlytitle
