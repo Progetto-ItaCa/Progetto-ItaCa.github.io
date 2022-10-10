@@ -185,7 +185,7 @@ Thinking of groups as one-object categories makes the category of groups natural
       <td><a href="https://etagreta.github.io/" target="_blank"><strong>G. Coraglia</strong></a></td>
       <td><a href="" target="_blank">Università di Genova</a></td>
       <td><b>Comonads for dependent types</b></td>
-      <td><a href="#coraglia-abs">▤</a> <a href="" target="_blank">▶</a></td>
+      <td><a href="#coraglia-abs">▤</a> <a href="https://www.youtube.com/watch?v=MZiqte09Tpw" target="_blank">▶</a></td>
     </tr>
     <tr>
       <td>15:45</td>
@@ -196,7 +196,7 @@ Thinking of groups as one-object categories makes the category of groups natural
       <td><a href="http://www.mat.uab.es/~kock/" target="_blank"><strong>J. Kock</strong></a></td>
       <td><a href="" target="_blank">UCPH-UAB-CRM</a></td>
       <td><b>Decomposition spaces, right fibrations, and edgewise subdivision.</b></td>
-      <td><a href="#kock-abs">▤</a> <a href="" target="_blank">▶</a></td>
+      <td><a href="#kock-abs">▤</a> <a href="https://www.youtube.com/watch?v=Mjlp6IHVs4A" target="_blank">▶</a></td>
     </tr>
     <tr>
       <td>16:45</td>
@@ -245,7 +245,7 @@ This is joint work with Philip Hackney.
       <td><a href="" target="_blank"><strong>F. Bonchi</strong></a></td>
       <td><a href="" target="_blank">Università di Pisa</a></td>
       <td><b>Deconstructing Tarski’s calculus of relations with Tape diagrams</b></td>
-      <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
+      <td><a href="#bonchi-abs">▤</a> <a href="https://www.youtube.com/watch?v=KAy67c67RAA" target="_blank">▶</a></td>
     </tr>
     <tr>
       <td>15:45</td>
@@ -254,9 +254,9 @@ This is joint work with Philip Hackney.
     <tr style="background-color:#fbe49d">
       <td>16:00</td>
       <td><a href="" target="_blank"><strong>I. Blechschmidt</strong></a></td>
-      <td><a href="" target="_blank">TBA</a></td>
+      <td><a href="" target="_blank"> </a></td>
       <td><b>Reifying dynamical algebra</b></td>
-      <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
+      <td><a href="#ingo-abs">▤</a> <a href="https://www.youtube.com/watch?v=jFIhx_TCiiI" target="_blank">▶</a></td>
     </tr>
     <tr>
       <td>16:45</td>
@@ -270,11 +270,13 @@ This is joint work with Philip Hackney.
 </table>
 </center>
 
+<div id="bonchi-abs"></div>
 ### Filippo Bonchi
 #### Deconstructing Tarski's calculus of relations with Tape diagrams
 
 The calculus of (binary) relations has been introduced by Tarski as a variable-free alternative to first order logic. In this talk we introduce tape diagrams, a graphical language for expressing arrows of arbitrary finite biproduct rig categories, and we show how the calculus of relation can be encoded within tape diagrams.
 
+<div id="ingo-abs"></div>
 ### Ingo Blechschmidt
 #### Reifying dynamical algebra
 ##### Traveling the mathematical multiverse to apply tools for the countable also to the uncountable
