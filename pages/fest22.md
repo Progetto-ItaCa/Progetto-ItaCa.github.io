@@ -40,8 +40,8 @@ The seminar will be live on [Zoom](https://zoom.us){:target="_blank"} at
     <tr style="background-color:#fbe49d">
       <td>16:00</td>
       <td><a href="" target="_blank"><strong>M. Capucci</strong></a></td>
-      <td><a href="" target="_blank">TBA</a></td>
-      <td><b>TBA</b></td>
+      <td><a href="" target="_blank">University of Strathclyde</a></td>
+      <td><b>Triple categories of open cybernetic systems</b></td>
       <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
     </tr>
     <tr>
@@ -55,6 +55,15 @@ The seminar will be live on [Zoom](https://zoom.us){:target="_blank"} at
   </tbody>
 </table>
 </center>
+
+<div id="lorenzin-abs"></div>
+### Matteo Capucci
+#### Triple categories of open cybernetic systems
+
+Categorical system theory (in the sense of Myers) is a double categorical yoga for describing the compositional structure of open dynamical systems.
+ It unifies and improves on previous work on operadic notions of system theory, and provides a strong conceptual scaffolding for behavioral system theory.
+ However, some of the most interesting systems out there escape the simple model of dynamical systems. They are instead cybernetic systems, or in other words, controllable dynamical systems. Notable and motivating examples are strategic games and machine learning models.
+ In this talk I'm going to outline an upgrade of categorical system theory to deal with such systems by resorting to triple categories.
 
 
 ## November 22, 2022¹
