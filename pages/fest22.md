@@ -28,7 +28,7 @@ The seminar will be live on [Zoom](https://zoom.us){:target="_blank"} at
   <tbody>
     <tr style="background-color:#fbe49d	">
       <td>15:00</td>
-      <td><a href="" target="_blank"><strong>M. Escardó</strong></a></td>
+      <td><strong>M. Escardó</strong></td>
       <td><a href="" target="_blank">University of Birmingham</a></td>
       <td><b>Compact totally separated types</b></td>
       <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
@@ -39,7 +39,7 @@ The seminar will be live on [Zoom](https://zoom.us){:target="_blank"} at
     </tr>
     <tr style="background-color:#fbe49d">
       <td>16:00</td>
-      <td><a href="" target="_blank"><strong>M. Capucci</strong></a></td>
+      <td><strong>M. Capucci</strong></td>
       <td><a href="" target="_blank">University of Strathclyde</a></td>
       <td><b>Triple categories of open cybernetic systems</b></td>
       <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
@@ -87,7 +87,7 @@ We define notions of compactness and total separatedness for types corresponding
   <tbody>
     <tr style="background-color:#fbe49d	">
       <td>9:30</td>
-      <td><a href="" target="_blank"><strong>N. Di Vittorio</strong></a></td>
+      <td><strong>N. Di Vittorio</strong></td>
       <td><a href="" target="_blank">TBA</a></td>
       <td><b>TBA</b></td>
       <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
@@ -98,7 +98,7 @@ We define notions of compactness and total separatedness for types corresponding
     </tr>
     <tr style="background-color:#fbe49d">
       <td>10:30</td>
-      <td><a href="" target="_blank"><strong>G. Raptis</strong></a></td>
+      <td><strong>G. Raptis</strong></td>
       <td><a href="" target="_blank">TBA</a></td>
       <td><b>TBA</b></td>
       <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
@@ -255,7 +255,7 @@ This is joint work with Philip Hackney.
   <tbody>
     <tr style="background-color:#fbe49d	">
       <td>15:00</td>
-      <td><a href="" target="_blank"><strong>F. Bonchi</strong></a></td>
+      <td><strong>F. Bonchi</strong></td>
       <td><a href="" target="_blank">Università di Pisa</a></td>
       <td><b>Deconstructing Tarski’s calculus of relations with Tape diagrams</b></td>
       <td><a href="#bonchi-abs">▤</a> <a href="https://www.youtube.com/watch?v=KAy67c67RAA" target="_blank">▶</a></td>
@@ -266,7 +266,7 @@ This is joint work with Philip Hackney.
     </tr>
     <tr style="background-color:#fbe49d">
       <td>16:00</td>
-      <td><a href="" target="_blank"><strong>I. Blechschmidt</strong></a></td>
+      <td><strong>I. Blechschmidt</strong></td>
       <td><a href="" target="_blank"> </a></td>
       <td><b>Reifying dynamical algebra</b></td>
       <td><a href="#ingo-abs">▤</a> <a href="https://www.youtube.com/watch?v=jFIhx_TCiiI" target="_blank">▶</a></td>
@@ -338,7 +338,7 @@ pointfree space of enumerations of a given set.
   <tbody>
     <tr style="background-color:#fbe49d	">
       <td>15:00</td>
-      <td><a href="" target="_blank"><strong>A. Cigoli*</strong></a></td>
+      <td><strong>A. Cigoli*</strong></td>
       <td><a href="" target="_blank">TBA</a></td>
       <td><b>Groupal Pseudofunctors</b></td>
       <td><a href="#metere-abs">▤</a>
@@ -350,7 +350,7 @@ pointfree space of enumerations of a given set.
     </tr>
     <tr style="background-color:#fbe49d">
       <td>16:00</td>
-      <td><a href="" target="_blank"><strong>L. Reggio</strong></a></td>
+      <td><strong>L. Reggio</strong></td>
       <td><a href="" target="_blank">TBA</a></td>
       <td><b>Arboreal categories and homomorphism preservation theorems</b></td>
       <td><a href="#reggio-abs">▤</a>
