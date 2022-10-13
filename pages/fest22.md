@@ -29,8 +29,8 @@ The seminar will be live on [Zoom](https://zoom.us){:target="_blank"} at
     <tr style="background-color:#fbe49d	">
       <td>15:00</td>
       <td><a href="" target="_blank"><strong>M. Escardó</strong></a></td>
-      <td><a href="" target="_blank">TBA</a></td>
-      <td><b>TBA</b></td>
+      <td><a href="" target="_blank">University of Birmingham</a></td>
+      <td><b>Compact totally separated types</b></td>
       <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
     </tr>
     <tr>
@@ -65,6 +65,10 @@ Categorical system theory (in the sense of Myers) is a double categorical yoga f
  However, some of the most interesting systems out there escape the simple model of dynamical systems. They are instead cybernetic systems, or in other words, controllable dynamical systems. Notable and motivating examples are strategic games and machine learning models.
  In this talk I'm going to outline an upgrade of categorical system theory to deal with such systems by resorting to triple categories.
 
+### Martín Escardó
+#### Compact totally separated types
+
+We define notions of compactness and total separatedness for types corresponding to topological notions with the same name. The objective is not to be faithful to topology, but instead to get inspiration from topology for obtaining surprising results in constructive mathematics.
 
 ## November 22, 2022¹
 
