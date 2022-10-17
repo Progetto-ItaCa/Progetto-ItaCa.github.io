@@ -30,7 +30,7 @@ The seminar will be live on [Zoom](https://zoom.us){:target="_blank"} at
       <td>15:00</td>
       <td><strong>M. Escardó</strong></td>
       <td><a href="" target="_blank">University of Birmingham</a></td>
-      <td><b>Compact totally separated types</b></td>
+      <td><b>CANCELED</b></td>
       <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
     </tr>
     <tr>
@@ -66,9 +66,8 @@ Categorical system theory (in the sense of Myers) is a double categorical yoga f
  In this talk I'm going to outline an upgrade of categorical system theory to deal with such systems by resorting to triple categories.
 
 ### Martín Escardó
-#### Compact totally separated types
 
-We define notions of compactness and total separatedness for types corresponding to topological notions with the same name. The objective is not to be faithful to topology, but instead to get inspiration from topology for obtaining surprising results in constructive mathematics.
+The talk has been canceled due to an unforeseen personal event. [Click](https://twitter.com/EscardoMartin/status/1581035961110388736?s=20).
 
 ## November 22, 2022¹
 
