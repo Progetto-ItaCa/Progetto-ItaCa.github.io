@@ -4,9 +4,13 @@ title: ItaCa
 
 <img src="/assets/images/banner.jpg" style="width: 100%;" />
 
+
+## 3rd ItaCa Workshop in Pisa!
+Our [annual meeting](https://progetto-itaca.github.io/ItaCa-22/) will happen in Pisa (21-22 December 2022). Please come and join us! 
+
 ## ItaCa Fest 2022: we are coming back!
 <!-- ItaCa Fest 2022 will be online at <a href="https://stockholmuniversity.zoom.us/j/68792232558">this link</a>; save the date: -->
-ItaCa Fest 2022 will be online at <a href="nope">this link</a>; save the date:
+ItaCa Fest 2022 will be online at <a href="https://cs-ox-ac-uk.zoom.us/j/97878376376?pwd=QithMyt5NzdOeE1EWGJRcjBxamxnUT09">this link</a>; save the date:
 
 - [x] April 20, 2022 -- 3pm GMT+2
 - [x] May 19, 2022 -- 3pm GMT+2
