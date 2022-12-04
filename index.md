@@ -5,23 +5,6 @@ title: ItaCa
 <img src="/assets/images/banner.jpg" style="width: 100%;" />
 
 
-## 3rd ItaCa Workshop in Pisa!
-Our [annual meeting](https://progetto-itaca.github.io/ItaCa-22/) will happen in Pisa (21-22 December 2022). Please come and join us! 
-
-## ItaCa Fest 2022: we are coming back!
-<!-- ItaCa Fest 2022 will be online at <a href="https://stockholmuniversity.zoom.us/j/68792232558">this link</a>; save the date: -->
-ItaCa Fest 2022 will be online at <a href="https://cs-ox-ac-uk.zoom.us/j/97878376376?pwd=QithMyt5NzdOeE1EWGJRcjBxamxnUT09">this link</a>; save the date:
-
-- [x] April 20, 2022 -- 3pm GMT+2
-- [x] May 19, 2022 -- 3pm GMT+2
-- [x] June 28, 2022 -- 3pm GMT+2
-- [x] September 20, 2022 -- 3pm GMT+2
-- [ ] October 18, 2022 -- 3pm GMT+2
-- [ ] November 22, 2022 -- 9.30am GMT+1
-
-And join us, G. Coraglia, J. Kock, F. Bonchi, I. Blechschmidt, A. Cigoli, L. Reggio, M. Escardó, M.Capucci, N. Di Vittorio, G. Raptis for another amazing edition of ItaCa Fest!
-
-
 ## What is ItaCa?
 
 Our name stands for **Ita**lian **Ca**tegory theorists, but it also reminds the island where Odysseus strived so hard to come back.
@@ -38,11 +21,12 @@ We are still a small community, but we are slowly growing. You are more than wel
 
 ## Latest news
 
-In October 2021, we started the first Category Theory course of ItaCa; join us on our [zulip](https://itaca.zulipchat.com/) channel!
+- In October 2021, we started the first Category Theory course of ItaCa; join us on our [zulip](https://itaca.zulipchat.com/) channel!
 
-As soon as the [covid-19 pandemic](https://en.wikipedia.org/wiki/COVID-19_pandemic) loosened its grip on the planet, we restarted meeting in person: since our first meeting in December 2019, there has been
+- As soon as the [covid-19 pandemic](https://en.wikipedia.org/wiki/COVID-19_pandemic) loosened its grip on the planet, we restarted meeting in person: since our first meeting in December 2019, there has been
 
-- <a href="https://genoa-logic-group.github.io/itaca-workshop-2021/">itaca21</a> in Genoa.
+    - <a href="https://genoa-logic-group.github.io/itaca-workshop-2021/">itaca21</a> in Genoa.
+    - (upcoming) <a href="https://progetto-itaca.github.io/ItaCa-22/">itaca22</a> in Pisa.
 
 <img src="/assets/images/elep-low.jpg" style="width: 100%;" align="right" />
 
