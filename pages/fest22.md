@@ -353,7 +353,7 @@ The talk has been canceled due to an unforeseen personal event. [Click](https://
       <td><strong>N. Di Vittorio</strong></td>
       <td><a href="https://www.mq.edu.au" target="_blank">Macquarie University</a></td>
       <td><b>A gentle introduction to 2-derivators</b></td>
-      <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
+      <td><a href="">▤</a> <a href="https://www.youtube.com/watch?v=jytpdgzEYQM" target="_blank">▶</a></td>
     </tr>
     <tr>
       <td>10:15</td>
