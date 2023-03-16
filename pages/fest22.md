@@ -8,66 +8,6 @@ ItaCa Fest is an online webinar aimed to gather the community of ItaCa.
 The seminar will be live on [Zoom](https://zoom.us){:target="_blank"} at
 <a href="https://cs-ox-ac-uk.zoom.us/j/97878376376?pwd=QithMyt5NzdOeE1EWGJRcjBxamxnUT09">this link</a>
 
-# Upcoming
-
-
-
-## November 22, 2022¹
-
-<a name="fest4"></a>
-<center>
-<table>
-  <thead>
-    <tr>
-      <th>Time</th>
-      <th>Speaker</th>
-      <th>Affiliation</th>
-      <th>Talk</th>
-      <th>Material</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="background-color:#fbe49d	">
-      <td>9:30</td>
-      <td><strong>N. Di Vittorio</strong></td>
-      <td><a href="" target="_blank">TBA</a></td>
-      <td><b>A gentle introduction to 2-derivators</b></td>
-      <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
-    </tr>
-    <tr>
-      <td>10:15</td>
-      <td colspan="4">Question time </td>
-    </tr>
-    <tr style="background-color:#fbe49d">
-      <td>10:30</td>
-      <td><strong>G. Raptis</strong></td>
-      <td><a href="" target="_blank">TBA</a></td>
-      <td><b>What is a stable n-category?</b></td>
-      <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
-    </tr>
-    <tr>
-      <td>11:15</td>
-      <td colspan="4">Question time </td>
-    </tr>
-    <tr>
-      <td>12:00</td>
-      <td colspan="4">Free chat </td>
-    </tr>
-  </tbody>
-</table>
-</center>
-
-[¹] The timetable for November 2022 event has been changed to accomodate the first speaker from Macquarie University
-
-### Nicola di Vittorio
-#### A gentle introduction to 2-derivators
-Derivators originated in the 1980s from independent efforts by Grothendieck and Heller aimed at formalising homotopy theory. They realised that the collection of homotopy categories of diagram categories retains enough information to capture homotopy limits and colimits using just old-fashioned category theory. Going one dimension up we could ask how much of $(\infty,1)$-category theory can be developed in this way. Progress in this direction has been done by Riehl and Verity in their work on $\infty$-cosmoi by showing that similar ideas allow even for internalisation of adjunctions from 2-categorical data. In this talk I will explain to which extent the theory of derivators can be enhanced to a theory of $2$-derivators having $\infty$-cosmology as a model.
-
-### Georgios Raptis
-#### What is a stable n-category?
-Triangulated categories provide a convenient framework for the study of derived functors in algebra and geometry. In most cases of interest, triangulated structures can be enhanced to more highly structured objects with better properties. The search for appropriate enhancements of triangulated categories has led to various foundational approaches in stable homotopy theory. In the context of \infty-categories (or quasi-categories), this involves the notion of stable \infty-category. Indeed, the homotopy 1-category of a stable \infty-category is canonically triangulated. But what about n-categories for 1 < n < \infty? Is there an appropriate notion of stable (or triangulated) category in the context of n-categories that interpolates between stable \infty-categories and triangulated categories? The main examples should again be the homotopy n-categories of stable \infty-categories. In this talk, I will discuss the relevant properties of higher homotopy categories leading to a notion of stable n-category. If time permits, I will also mention some uses of this notion of stable n-category for (higher) Brown representability and algebraic K-theory.
-
-# Past
 
 ## April 20, 2022
 
@@ -391,3 +331,59 @@ Categorical system theory (in the sense of Myers) is a double categorical yoga f
 ### Martín Escardó
 
 The talk has been canceled due to an unforeseen personal event. [Click](https://twitter.com/EscardoMartin/status/1581035961110388736?s=20).
+
+
+## November 22, 2022¹
+
+<a name="fest4"></a>
+<center>
+<table>
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Speaker</th>
+      <th>Affiliation</th>
+      <th>Talk</th>
+      <th>Material</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color:#fbe49d	">
+      <td>9:30</td>
+      <td><strong>N. Di Vittorio</strong></td>
+      <td><a href="https://www.mq.edu.au" target="_blank">Macquarie University</a></td>
+      <td><b>A gentle introduction to 2-derivators</b></td>
+      <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
+    </tr>
+    <tr>
+      <td>10:15</td>
+      <td colspan="4">Question time </td>
+    </tr>
+    <tr style="background-color:#fbe49d">
+      <td>10:30</td>
+      <td><strong>G. Raptis</strong></td>
+      <td><a href="https://www.uni-regensburg.de/en" target="_blank">University of Regensburg</a></td>
+      <td><b>What is a stable n-category?</b></td>
+      <td><a href="">▤</a> <a href="" target="_blank">▶</a></td>
+    </tr>
+    <tr>
+      <td>11:15</td>
+      <td colspan="4">Question time </td>
+    </tr>
+    <tr>
+      <td>12:00</td>
+      <td colspan="4">Free chat </td>
+    </tr>
+  </tbody>
+</table>
+</center>
+
+[¹] The timetable for November 2022 event has been changed to accomodate the first speaker from Macquarie University
+
+### Nicola di Vittorio
+#### A gentle introduction to 2-derivators
+Derivators originated in the 1980s from independent efforts by Grothendieck and Heller aimed at formalising homotopy theory. They realised that the collection of homotopy categories of diagram categories retains enough information to capture homotopy limits and colimits using just old-fashioned category theory. Going one dimension up we could ask how much of $(\infty,1)$-category theory can be developed in this way. Progress in this direction has been done by Riehl and Verity in their work on $\infty$-cosmoi by showing that similar ideas allow even for internalisation of adjunctions from 2-categorical data. In this talk I will explain to which extent the theory of derivators can be enhanced to a theory of $2$-derivators having $\infty$-cosmology as a model.
+
+### Georgios Raptis
+#### What is a stable n-category?
+Triangulated categories provide a convenient framework for the study of derived functors in algebra and geometry. In most cases of interest, triangulated structures can be enhanced to more highly structured objects with better properties. The search for appropriate enhancements of triangulated categories has led to various foundational approaches in stable homotopy theory. In the context of \infty-categories (or quasi-categories), this involves the notion of stable \infty-category. Indeed, the homotopy 1-category of a stable \infty-category is canonically triangulated. But what about n-categories for 1 < n < \infty? Is there an appropriate notion of stable (or triangulated) category in the context of n-categories that interpolates between stable \infty-categories and triangulated categories? The main examples should again be the homotopy n-categories of stable \infty-categories. In this talk, I will discuss the relevant properties of higher homotopy categories leading to a notion of stable n-category. If time permits, I will also mention some uses of this notion of stable n-category for (higher) Brown representability and algebraic K-theory.
