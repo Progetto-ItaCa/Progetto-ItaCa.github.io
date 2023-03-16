@@ -26,7 +26,7 @@ We are still a small community, but we are slowly growing. You are more than wel
 - As soon as the [covid-19 pandemic](https://en.wikipedia.org/wiki/COVID-19_pandemic) loosened its grip on the planet, we restarted meeting in person: since our first meeting in December 2019, there has been
 
     - <a href="https://genoa-logic-group.github.io/itaca-workshop-2021/">itaca21</a> in Genoa.
-    - (upcoming) <a href="https://progetto-itaca.github.io/ItaCa-22/">itaca22</a> in Pisa.
+    - <a href="https://progetto-itaca.github.io/ItaCa-22/">itaca22</a> in Pisa.
 
 <img src="/assets/images/elep-low.jpg" style="width: 100%;" align="right" />
 
