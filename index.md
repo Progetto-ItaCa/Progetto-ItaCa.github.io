@@ -23,7 +23,7 @@ We are still a small community, but we are slowly growing. You are more than wel
 
 - In October 2021, we started the first Category Theory course of ItaCa; join us on our [zulip](https://itaca.zulipchat.com/) channel!
 
-- As soon as the [covid-19 pandemic](https://en.wikipedia.org/wiki/COVID-19_pandemic) loosened its grip on the planet, we restarted meeting in person: since our first meeting in December 2019, there has been
+- As soon as the [covid-19 pandemic](https://en.wikipedia.org/wiki/COVID-19_pandemic) loosened its grip on the planet, we restarted meeting in person: since our [first](http://www.mat.unimi.it/users/itaca/) meeting in December 2019, there has been
 
     - <a href="https://genoa-logic-group.github.io/itaca-workshop-2021/">itaca21</a> in Genoa.
     - <a href="https://progetto-itaca.github.io/ItaCa-22/">itaca22</a> in Pisa.
