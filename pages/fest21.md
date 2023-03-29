@@ -4,17 +4,7 @@ title: Itaca Fest 2021
 
 # ItaCa Fest 2021
 
-ItaCa Fest is an online webinar aimed to gather the community of ItaCa. You can find us on [researchseminars](https://researchseminars.org/seminar/itaca){:target="_blank"}.
-
-ItaCa Fest will come back in September! Stay tuned. Here you can find our past events and speakers.
-
-The seminars will be live on [Zoom](https://zoom.us){:target="_blank"} at <a href="https://zoom.us/j/94880770089?pwd=clgxK2VkVEE5Ymw5ME1QWktiWExUZz09">this link</a>. The time is specified in the Italian time zone (UTC+1)!
-
-For those who who can't open zoom from their browser:
-
-| ID: | 94880770089 |
-| Passcode: | 102674 |
-
+ItaCa Fest is an online webinar aimed to gather the community of ItaCa.
 
 <!-- ## December 2021 - ItaCa Fest XMas edition
 
@@ -64,7 +54,7 @@ For those who who can't open zoom from their browser:
 </center> -->
 
 
-## Past Events
+## Events
 
 ## November 18, 2021
 
@@ -97,7 +87,7 @@ For those who who can't open zoom from their browser:
       <td><a href="" target="_blank"><strong>Olimpieri</strong></a></td>
       <td><a href="" target="_blank">University of Leeds</a></td>
       <td><b>Categorifying Intersection Types</b></td>
-      <td><a href="">▤</a> <a href="https://www.youtube.com/watch?v=DjhHjd-LL4Q" target="_blank">▶</a></td>
+      <td><a href="#olimpieri-abs">▤</a> <a href="https://www.youtube.com/watch?v=DjhHjd-LL4Q" target="_blank">▶</a></td>
     </tr>
     <tr>
       <td>16:15</td>
@@ -110,43 +100,6 @@ For those who who can't open zoom from their browser:
   </tbody>
 </table>
 </center>
-
-### Domenico Fiorenza
-#### Categorical shadows lurking behind integral formulas for genera
-
-*Professor Friedrich*: And so, if you have a complex genus taking rational values, i.e., a ring homomorphism from the complex cobordism ring to the field **Q** of rational numbers, you have an integral formula expressing it.
-
-*The Categorist*: If a formula is true, it must be expressed by a commutative diagram.
-
-*Professor Friedrich*: But my formula is true!
-
-*The Categorist*: Then it must be expressed by a commutative diagram.
-
-*Professor Friedrich*: Show me.
-
-*The Categorist*: Let us consider the category of spectra...
-
-*Professor Friedrich*: And so?
-
-*The Categorist*: Well... I don't see a commutative diagram here.
-
-*Professor Friedrich*: And so?
-
-*The Categorist*: And so your formula must be false.
-
-*Professor Friedrich*: But my formula is true!
-
-*The Categorist*: Impossible.
-
-*Sir Michael*: There is something I think I know on the Spanier-Whitehead dual of a smooth manifold that may happen to be of some relevance here.
-
-(Emil Ionesco, Triceratops)
-
-### Federico Olimpieri
-#### Categorifying Intersection Types
-
-We study a family of distributors-induced bicategorical models of lambda-calculus, proving that they can be syntactically presented via intersection type systems. We first introduce a class of 2-monads whose algebras are monoidal categories modelling resource management. We lift these monads to distributors and define a parametric Kleisli bicategory, giving a sufficient condition for its cartesian closure. In this framework we define a proof-relevant semantics: the interpretation of a term associates to it the set of its typing derivations in appropriate systems. We prove that our model characterize solvability, adapting reducibility techniques to our setting. We conclude by describing wo examples of our construction.
-
 ## October 21, 2021
 
 <a name="fest4"></a>
@@ -192,19 +145,6 @@ We study a family of distributors-induced bicategorical models of lambda-calculu
 </table>
 </center>
 
-<div id="zanfa-abs"></div>
-### Riccardo Zanfa
-#### Generalized presheaf-bundle adjunctions
-We present two new results generalizing the well-known presheaf-bundle adjunction for topological spaces, which relate indexed categories (and presheaves) over a site (C,J) with toposes over the topos Sh(C,J). The content of this seminar can be found in a joint work with Olivia Caramello titled Relative topos theory via stacks, and currently available on arXiv.
-
-<div id="todd-abs"></div>
-### Todd Trimble
-#### Grothendieck groups of 2-rigs as lambda rings
-
-This talk will report on recent joint work with John Baez and Joe Moeller. We introduce a notion of 2-rig as a way of categorifying the usual notion of rig (ring without negatives); examples include categories of group representations, categories of vector bundles over spaces, categories of coherent sheaves over projective varieties, and many others. We describe Schur functors on general 2-rigs, and indicate how the free 2-rig on one generator encodes Schur functors on 2-rigs. Finally, we indicate how the Grothendieck group of a 2-rig yields a lambda ring, where the theory of lambda-rings is a "plethory" obtained by decategorifying a conceptually simple 2-plethory that is associated with the free 2-rig.
-
-
-
 ## September 28, 2021
 
 <a name="fest4"></a>
@@ -249,21 +189,6 @@ This talk will report on recent joint work with John Baez and Joe Moeller. We in
   </tbody>
 </table>
 </center>
-
-<div id="porta-abs"></div>
-### Mauro Porta
-#### Pro and Ind-categories in Algebra and Geometry
-In this talk we are going to discuss some natural instances of pro and ind categories in algebraic and geometric contexts, highlighting the importance of working with objects in Ind(Cat<sub>&infin;</sub>) and Pro(Cat<sub>&infin;</sub>)  instead of their Cat<sub>&infin;</sub> realizations.
-Towards the end we will raise some questions, with the intent of determining what is the "correct" object to consider in these contexts, so as to optimize the generalization/applicability trade-off.
-
-<div id="tim-abs"></div>
-### Tim Van Der Linden
-#### Algebras with representable representations
-
-(Joint work with Xabier García-Martínez, Matsvei Tsishyn and Corentin Vienne)
-
-Just like group actions are represented by group automorphisms, Lie algebra actions are represented by derivations: up to isomorphism, a split extension of a Lie algebra B by a Lie algebra _X_ corresponds to a Lie algebra morphism _B_ &rarr; **Der**(X) from _B_ to the Lie algebra **Der**(_X_) of derivations on _X_. The aim of this talk is to elaborate on the question, whether the concept of a derivation can be extended to other types of non-associative algebras over a field **K**, in such a way that these generalised derivations characterise the **K**-algebra actions.
-We prove that the answer is no, as soon as the field **K** is infinite. In fact, we prove a stronger result: already the representability of all abelian actions – which are usually called representations or Beck modules – suffices for this to be true. Thus we characterise the variety of Lie algebras over an infinite field of characteristic different from 2 as the only variety of non-associative algebras which is a non-abelian category with representable representations. This emphasises the unique role played by the Lie algebra of linear endomorphisms **gl**(_V_) as a representing object for the representations on a vector space _V_.
 
 ## June 15, 2021
 
@@ -311,8 +236,6 @@ We prove that the answer is no, as soon as the field **K** is infinite. In fact,
 </center>
 
 ## May 20, 2021
-
-14:30 UTC+1 on <a href="https://zoom.us/j/94880770089?pwd=clgxK2VkVEE5Ymw5ME1QWktiWExUZz09">zoom</a>
 
 <a name="fest4"></a>
 <center>
@@ -464,6 +387,71 @@ We propose here a unified approach to globalization in a categorical setting, ex
 [HV] J. Hu, J. Vercruysse, *Geometrically partial actions*. Trans. Amer. Math. Soc. **373** (2020), no. 6, 4085--4143.
 
 [PJ] P. Saracco, J. Vercruysse, *Globalization for geometric partial comodules*. Preprint (2020).
+
+
+<div id="porta-abs"></div>
+### Mauro Porta
+#### Pro and Ind-categories in Algebra and Geometry
+In this talk we are going to discuss some natural instances of pro and ind categories in algebraic and geometric contexts, highlighting the importance of working with objects in Ind(Cat<sub>&infin;</sub>) and Pro(Cat<sub>&infin;</sub>)  instead of their Cat<sub>&infin;</sub> realizations.
+Towards the end we will raise some questions, with the intent of determining what is the "correct" object to consider in these contexts, so as to optimize the generalization/applicability trade-off.
+
+<div id="tim-abs"></div>
+### Tim Van Der Linden
+#### Algebras with representable representations
+
+(Joint work with Xabier García-Martínez, Matsvei Tsishyn and Corentin Vienne)
+
+Just like group actions are represented by group automorphisms, Lie algebra actions are represented by derivations: up to isomorphism, a split extension of a Lie algebra B by a Lie algebra _X_ corresponds to a Lie algebra morphism _B_ &rarr; **Der**(X) from _B_ to the Lie algebra **Der**(_X_) of derivations on _X_. The aim of this talk is to elaborate on the question, whether the concept of a derivation can be extended to other types of non-associative algebras over a field **K**, in such a way that these generalised derivations characterise the **K**-algebra actions.
+We prove that the answer is no, as soon as the field **K** is infinite. In fact, we prove a stronger result: already the representability of all abelian actions – which are usually called representations or Beck modules – suffices for this to be true. Thus we characterise the variety of Lie algebras over an infinite field of characteristic different from 2 as the only variety of non-associative algebras which is a non-abelian category with representable representations. This emphasises the unique role played by the Lie algebra of linear endomorphisms **gl**(_V_) as a representing object for the representations on a vector space _V_.
+
+<div id="zanfa-abs"></div>
+### Riccardo Zanfa
+#### Generalized presheaf-bundle adjunctions
+We present two new results generalizing the well-known presheaf-bundle adjunction for topological spaces, which relate indexed categories (and presheaves) over a site (C,J) with toposes over the topos Sh(C,J). The content of this seminar can be found in a joint work with Olivia Caramello titled Relative topos theory via stacks, and currently available on arXiv.
+
+<div id="todd-abs"></div>
+### Todd Trimble
+#### Grothendieck groups of 2-rigs as lambda rings
+
+This talk will report on recent joint work with John Baez and Joe Moeller. We introduce a notion of 2-rig as a way of categorifying the usual notion of rig (ring without negatives); examples include categories of group representations, categories of vector bundles over spaces, categories of coherent sheaves over projective varieties, and many others. We describe Schur functors on general 2-rigs, and indicate how the free 2-rig on one generator encodes Schur functors on 2-rigs. Finally, we indicate how the Grothendieck group of a 2-rig yields a lambda ring, where the theory of lambda-rings is a "plethory" obtained by decategorifying a conceptually simple 2-plethory that is associated with the free 2-rig.
+
+<div id="fiorenza-abs"></div>
+### Domenico Fiorenza
+#### Categorical shadows lurking behind integral formulas for genera
+
+*Professor Friedrich*: And so, if you have a complex genus taking rational values, i.e., a ring homomorphism from the complex cobordism ring to the field **Q** of rational numbers, you have an integral formula expressing it.
+
+*The Categorist*: If a formula is true, it must be expressed by a commutative diagram.
+
+*Professor Friedrich*: But my formula is true!
+
+*The Categorist*: Then it must be expressed by a commutative diagram.
+
+*Professor Friedrich*: Show me.
+
+*The Categorist*: Let us consider the category of spectra...
+
+*Professor Friedrich*: And so?
+
+*The Categorist*: Well... I don't see a commutative diagram here.
+
+*Professor Friedrich*: And so?
+
+*The Categorist*: And so your formula must be false.
+
+*Professor Friedrich*: But my formula is true!
+
+*The Categorist*: Impossible.
+
+*Sir Michael*: There is something I think I know on the Spanier-Whitehead dual of a smooth manifold that may happen to be of some relevance here.
+
+(Emil Ionesco, Triceratops)
+
+<div id="olimpieri-abs"></div>
+### Federico Olimpieri
+#### Categorifying Intersection Types
+
+We study a family of distributors-induced bicategorical models of lambda-calculus, proving that they can be syntactically presented via intersection type systems. We first introduce a class of 2-monads whose algebras are monoidal categories modelling resource management. We lift these monads to distributors and define a parametric Kleisli bicategory, giving a sufficient condition for its cartesian closure. In this framework we define a proof-relevant semantics: the interpretation of a term associates to it the set of its typing derivations in appropriate systems. We prove that our model characterize solvability, adapting reducibility techniques to our setting. We conclude by describing wo examples of our construction.
 
 
 ## Programme Committee

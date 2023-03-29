@@ -32,45 +32,8 @@ Questo un programma di massima del corso:
 - Strutture chiuse e monoidali chiuse, funtori monoidali, simmetria.
 - un'altra volta Yoneda: cocompletamento libero, fibrazioni, teorema di densità.
 
+Il corso si è concluso a giugno 2022 con grande successo. Grazie a tutti, studenti e docenti, di avere partecipato!
 
-## Diario delle lezioni
-
-<style>
-  ul.lessons {
-    list-style: none;
-  }
-  ul.lessons details > summary:first-of-type {
-    list-style-position: outside;
-  }
-  ul.lessons details > summary.empty {
-    list-style-type: none;
-  }
-  ul.lessons ul {
-    padding-inline-start: 20px;
-  }
-</style>
-
-<ul class="lessons">
-  {% for lesson in site.data.course %}
-    <li>
-      <details>
-        <summary {% if lesson.sections.size == 0 %}class="empty"{% endif %}>
-          <time datetime="{{ lesson.published_at }}">{{ lesson.published_at | date: "%d/%m/%Y" }}</time> |
-          <a href="{{ lesson.url }}">{{ lesson.title }}</a>
-          {% if lesson.teacher %}<em>({{ lesson.teacher }})</em>{% endif %}
-        </summary>
-        <ul>
-          {% for section in lesson.sections %}
-            <li>
-              <a href="{{ section.url }}">{{ section.stamp }}</a>
-              {{ section.label }}
-            </li>
-          {% endfor %}
-        </ul>
-      </details>
-    </li>
-  {% endfor %}
-</ul>
 
 <!-- 1. 7/10/2021  teaser; presentazione dei docenti, alcune idee sul contenuto del corso. [video](https://youtu.be/DIXypXx8-DE) -->
 <!-- 2. 14/10/2021 _Paolo Perrone_. Concetti fondamentali: Definizione di categoria. [video](https://youtu.be/2kSgmgo1GO8) -->
@@ -80,15 +43,6 @@ Questo un programma di massima del corso:
 <!-- 6. 11/11/2021 _Enrico Ghiorzi_. Epi e mono: Esempi ed esercizi. [video](https://youtu.be/KmrSR3ecCPE) -->
 <!-- 7. 18/11/2021 _Enrico Ghiorzi_. Equivalenze; funtori pieni e fedeli; caratterizzazione delle equivalenze; categorie scheletriche. [video](https://youtu.be/VYHqaSKqnh4) -->
 <!-- 8. 25/11/2021 _Jacopo Emmenegger_. Prodotti finiti e oggetto terminale, esempi; coprodotti finiti e oggetto iniziale, esempi. [video](https://youtu.be/KQBvmxgV65Y) -->
-<!--- 9. _Jacopo Emmenegger_ Limiti come coni universali e loro unicità; limiti particolari (prodotti, equalizzatori, pullback), esempi; limiti generati da limiti particolari; colimiti come coni universali, colimiti particolari (coprodotti, coequalizzatori, pushout), esempi. -->
-<!--- 10. _Jacopo Emmenegger_ Funtori che preservano e riflettono (co)limiti, esempi, condizioni sufficienti. -->
-<!--- 11. _Fosco Loregian_ intuizione sul lemma di Yoneda; funtori rappresentabili ed esempi -->
-<!--- 12. _Fosco Loregian_ Altri esempi di funtori rappresentabili; dimostrazione del lemma di Yoneda -->
-<!--- 13. _Fosco Loregian_ Esempi ed applicazioni del lemma di Yoneda: in categorie di poset, poset come categorie, azioni di gruppi, etc. -->
-<!--- 14. _Jacopo Emmenegger_ Aggiunzioni tramite biezioni naturali, strutture libere come funtori aggiunti, esempi; (co)unità e sua proprietà universale, identità triangolari, equivalenza delle definizioni; aggiunzioni ed equivalenze; esempi. -->
-<!--- 15. _Jacopo Emmenegger_ Composizione e unicità di funtori aggiunti; applicazioni: anelli di polinomi, (co)limiti; aggiunti pieni/fedeli e (co)unità epi/mono. -->
-<!--- 16. _Jacopo Emmenegger_ Esponenziali e categorie cartesiane chiuse, esponenziale come aggiunto destro, esempi e non esempi; funtori aggiunti e funtori che preservano (co)limiti, applicazioni, esempi, sottocategorie riflessive. -->
-<!--- 17. _Jacopo Emmenegger_ Teorema del funtore aggiunto *DA FARE*. -->
 
 ---
 
