@@ -1,0 +1,1016 @@
+[
+  {
+    "title": " Introduzione al corso",
+    "published_at": "2021-10-06T17:22:57Z",
+    "url": "https://www.youtube.com/watch?v=DIXypXx8-DE&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=0",
+    "sections": [
+
+    ],
+    "position": 0,
+    "teacher": null
+  },
+  {
+    "title": " Lezione 1: Categorie",
+    "published_at": "2021-10-13T15:02:11Z",
+    "url": "https://www.youtube.com/watch?v=2kSgmgo1GO8&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=1",
+    "sections": [
+      {
+        "stamp": "0:00",
+        "label": "Introduzione",
+        "url": "https://www.youtube.com/watch?v=2kSgmgo1GO8&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=1&t=0s"
+      },
+      {
+        "stamp": "0:25",
+        "label": "Definizione: Categoria",
+        "url": "https://www.youtube.com/watch?v=2kSgmgo1GO8&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=1&t=25s"
+      },
+      {
+        "stamp": "11:00",
+        "label": "Primi esempi di categorie",
+        "url": "https://www.youtube.com/watch?v=2kSgmgo1GO8&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=1&t=660s"
+      },
+      {
+        "stamp": "15:45",
+        "label": "Esempio: Monoidi",
+        "url": "https://www.youtube.com/watch?v=2kSgmgo1GO8&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=1&t=945s"
+      },
+      {
+        "stamp": "20:27",
+        "label": "Esempio: Preordini",
+        "url": "https://www.youtube.com/watch?v=2kSgmgo1GO8&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=1&t=1227s"
+      },
+      {
+        "stamp": "25:10",
+        "label": "Esempio non standard: Markov kernels",
+        "url": "https://www.youtube.com/watch?v=2kSgmgo1GO8&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=1&t=1510s"
+      },
+      {
+        "stamp": "28:38",
+        "label": "Considerazioni insiemistiche",
+        "url": "https://www.youtube.com/watch?v=2kSgmgo1GO8&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=1&t=1718s"
+      },
+      {
+        "stamp": "31:27",
+        "label": "Definizione: Categoria (localmente) piccola",
+        "url": "https://www.youtube.com/watch?v=2kSgmgo1GO8&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=1&t=1887s"
+      },
+      {
+        "stamp": "34:23",
+        "label": "Definizione/Notazione: Insieme dei morfismi C(X,Y)",
+        "url": "https://www.youtube.com/watch?v=2kSgmgo1GO8&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=1&t=2063s"
+      },
+      {
+        "stamp": "37:25",
+        "label": "Diagrammi, informalmente",
+        "url": "https://www.youtube.com/watch?v=2kSgmgo1GO8&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=1&t=2245s"
+      },
+      {
+        "stamp": "49:04",
+        "label": "Definizione: Isomorfismo",
+        "url": "https://www.youtube.com/watch?v=2kSgmgo1GO8&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=1&t=2944s"
+      },
+      {
+        "stamp": "51:10",
+        "label": "Esempi e non-esempi di isomorfismi",
+        "url": "https://www.youtube.com/watch?v=2kSgmgo1GO8&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=1&t=3070s"
+      },
+      {
+        "stamp": "54:07",
+        "label": "Definizione: Gruppoide",
+        "url": "https://www.youtube.com/watch?v=2kSgmgo1GO8&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=1&t=3247s"
+      },
+      {
+        "stamp": "57:57",
+        "label": "Definizione: Categoria opposta",
+        "url": "https://www.youtube.com/watch?v=2kSgmgo1GO8&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=1&t=3477s"
+      },
+      {
+        "stamp": "1:00:45",
+        "label": "Esempio: (R,≤)",
+        "url": "https://www.youtube.com/watch?v=2kSgmgo1GO8&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=1&t=3645s"
+      },
+      {
+        "stamp": "1:04:30",
+        "label": "Saluti finali",
+        "url": "https://www.youtube.com/watch?v=2kSgmgo1GO8&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=1&t=3870s"
+      }
+    ],
+    "position": 1,
+    "teacher": "Paolo Perrone"
+  },
+  {
+    "title": " Lezione 2: Funtori",
+    "published_at": "2021-10-20T19:23:22Z",
+    "url": "https://www.youtube.com/watch?v=M6iAJO0T-vs&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=2",
+    "sections": [
+      {
+        "stamp": "0:00",
+        "label": "Introduzione",
+        "url": "https://www.youtube.com/watch?v=M6iAJO0T-vs&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=2&t=0s"
+      },
+      {
+        "stamp": "0:55",
+        "label": "Definizione: Funtore",
+        "url": "https://www.youtube.com/watch?v=M6iAJO0T-vs&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=2&t=55s"
+      },
+      {
+        "stamp": "7:40",
+        "label": "Esempio: Relazioni e ordini parziali",
+        "url": "https://www.youtube.com/watch?v=M6iAJO0T-vs&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=2&t=460s"
+      },
+      {
+        "stamp": "12:38",
+        "label": "Esempio: Monoidi e gruppi",
+        "url": "https://www.youtube.com/watch?v=M6iAJO0T-vs&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=2&t=758s"
+      },
+      {
+        "stamp": "17:35",
+        "label": "Esempio: Azioni di gruppi",
+        "url": "https://www.youtube.com/watch?v=M6iAJO0T-vs&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=2&t=1055s"
+      },
+      {
+        "stamp": "22:56",
+        "label": "Esempio: Funzioni indotte",
+        "url": "https://www.youtube.com/watch?v=M6iAJO0T-vs&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=2&t=1376s"
+      },
+      {
+        "stamp": "28:00",
+        "label": "Esempio: Insieme delle curve",
+        "url": "https://www.youtube.com/watch?v=M6iAJO0T-vs&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=2&t=1680s"
+      },
+      {
+        "stamp": "32:35",
+        "label": "Esempio: Gruppo fondamentale",
+        "url": "https://www.youtube.com/watch?v=M6iAJO0T-vs&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=2&t=1955s"
+      },
+      {
+        "stamp": "39:28",
+        "label": "Esempio: Funtore \"dimenticante\" o \"smemorato\"",
+        "url": "https://www.youtube.com/watch?v=M6iAJO0T-vs&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=2&t=2368s"
+      },
+      {
+        "stamp": "43:42",
+        "label": "Esempio: Derivata",
+        "url": "https://www.youtube.com/watch?v=M6iAJO0T-vs&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=2&t=2622s"
+      },
+      {
+        "stamp": "56:02",
+        "label": "Definizione: Funtore controvariante",
+        "url": "https://www.youtube.com/watch?v=M6iAJO0T-vs&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=2&t=3362s"
+      },
+      {
+        "stamp": "59:54",
+        "label": "Esempio: Topologia",
+        "url": "https://www.youtube.com/watch?v=M6iAJO0T-vs&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=2&t=3594s"
+      },
+      {
+        "stamp": "1:03:00",
+        "label": "Esempio: Spazio vettoriale duale",
+        "url": "https://www.youtube.com/watch?v=M6iAJO0T-vs&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=2&t=3780s"
+      },
+      {
+        "stamp": "1:07:40",
+        "label": "Precisazioni sulla notazione",
+        "url": "https://www.youtube.com/watch?v=M6iAJO0T-vs&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=2&t=4060s"
+      },
+      {
+        "stamp": "1:09:28",
+        "label": "Definizione: La categoria Cat",
+        "url": "https://www.youtube.com/watch?v=M6iAJO0T-vs&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=2&t=4168s"
+      },
+      {
+        "stamp": "1:12:30",
+        "label": "Saluti finali",
+        "url": "https://www.youtube.com/watch?v=M6iAJO0T-vs&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=2&t=4350s"
+      }
+    ],
+    "position": 2,
+    "teacher": "Paolo Perrone"
+  },
+  {
+    "title": " Lezione 3: Trasformazioni naturali",
+    "published_at": "2021-10-27T18:36:48Z",
+    "url": "https://www.youtube.com/watch?v=pgRWfh25x7M&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=3",
+    "sections": [
+      {
+        "stamp": "0:00",
+        "label": "Introduzione",
+        "url": "https://www.youtube.com/watch?v=pgRWfh25x7M&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=3&t=0s"
+      },
+      {
+        "stamp": "0:15",
+        "label": "Definizione: Trasformazione naturale",
+        "url": "https://www.youtube.com/watch?v=pgRWfh25x7M&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=3&t=15s"
+      },
+      {
+        "stamp": "4:42",
+        "label": "Esempio: Relazioni e ordini parziali",
+        "url": "https://www.youtube.com/watch?v=pgRWfh25x7M&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=3&t=282s"
+      },
+      {
+        "stamp": "8:08",
+        "label": "Esempio: Mappe equivarianti",
+        "url": "https://www.youtube.com/watch?v=pgRWfh25x7M&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=3&t=488s"
+      },
+      {
+        "stamp": "13:55",
+        "label": "Intuizione per trasformazioni naturali",
+        "url": "https://www.youtube.com/watch?v=pgRWfh25x7M&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=3&t=835s"
+      },
+      {
+        "stamp": "16:05",
+        "label": "Esempio: Insieme delle parti",
+        "url": "https://www.youtube.com/watch?v=pgRWfh25x7M&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=3&t=965s"
+      },
+      {
+        "stamp": "23:18",
+        "label": "Esempio/esercizio: Insieme delle curve",
+        "url": "https://www.youtube.com/watch?v=pgRWfh25x7M&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=3&t=1398s"
+      },
+      {
+        "stamp": "26:32",
+        "label": "Esempio e non-esempio: Duale e doppio duale",
+        "url": "https://www.youtube.com/watch?v=pgRWfh25x7M&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=3&t=1592s"
+      },
+      {
+        "stamp": "36:42",
+        "label": "Definizione: Isomorfismo naturale",
+        "url": "https://www.youtube.com/watch?v=pgRWfh25x7M&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=3&t=2202s"
+      },
+      {
+        "stamp": "38:38",
+        "label": "Esercizi",
+        "url": "https://www.youtube.com/watch?v=pgRWfh25x7M&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=3&t=2318s"
+      },
+      {
+        "stamp": "41:20",
+        "label": "La categoria dei funtori",
+        "url": "https://www.youtube.com/watch?v=pgRWfh25x7M&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=3&t=2480s"
+      },
+      {
+        "stamp": "49:50",
+        "label": "Definizione: Diagramma (commutativo)",
+        "url": "https://www.youtube.com/watch?v=pgRWfh25x7M&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=3&t=2990s"
+      },
+      {
+        "stamp": "54:50",
+        "label": "Whiskering",
+        "url": "https://www.youtube.com/watch?v=pgRWfh25x7M&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=3&t=3290s"
+      },
+      {
+        "stamp": "1:05:40",
+        "label": "Definizione: Composizione orizzontale",
+        "url": "https://www.youtube.com/watch?v=pgRWfh25x7M&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=3&t=3940s"
+      },
+      {
+        "stamp": "1:08:30",
+        "label": "Curiosità: La 2-categoria Cat e n-categorie",
+        "url": "https://www.youtube.com/watch?v=pgRWfh25x7M&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=3&t=4110s"
+      },
+      {
+        "stamp": "1:12:25",
+        "label": "Saluti finali",
+        "url": "https://www.youtube.com/watch?v=pgRWfh25x7M&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=3&t=4345s"
+      }
+    ],
+    "position": 3,
+    "teacher": "Paolo Perrone"
+  },
+  {
+    "title": " Lezione 4: Epimorfismi, monomorfismi",
+    "published_at": "2021-11-03T19:25:59Z",
+    "url": "https://www.youtube.com/watch?v=YDr_SMoTuCY&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=4",
+    "sections": [
+      {
+        "stamp": "0:00",
+        "label": "Introduzione",
+        "url": "https://www.youtube.com/watch?v=YDr_SMoTuCY&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=4&t=0s"
+      },
+      {
+        "stamp": "1:00",
+        "label": "Definizione: Monomorfismo",
+        "url": "https://www.youtube.com/watch?v=YDr_SMoTuCY&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=4&t=60s"
+      },
+      {
+        "stamp": "3:04",
+        "label": "Definizione: Epimorfismo",
+        "url": "https://www.youtube.com/watch?v=YDr_SMoTuCY&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=4&t=184s"
+      },
+      {
+        "stamp": "6:12",
+        "label": "Esempio: Epi e mono in Set",
+        "url": "https://www.youtube.com/watch?v=YDr_SMoTuCY&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=4&t=372s"
+      },
+      {
+        "stamp": "12:15",
+        "label": "Esempio: Preordini",
+        "url": "https://www.youtube.com/watch?v=YDr_SMoTuCY&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=4&t=735s"
+      },
+      {
+        "stamp": "14:04",
+        "label": "Esempio: Monoidi",
+        "url": "https://www.youtube.com/watch?v=YDr_SMoTuCY&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=4&t=844s"
+      },
+      {
+        "stamp": "16:02",
+        "label": "Proposizione: Composizione di epi/mono",
+        "url": "https://www.youtube.com/watch?v=YDr_SMoTuCY&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=4&t=962s"
+      },
+      {
+        "stamp": "22:40",
+        "label": "Definizione: Sezione e retrazione",
+        "url": "https://www.youtube.com/watch?v=YDr_SMoTuCY&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=4&t=1360s"
+      },
+      {
+        "stamp": "24:44",
+        "label": "Proposizione: Sezioni sono mono",
+        "url": "https://www.youtube.com/watch?v=YDr_SMoTuCY&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=4&t=1484s"
+      },
+      {
+        "stamp": "28:58",
+        "label": "Esempio: Ordini parziali",
+        "url": "https://www.youtube.com/watch?v=YDr_SMoTuCY&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=4&t=1738s"
+      },
+      {
+        "stamp": "34:00",
+        "label": "Esempio: Il monoide dei naturali",
+        "url": "https://www.youtube.com/watch?v=YDr_SMoTuCY&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=4&t=2040s"
+      },
+      {
+        "stamp": "37:05",
+        "label": "Esempio: Set + assioma di scelta",
+        "url": "https://www.youtube.com/watch?v=YDr_SMoTuCY&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=4&t=2225s"
+      },
+      {
+        "stamp": "40:08",
+        "label": "Esempio: Epi e mono in Ring",
+        "url": "https://www.youtube.com/watch?v=YDr_SMoTuCY&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=4&t=2408s"
+      },
+      {
+        "stamp": "45:08",
+        "label": "Notazione: Epi e mono spezzanti",
+        "url": "https://www.youtube.com/watch?v=YDr_SMoTuCY&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=4&t=2708s"
+      },
+      {
+        "stamp": "46:50",
+        "label": "Esempio: Spezzanti in Set",
+        "url": "https://www.youtube.com/watch?v=YDr_SMoTuCY&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=4&t=2810s"
+      },
+      {
+        "stamp": "47:58",
+        "label": "Proposizione: Spezzanti e iso",
+        "url": "https://www.youtube.com/watch?v=YDr_SMoTuCY&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=4&t=2878s"
+      },
+      {
+        "stamp": "53:33",
+        "label": "Saluti finali",
+        "url": "https://www.youtube.com/watch?v=YDr_SMoTuCY&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=4&t=3213s"
+      }
+    ],
+    "position": 4,
+    "teacher": "Enrico Ghiorzi"
+  },
+  {
+    "title": " Lezione 5: Epi e mono, parte 2",
+    "published_at": "2021-11-10T18:29:19Z",
+    "url": "https://www.youtube.com/watch?v=KmrSR3ecCPE&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=5",
+    "sections": [
+      {
+        "stamp": "0:00",
+        "label": "Introduzione",
+        "url": "https://www.youtube.com/watch?v=KmrSR3ecCPE&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=5&t=0s"
+      },
+      {
+        "stamp": "0:28",
+        "label": "Proposizione: Funtori preservano spezzanti",
+        "url": "https://www.youtube.com/watch?v=KmrSR3ecCPE&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=5&t=28s"
+      },
+      {
+        "stamp": "4:55",
+        "label": "Controesempi: Epi e mono non preservati da funtori",
+        "url": "https://www.youtube.com/watch?v=KmrSR3ecCPE&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=5&t=295s"
+      },
+      {
+        "stamp": "10:38",
+        "label": "Esempio: Rivestimento universale di S^1",
+        "url": "https://www.youtube.com/watch?v=KmrSR3ecCPE&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=5&t=638s"
+      },
+      {
+        "stamp": "17:10",
+        "label": "Definizione: Categoria bilanciata",
+        "url": "https://www.youtube.com/watch?v=KmrSR3ecCPE&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=5&t=1030s"
+      },
+      {
+        "stamp": "19:32",
+        "label": "Esempi e controesempi di categorie bilanciate",
+        "url": "https://www.youtube.com/watch?v=KmrSR3ecCPE&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=5&t=1172s"
+      },
+      {
+        "stamp": "20:53",
+        "label": "Teorema (di punto fisso di Brouwer)",
+        "url": "https://www.youtube.com/watch?v=KmrSR3ecCPE&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=5&t=1253s"
+      }
+    ],
+    "position": 5,
+    "teacher": "Enrico Ghiorzi"
+  },
+  {
+    "title": " Lezione 6: Funtori pieni e fedeli",
+    "published_at": "2021-11-18T00:17:01Z",
+    "url": "https://www.youtube.com/watch?v=VYHqaSKqnh4&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=6",
+    "sections": [
+      {
+        "stamp": "0:00",
+        "label": "Introduzione",
+        "url": "https://www.youtube.com/watch?v=VYHqaSKqnh4&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=6&t=0s"
+      },
+      {
+        "stamp": "1:55",
+        "label": "Definizione: Equivalenza di categorie",
+        "url": "https://www.youtube.com/watch?v=VYHqaSKqnh4&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=6&t=115s"
+      },
+      {
+        "stamp": "4:03",
+        "label": "Lemma: Equivalenza di categorie è relazione di equivalenza",
+        "url": "https://www.youtube.com/watch?v=VYHqaSKqnh4&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=6&t=243s"
+      },
+      {
+        "stamp": "7:22",
+        "label": "Definizione: Funtore pieno/fedele/ess.surg.s.o.",
+        "url": "https://www.youtube.com/watch?v=VYHqaSKqnh4&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=6&t=442s"
+      },
+      {
+        "stamp": "12:35",
+        "label": "Esempio: N+N in N",
+        "url": "https://www.youtube.com/watch?v=VYHqaSKqnh4&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=6&t=755s"
+      },
+      {
+        "stamp": "15:30",
+        "label": "Definizione: Immersione, sottocategoria piena",
+        "url": "https://www.youtube.com/watch?v=VYHqaSKqnh4&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=6&t=930s"
+      },
+      {
+        "stamp": "17:50",
+        "label": "Proposizione: Funtore pieno e fedele riflette iso",
+        "url": "https://www.youtube.com/watch?v=VYHqaSKqnh4&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=6&t=1070s"
+      },
+      {
+        "stamp": "24:14",
+        "label": "Teorema (di caratterizzazione delle equivalenze)",
+        "url": "https://www.youtube.com/watch?v=VYHqaSKqnh4&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=6&t=1454s"
+      },
+      {
+        "stamp": "43:35",
+        "label": "Esempio: Matrici e spazi vettoriali a dim. finita",
+        "url": "https://www.youtube.com/watch?v=VYHqaSKqnh4&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=6&t=2615s"
+      },
+      {
+        "stamp": "54:22",
+        "label": "Definizione: Categoria connessa",
+        "url": "https://www.youtube.com/watch?v=VYHqaSKqnh4&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=6&t=3262s"
+      },
+      {
+        "stamp": "55:40",
+        "label": "Esempio: Gruppoide connesso e gruppo degli automorfismi di un suo oggetto",
+        "url": "https://www.youtube.com/watch?v=VYHqaSKqnh4&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=6&t=3340s"
+      },
+      {
+        "stamp": "59:58",
+        "label": "Esercizio: Invarianza del gruppo fondamentale di un connesso",
+        "url": "https://www.youtube.com/watch?v=VYHqaSKqnh4&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=6&t=3598s"
+      },
+      {
+        "stamp": "1:01:36",
+        "label": "Definizione: Scheletro, categoria scheletrica",
+        "url": "https://www.youtube.com/watch?v=VYHqaSKqnh4&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=6&t=3696s"
+      },
+      {
+        "stamp": "1:06:54",
+        "label": "Esempio: Scheletro di un gruppoide/di un preordine/di Vect_f",
+        "url": "https://www.youtube.com/watch?v=VYHqaSKqnh4&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=6&t=4014s"
+      }
+    ],
+    "position": 6,
+    "teacher": "Enrico Ghiorzi"
+  },
+  {
+    "title": " Lezione 7: (co)Prodotti, iniziali e terminali",
+    "published_at": "2021-12-01T20:55:14Z",
+    "url": "https://www.youtube.com/watch?v=KQBvmxgV65Y&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=7",
+    "sections": [
+      {
+        "stamp": "0:00",
+        "label": "Introduzione",
+        "url": "https://www.youtube.com/watch?v=KQBvmxgV65Y&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=7&t=0s"
+      },
+      {
+        "stamp": "4:06",
+        "label": "Definizione: Prodotto",
+        "url": "https://www.youtube.com/watch?v=KQBvmxgV65Y&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=7&t=246s"
+      },
+      {
+        "stamp": "10:18",
+        "label": "Esempio: Prodotto cartesiano ",
+        "url": "https://www.youtube.com/watch?v=KQBvmxgV65Y&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=7&t=618s"
+      },
+      {
+        "stamp": "12:42",
+        "label": "Esempio: Topologia prodotto",
+        "url": "https://www.youtube.com/watch?v=KQBvmxgV65Y&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=7&t=762s"
+      },
+      {
+        "stamp": "15:16",
+        "label": "Esempio: Somma diretta di spazi vettoriali",
+        "url": "https://www.youtube.com/watch?v=KQBvmxgV65Y&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=7&t=916s"
+      },
+      {
+        "stamp": "16:20",
+        "label": "Esempio: Meet in un preordine",
+        "url": "https://www.youtube.com/watch?v=KQBvmxgV65Y&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=7&t=980s"
+      },
+      {
+        "stamp": "18:24",
+        "label": "Esempio: Prodotto di categorie piccole",
+        "url": "https://www.youtube.com/watch?v=KQBvmxgV65Y&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=7&t=1104s"
+      },
+      {
+        "stamp": "20:26",
+        "label": "Proposizione: I prodotti sono unici a meno di isomorfismo",
+        "url": "https://www.youtube.com/watch?v=KQBvmxgV65Y&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=7&t=1226s"
+      },
+      {
+        "stamp": "27:22",
+        "label": "Non-esempio: Prodotto tensore",
+        "url": "https://www.youtube.com/watch?v=KQBvmxgV65Y&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=7&t=1642s"
+      },
+      {
+        "stamp": "28:24",
+        "label": "Definizione: Prodotto di un numero arbitrario di oggetti",
+        "url": "https://www.youtube.com/watch?v=KQBvmxgV65Y&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=7&t=1704s"
+      },
+      {
+        "stamp": "31:36",
+        "label": "Definizione: Categoria con prodotti",
+        "url": "https://www.youtube.com/watch?v=KQBvmxgV65Y&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=7&t=1896s"
+      },
+      {
+        "stamp": "34:28",
+        "label": "Definizione: Oggetto terminale",
+        "url": "https://www.youtube.com/watch?v=KQBvmxgV65Y&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=7&t=2068s"
+      },
+      {
+        "stamp": "36:20",
+        "label": "Esempi: Oggetti terminali in Set, preordini e monoidi",
+        "url": "https://www.youtube.com/watch?v=KQBvmxgV65Y&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=7&t=2180s"
+      },
+      {
+        "stamp": "41:20",
+        "label": "Definizione: Coprodotto",
+        "url": "https://www.youtube.com/watch?v=KQBvmxgV65Y&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=7&t=2480s"
+      },
+      {
+        "stamp": "44:45",
+        "label": "Definizione: Oggetto iniziale",
+        "url": "https://www.youtube.com/watch?v=KQBvmxgV65Y&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=7&t=2685s"
+      },
+      {
+        "stamp": "45:34",
+        "label": "Esempio: Oggetti iniziali in Set, Vect, Grp e preordini",
+        "url": "https://www.youtube.com/watch?v=KQBvmxgV65Y&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=7&t=2734s"
+      },
+      {
+        "stamp": "51:28",
+        "label": "Non-esempio: La categoria dei campi",
+        "url": "https://www.youtube.com/watch?v=KQBvmxgV65Y&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=7&t=3088s"
+      }
+    ],
+    "position": 7,
+    "teacher": "Jacopo Emmenegger"
+  },
+  {
+    "title": " Lezione 8: (co)Limiti",
+    "published_at": "2021-12-02T01:45:19Z",
+    "url": "https://www.youtube.com/watch?v=BNncsu1lsCI&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=8",
+    "sections": [
+      {
+        "stamp": "0:00",
+        "label": "Introduzione ",
+        "url": "https://www.youtube.com/watch?v=BNncsu1lsCI&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=8&t=0s"
+      },
+      {
+        "stamp": "3:36",
+        "label": "Definizione: Equalizzatore",
+        "url": "https://www.youtube.com/watch?v=BNncsu1lsCI&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=8&t=216s"
+      },
+      {
+        "stamp": "13:44",
+        "label": "Definizione: Cono sopra un funtore",
+        "url": "https://www.youtube.com/watch?v=BNncsu1lsCI&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=8&t=824s"
+      },
+      {
+        "stamp": "15:40",
+        "label": "Esempio: Equalizzatore",
+        "url": "https://www.youtube.com/watch?v=BNncsu1lsCI&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=8&t=940s"
+      },
+      {
+        "stamp": "17:50",
+        "label": "Definizione: Limite, cono universale",
+        "url": "https://www.youtube.com/watch?v=BNncsu1lsCI&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=8&t=1070s"
+      },
+      {
+        "stamp": "20:45",
+        "label": "Definizione: Categoria con limiti",
+        "url": "https://www.youtube.com/watch?v=BNncsu1lsCI&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=8&t=1245s"
+      },
+      {
+        "stamp": "22:34",
+        "label": "Definizione: Categoria dei coni sopra F",
+        "url": "https://www.youtube.com/watch?v=BNncsu1lsCI&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=8&t=1354s"
+      },
+      {
+        "stamp": "25:55",
+        "label": "Lemma: I limiti sono unici a meno di unico iso",
+        "url": "https://www.youtube.com/watch?v=BNncsu1lsCI&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=8&t=1555s"
+      },
+      {
+        "stamp": "28:40",
+        "label": "Limiti particolari: Prodotti, equalizzatori, pullback",
+        "url": "https://www.youtube.com/watch?v=BNncsu1lsCI&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=8&t=1720s"
+      },
+      {
+        "stamp": "35:05",
+        "label": "Esempi: Vari limiti in Set, Top, Grp, Vect, Cat",
+        "url": "https://www.youtube.com/watch?v=BNncsu1lsCI&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=8&t=2105s"
+      },
+      {
+        "stamp": "42:28",
+        "label": "Proposizione: Una categoria con prodotti (piccoli) ed equalizzatori ha limiti (piccoli)",
+        "url": "https://www.youtube.com/watch?v=BNncsu1lsCI&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=8&t=2548s"
+      },
+      {
+        "stamp": "55:30",
+        "label": "Corollario: Una categoria con terminale e pullback ha limiti finiti",
+        "url": "https://www.youtube.com/watch?v=BNncsu1lsCI&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=8&t=3330s"
+      },
+      {
+        "stamp": "59:58",
+        "label": "Definizione: Cono sotto un funtore",
+        "url": "https://www.youtube.com/watch?v=BNncsu1lsCI&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=8&t=3598s"
+      },
+      {
+        "stamp": "1:01:58",
+        "label": "Definizione: Categoria dei coni sotto F",
+        "url": "https://www.youtube.com/watch?v=BNncsu1lsCI&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=8&t=3718s"
+      },
+      {
+        "stamp": "1:04:14",
+        "label": "Definizione: Colimite",
+        "url": "https://www.youtube.com/watch?v=BNncsu1lsCI&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=8&t=3854s"
+      },
+      {
+        "stamp": "1:04:50",
+        "label": "Lemma: I colimiti sono unici a meno di unico iso",
+        "url": "https://www.youtube.com/watch?v=BNncsu1lsCI&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=8&t=3890s"
+      },
+      {
+        "stamp": "1:05:58",
+        "label": "Definizione: Categoria con colimiti",
+        "url": "https://www.youtube.com/watch?v=BNncsu1lsCI&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=8&t=3958s"
+      },
+      {
+        "stamp": "1:07:20",
+        "label": "Colimiti particolari: Coprodotti, coequalizzatori, pushout",
+        "url": "https://www.youtube.com/watch?v=BNncsu1lsCI&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=8&t=4040s"
+      },
+      {
+        "stamp": "1:14:18",
+        "label": "Esempi: Vari pushout in Top - Bouquet di circonferenze, toro, prodotto schiacciato",
+        "url": "https://www.youtube.com/watch?v=BNncsu1lsCI&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=8&t=4458s"
+      },
+      {
+        "stamp": "1:21:36",
+        "label": "Proposizione: Una categoria con coprodotti e coequalizzatori ha colimiti (piccoli)",
+        "url": "https://www.youtube.com/watch?v=BNncsu1lsCI&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=8&t=4896s"
+      }
+    ],
+    "position": 8,
+    "teacher": "Jacopo Emmenegger"
+  },
+  {
+    "title": " Lezione 9: Preservazione/riflessione dei limiti",
+    "published_at": "2021-12-09T05:46:06Z",
+    "url": "https://www.youtube.com/watch?v=YJ7J5fCi_5c&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=9",
+    "sections": [
+
+    ],
+    "position": 9,
+    "teacher": "Jacopo Emmenegger"
+  },
+  {
+    "title": " Lezione 10: Funtori rappresentabili",
+    "published_at": "2022-01-13T08:32:16Z",
+    "url": "https://www.youtube.com/watch?v=HCipvo3ra9A&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=10",
+    "sections": [
+      {
+        "stamp": "0:00",
+        "label": "Introduzione",
+        "url": "https://www.youtube.com/watch?v=HCipvo3ra9A&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=10&t=0s"
+      },
+      {
+        "stamp": "0:25",
+        "label": "Intuizione su Yoneda, I: estensionalità",
+        "url": "https://www.youtube.com/watch?v=HCipvo3ra9A&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=10&t=25s"
+      },
+      {
+        "stamp": "7:50",
+        "label": "Definizione: prefascio, prefascio rappresentabile",
+        "url": "https://www.youtube.com/watch?v=HCipvo3ra9A&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=10&t=470s"
+      },
+      {
+        "stamp": "10:12",
+        "label": "Intuizione su Yoneda, II: lanciamo cose",
+        "url": "https://www.youtube.com/watch?v=HCipvo3ra9A&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=10&t=612s"
+      },
+      {
+        "stamp": "14:45",
+        "label": "Definizione: rappresentabilità",
+        "url": "https://www.youtube.com/watch?v=HCipvo3ra9A&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=10&t=885s"
+      },
+      {
+        "stamp": "19:40",
+        "label": "Esempio: id di Set",
+        "url": "https://www.youtube.com/watch?v=HCipvo3ra9A&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=10&t=1180s"
+      },
+      {
+        "stamp": "24:20",
+        "label": "Esempi: U,V da Cat a Set",
+        "url": "https://www.youtube.com/watch?v=HCipvo3ra9A&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=10&t=1460s"
+      },
+      {
+        "stamp": "30:03",
+        "label": "Esercizio: V_n e categoria dei simplessi",
+        "url": "https://www.youtube.com/watch?v=HCipvo3ra9A&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=10&t=1803s"
+      },
+      {
+        "stamp": "36:13",
+        "label": "Esempio: O da Top^op a Set",
+        "url": "https://www.youtube.com/watch?v=HCipvo3ra9A&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=10&t=2173s"
+      },
+      {
+        "stamp": "43:00",
+        "label": "Esercizio: Sierpinski è oggetto rappresentante",
+        "url": "https://www.youtube.com/watch?v=HCipvo3ra9A&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=10&t=2580s"
+      },
+      {
+        "stamp": "43:40",
+        "label": "Esempio: Disconn da Top^op a Set",
+        "url": "https://www.youtube.com/watch?v=HCipvo3ra9A&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=10&t=2620s"
+      },
+      {
+        "stamp": "46:26",
+        "label": "Teorema: connessione come proprietà geometrica v categoriale",
+        "url": "https://www.youtube.com/watch?v=HCipvo3ra9A&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=10&t=2786s"
+      },
+      {
+        "stamp": "48:04",
+        "label": "Esempio: U da Ring a Set",
+        "url": "https://www.youtube.com/watch?v=HCipvo3ra9A&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=10&t=2884s"
+      },
+      {
+        "stamp": "52:23",
+        "label": "Esempio: U da cat di strutture algebriche a Set",
+        "url": "https://www.youtube.com/watch?v=HCipvo3ra9A&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=10&t=3143s"
+      },
+      {
+        "stamp": "57:46",
+        "label": "Esempio: Sub da cat con pullback a Set",
+        "url": "https://www.youtube.com/watch?v=HCipvo3ra9A&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=10&t=3466s"
+      },
+      {
+        "stamp": "1:06:50",
+        "label": "Esempio: GL_2 da Ring a Grp",
+        "url": "https://www.youtube.com/watch?v=HCipvo3ra9A&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=10&t=4010s"
+      },
+      {
+        "stamp": "1:15:20",
+        "label": "Funtori non rappresentabili",
+        "url": "https://www.youtube.com/watch?v=HCipvo3ra9A&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=10&t=4520s"
+      },
+      {
+        "stamp": "1:16:28",
+        "label": "Teorema: condizione necessaria per rappresentabilità",
+        "url": "https://www.youtube.com/watch?v=HCipvo3ra9A&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=10&t=4588s"
+      }
+    ],
+    "position": 10,
+    "teacher": "Fosco Loregian"
+  },
+  {
+    "title": " Lezione 11: Lemma di Yoneda",
+    "published_at": "2022-01-19T22:29:22Z",
+    "url": "https://www.youtube.com/watch?v=xebcO7f3ExI&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=11",
+    "sections": [
+
+    ],
+    "position": 11,
+    "teacher": "Fosco Loregian"
+  },
+  {
+    "title": " Lezione 12: Yoneda - Esempi e applicazioni",
+    "published_at": "2022-01-27T01:12:24Z",
+    "url": "https://www.youtube.com/watch?v=1ua6CV4KXow&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=12",
+    "sections": [
+      {
+        "stamp": "00:00",
+        "label": "Introduzione e recap",
+        "url": "https://www.youtube.com/watch?v=1ua6CV4KXow&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=12&t=0s"
+      },
+      {
+        "stamp": "08:26",
+        "label": "Funtori rappresentabili e limiti",
+        "url": "https://www.youtube.com/watch?v=1ua6CV4KXow&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=12&t=506s"
+      },
+      {
+        "stamp": "14:04",
+        "label": "Definizione: diagramma che ammette limite",
+        "url": "https://www.youtube.com/watch?v=1ua6CV4KXow&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=12&t=844s"
+      },
+      {
+        "stamp": "15:05",
+        "label": "Proposizione: ammettere limite v avere un limite",
+        "url": "https://www.youtube.com/watch?v=1ua6CV4KXow&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=12&t=905s"
+      },
+      {
+        "stamp": "19:51",
+        "label": "Esercizio: dualizzare tutto",
+        "url": "https://www.youtube.com/watch?v=1ua6CV4KXow&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=12&t=1191s"
+      },
+      {
+        "stamp": "20:58",
+        "label": "Idea: definire lim e colim tramite rappresentabili",
+        "url": "https://www.youtube.com/watch?v=1ua6CV4KXow&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=12&t=1258s"
+      },
+      {
+        "stamp": "24:08",
+        "label": "Idea: prefasci come completamento formale",
+        "url": "https://www.youtube.com/watch?v=1ua6CV4KXow&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=12&t=1448s"
+      },
+      {
+        "stamp": "27:15",
+        "label": "Esempio: Yoneda per un poset",
+        "url": "https://www.youtube.com/watch?v=1ua6CV4KXow&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=12&t=1635s"
+      },
+      {
+        "stamp": "37:55",
+        "label": "Esempio: Yoneda v teorema di Cayley",
+        "url": "https://www.youtube.com/watch?v=1ua6CV4KXow&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=12&t=2275s"
+      },
+      {
+        "stamp": "42:10",
+        "label": "Esercizio: prefasci come azioni",
+        "url": "https://www.youtube.com/watch?v=1ua6CV4KXow&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=12&t=2530s"
+      },
+      {
+        "stamp": "53:38",
+        "label": "Esercizio: Yoneda per monoidi",
+        "url": "https://www.youtube.com/watch?v=1ua6CV4KXow&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=12&t=3218s"
+      },
+      {
+        "stamp": "55:29",
+        "label": "Esempio: la categoria dei grafi",
+        "url": "https://www.youtube.com/watch?v=1ua6CV4KXow&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=12&t=3329s"
+      },
+      {
+        "stamp": "1:05:27",
+        "label": "Preview prossimo argomento ed esempio: funtore aggiungibile a destra",
+        "url": "https://www.youtube.com/watch?v=1ua6CV4KXow&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=12&t=3927s"
+      }
+    ],
+    "position": 12,
+    "teacher": "Fosco Loregian"
+  },
+  {
+    "title": " Lezione 13: Aggiunzioni",
+    "published_at": "2022-02-03T01:59:53Z",
+    "url": "https://www.youtube.com/watch?v=EvPNURtD5HY&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=13",
+    "sections": [
+      {
+        "stamp": "0:00",
+        "label": "Introduzione",
+        "url": "https://www.youtube.com/watch?v=EvPNURtD5HY&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=13&t=0s"
+      },
+      {
+        "stamp": "0:35",
+        "label": "Esempio: Aggiunzione libero-dimenticante per spazi vettoriali",
+        "url": "https://www.youtube.com/watch?v=EvPNURtD5HY&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=13&t=35s"
+      },
+      {
+        "stamp": "7:00",
+        "label": "Definizione: Aggiunzione",
+        "url": "https://www.youtube.com/watch?v=EvPNURtD5HY&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=13&t=420s"
+      },
+      {
+        "stamp": "11:55",
+        "label": "Esempio: Aggiunzione discreto-dimenticante per spazi topologici",
+        "url": "https://www.youtube.com/watch?v=EvPNURtD5HY&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=13&t=715s"
+      },
+      {
+        "stamp": "14:42",
+        "label": "Esempio: Aggiunzione discreto-oggetti per categorie",
+        "url": "https://www.youtube.com/watch?v=EvPNURtD5HY&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=13&t=882s"
+      },
+      {
+        "stamp": "17:04",
+        "label": "Esempio: Aggiunzione oggetti-codiscreto per categorie",
+        "url": "https://www.youtube.com/watch?v=EvPNURtD5HY&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=13&t=1024s"
+      },
+      {
+        "stamp": "18:58",
+        "label": "Esempio: Aggiunzione libero-dimenticante per varie categorie di oggetti algebrici",
+        "url": "https://www.youtube.com/watch?v=EvPNURtD5HY&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=13&t=1138s"
+      },
+      {
+        "stamp": "25:45",
+        "label": "Esempio: Aggiunzione libero-dimenticante tra Cat e Graph",
+        "url": "https://www.youtube.com/watch?v=EvPNURtD5HY&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=13&t=1545s"
+      },
+      {
+        "stamp": "30:08",
+        "label": "Non-esempio: Funtori dimenticante che non hanno aggiunti",
+        "url": "https://www.youtube.com/watch?v=EvPNURtD5HY&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=13&t=1808s"
+      },
+      {
+        "stamp": "33:28",
+        "label": "Osservazione: Naturalità",
+        "url": "https://www.youtube.com/watch?v=EvPNURtD5HY&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=13&t=2008s"
+      },
+      {
+        "stamp": "37:54",
+        "label": "Lemma: Condizioni equivalenti alla naturalità",
+        "url": "https://www.youtube.com/watch?v=EvPNURtD5HY&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=13&t=2274s"
+      },
+      {
+        "stamp": "41:45",
+        "label": "Osservazione/Definizione: (co)unità",
+        "url": "https://www.youtube.com/watch?v=EvPNURtD5HY&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=13&t=2505s"
+      },
+      {
+        "stamp": "47:45",
+        "label": "Osservazione: Naturalità di unità ",
+        "url": "https://www.youtube.com/watch?v=EvPNURtD5HY&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=13&t=2865s"
+      },
+      {
+        "stamp": "50:45",
+        "label": "Osservazione: Proprietà universale della (co)unità",
+        "url": "https://www.youtube.com/watch?v=EvPNURtD5HY&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=13&t=3045s"
+      },
+      {
+        "stamp": "56:26",
+        "label": "Proposizione: Definizioni equivalenti di aggiunzione",
+        "url": "https://www.youtube.com/watch?v=EvPNURtD5HY&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=13&t=3386s"
+      },
+      {
+        "stamp": "1:07:25",
+        "label": "Esempio: Equivalenze inducono aggiunzioni",
+        "url": "https://www.youtube.com/watch?v=EvPNURtD5HY&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=13&t=4045s"
+      },
+      {
+        "stamp": "1:12:25",
+        "label": "Lemma: Aggiunzioni inducono equivalenze",
+        "url": "https://www.youtube.com/watch?v=EvPNURtD5HY&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=13&t=4345s"
+      },
+      {
+        "stamp": "1:14:38",
+        "label": "Esempio: Aggiunzioni tra monoidi",
+        "url": "https://www.youtube.com/watch?v=EvPNURtD5HY&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=13&t=4478s"
+      },
+      {
+        "stamp": "1:21:20",
+        "label": "Esempio: Aggiunzioni tra preordini/poset - Immagine diretta/inversa ",
+        "url": "https://www.youtube.com/watch?v=EvPNURtD5HY&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=13&t=4880s"
+      },
+      {
+        "stamp": "1:21:20",
+        "label": "Esempio: Aggiunzioni tra preordini/poset - Immagine diretta/inversa",
+        "url": "https://www.youtube.com/watch?v=EvPNURtD5HY&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=13&t=4880s"
+      },
+      {
+        "stamp": "1:25:28",
+        "label": "Esempio: Nullstellensatz",
+        "url": "https://www.youtube.com/watch?v=EvPNURtD5HY&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=13&t=5128s"
+      }
+    ],
+    "position": 13,
+    "teacher": "Jacopo Emmenegger"
+  },
+  {
+    "title": " Lezione 14: Proprietà delle aggiunzioni",
+    "published_at": "2022-02-10T02:06:57Z",
+    "url": "https://www.youtube.com/watch?v=NT7SwvHRSnU&list=PLwOJoZOlTAm-rQUkbmfyDMsLk7-JDy5Vm&index=14",
+    "sections": [
+
+    ],
+    "position": 14,
+    "teacher": "Jacopo Emmenegger"
+  }
+]

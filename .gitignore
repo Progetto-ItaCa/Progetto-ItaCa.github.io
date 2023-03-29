@@ -8,3 +8,5 @@ _site/*
 !talks.json
 _*
 poster/*
+!_data
+!_data/course.json
