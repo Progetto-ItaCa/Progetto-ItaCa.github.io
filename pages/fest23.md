@@ -26,10 +26,10 @@ The seminar will be live on [Zoom](https://zoom.us){:target="_blank"} at
   <tbody>
     <tr style="background-color:#fbe49d	">
       <td>15:00</td>
-      <td><a href="." target="_blank"><strong> TBA </strong></a></td>
+      <td><a href="." target="_blank"><strong> T. Fritz </strong></a></td>
       <td><a href="." target="_blank">  </a></td>
       <td><b> TBA </b></td>
-      <td><a href="#tba-4-1">▤</a> <a href="https://www.youtube.com/" target="_blank">▶</a></td>
+      <td><a href="#fritz">▤</a> <a href="https://www.youtube.com/" target="_blank">▶</a></td>
     </tr>
     <tr>
       <td>15:30</td>
@@ -37,10 +37,10 @@ The seminar will be live on [Zoom](https://zoom.us){:target="_blank"} at
     </tr>
     <tr style="background-color:#fbe49d">
       <td>15:40</td>
-      <td><a href="." target="_blank"><strong> TBA </strong></a></td>
+      <td><a href="." target="_blank"><strong> E. Di Lavore </strong></a></td>
       <td><a href="" target="_blank">  </a></td>
       <td><b> TBA </b></td>
-      <td><a href="#tba-4-2">▤</a> <a href="https://www.youtube.com/" target="_blank">▶</a></td>
+      <td><a href="#dilavore">▤</a> <a href="https://www.youtube.com/" target="_blank">▶</a></td>
     </tr>
     <tr>
       <td>16:10</td>
@@ -48,10 +48,10 @@ The seminar will be live on [Zoom](https://zoom.us){:target="_blank"} at
     </tr>
     <tr style="background-color:#fbe49d">
       <td>16:20</td>
-      <td><a href="." target="_blank"><strong> TBA </strong></a></td>
+      <td><a href="." target="_blank"><strong> D. Trotta </strong></a></td>
       <td><a href="" target="_blank">  </a></td>
       <td><b> TBA </b></td>
-      <td><a href="#tba-4-3">▤</a> <a href="https://www.youtube.com/" target="_blank">▶</a></td>
+      <td><a href="#trotta">▤</a> <a href="https://www.youtube.com/" target="_blank">▶</a></td>
     </tr>
     <tr>
       <td>16:50</td>
@@ -65,18 +65,18 @@ The seminar will be live on [Zoom](https://zoom.us){:target="_blank"} at
 </table>
 </center>
 
-<div id="tba-4-1"></div>
-### TBA 
+<div id="fritz"></div>
+### Tobias Fritz
 #### TBA 
 
 
-<div id="tba-4-2"></div>
-### TBA 
+<div id="dilavore"></div>
+### Elena Di Lavore
 #### TBA 
 
 
-<div id="tba-4-3"></div>
-### TBA 
+<div id="trotta"></div>
+### Davide Trotta
 #### TBA 
 
 
@@ -98,10 +98,10 @@ The seminar will be live on [Zoom](https://zoom.us){:target="_blank"} at
   <tbody>
     <tr style="background-color:#fbe49d	">
       <td>15:00</td>
-      <td><a href="." target="_blank"><strong> TBA </strong></a></td>
+      <td><a href="." target="_blank"><strong> M. Menni </strong></a></td>
       <td><a href="." target="_blank">  </a></td>
       <td><b> TBA </b></td>
-      <td><a href="#tba-5-1">▤</a> <a href="https://www.youtube.com/" target="_blank">▶</a></td>
+      <td><a href="#manni">▤</a> <a href="https://www.youtube.com/" target="_blank">▶</a></td>
     </tr>
     <tr>
       <td>15:30</td>
@@ -109,10 +109,10 @@ The seminar will be live on [Zoom](https://zoom.us){:target="_blank"} at
     </tr>
     <tr style="background-color:#fbe49d">
       <td>15:40</td>
-      <td><a href="." target="_blank"><strong> TBA </strong></a></td>
+      <td><a href="." target="_blank"><strong> F. Guffanti </strong></a></td>
       <td><a href="" target="_blank">  </a></td>
       <td><b> TBA </b></td>
-      <td><a href="#tba-5-2">▤</a> <a href="https://www.youtube.com/" target="_blank">▶</a></td>
+      <td><a href="#guffanti">▤</a> <a href="https://www.youtube.com/" target="_blank">▶</a></td>
     </tr>
     <tr>
       <td>16:10</td>
@@ -120,10 +120,10 @@ The seminar will be live on [Zoom](https://zoom.us){:target="_blank"} at
     </tr>
     <tr style="background-color:#fbe49d">
       <td>16:20</td>
-      <td><a href="." target="_blank"><strong> TBA </strong></a></td>
+      <td><a href="." target="_blank"><strong> P. Freni </strong></a></td>
       <td><a href="" target="_blank">  </a></td>
       <td><b> TBA </b></td>
-      <td><a href="#tba-5-3">▤</a> <a href="https://www.youtube.com/" target="_blank">▶</a></td>
+      <td><a href="#freni">▤</a> <a href="https://www.youtube.com/" target="_blank">▶</a></td>
     </tr>
     <tr>
       <td>16:50</td>
@@ -137,18 +137,18 @@ The seminar will be live on [Zoom](https://zoom.us){:target="_blank"} at
 </table>
 </center>
 
-<div id="tba-5-1"></div>
-### TBA 
+<div id="manni"></div>
+### Matias Menni
 #### TBA 
 
 
-<div id="tba-5-2"></div>
-### TBA 
+<div id="guffanti"></div>
+### Francesca Guffanti
 #### TBA 
 
 
-<div id="tba-5-3"></div>
-### TBA 
+<div id="freni"></div>
+### Pietro Freni
 #### TBA 
 
 
