@@ -173,7 +173,7 @@ The seminar will be live on [Zoom](https://zoom.us){:target="_blank"} at
       <td><a href="." target="_blank"><strong> TBA </strong></a></td>
       <td><a href="." target="_blank">  </a></td>
       <td><b> TBA </b></td>
-      <td><a href="#tba-6-1">▤</a> <a href="https://www.youtube.com/" target="_blank">▶</a></td>
+      <td><a href="#tba-9-1">▤</a> <a href="https://www.youtube.com/" target="_blank">▶</a></td>
     </tr>
     <tr>
       <td>15:30</td>
@@ -184,7 +184,79 @@ The seminar will be live on [Zoom](https://zoom.us){:target="_blank"} at
       <td><a href="." target="_blank"><strong> TBA </strong></a></td>
       <td><a href="" target="_blank">  </a></td>
       <td><b> TBA </b></td>
-      <td><a href="#tba-6-2">▤</a> <a href="https://www.youtube.com/" target="_blank">▶</a></td>
+      <td><a href="#tba-9-2">▤</a> <a href="https://www.youtube.com/" target="_blank">▶</a></td>
+    </tr>
+    <tr>
+      <td>16:10</td>
+      <td colspan="4">Question time </td>
+    </tr>
+    <tr style="background-color:#fbe49d">
+      <td>16:20</td>
+      <td><a href="." target="_blank"><strong> F. Campanini </strong></a></td>
+      <td><a href="" target="_blank">  </a></td>
+      <td><b> TBA </b></td>
+      <td><a href="#campanini">▤</a> <a href="https://www.youtube.com/" target="_blank">▶</a></td>
+    </tr>
+    <tr>
+      <td>16:50</td>
+      <td colspan="4">Question time </td>
+    </tr>
+    <tr>
+      <td>17:00</td>
+      <td colspan="4">Free chat </td>
+    </tr>
+  </tbody>
+</table>
+</center>
+
+<div id="tba-9-1"></div>
+### TBA 
+#### TBA 
+
+
+<div id="tba-9-2"></div>
+### TBA 
+#### TBA 
+
+
+<div id="campanini"></div>
+### Federico Campanini
+#### TBA 
+
+
+
+## September 28, 2023
+
+<a name="fest4"></a>
+<center>
+<table>
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Speaker</th>
+      <th>Affiliation</th>
+      <th>Talk</th>
+      <th>Material</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color:#fbe49d	">
+      <td>15:00</td>
+      <td><a href="." target="_blank"><strong> S. Awodey </strong></a></td>
+      <td><a href="." target="_blank">  </a></td>
+      <td><b> TBA </b></td>
+      <td><a href="#awodey">▤</a> <a href="https://www.youtube.com/" target="_blank">▶</a></td>
+    </tr>
+    <tr>
+      <td>15:30</td>
+      <td colspan="4">Question time </td>
+    </tr>
+    <tr style="background-color:#fbe49d">
+      <td>15:40</td>
+      <td><a href="." target="_blank"><strong> M. Escardo </strong></a></td>
+      <td><a href="" target="_blank">  </a></td>
+      <td><b> TBA </b></td>
+      <td><a href="#escardo">▤</a> <a href="https://www.youtube.com/" target="_blank">▶</a></td>
     </tr>
     <tr>
       <td>16:10</td>
@@ -209,89 +281,17 @@ The seminar will be live on [Zoom](https://zoom.us){:target="_blank"} at
 </table>
 </center>
 
-<div id="tba-6-1"></div>
-### TBA 
+<div id="awodey"></div>
+### Steve Awodey
 #### TBA 
 
 
-<div id="tba-6-2"></div>
-### TBA 
+<div id="escardo"></div>
+### Martin Escardo
 #### TBA 
 
 
 <div id="tba-6-3"></div>
-### TBA 
-#### TBA 
-
-
-
-## September 28, 2023
-
-<a name="fest4"></a>
-<center>
-<table>
-  <thead>
-    <tr>
-      <th>Time</th>
-      <th>Speaker</th>
-      <th>Affiliation</th>
-      <th>Talk</th>
-      <th>Material</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="background-color:#fbe49d	">
-      <td>15:00</td>
-      <td><a href="." target="_blank"><strong> TBA </strong></a></td>
-      <td><a href="." target="_blank">  </a></td>
-      <td><b> TBA </b></td>
-      <td><a href="#tba-9-1">▤</a> <a href="https://www.youtube.com/" target="_blank">▶</a></td>
-    </tr>
-    <tr>
-      <td>15:30</td>
-      <td colspan="4">Question time </td>
-    </tr>
-    <tr style="background-color:#fbe49d">
-      <td>15:40</td>
-      <td><a href="." target="_blank"><strong> TBA </strong></a></td>
-      <td><a href="" target="_blank">  </a></td>
-      <td><b> TBA </b></td>
-      <td><a href="#tba-9-2">▤</a> <a href="https://www.youtube.com/" target="_blank">▶</a></td>
-    </tr>
-    <tr>
-      <td>16:10</td>
-      <td colspan="4">Question time </td>
-    </tr>
-    <tr style="background-color:#fbe49d">
-      <td>16:20</td>
-      <td><a href="." target="_blank"><strong> TBA </strong></a></td>
-      <td><a href="" target="_blank">  </a></td>
-      <td><b> TBA </b></td>
-      <td><a href="#tba-9-3">▤</a> <a href="https://www.youtube.com/" target="_blank">▶</a></td>
-    </tr>
-    <tr>
-      <td>16:50</td>
-      <td colspan="4">Question time </td>
-    </tr>
-    <tr>
-      <td>17:00</td>
-      <td colspan="4">Free chat </td>
-    </tr>
-  </tbody>
-</table>
-</center>
-
-<div id="tba-9-1"></div>
-### TBA 
-#### TBA 
-
-
-<div id="tba-9-2"></div>
-### TBA 
-#### TBA 
-
-
-<div id="tba-9-3"></div>
 ### TBA 
 #### TBA 
 
