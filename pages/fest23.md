@@ -170,10 +170,10 @@ The seminar will be live on [Zoom](https://zoom.us){:target="_blank"} at
   <tbody>
     <tr style="background-color:#fbe49d	">
       <td>15:00</td>
-      <td><a href="." target="_blank"><strong> TBA </strong></a></td>
+      <td><a href="." target="_blank"><strong> E. Vitale </strong></a></td>
       <td><a href="." target="_blank">  </a></td>
       <td><b> TBA </b></td>
-      <td><a href="#tba-9-1">▤</a> <a href="https://www.youtube.com/" target="_blank">▶</a></td>
+      <td><a href="#vitale">▤</a> <a href="https://www.youtube.com/" target="_blank">▶</a></td>
     </tr>
     <tr>
       <td>15:30</td>
@@ -192,10 +192,10 @@ The seminar will be live on [Zoom](https://zoom.us){:target="_blank"} at
     </tr>
     <tr style="background-color:#fbe49d">
       <td>16:20</td>
-      <td><a href="." target="_blank"><strong> F. Campanini </strong></a></td>
+      <td><a href="." target="_blank"><strong> A. Cappelletti </strong></a></td>
       <td><a href="" target="_blank">  </a></td>
       <td><b> TBA </b></td>
-      <td><a href="#campanini">▤</a> <a href="https://www.youtube.com/" target="_blank">▶</a></td>
+      <td><a href="#cappelletti">▤</a> <a href="https://www.youtube.com/" target="_blank">▶</a></td>
     </tr>
     <tr>
       <td>16:50</td>
@@ -209,8 +209,8 @@ The seminar will be live on [Zoom](https://zoom.us){:target="_blank"} at
 </table>
 </center>
 
-<div id="tba-9-1"></div>
-### TBA 
+<div id="vitale"></div>
+### Enrico Vitale
 #### TBA 
 
 
@@ -219,8 +219,8 @@ The seminar will be live on [Zoom](https://zoom.us){:target="_blank"} at
 #### TBA 
 
 
-<div id="campanini"></div>
-### Federico Campanini
+<div id="cappelletti"></div>
+### Andrea Cappelletti 
 #### TBA 
 
 
@@ -264,10 +264,10 @@ The seminar will be live on [Zoom](https://zoom.us){:target="_blank"} at
     </tr>
     <tr style="background-color:#fbe49d">
       <td>16:20</td>
-      <td><a href="." target="_blank"><strong> TBA </strong></a></td>
+      <td><a href="." target="_blank"><strong> J. Wrigley </strong></a></td>
       <td><a href="" target="_blank">  </a></td>
       <td><b> TBA </b></td>
-      <td><a href="#tba-6-3">▤</a> <a href="https://www.youtube.com/" target="_blank">▶</a></td>
+      <td><a href="#wrigley">▤</a> <a href="https://www.youtube.com/" target="_blank">▶</a></td>
     </tr>
     <tr>
       <td>16:50</td>
@@ -291,8 +291,8 @@ The seminar will be live on [Zoom](https://zoom.us){:target="_blank"} at
 #### TBA 
 
 
-<div id="tba-6-3"></div>
-### TBA 
+<div id="wrigley"></div>
+### Joshua Wrigley
 #### TBA 
 
 
