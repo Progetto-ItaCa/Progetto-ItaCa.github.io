@@ -314,10 +314,10 @@ The seminar will be live on [Zoom](https://zoom.us){:target="_blank"} at
   <tbody>
     <tr style="background-color:#fbe49d	">
       <td>15:00</td>
-      <td><a href="." target="_blank"><strong> TBA </strong></a></td>
+      <td><a href="." target="_blank"><strong> N. Gambino </strong></a></td>
       <td><a href="." target="_blank">  </a></td>
       <td><b> TBA </b></td>
-      <td><a href="#tba-10-1">▤</a> <a href="https://www.youtube.com/" target="_blank">▶</a></td>
+      <td><a href="#gambino">▤</a> <a href="https://www.youtube.com/" target="_blank">▶</a></td>
     </tr>
     <tr>
       <td>15:30</td>
@@ -336,10 +336,10 @@ The seminar will be live on [Zoom](https://zoom.us){:target="_blank"} at
     </tr>
     <tr style="background-color:#fbe49d">
       <td>16:20</td>
-      <td><a href="." target="_blank"><strong> TBA </strong></a></td>
+      <td><a href="." target="_blank"><strong> S. R. Koudenburg </strong></a></td>
       <td><a href="" target="_blank">  </a></td>
       <td><b> TBA </b></td>
-      <td><a href="#tba-10-3">▤</a> <a href="https://www.youtube.com/" target="_blank">▶</a></td>
+      <td><a href="#koudenburg">▤</a> <a href="https://www.youtube.com/" target="_blank">▶</a></td>
     </tr>
     <tr>
       <td>16:50</td>
@@ -353,8 +353,8 @@ The seminar will be live on [Zoom](https://zoom.us){:target="_blank"} at
 </table>
 </center>
 
-<div id="tba-10-1"></div>
-### TBA 
+<div id="gambino"></div>
+### Nicola Gambino
 #### TBA 
 
 
@@ -363,8 +363,8 @@ The seminar will be live on [Zoom](https://zoom.us){:target="_blank"} at
 #### TBA 
 
 
-<div id="tba-10-3"></div>
-### TBA 
+<div id="koudenburg"></div>
+### Seerp R. Koudenburg
 #### TBA 
 
 
@@ -386,10 +386,10 @@ The seminar will be live on [Zoom](https://zoom.us){:target="_blank"} at
   <tbody>
     <tr style="background-color:#fbe49d	">
       <td>15:00</td>
-      <td><a href="." target="_blank"><strong> TBA </strong></a></td>
+      <td><a href="." target="_blank"><strong> M. Volpe </strong></a></td>
       <td><a href="." target="_blank">  </a></td>
       <td><b> TBA </b></td>
-      <td><a href="#tba-11-1">▤</a> <a href="https://www.youtube.com/" target="_blank">▶</a></td>
+      <td><a href="#volpe">▤</a> <a href="https://www.youtube.com/" target="_blank">▶</a></td>
     </tr>
     <tr>
       <td>15:30</td>
@@ -397,10 +397,10 @@ The seminar will be live on [Zoom](https://zoom.us){:target="_blank"} at
     </tr>
     <tr style="background-color:#fbe49d">
       <td>15:40</td>
-      <td><a href="." target="_blank"><strong> TBA </strong></a></td>
+      <td><a href="." target="_blank"><strong> S. Henry </strong></a></td>
       <td><a href="" target="_blank">  </a></td>
       <td><b> TBA </b></td>
-      <td><a href="#tba-11-2">▤</a> <a href="https://www.youtube.com/" target="_blank">▶</a></td>
+      <td><a href="#henry">▤</a> <a href="https://www.youtube.com/" target="_blank">▶</a></td>
     </tr>
     <tr>
       <td>16:10</td>
@@ -425,13 +425,13 @@ The seminar will be live on [Zoom](https://zoom.us){:target="_blank"} at
 </table>
 </center>
 
-<div id="tba-11-1"></div>
-### TBA 
+<div id="volpe"></div>
+### Marco Volpe
 #### TBA 
 
 
-<div id="tba-11-2"></div>
-### TBA 
+<div id="henry"></div>
+### Simon Henry
 #### TBA 
 
 
