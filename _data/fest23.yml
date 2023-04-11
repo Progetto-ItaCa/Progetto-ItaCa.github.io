@@ -1,0 +1,265 @@
+- date: "April 27, 2023" 
+  slots: 
+    - time: "15:00" 
+      talk: 
+        id: fritz 
+        title: TBA 
+        abstract: 
+        speaker: 
+          name: T. Fritz 
+          fullname: Tobia Fritz 
+          home: 
+          affiliation: 
+          aff-url: 
+    - time: "15:30" 
+      msg: Questions Time
+    - time: "15:40" 
+      talk: 
+        id: dilavore
+        title: TBA 
+        abstract: 
+        speaker: 
+          name: E. Di Lavore
+          fullname: Elena Di Lavore
+          home: 
+          affiliation: 
+          aff-url: 
+    - time: "16:10"
+      msg: Questions Time
+    - time: "16:20"
+      talk: 
+        id: trotta
+        title: TBA 
+        abstract: 
+        speaker: 
+          name: D. Trotta
+          fullname: Davide Trotta
+          home: 
+          affiliation: "Università di Pisa" 
+          aff-url: 
+    - time: "16:50" 
+      msg: Questions Time
+    - time: "17:00" 
+      msg: Free Chat
+- date: "May 24, 2023" 
+  slots: 
+    - time: "15:00" 
+      talk: 
+        id: menni
+        title: TBA 
+        abstract: 
+        speaker: 
+          name: M. Menni
+          fullname: Matias Menni
+          home: 
+          affiliation: 
+          aff-url: 
+    - time: "15:30" 
+      msg: Questions Time
+    - time: "15:40" 
+      talk: 
+        id: guffanti
+        title: TBA 
+        abstract: 
+        speaker: 
+          name: F. Guffanti
+          fullname: Francesca Guffanti
+          home: 
+          affiliation: "Università degli Studi di Milano" 
+          aff-url: 
+    - time: "16:10"
+      msg: Questions Time
+    - time: "16:20"
+      talk: 
+        id: freni
+        title: TBA 
+        abstract: 
+        speaker: 
+          name: P. Freni
+          fullname: Pietro Freni
+          home: 
+          affiliation: "University of Leeds" 
+          aff-url: 
+    - time: "16:50" 
+      msg: Questions Time
+    - time: "17:00" 
+      msg: Free Chat
+- date: "June 16, 2023" 
+  slots: 
+    - time: "15:00" 
+      talk: 
+        id: vitale
+        title: TBA 
+        abstract: 
+        speaker: 
+          name: E. Vitale 
+          fullname: Enrico Vitale
+          home: 
+          affiliation: 
+          aff-url: 
+    - time: "15:30" 
+      msg: Questions Time
+    - time: "15:40" 
+      talk: 
+        id: tba62
+        title: TBA 
+        abstract: 
+        speaker: 
+          name: TBA
+          fullname: TBA
+          home: 
+          affiliation:  
+          aff-url: 
+    - time: "16:10"
+      msg: Questions Time
+    - time: "16:20"
+      talk: 
+        id: cappelletti
+        title: TBA 
+        abstract: 
+        speaker: 
+          name: A. Cappelletti
+          fullname: Andrea Cappelletti
+          home: 
+          affiliation: "Università degli Studi di Milano"  
+          aff-url: 
+    - time: "16:50" 
+      msg: Questions Time
+    - time: "17:00" 
+      msg: Free Chat
+- date: "September 28, 2023" 
+  slots: 
+    - time: "15:00" 
+      talk: 
+        id: awodey
+        title: TBA 
+        abstract: 
+        speaker: 
+          name: S. Awodey
+          fullname: Steve Awodey
+          home: 
+          affiliation: 
+          aff-url: 
+    - time: "15:30" 
+      msg: Questions Time
+    - time: "15:40" 
+      talk: 
+        id: escardo
+        title: TBA 
+        abstract: 
+        speaker: 
+          name: M. Escardo
+          fullname: Martin Escardo
+          home: 
+          affiliation:  
+          aff-url: 
+    - time: "16:10"
+      msg: Questions Time
+    - time: "16:20"
+      talk: 
+        id: wrigley
+        title: TBA 
+        abstract: 
+        speaker: 
+          name: J. Wrigley
+          fullname: Joshua Wrigley
+          home: 
+          affiliation: 
+          aff-url: 
+    - time: "16:50" 
+      msg: Questions Time
+    - time: "17:00" 
+      msg: Free Chat
+- date: "October 25, 2023" 
+  slots: 
+    - time: "15:00" 
+      talk: 
+        id: gambino
+        title: TBA 
+        abstract: 
+        speaker: 
+          name: N. Gambino
+          fullname: Nicola Gambino
+          home: 
+          affiliation: 
+          aff-url: 
+    - time: "15:30" 
+      msg: Questions Time
+    - time: "15:40" 
+      talk: 
+        id: tba102
+        title: TBA 
+        abstract: 
+        speaker: 
+          name: TBA
+          fullname: TBA
+          home: 
+          affiliation:  
+          aff-url: 
+    - time: "16:10"
+      msg: Questions Time
+    - time: "16:20"
+      talk: 
+        id: koudenburg
+        title: TBA 
+        abstract: 
+        speaker: 
+          name: S. R. Koudenburg
+          fullname: Seerp R. Koudenburg
+          home: 
+          affiliation: 
+          aff-url: 
+    - time: "16:50" 
+      msg: Questions Time
+    - time: "17:00" 
+      msg: Free Chat
+- date: "November 23, 2023"
+  slots: 
+    - time: "15:00" 
+      talk: 
+        id: volpe
+        title: TBA 
+        abstract: 
+        speaker: 
+          name: M. Volpe
+          fullname: Marco Volpe
+          home: 
+          affiliation: 
+          aff-url: 
+    - time: "15:30" 
+      msg: Questions Time
+    - time: "15:40" 
+      talk: 
+        id: henry
+        title: TBA 
+        abstract: 
+        speaker: 
+          name: S. Henry
+          fullname: Simon Henry
+          home: 
+          affiliation:  
+          aff-url: 
+    - time: "16:10"
+      msg: Questions Time
+    - time: "16:20"
+      talk: 
+        id: tba113
+        title: TBA 
+        abstract: 
+        speaker: 
+          name: TBA
+          fullname: TBA
+          home: 
+          affiliation: 
+          aff-url: 
+    - time: "16:50" 
+      msg: Questions Time
+    - time: "17:00" 
+      msg: Free Chat
+
+
+
+
+
+
+
