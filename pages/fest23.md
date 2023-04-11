@@ -96,23 +96,23 @@ The seminar will be live on [Zoom](https://zoom.us){:target="_blank"} at
     </tr>
   </thead>
   <tbody>
-    <tr style="background-color:#fbe49d	">
+    <tr style="background-color:#fbe49d">
       <td>15:00</td>
-      <td><a href="." target="_blank"><strong> M. Menni </strong></a></td>
-      <td><a href="." target="_blank">  </a></td>
+      <td><a href="." target="_blank"><strong> F. Guffanti </strong></a></td>
+      <td><a href="" target="_blank">  </a></td>
       <td><b> TBA </b></td>
-      <td><a href="#manni">▤</a> <a href="https://www.youtube.com/" target="_blank">▶</a></td>
+      <td><a href="#guffanti">▤</a> <a href="https://www.youtube.com/" target="_blank">▶</a></td>
     </tr>
     <tr>
       <td>15:30</td>
       <td colspan="4">Question time </td>
     </tr>
-    <tr style="background-color:#fbe49d">
+    <tr style="background-color:#fbe49d	">
       <td>15:40</td>
-      <td><a href="." target="_blank"><strong> F. Guffanti </strong></a></td>
-      <td><a href="" target="_blank">  </a></td>
+      <td><a href="." target="_blank"><strong> M. Menni </strong></a></td>
+      <td><a href="." target="_blank">  </a></td>
       <td><b> TBA </b></td>
-      <td><a href="#guffanti">▤</a> <a href="https://www.youtube.com/" target="_blank">▶</a></td>
+      <td><a href="#manni">▤</a> <a href="https://www.youtube.com/" target="_blank">▶</a></td>
     </tr>
     <tr>
       <td>16:10</td>
