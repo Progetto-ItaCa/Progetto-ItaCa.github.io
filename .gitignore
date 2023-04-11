@@ -11,3 +11,5 @@ _*
 poster/*
 !_data
 !_data/course.json
+!_layouts/fest.md
+
