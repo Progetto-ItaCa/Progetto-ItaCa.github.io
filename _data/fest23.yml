@@ -45,19 +45,6 @@
   slots: 
     - time: "15:00" 
       talk: 
-        id: menni
-        title: TBA 
-        abstract: 
-        speaker: 
-          name: M. Menni
-          fullname: Matias Menni
-          home: 
-          affiliation: 
-          aff-url: 
-    - time: "15:30" 
-      msg: Questions Time
-    - time: "15:40" 
-      talk: 
         id: guffanti
         title: TBA 
         abstract: 
@@ -67,7 +54,20 @@
           home: 
           affiliation: "Università degli Studi di Milano" 
           aff-url: 
-    - time: "16:10"
+    - time: "15:30"
+      msg: Questions Time
+    - time: "15:40" 
+      talk: 
+        id: menni
+        title: TBA 
+        abstract: 
+        speaker: 
+          name: M. Menni
+          fullname: Matias Menni
+          home: 
+          affiliation: 
+          aff-url: 
+    - time: "16:10" 
       msg: Questions Time
     - time: "16:20"
       talk: 
