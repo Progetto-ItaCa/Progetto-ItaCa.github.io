@@ -32,7 +32,7 @@ layout: default
     <tr style="background-color:#fbe49d	">
       <td>{{ slot.time }}</td>
       <td><a href="{{ slot.talk.speaker.home | escape_url }}" target="_blank"><strong> {{ slot.talk.speaker.name }} </strong></a></td>
-      <td><a href="{{ slot.talk.speaker.aff-url | escape_url }}" target="_blank"> {{ slot.talk.speaker.affiliation }} </a></td>
+      <td> {{ slot.talk.speaker.affiliation }} </td>
       <td><b> {{ slot.talk.title }} </b></td>
       <td><a href="#{{ slot.talk.id }}">▤</a> <a href="{{ slot.talk.youtube | escape_url }}" target="_blank">▶</a></td>
     </tr>

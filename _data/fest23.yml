@@ -10,7 +10,7 @@
           fullname: Tobias Fritz
           home: http://tobiasfritz.science
           affiliation: University of Innsbruck
-          aff-url:
+        youtube:
     - time: "15:30"
       msg: Questions Time
     - time: "15:40"
@@ -24,7 +24,7 @@ This is recent joint work with Mario Román."
           fullname: Elena Di Lavore
           home: https://elenadilavore.github.io
           affiliation: Tallinn University of Technology
-          aff-url: https://compose.ioc.ee
+        youtube: https://compose.ioc.ee
     - time: "16:10"
       msg: Questions Time
     - time: "16:20"
@@ -37,7 +37,7 @@ This is recent joint work with Mario Román."
           fullname: Davide Trotta
           home: https://trottadavide.github.io
           affiliation: "Università di Pisa"
-          aff-url:
+        youtube:
     - time: "16:50"
       msg: Questions Time
     - time: "17:00"
@@ -54,7 +54,7 @@ This is recent joint work with Mario Román."
           fullname: Francesca Guffanti
           home:
           affiliation: "Università degli Studi di Milano"
-          aff-url:
+        youtube:
     - time: "15:30"
       msg: Questions Time
     - time: "15:40"
@@ -67,7 +67,7 @@ This is recent joint work with Mario Román."
           fullname: Matias Menni
           home:
           affiliation:
-          aff-url:
+        youtube:
     - time: "16:10"
       msg: Questions Time
     - time: "16:20"
@@ -80,7 +80,7 @@ This is recent joint work with Mario Román."
           fullname: Pietro Freni
           home:
           affiliation: "University of Leeds"
-          aff-url:
+        youtube:
     - time: "16:50"
       msg: Questions Time
     - time: "17:00"
@@ -97,7 +97,7 @@ This is recent joint work with Mario Román."
           fullname: Enrico Vitale
           home:
           affiliation:
-          aff-url:
+        youtube:
     - time: "15:30"
       msg: Questions Time
     - time: "15:40"
@@ -110,7 +110,7 @@ This is recent joint work with Mario Román."
           fullname: TBA
           home:
           affiliation:
-          aff-url:
+        youtube:
     - time: "16:10"
       msg: Questions Time
     - time: "16:20"
@@ -123,7 +123,7 @@ This is recent joint work with Mario Román."
           fullname: Andrea Cappelletti
           home:
           affiliation: "Università degli Studi di Milano"
-          aff-url:
+        youtube:
     - time: "16:50"
       msg: Questions Time
     - time: "17:00"
@@ -140,7 +140,7 @@ This is recent joint work with Mario Román."
           fullname: Steve Awodey
           home:
           affiliation:
-          aff-url:
+        youtube:
     - time: "15:30"
       msg: Questions Time
     - time: "15:40"
@@ -153,7 +153,7 @@ This is recent joint work with Mario Román."
           fullname: Martin Escardo
           home:
           affiliation:
-          aff-url:
+        youtube:
     - time: "16:10"
       msg: Questions Time
     - time: "16:20"
@@ -166,7 +166,7 @@ This is recent joint work with Mario Román."
           fullname: Joshua Wrigley
           home:
           affiliation:
-          aff-url:
+        youtube:
     - time: "16:50"
       msg: Questions Time
     - time: "17:00"
@@ -183,7 +183,7 @@ This is recent joint work with Mario Román."
           fullname: Nicola Gambino
           home:
           affiliation:
-          aff-url:
+        youtube:
     - time: "15:30"
       msg: Questions Time
     - time: "15:40"
@@ -196,7 +196,7 @@ This is recent joint work with Mario Román."
           fullname: TBA
           home:
           affiliation:
-          aff-url:
+        youtube:
     - time: "16:10"
       msg: Questions Time
     - time: "16:20"
@@ -209,7 +209,7 @@ This is recent joint work with Mario Román."
           fullname: Seerp R. Koudenburg
           home:
           affiliation:
-          aff-url:
+        youtube:
     - time: "16:50"
       msg: Questions Time
     - time: "17:00"
@@ -226,7 +226,7 @@ This is recent joint work with Mario Román."
           fullname: Marco Volpe
           home:
           affiliation:
-          aff-url:
+        youtube:
     - time: "15:30"
       msg: Questions Time
     - time: "15:40"
@@ -239,7 +239,7 @@ This is recent joint work with Mario Román."
           fullname: Simon Henry
           home:
           affiliation:
-          aff-url:
+        youtube:
     - time: "16:10"
       msg: Questions Time
     - time: "16:20"
@@ -252,7 +252,7 @@ This is recent joint work with Mario Román."
           fullname: TBA
           home:
           affiliation:
-          aff-url:
+        youtube:
     - time: "16:50"
       msg: Questions Time
     - time: "17:00"
