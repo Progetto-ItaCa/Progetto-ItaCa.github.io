@@ -47,8 +47,8 @@ This is recent joint work with Mario Román."
     - time: "15:00"
       talk:
         id: guffanti
-        title: TBA
-        abstract:
+        title: "A doctrinal view of logic" 
+        abstract: "The aim of this talk is to offer an interpretation via doctrines of a classical result in first-order logic, i.e. Henkin’s Theorem (“Every consistent theory has a model”). The theorem is generalized in the language of implicational existential doctrines, focusing on the translation of some key steps in the original proof, such as adding constants to a language and axioms to a theory. "
         speaker:
           name: F. Guffanti
           fullname: Francesca Guffanti
@@ -60,8 +60,8 @@ This is recent joint work with Mario Román."
     - time: "15:40"
       talk:
         id: menni
-        title: TBA
-        abstract:
+        title: "Decidable objects and molecular toposes"
+        abstract: "Consider an extensive category with finite products and its full subcategory of decidable objects. Assuming that this inclusion has a finite-product preserving left adjoint then the adjunction has stable units. It follows as a corollary that every pre-cohesive topos over a Boolean base is molecular. We will try to understand whether every pre-cohesive topos is molecular. " 
         speaker:
           name: M. Menni
           fullname: Matias Menni
@@ -73,8 +73,8 @@ This is recent joint work with Mario Román."
     - time: "16:20"
       talk:
         id: freni
-        title: TBA
-        abstract:
+        title: "What should Strong Vector Spaces be? " 
+        abstract: 'Spaces of generalized power series have been important objects in asymptotic analysis and in the algebra and model theory of valued structures ever since the introduction of the first instances of them by Levi-Civita and Hahn. A key feature in this sort of structures is a notion of formal summability and often "natural" linear maps built in this context (such as derivations) are required to preserve this stronger form of linearity, whence they are called strongly linear. In the talk we will propose a framework for strong linearity: we will argue about a notion of reasonable category of strong vector spaces (r.c.s.v.) generalizing the usual setting for strong linearity and show that up to equivalence there is a universal locally small r.c.s.v. ∑Vect  and it can be construed as a torsion free part of Ind(Vect^op) with respect to an appropriate torsion theory. We will then give a brief description of a monoidal closed structure for ∑Vect  and the relation ∑Vect has with another orthogonal subcategory of Ind(Vect^op) equivalent to the category of linearly topologized vector spaces that are colimits of linearly compact spaces. Finally, we will present some open questions in this setting.' 
         speaker:
           name: P. Freni
           fullname: Pietro Freni
