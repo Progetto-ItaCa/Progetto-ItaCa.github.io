@@ -61,12 +61,12 @@ This is recent joint work with Mario Román."
       talk:
         id: menni
         title: "Decidable objects and molecular toposes"
-        abstract: "Consider an extensive category with finite products and its full subcategory of decidable objects. Assuming that this inclusion has a finite-product preserving left adjoint then the adjunction has stable units. It follows as a corollary that every pre-cohesive topos over a Boolean base is molecular. We will try to understand whether every pre-cohesive topos is molecular. " 
+        abstract: "Consider an extensive category with finite products and its full subcategory of decidable objects. Assuming that this inclusion has a finite-product preserving left adjoint then the adjunction has stable units. It follows as a corollary that every pre-cohesive topos over a Boolean base is molecular. Is every pre-cohesive topos molecular?" 
         speaker:
           name: M. Menni
           fullname: Matias Menni
           home:
-          affiliation:
+          affiliation: "Conicet and Universidad Nacional de La Plata" 
         youtube:
     - time: "16:10"
       msg: Questions Time
