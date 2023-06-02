@@ -2,6 +2,8 @@
 layout: default 
 ---
 
+{%- assign slids_url = '/assets/slides/' -%} 
+
 <h1> {{ page.title }} </h1> 
 
 <p> ItaCa Fest is an online webinar aimed to gather the community of ItaCa.</p> 
@@ -31,10 +33,17 @@ layout: default
   {% if slot.talk %} 
     <tr style="background-color:#fbe49d	">
       <td>{{ slot.time }}</td>
-      <td><a href="{{ slot.talk.speaker.home | escape_url }}" target="_blank"><strong> {{ slot.talk.speaker.name }} </strong></a></td>
+      <td>
+        {%- if slot.talk.speaker.home -%} <a href="{{ slot.talk.speaker.home | escape_url }}" target="_blank"> {%- endif -%}
+          <strong> {{ slot.talk.speaker.name }} </strong>
+        {%- if slot.talk.speaker.hom -%} </a> {%- endif -%}
+      </td>
       <td> {{ slot.talk.speaker.affiliation }} </td>
-      <td><b> {{ slot.talk.title }} </b></td>
-      <td><a href="#{{ slot.talk.id }}">▤</a> <a href="{{ slot.talk.youtube | escape_url }}" target="_blank">▶</a></td>
+      <td> <a href="#{{ slot.talk.id }}"> <b>{{ slot.talk.title }} </b> </a> </td>
+      <td>
+        {%- if slot.talk.slids -%} <a href="{{ slot.talk.slides | prepend: slides_url | relative_url  }}">▤</a> {%- endif -%} 
+        {%- if slot.talk.youtube -%} <a href="{{ slot.talk.youtube | escape_url }}" target="_blank">▶</a> {%- endif -%} 
+      </td>
     </tr>
   {% else %} 
     <tr>
