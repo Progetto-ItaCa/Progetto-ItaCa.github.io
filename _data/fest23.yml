@@ -10,7 +10,7 @@
           fullname: Tobias Fritz
           home: http://tobiasfritz.science
           affiliation: University of Innsbruck
-        youtube:
+        youtube: "https://www.youtube.com/watch?v=wbLMZd666oo&list=PLwOJoZOlTAm_UQhrLlaC53FgqC4-k9App&index=3" 
     - time: "15:30"
       msg: Questions Time
     - time: "15:40"
@@ -24,7 +24,7 @@ This is recent joint work with Mario Román."
           fullname: Elena Di Lavore
           home: https://elenadilavore.github.io
           affiliation: Tallinn University of Technology
-        youtube: https://compose.ioc.ee
+        youtube: "https://www.youtube.com/watch?v=ozNTn_Uc390&list=PLwOJoZOlTAm_UQhrLlaC53FgqC4-k9App&index=1" 
     - time: "16:10"
       msg: Questions Time
     - time: "16:20"
@@ -37,7 +37,7 @@ This is recent joint work with Mario Román."
           fullname: Davide Trotta
           home: https://trottadavide.github.io
           affiliation: "Università di Pisa"
-        youtube:
+        youtube: "https://www.youtube.com/watch?v=hyWMiBqgJ7c&list=PLwOJoZOlTAm_UQhrLlaC53FgqC4-k9App&index=2" 
     - time: "16:50"
       msg: Questions Time
     - time: "17:00"
@@ -54,7 +54,7 @@ This is recent joint work with Mario Román."
           fullname: Francesca Guffanti
           home:
           affiliation: "Università degli Studi di Milano"
-        youtube:
+        youtube: "https://www.youtube.com/watch?v=diQ0i2sMWw0&list=PLwOJoZOlTAm_UQhrLlaC53FgqC4-k9App&index=6" 
     - time: "15:30"
       msg: Questions Time
     - time: "15:40"
@@ -67,7 +67,7 @@ This is recent joint work with Mario Román."
           fullname: Matias Menni
           home:
           affiliation: "Conicet and Universidad Nacional de La Plata" 
-        youtube:
+        youtube: "https://www.youtube.com/watch?v=i1Z_oQMi0HM&list=PLwOJoZOlTAm_UQhrLlaC53FgqC4-k9App&index=5" 
     - time: "16:10"
       msg: Questions Time
     - time: "16:20"
@@ -80,7 +80,7 @@ This is recent joint work with Mario Román."
           fullname: Pietro Freni
           home:
           affiliation: "University of Leeds"
-        youtube:
+        youtube: "https://www.youtube.com/watch?v=Ha4MwB7ejnA&list=PLwOJoZOlTAm_UQhrLlaC53FgqC4-k9App&index=4" 
     - time: "16:50"
       msg: Questions Time
     - time: "17:00"
