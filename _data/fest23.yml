@@ -55,6 +55,7 @@ This is recent joint work with Mario Román."
           home:
           affiliation: "Università degli Studi di Milano"
         youtube: "https://www.youtube.com/watch?v=diQ0i2sMWw0&list=PLwOJoZOlTAm_UQhrLlaC53FgqC4-k9App&index=6" 
+        slides: "2023-05-guffanti.pdf" 
     - time: "15:30"
       msg: Questions Time
     - time: "15:40"
@@ -68,6 +69,7 @@ This is recent joint work with Mario Román."
           home:
           affiliation: "Conicet and Universidad Nacional de La Plata" 
         youtube: "https://www.youtube.com/watch?v=i1Z_oQMi0HM&list=PLwOJoZOlTAm_UQhrLlaC53FgqC4-k9App&index=5" 
+        slides: "2023-05-menni.pdf" 
     - time: "16:10"
       msg: Questions Time
     - time: "16:20"
@@ -81,6 +83,7 @@ This is recent joint work with Mario Román."
           home:
           affiliation: "University of Leeds"
         youtube: "https://www.youtube.com/watch?v=Ha4MwB7ejnA&list=PLwOJoZOlTAm_UQhrLlaC53FgqC4-k9App&index=4" 
+        slides: "2023-05-freni.pdf" 
     - time: "16:50"
       msg: Questions Time
     - time: "17:00"
