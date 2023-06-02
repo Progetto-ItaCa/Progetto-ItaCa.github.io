@@ -2,7 +2,7 @@
 layout: default 
 ---
 
-{%- assign slids_url = '/assets/slides/' -%} 
+{%- assign slides_url = '/assets/slides/' -%} 
 
 <h1> {{ page.title }} </h1> 
 
@@ -41,7 +41,7 @@ layout: default
       <td> {{ slot.talk.speaker.affiliation }} </td>
       <td> <a href="#{{ slot.talk.id }}"> <b>{{ slot.talk.title }} </b> </a> </td>
       <td>
-        {%- if slot.talk.slids -%} <a href="{{ slot.talk.slides | prepend: slides_url | relative_url  }}">▤</a> {%- endif -%} 
+        {%- if slot.talk.slides -%} <a href="{{ slot.talk.slides | prepend: slides_url | relative_url  }}">▤</a> {%- endif -%} 
         {%- if slot.talk.youtube -%} <a href="{{ slot.talk.youtube | escape_url }}" target="_blank">▶</a> {%- endif -%} 
       </td>
     </tr>
