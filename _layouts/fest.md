@@ -12,8 +12,21 @@ layout: default
 <a href="{{ page.zoom  | escape_url }}">this link</a>
 </p> 
 
+<p> Here the list of seminars 
+  <ul>
+  {%- for day in site.data[page.id] %}
+    <li> <a href="#{{ day.id }}"> {{ day.date }} </a> </li> 
+  {% endfor -%}
+  </ul>
+</p>
+
+<br> 
+
 {% for day in site.data[page.id] %} 
 
+<br> 
+
+<div id="{{ day.id }}"></div> 
 <h2> {{ day.date }} </h2> 
 
 <a name="fest4"></a>
@@ -62,7 +75,7 @@ layout: default
 <h3> {{ slot.talk.speaker.fullname }} </h3> 
 <h4> {{ slot.talk.title }} </h4> 
 
-<p> {{ slot.talk.abstract }} </p> 
+<p> {{ slot.talk.abstract | newline_to_br }} </p> 
 {% endif %} 
 
 {% endfor %} 

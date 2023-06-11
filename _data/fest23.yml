@@ -1,4 +1,5 @@
 - date: "April 27, 2023"
+  id: "apr27"
   slots:
     - time: "15:00"
       talk:
@@ -43,6 +44,7 @@ This is recent joint work with Mario Román."
     - time: "17:00"
       msg: Free Chat
 - date: "May 24, 2023"
+  id: "may24"
   slots:
     - time: "15:00"
       talk:
@@ -89,6 +91,7 @@ This is recent joint work with Mario Román."
     - time: "17:00"
       msg: Free Chat
 - date: "June 16, 2023"
+  id: "jun16"
   slots:
     - time: "15:00"
       talk:
@@ -138,6 +141,7 @@ This is recent joint work with Mario Román."
     - time: "17:00"
       msg: Free Chat
 - date: "September 28, 2023"
+  id: "sep28"
   slots:
     - time: "15:00"
       talk:
@@ -181,6 +185,7 @@ This is recent joint work with Mario Román."
     - time: "17:00"
       msg: Free Chat
 - date: "October 25, 2023"
+  id: "oct25" 
   slots:
     - time: "15:00"
       talk:
@@ -224,6 +229,7 @@ This is recent joint work with Mario Román."
     - time: "17:00"
       msg: Free Chat
 - date: "November 23, 2023"
+  id: "nov23" 
   slots:
     - time: "15:00"
       talk:
