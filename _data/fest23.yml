@@ -93,8 +93,8 @@ This is recent joint work with Mario Román."
     - time: "15:00"
       talk:
         id: vitale
-        title: TBA
-        abstract:
+        title: The completion under strong homotopy cokernels
+        abstract: "For A a category with finite colimits, we show that the embedding of A into the category of arrows Arr(A) determined by the initial object is the completion of A under strong homotopy cokernels. The nullhomotopy structure of Arr(A) is the usual one induced by the canonical string of adjunctions between A and Arr(A)." 
         speaker:
           name: E. Vitale
           fullname: Enrico Vitale
@@ -106,8 +106,13 @@ This is recent joint work with Mario Román."
     - time: "15:40"
       talk:
         id: gonzales
-        title: TBA
-        abstract:
+        title: Bicategorical presentations of étendues
+        abstract: |
+          Étendues are the Grothendieck topoi that “locally look like a locale”. They are known to admit presentations in terms of étale groupoids, left cancellative Grothendieck sites or Ehresmann sites. On one hand, the presentations in terms of étale groupoids are well-behaved bicategorically: Pronk showed in [2] that the 2-category of étendues is biequivalent to a bicategory of fractions of the 2-category of étale groupoids. On the other hand, left cancellative Grothendieck sites and Ehresmann sites, while enough to provide presentations at the level of the objects, turn out to be too restrictive in order to allow for a bicategory of fractions presentation of the whole 2-category of étendues.
+          In this talk we introduce a family of Grothendieck sites, the torsion-free generated Grothendieck sites, which contains the left cancellative ones and does allow to recover the 2-category of étendues as a bicategory of fractions. In addition, we introduce the family of generalized Ehresmann sites, a new family of presentations of étendues enlarging that of Ehresmann sites. In parallel with the bicategorical comparison between left cancellative Grothendieck sites and Ehresmann sites carried out by DeWolf and Pronk in [1], we study the connection between the torsion-free generated Grothendieck sites and the generalized Ehresmann sites with the final goal of proving that generalized Ehresmann sites also allow to recover étendues as a suitable bicategory of fractions.
+          This is joint work in progress with Darien DeWolf and Dorette Pronk.
+          [1] D. DeWolf and D. Pronk. A double categorical view on representations of etendues. Cahiers de Topologie et Géométrie Différentielle Catégoriques, LXI:3–56, 2020.
+          [2] D. A. Pronk. Etendues and stacks as bicategories of fractions. Compositio Math., 102(3):243–303, 1996.
         speaker:
           name: J. R. Gonzales
           fullname: Julia Ramos Gonzales
@@ -119,8 +124,9 @@ This is recent joint work with Mario Román."
     - time: "16:20"
       talk:
         id: cappelletti
-        title: TBA
-        abstract:
+        title: Protoadditive Functors and Pretorsion Theories in Multipointed Context
+        abstract: |
+          We explore a multipointed version of the definition of a protoadditive functor, in relation to pretorsion theories. We show that a pretorsion theory, whose reflector into the torsion-free part is protoadditive, gives rise to an admissible Galois structure which admits a simple characterization of central extensions. Moreover, multipointed pretorsion theories satisfying mild additional assumptions correspond to stable factorization systems. Interesting examples of such pretorsion theories can be found in MV-algebras, in Heyting algebras, and in the dual of two-valued elementary toposes. Joint work with Andrea Montoli.
         speaker:
           name: A. Cappelletti
           fullname: Andrea Cappelletti
