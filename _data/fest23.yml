@@ -103,7 +103,8 @@ This is recent joint work with Mario Román."
           fullname: Enrico Vitale
           home:
           affiliation: "Université catholique de Louvain"
-        youtube:
+        youtube: "https://www.youtube.com/watch?v=DpVqEYlNYpI" 
+        slides: "2023-06-16-vitale.pdf" 
     - time: "15:30"
       msg: Questions Time
     - time: "15:40"
@@ -121,7 +122,7 @@ This is recent joint work with Mario Román."
           fullname: Julia Ramos Gonzales
           home:
           affiliation: "Université catholique de Louvain"
-        youtube:
+        youtube: "https://www.youtube.com/watch?v=rMP3ShV3v3k" 
     - time: "16:10"
       msg: Questions Time
     - time: "16:20"
@@ -135,7 +136,8 @@ This is recent joint work with Mario Román."
           fullname: Andrea Cappelletti
           home:
           affiliation: "Università degli Studi di Milano"
-        youtube:
+        youtube: "https://www.youtube.com/watch?v=zYjuzXiQMKI" 
+        slides: "2023-06-16-cappelletti.pdf" 
     - time: "16:50"
       msg: Questions Time
     - time: "17:00"
