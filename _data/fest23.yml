@@ -205,12 +205,12 @@ This is recent joint work with Mario Román."
       msg: Questions Time
     - time: "15:40"
       talk:
-        id: tba102
+        id: lobbia
         title: TBA
         abstract:
         speaker:
-          name: TBA
-          fullname: TBA
+          name: G. Lobbia
+          fullname: Gabriele Lobbia 
           home:
           affiliation:
         youtube:
