@@ -149,13 +149,16 @@ This is recent joint work with Mario Román."
     - time: "15:00"
       talk:
         id: awodey
-        title: TBA
-        abstract:
+        title: Algebraic Type Theory 
+        abstract: | 
+          A type theoretic universe E —> U  bears a certain algebraic structure resulting from the type-forming operations of unit type, identity type, dependent sum, and dependent product (as in [1]) which may be generalized to form the concept of a “Martin-Löf algebra”. A free ML-algebra is then a model of type theory, perhaps with special properties. The general theory of such ML-algebras is then a proof-relevant version of the theory of Zermelo-Fraenkel algebras from the algebraic set theory of Joyal & Moerdijk [2]
+          [1] S. Awodey. Natural models of homotopy type theory. Math.Stru.Comp.Sci., 28(2), 2008.
+          [2] A. Joyal and I. Moerdijk, Algebraic Set Theory, Cambridge University Press, 1995.
         speaker:
           name: S. Awodey
           fullname: Steve Awodey
           home:
-          affiliation:
+          affiliation: Carnegie Mellon University 
         youtube:
     - time: "15:30"
       msg: Questions Time
@@ -163,7 +166,7 @@ This is recent joint work with Mario Román."
       talk:
         id: escardo
         title: TBA
-        abstract:
+        abstract: 
         speaker:
           name: M. Escardo
           fullname: Martin Escardo
