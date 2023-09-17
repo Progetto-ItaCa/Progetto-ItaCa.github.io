@@ -178,13 +178,16 @@ This is recent joint work with Mario Román."
     - time: "16:20"
       talk:
         id: wrigley
-        title: TBA
-        abstract:
+        title: Topological groupoids for classifying toposes
+        abstract: | 
+          Grothendieck toposes, and by extension, logical theories, can be represented by topological structures.  In [1], Butz and Moerdijk showed that every topos with enough points is equivalent to a topos of sheaves on an open topological groupoid.  The next obvious question is: which topological groupoids represent a particular topos?  This talk presents a model-theoretic terms characterisation of which open topological groupoids represent the classifying topos of a theory.  Intuitively, this characterises which groupoids of models contain enough information to reconstruct the theory.
+          [1] C. Butz & I. Moerdijk, Representing topoi by topological groupoids. J. Pure Appl. Algebra 130 (1998), no. 3, 223–235.
+          [2] J. Wrigley, On topological groupoids that represent theories, arXiv:2306.16331 (2023).
         speaker:
           name: J. Wrigley
           fullname: Joshua Wrigley
           home:
-          affiliation:
+          affiliation: "Università degli Studi dell'Insubria" 
         youtube:
     - time: "16:50"
       msg: Questions Time
