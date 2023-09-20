@@ -164,19 +164,6 @@ This is recent joint work with Mario Román."
       msg: Questions Time
     - time: "15:40"
       talk:
-        id: escardo
-        title: TBA
-        abstract: 
-        speaker:
-          name: M. Escardo
-          fullname: Martin Escardo
-          home:
-          affiliation:
-        youtube:
-    - time: "16:10"
-      msg: Questions Time
-    - time: "16:20"
-      talk:
         id: wrigley
         title: Topological groupoids for classifying toposes
         abstract: | 
@@ -189,9 +176,9 @@ This is recent joint work with Mario Román."
           home:
           affiliation: "Università degli Studi dell'Insubria" 
         youtube:
-    - time: "16:50"
+    - time: "16:10"
       msg: Questions Time
-    - time: "17:00"
+    - time: "16:20"
       msg: Free Chat
 - date: "October 25, 2023"
   id: "oct25" 
