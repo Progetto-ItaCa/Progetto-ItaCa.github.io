@@ -160,6 +160,7 @@ This is recent joint work with Mario Román."
           home:
           affiliation: Carnegie Mellon University 
         youtube:
+        slides: "2023-09-awodey.pdf" 
     - time: "15:30"
       msg: Questions Time
     - time: "15:40"
@@ -176,6 +177,7 @@ This is recent joint work with Mario Román."
           home:
           affiliation: "Università degli Studi dell'Insubria" 
         youtube:
+        slides: "2023-09-wrigley.pdf" 
     - time: "16:10"
       msg: Questions Time
     - time: "16:20"
