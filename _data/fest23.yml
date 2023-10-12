@@ -185,19 +185,6 @@ This is recent joint work with Mario Román."
 - date: "October 25, 2023"
   id: "oct25" 
   slots:
-    - time: "15:40"
-      talk:
-        id: gambino
-        title: TBA
-        abstract:
-        speaker:
-          name: N. Gambino
-          fullname: Nicola Gambino
-          home:
-          affiliation:
-        youtube:
-    - time: "15:30"
-      msg: Questions Time
     - time: "15:00"
       talk:
         id: lobbia
@@ -206,6 +193,19 @@ This is recent joint work with Mario Román."
         speaker:
           name: G. Lobbia
           fullname: Gabriele Lobbia 
+          home:
+          affiliation:
+        youtube:
+    - time: "15:30"
+      msg: Questions Time
+    - time: "15:40"
+      talk:
+        id: gambino
+        title: TBA
+        abstract:
+        speaker:
+          name: N. Gambino
+          fullname: Nicola Gambino
           home:
           affiliation:
         youtube:
