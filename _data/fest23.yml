@@ -185,7 +185,7 @@ This is recent joint work with Mario Román."
 - date: "October 25, 2023"
   id: "oct25" 
   slots:
-    - time: "15:00"
+    - time: "15:40"
       talk:
         id: gambino
         title: TBA
@@ -198,7 +198,7 @@ This is recent joint work with Mario Román."
         youtube:
     - time: "15:30"
       msg: Questions Time
-    - time: "15:40"
+    - time: "15:00"
       talk:
         id: lobbia
         title: TBA
