@@ -219,13 +219,17 @@ This is recent joint work with Mario Román."
     - time: "16:20"
       talk:
         id: koudenburg
-        title: TBA
-        abstract:
+        title: Formal Day convolution and low-dimensional monoidal fibrations
+        abstract: | 
+          Let T be a monad on an augmented virtual double category K. The main result of this talk describes conditions ensuring that a formal Yoneda embedding y: A → P in K can be lifted along the forgetful functor U: Lax-T-Alg → K, where Lax-T-Alg is the augmented virtual double category of lax T-algebras.
+          Taking K = Prof the augmented virtual double category of profunctors and T the ``free strict monoidal category''-monad the main result recovers the Day convolution monoidal structure on the category of presheaves P = Set^{A^op} on a monoidal category A. Taking the same monad on the augmented virtual double category K = dFib of two-sided discrete fibrations instead, the main result implies the ``monoidal Grothendieck equivalence'' of lax monoidal functors A → Set and monoidal discrete opfibrations with base A (a variation on a result of Moeller and Vasilakopoulou).
+          Moving up a dimension, given a 2-monoidal 2-category A the main result likewise implies the equivalence of lax 2-monoidal 2-functors A → Cat and 2-monoidal locally discrete split 2-opfibrations with base A. The main ingredient here is that (somewhat surprisingly) there exists an augmented virtual double category ldSp2Fib that accommodates the lax natural transformations required to define the formal Yoneda embedding induced by the Grothendieck equivalence for locally discrete split 2-opfibrations.
+          Time permitting I will report on work in progress on a similar equivalence for monoidal double split opfibrations (double fibrations in the sense of Cruttwell, Lambert, Pronk and Szyld).
         speaker:
           name: S. R. Koudenburg
           fullname: Seerp R. Koudenburg
           home:
-          affiliation:
+          affiliation: Middle East Technical University
         youtube:
     - time: "16:50"
       msg: Questions Time
