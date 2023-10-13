@@ -188,26 +188,31 @@ This is recent joint work with Mario Román."
     - time: "15:00"
       talk:
         id: lobbia
-        title: TBA
-        abstract:
+        title: "A skew approach to enrichment for Gray-categories"
+        abstract: |
+          The category of Gray-categories does not admit a monoidal biclosed structure that models weak higher-dimensional transformations. In this talk, I will outline these problems and show how skew structures can provide a solution. In particular, I will describe closed skew monoidal structures on the category of Gray-categories capturing higher lax transformations and higher pseudo-transformations.
+          If time will allows it, we will give some intuition on the interaction between these skew monoidal structures and the model structure on Gray-Cat, and what categories enriched in these skew structures — the resulting semi-strict 4-categories — look like.
+          This is joint work with John Bourke and results are based on our paper of the same name.
         speaker:
           name: G. Lobbia
           fullname: Gabriele Lobbia 
           home:
-          affiliation:
+          affiliation: "Masarykova Univerzita"
         youtube:
     - time: "15:30"
       msg: Questions Time
     - time: "15:40"
       talk:
         id: gambino
-        title: TBA
-        abstract:
+        title: "Monoidal bicategories, differential linear logic, and analytic functors"
+        abstract: |
+          I will explain how the bicategory of analytic functors, introduced in [FGHW], can be seen as a bicategorical model of differential linear logic. This is joint work in progress with Marcelo Fiore and Martin Hyland.
+          [FGHW] M. Fiore, M. Hyland, N. Gambino and G. Winskel, The cartesian closed bicategory of generalised species of structures, Journal of the London Mathematical Society 77 (2) 2008, pp. 203-220.
         speaker:
           name: N. Gambino
           fullname: Nicola Gambino
           home:
-          affiliation:
+          affiliation: "University of Manchester"
         youtube:
     - time: "16:10"
       msg: Questions Time
