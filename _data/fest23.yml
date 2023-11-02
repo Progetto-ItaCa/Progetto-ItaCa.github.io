@@ -159,7 +159,7 @@ This is recent joint work with Mario Román."
           fullname: Steve Awodey
           home:
           affiliation: Carnegie Mellon University 
-        youtube:
+        youtube: "https://www.youtube.com/watch?v=PwIhLuGwtXA&list=PLwOJoZOlTAm_UQhrLlaC53FgqC4-k9App&index=10" 
         slides: "2023-09-awodey.pdf" 
     - time: "15:30"
       msg: Questions Time
@@ -176,7 +176,7 @@ This is recent joint work with Mario Román."
           fullname: Joshua Wrigley
           home:
           affiliation: "Università degli Studi dell'Insubria" 
-        youtube:
+        youtube: "https://www.youtube.com/watch?v=AhFjA-AdlsQ&list=PLwOJoZOlTAm_UQhrLlaC53FgqC4-k9App&index=11" 
         slides: "2023-09-wrigley.pdf" 
     - time: "16:10"
       msg: Questions Time
@@ -199,6 +199,7 @@ This is recent joint work with Mario Román."
           home:
           affiliation: "Masarykova Univerzita"
         youtube:
+        slides: "2023-10-lobbia.pdf" 
     - time: "15:30"
       msg: Questions Time
     - time: "15:40"
