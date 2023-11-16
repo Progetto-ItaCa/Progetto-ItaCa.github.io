@@ -242,41 +242,39 @@ This is recent joint work with Mario Román."
     - time: "15:00"
       talk:
         id: volpe
-        title: TBA
-        abstract:
+        title: Traces of dualizable categories and functoriality of the Becker-Gottlieb transfers
+        abstract: | 
+          For any fiber bundle with compact smooth manifold fiber X-->Y, Becker and Gottlieb have defined in [1] a "wrong way" map S[Y]-->S[X] at the level of homology with coefficients in the sphere spectrum. Later on, these wrong way maps have been defined more generally for continuous functions whose homotopy fibers are finitely dominated, and have been since referred to as the Becker-Gottlieb transfers. It has been a long standing open question whether these transfers behave well under composition, i.e. if they can be used to equip homology with a contravariant functoriality. Previous attempts to prove such functoriality contained unfixable mistakes (see [2], [3]).
+          In this talk, we will approach the transfers from the perspective of sheaf theory. We will recall the notion of a locally contractible geometric morphism, and then define a Becker-Gottlieb transfer associated to any proper, locally contractible map between locally contractible and locally compact Hausdorff spaces. We will then use techniques coming from recent work of Efimov on localizing invariants and dualizable stable infinity-categories to construct fully functorial "categorified transfers". Functoriality of the Becker-Gottlieb transfers is then obtained by applying topological Hochschild homology to the categorified transfers.
+          This is a joint work with Maxime Ramzi and Sebastian Wolf.
+          
+          [1] James Becker, Daniel Gottlieb, The transfer map and fiber bundles, Topology , 14 (1975) (pdf, doi:10.1016/0040-9383(75)90029-4)
+          [2] Rune Haugseng, The Becker-Gottlieb Transfer Is Functorial (arXiv:1310.6321)
+          [3] John Klein, Cary Malkiewich, The transfer is functorial
         speaker:
           name: M. Volpe
           fullname: Marco Volpe
           home:
-          affiliation:
+          affiliation: University of Leicester
         youtube:
     - time: "15:30"
       msg: Questions Time
     - time: "15:40"
       talk:
         id: henry
-        title: TBA
-        abstract:
+        title: Pro-completion of the category of sets and prodiscrete spaces
+        abstract: | 
+          It is a well-known result that the pro-completion of the category of finite sets is equivalent to the category of profinite spaces. But there seems to be no similar description of the pro-completion of the category of all sets - it does not corresponds to pro-discrete spaces. A first obstruction for this is that many pro-sets give rise to "pointfree" spaces  (locales), so at the very least we need to look at this question in terms of locales. But this is far from being enough, and the category of prodiscrete locale is still not the pro-completion of the category of sets.
+          
+          After reviewing briefly the claims above, I will clarify this gap by showing that the category of prodiscrete (or strongly zero-dimensional) locales is the "extensive procompletion" of the category of sets. That is, it is the minimal completion of the category of sets as an (infinitarilly) extensive category. To put it another way, the category of strongly zero-dimensional locales is the initial complete and infinitarilly extensive category. This involves a characterization of prodiscrete locales as "special" pro-sets that satisfy a local version of extensivity expressed which can be expressed as a limit preservation condition.
         speaker:
           name: S. Henry
           fullname: Simon Henry
           home:
-          affiliation:
+          affiliation:University of Ottawa
         youtube:
     - time: "16:10"
       msg: Questions Time
     - time: "16:20"
-      talk:
-        id: tba113
-        title: TBA
-        abstract:
-        speaker:
-          name: TBA
-          fullname: TBA
-          home:
-          affiliation:
-        youtube:
-    - time: "16:50"
-      msg: Questions Time
-    - time: "17:00"
       msg: Free Chat
+
