@@ -255,7 +255,7 @@ This is recent joint work with Mario Román."
           name: M. Volpe
           fullname: Marco Volpe
           home:
-          affiliation: Max Planck Institute 
+          affiliation: Max Planck Institute for Mathematics
         youtube:
     - time: "15:30"
       msg: Questions Time
@@ -276,5 +276,18 @@ This is recent joint work with Mario Román."
     - time: "16:10"
       msg: Questions Time
     - time: "16:20"
+      talk:
+        id: stenzel
+        title: TBA 
+        abstract:  
+        speaker:
+          name: R. Stenzel
+          fullname: Raffael Stenzel 
+          home:
+          affiliation: Max Planck Institute for Mathematics  
+        youtube:
+    - time: "16:50"
+      msg: Questions Time
+    - time: "17:00"
       msg: Free Chat
 
