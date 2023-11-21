@@ -278,8 +278,12 @@ This is recent joint work with Mario Román."
     - time: "16:20"
       talk:
         id: stenzel
-        title: TBA 
-        abstract:  
+        title: Homotopy-coherent Category Theory à la Benabou
+        abstract: |
+          In [1] Benabou argued that the theory of fibered categories ought to be understood as a natural framework for the development of formal categorical logic. At the center of his paper are various instances of categorical comprehension schemes, each of which expresses that some relative categorical structure associated to a given fibered B-category E can be internalized in B. Which particular instances hold, and how one instance relates to another, depends not only on the base B (together with some given B-category E), but also on the meta-theory we consider the base B to be enriched over in the first place. This becomes evident when one defines the notion of comprehension (over an ordinary or more generally over an &inf;-categorical base B) with respect to the larger ambient &inf;-category of spaces rather than that of sets, see [2]. For instance, &inf;-category theory is univalent (in the sense of Voevodsky), while ordinary category theory is not. This has non-trivial implications regarding both the structural theory of comprehension schemes (over a fixed &inf;-categorical base B) as well as the validity of particular instances of such. In this talk, I want to discuss a few of the arising differences between the 1-categorical and &inf;-categorical theories. 
+
+          [1] J. Benabou - Fibered Categories and the foundations of naive category theory, The Journal of Symbolic Logic, Volume 50, Number 1, 1985.
+          [2] R. Stenzel - (&inf;,1)-Categorical comprehension schemes, arxiv: 2010.09663, 2020.
         speaker:
           name: R. Stenzel
           fullname: Raffael Stenzel 
