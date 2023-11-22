@@ -278,12 +278,12 @@ This is recent joint work with Mario Román."
     - time: "16:20"
       talk:
         id: stenzel
-        title: Homotopy-coherent Category Theory à la Benabou
+        title: The Comparison Lemma in higher topos theory 
         abstract: |
-          In [1] Benabou argued that the theory of fibered categories ought to be understood as a natural framework for the development of formal categorical logic. At the center of his paper are various instances of categorical comprehension schemes, each of which expresses that some relative categorical structure associated to a given fibered B-category E can be internalized in B. Which particular instances hold, and how one instance relates to another, depends not only on the base B (together with some given B-category E), but also on the meta-theory we consider the base B to be enriched over in the first place. This becomes evident when one defines the notion of comprehension (over an ordinary or more generally over an &infin;-categorical base B) with respect to the larger ambient &infin;-category of spaces rather than that of sets, see [2]. For instance, &infin;-category theory is univalent (in the sense of Voevodsky), while ordinary category theory is not. This has non-trivial implications regarding both the structural theory of comprehension schemes (over a fixed &infin;-categorical base B) as well as the validity of particular instances of such. In this talk, I want to discuss a few of the arising differences between the 1-categorical and &infin;-categorical theories. 
-
-          [1] J. Benabou - Fibered Categories and the foundations of naive category theory, The Journal of Symbolic Logic, Volume 50, Number 1, 1985.
-          [2] R. Stenzel - (&infin;,1)-Categorical comprehension schemes, arxiv: 2010.09663, 2020.
+          In ordinary topos theory, the Comparison Lemma states that every suitably dense embedding of a small category C into a potentially large site (D,K) induces the structure of a site (C,J) such that the given embedding induces an equivalence of associated sheaf theories (see e.g. [1, Theorem B.2.2.3]). The Lemma is useful in various situations; it for instance can be used to prove that the canonical topology on an infinitary pretopos with a small generating set has a small presentation ([1, Theorem B.2.2.7]). In this talk, I show that the Comparison Lemma fails in the usual context of Grothendieck topologies on infinity-categories. This in particular means that Lurie's canonical Grothendieck topologies ([2, Section 6.2.4]) generally fail to induce an equivalence of sheaf theories even in best case scenarios. I state a version of the Comparison Lemma which does hold instead, and discuss some of the arising questions and consequences.
+          
+          [1] P.T. Johnstone - Sketches of an Elephant Volume 1, Clarendon Press, Oxford , 2002.
+          [2] J. Lurie - Higher Topos Theory, Princeton University Press, Princeton, 2009.
         speaker:
           name: R. Stenzel
           fullname: Raffael Stenzel 
