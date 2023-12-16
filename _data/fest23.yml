@@ -231,7 +231,7 @@ This is recent joint work with Mario Román."
           fullname: Seerp R. Koudenburg
           home:
           affiliation: Middle East Technical University
-        youtube:
+        youtube: https://www.youtube.com/watch?v=1q1SXH6S52o
     - time: "16:50"
       msg: Questions Time
     - time: "17:00"
@@ -272,7 +272,7 @@ This is recent joint work with Mario Román."
           fullname: Simon Henry
           home:
           affiliation: University of Ottawa
-        youtube:
+        youtube: https://www.youtube.com/watch?v=KhnOUWwga5Q
     - time: "16:10"
       msg: Questions Time
     - time: "16:20"
@@ -289,7 +289,7 @@ This is recent joint work with Mario Román."
           fullname: Raffael Stenzel 
           home:
           affiliation: Max Planck Institute for Mathematics  
-        youtube:
+        youtube: https://www.youtube.com/watch?v=F_NwnqEwpk0
     - time: "16:50"
       msg: Questions Time
     - time: "17:00"
