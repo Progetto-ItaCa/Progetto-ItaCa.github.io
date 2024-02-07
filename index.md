@@ -22,7 +22,8 @@ We are still a small community, but we are slowly growing. You are more than wel
 ## Latest news
 
 - Stati Generali (February 7th, 2024 at 4PM CET)  
-  [zoom link](https%3A%2F%2Fgu-se.zoom.us%2Fj%2F61703354715&e=ed7a584b&h=a55e6476&f=y&p=y) 
+  [zoom link](https://gu-se.zoom.us/j/61703354715
+) 
   Meeting ID: 617 0335 4715
 
 - In October 2021, we started the first Category Theory course of ItaCa; join us on our [zulip](https://itaca.zulipchat.com/) channel!
