@@ -40,4 +40,4 @@ The community of ItaCa is growing: these are the people that helped so far. A la
 
 Feel free to join us or reach out with an email at [webmasters.itaca@gmail.com](mailto:webmasters.itaca@gmail.com).
 
-In particular, feel free to join our [Google group](mailto:progettoitaca+subscribe@googlegroups.com) sending a subscription email (it can have arbitrary subject and body), and our [Facebook group](https://www.facebook.com/groups/507590330041282/). Follow us on [Twitter](https://twitter.com/progetto_itaca), before Elon kills it for good.
+In particular, feel free to join our [Mailing List](mailto:progettoitaca+subscribe@googlegroups.com) sending a subscription email (it can have arbitrary subject and body), and our [Facebook group](https://www.facebook.com/groups/507590330041282/). Follow us on [Twitter](https://twitter.com/progetto_itaca), before Elon kills it for good.

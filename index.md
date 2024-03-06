@@ -17,21 +17,13 @@ It is, however, made by Italians, and more generally by category theorists in It
 
 This is to say: despite its apparent absence from the scenes, Italian Category Theory exists, and we want it to thrive.
 
-We are still a small community, but we are slowly growing. You are more than welcome to **join us** and help us grow! In particular, feel free to join our [Google group](mailto:progettoitaca+subscribe@googlegroups.com) sending a subscription email (it can have arbitrary subject and body), and our [Facebook group](https://www.facebook.com/groups/507590330041282/).
+We are still a small community, but we are slowly growing. You are more than welcome to **join us** and help us grow! In particular, feel free to join our [Mailing List](mailto:progettoitaca+subscribe@googlegroups.com) sending a subscription email (it can have arbitrary subject and body), and our [Facebook group](https://www.facebook.com/groups/507590330041282/).
 
 ## Latest news
 
-- Stati Generali (February 7th, 2024 at 4PM CET)  
-  [zoom link](https://gu-se.zoom.us/j/61703354715
-) 
-  Meeting ID: 617 0335 4715
+- [ItaCa Fest 2024](pages/fest24.html) is coming; stay tuned.
 
-- In October 2021, we started the first Category Theory course of ItaCa; join us on our [zulip](https://itaca.zulipchat.com/) channel!
-
-- As soon as the [covid-19 pandemic](https://en.wikipedia.org/wiki/COVID-19_pandemic) loosened its grip on the planet, we restarted meeting in person: since our [first](http://www.mat.unimi.it/users/itaca/) meeting in December 2019, there has been
-
-    - <a href="https://genoa-logic-group.github.io/itaca-workshop-2021/">itaca21</a> in Genoa.
-    - <a href="https://progetto-itaca.github.io/ItaCa-22/">itaca22</a> in Pisa.
+- [ItaCa 2024](https://www.math.unipd.it) is also coming; stay tuned.
 
 <img src="/assets/images/elep-low.jpg" style="width: 100%;" align="right" />
 
