@@ -3,40 +3,40 @@
   slots:
     - time: "15:00"
       talk:
-        id: fritz
+        id: jacqmin
         title: TBA
         abstract: TBA
         speaker:
-          name: TBA
-          fullname: TBA
-          home: 
-          affiliation: 
+          name: P. Jacqmin
+          fullname: "Pierre-Alain Jacqmin"
+          home: https://perso.uclouvain.be/pierre-alain.jacqmin/
+          affiliation: Royal Military Academy
         youtube: 
     - time: "15:30"
       msg: Questions Time
     - time: "15:40"
       talk:
-        id: dilavore
+        id: cigoli
         title: TBA
         abstract: TBA
         speaker:
-          name: TBA
-          fullname: TBA
+          name: A. Cigoli 
+          fullname: Alan Cigoli 
           home: 
-          affiliation: 
+          affiliation: Università degli Studi di Torino
         youtube: 
     - time: "16:10"
       msg: Questions Time
     - time: "16:20"
       talk:
-        id: trotta
+        id: mancini 
         title: TBA
         abstract: TBA
         speaker:
-          name: TBA
-          fullname: TBA
+          name: M. Mancini
+          fullname: Manuel Mancini 
           home: 
-          affiliation: 
+          affiliation: Università di Palermo 
         youtube: 
     - time: "16:50"
       msg: Questions Time
@@ -61,28 +61,28 @@
       msg: Questions Time
     - time: "15:40"
       talk:
-        id: menni
+        id: rota 
         title: TBA
         abstract: TBA
         speaker:
-          name: TBA
-          fullname: TBA
-          home:
-          affiliation: 
+          name: F. Rota
+          fullname: Franco Rota 
+          home: https://sites.google.com/view/rotafr 
+          affiliation:  University of Glasgow
         youtube: 
         slides: 
     - time: "16:10"
       msg: Questions Time
     - time: "16:20"
       talk:
-        id: freni
+        id: ozornova
         title: TBA
         abstract: TBA
         speaker:
-          name: TBA
-          fullname: TBA
-          home:
-          affiliation: 
+          name: V. Ozornova
+          fullname: Viktoriya Ozornova
+          home: https://people.mpim-bonn.mpg.de/viktoriya.ozornova/ 
+          affiliation: Max Planck Institute for Mathematics
         youtube: 
         slides: 
     - time: "16:50"
@@ -94,28 +94,28 @@
   slots:
     - time: "17:00"
       talk:
-        id: vitale
+        id: santocanale
         title: TBA
         abstract: TBA
         speaker:
-          name: TBA
-          fullname: TBA
-          home:
-          affiliation: 
+          name: L. Santocanale 
+          fullname: Luigi Santocanale 
+          home: https://pageperso.lis-lab.fr/luigi.santocanale/	 
+          affiliation: Aix-Marseille University
         youtube: 
         slides: 
     - time: "17:30"
       msg: Questions Time
     - time: "17:40"
       talk:
-        id: gonzales
+        id: weinberger 
         title: TBA
         abstract: TBA
         speaker:
-          name: TBA
-          fullname: TBA
-          home:
-          affiliation: 
+          name: J. Weinberger
+          fullname: Jonathan Weinberger 
+          home: https://scholar.google.de/citations?user=pCKd-4MAAAAJ&hl=de 
+          affiliation:  Johns Hopkins University
         youtube: 
         slides: 
     - time: "18:10"
@@ -141,74 +141,88 @@
   slots:
     - time: "15:00"
       talk:
-        id: awodey
+        id: stain 
         title: TBA
         abstract: TBA
         speaker:
-          name: TBA
-          fullname: TBA
-          home:
-          affiliation: 
+          name: D. Stain 
+          fullname: Dario Stain 
+          home: https://dario-stein.de/	
+          affiliation: Radboud University Nijmegen
         youtube: 
         slides: 
     - time: "15:30"
       msg: Questions Time
     - time: "15:40"
       talk:
-        id: wrigley
+        id: ahman
         title: TBA
         abstract: TBA
         speaker:
-          name: TBA
-          fullname: TBA
-          home:
-          affiliation: 
+          name: D. Ahman
+          fullname: Danel Ahman 
+          home: https://danel.ahman.ee/ 
+          affiliation: University of Tartu
         youtube: 
         slides: 
     - time: "16:10"
       msg: Questions Time
     - time: "16:20"
+      talk:
+        id: dimeglio 
+        title: TBA
+        abstract: TBA
+        speaker:
+          name: M. Di Meglio 
+          fullname: Matthew Di Meglio 
+          home: https://mdimeglio.github.io/ 
+          affiliation: University of Edinburgh
+        youtube: 
+        slides: 
+    - time: "16:50"
+      msg: Questions Time
+    - time: "17:00"
       msg: Free Chat
 - date: "October 22, 2023"
   id: "oct" 
   slots:
     - time: "15:00"
       talk:
-        id: lobbia
+        id: bourke 
         title: TBA
         abstract: TBA
         speaker:
-          name: TBA
-          fullname: TBA
-          home:
-          affiliation: 
+          name: J. Bourke
+          fullname: John Bourke  
+          home: http://www.math.muni.cz/~bourkej/ 
+          affiliation:  Masaryk University
         youtube:
         slides: 
     - time: "15:30"
       msg: Questions Time
     - time: "15:40"
       talk:
-        id: gambino
+        id: tendas 
         title: TBA
         abstract: TBA
         speaker:
-          name: TBA
-          fullname: TBA
-          home:
-          affiliation: 
+          name: G. Tendas 
+          fullname: Giacomo Tendas 
+          home: https://gtendas.github.io/ 
+          affiliation: University of Manchester
         youtube:
     - time: "16:10"
       msg: Questions Time
     - time: "16:20"
       talk:
-        id: koudenburg
+        id: mesiti 
         title: TBA
         abstract: TBA
         speaker:
-          name: TBA
-          fullname: TBA
-          home:
-          affiliation: 
+          name: L. Mesiti 
+          fullname: Luca Mesiti 
+          home: https://lucamesiti.github.io/ 
+          affiliation: University of Leeds
         youtube: 
     - time: "16:50"
       msg: Questions Time
@@ -219,14 +233,14 @@
   slots:
     - time: "15:00"
       talk:
-        id: volpe
+        id: carissimi 
         title: TBA
         abstract: TBA
         speaker:
-          name: TBA
-          fullname: TBA
+          name: N. Carissimi 
+          fullname: Nicola Carissimi
           home:
-          affiliation: 
+          affiliation:  Université de Lille
         youtube: 
     - time: "15:30"
       msg: Questions Time
