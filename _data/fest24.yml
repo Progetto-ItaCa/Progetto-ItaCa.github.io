@@ -1,4 +1,4 @@
-- date: "April 10, 2023"
+- date: "April 10, 2024"
   id: "apr"
   slots:
     - time: "15:00"
@@ -42,7 +42,7 @@
       msg: Questions Time
     - time: "17:00"
       msg: Free Chat
-- date: "May 7, 2023"
+- date: "May 7, 2024"
   id: "may"
   slots:
     - time: "15:00"
@@ -89,7 +89,7 @@
       msg: Questions Time
     - time: "17:00"
       msg: Free Chat
-- date: "June 5, 2023"
+- date: "June 5, 2024"
   id: "jun"
   slots:
     - time: "17:00"
@@ -136,7 +136,7 @@
       msg: Questions Time
     - time: "19:00"
       msg: Free Chat
-- date: "September 25, 2023"
+- date: "September 25, 2024"
   id: "sep"
   slots:
     - time: "15:00"
@@ -183,7 +183,7 @@
       msg: Questions Time
     - time: "17:00"
       msg: Free Chat
-- date: "October 22, 2023"
+- date: "October 22, 2024"
   id: "oct" 
   slots:
     - time: "15:00"
@@ -228,7 +228,7 @@
       msg: Questions Time
     - time: "17:00"
       msg: Free Chat
-- date: "November 20, 2023"
+- date: "November 20, 2024"
   id: "nov" 
   slots:
     - time: "15:00"
