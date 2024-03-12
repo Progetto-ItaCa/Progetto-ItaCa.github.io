@@ -14,50 +14,21 @@
     <a href="/"><img src="../assets/images/itaca_logo.png" width="100"></a>
    </div>
    <nav>
-    <div class="dropdown">
-     Live
-     <div class="dropdown-content">
-             <p><a href="http://www.mat.unimi.it/users/itaca/" target="_blank">ITACA19</a></p>
-      <p><a href="https://genoa-logic-group.github.io/itaca-workshop-2021/">ITACA21</a></p>
-      <p><a href="https://progetto-itaca.github.io/ItaCa-22/">ITACA22</a></p>
-      <p><a href="https://progetto-itaca.github.io/ItaCa-23/">ITACA23</a></p>
-     </div>
-    </div>
-    &bull;
-    <div class="dropdown">
-     Online
-     <div class="dropdown-content">
-       <p><a href="../pages/fest20.html">Fest2020</a></p>
-       <p><a href="../pages/fest21.html">Fest2021</a></p>
-       <p><a href="../pages/fest22.html">Fest2022</a></p>
-       <p><a href="../pages/fest23.html">Fest2023</a></p>
-       <p><a href="../pages/fest24.html">Fest2024</a></p>
-     </div>
-    </div>
-    &bull;
-    <div class="dropdown">
-      Teaching
-      <div class="dropdown-content">
-       <p><a href="../pages/course.html">Course2122</a></p>
-       <p><a href="../pages/ensemble.html">FolkEnsemble</a></p>
-      </div>
-     </div>
-    &bull;
-    <div class="dropdown">
-     People
-     <div class="dropdown-content">
-      <p><a href="../pages/name.html">Names</a></p>
-     </div>
-    </div>
-    &bull;
-    <div class="dropdown">
-     Contacts
-     <div class="dropdown-content">
-      <p><a href="https://www.youtube.com/channel/UCKdVVjPg_dHhbIiuzLh4Llg" target="_blank">youtube</a></p>
-      <p><a href="https://www.facebook.com/groups/507590330041282/" target="_blank">facebook</a></p>
-      <p><a href="https://mobile.twitter.com/progetto_itaca" target="_blank">twitter</a></p>
-     </div>
-    </div>
+    {%- for item in site.data.navigation %} 
+      <div class="dropdown">
+        {% if item.url -%}<a href={{ item.url | escape_url  }}>{{ item.label }}</a> 
+        {%- else -%}{{ item.label }}{%- endif %} 
+        {%- if item.dropdown %}
+          <div class="dropdown-content">
+          {%- for i in item.dropdown %}
+            <p><a href="{{ i.url | escape_url }}" target="{{ i.target }}">{{ i.label }}</a></p> 
+          {%- endfor %}
+          </div> 
+        {%- endif %} 
+        
+      </div> 
+      &bull;
+    {%- endfor %} 
    </nav>
   </header>
 

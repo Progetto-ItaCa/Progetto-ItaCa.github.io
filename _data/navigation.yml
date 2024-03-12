@@ -1,0 +1,57 @@
+
+- label: Workshops
+  dropdown: 
+    - label: ITACA 2019
+      url: http://www.mat.unimi.it/users/itaca/
+      target: "_blank"
+    - label: ITACA 2021 
+      url: https://genoa-logic-group.github.io/itaca-workshop-2021/
+      target: "_blank"
+    - label: ITACA 2022
+      url: https://progetto-itaca.github.io/ItaCa-22/
+      target: "_blank"
+    - label: ITACA 2023
+      url: https://progetto-itaca.github.io/ItaCa-23/
+      target: "_blank"
+- label: Fest 
+  dropdown: 
+    - label: Fest2020
+      url: /pages/fest20.html 
+    - label: Fest2021
+      url: /pages/fest21.html 
+    - label: Fest2022
+      url: /pages/fest22.html 
+    - label: Fest2023
+      url: /pages/fest23.html 
+    - label: Fest2024
+      url: /pages/fest24.html 
+- label: Teaching 
+  dropdown: 
+    - label: Course
+      url: /pages/course.html 
+    - label: FolkEnsamble
+      url: /pages/ensamble.html 
+- label: People
+  dropdown: 
+    - label: Names
+      url: /pages/name.html 
+- label: Contacts
+  dropdown: 
+    - label: youtube
+      url: https://www.youtube.com/channel/UCKdVVjPg_dHhbIiuzLh4Llg
+      target: "_blank" 
+    - label: facebook 
+      url: https://www.facebook.com/groups/507590330041282/
+      target: "_blank" 
+    - label: twitter
+      url: https://mobile.twitter.com/progetto_itaca
+      target: "_blank" 
+
+
+
+
+
+
+
+
+
