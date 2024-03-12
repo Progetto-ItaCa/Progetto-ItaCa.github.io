@@ -16,7 +16,7 @@ layout: default
 
 <p> Here the list of seminars 
   <ul>
-  {%- for day in site.data[page.data] %}
+  {%- for day in page.data %}
     <li> <a href="#{{ day.id }}"> {{ day.date }} </a> </li> 
   {% endfor -%}
   </ul>
@@ -24,7 +24,7 @@ layout: default
 
 <br> 
 
-{% for day in site.data[page.data] %} 
+{% for day in page.data %} 
 
 <br> 
 
