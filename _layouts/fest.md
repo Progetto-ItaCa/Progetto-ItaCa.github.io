@@ -2,6 +2,8 @@
 layout: default 
 ---
 
+{%- if page.data %} 
+
 {%- assign slides_url = '/assets/slides/' -%} 
 
 <h1> {{ page.title }} </h1> 
@@ -14,7 +16,7 @@ layout: default
 
 <p> Here the list of seminars 
   <ul>
-  {%- for day in site.data[page.id] %}
+  {%- for day in site.data[page.data] %}
     <li> <a href="#{{ day.id }}"> {{ day.date }} </a> </li> 
   {% endfor -%}
   </ul>
@@ -22,7 +24,7 @@ layout: default
 
 <br> 
 
-{% for day in site.data[page.id] %} 
+{% for day in site.data[page.data] %} 
 
 <br> 
 
@@ -81,6 +83,13 @@ layout: default
 {% endfor %} 
 
 {% endfor %} 
+
+{%- else %}
+
+{{ content }}
+
+{%- endif %} 
+
 
 
 

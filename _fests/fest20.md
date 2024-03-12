@@ -1,5 +1,6 @@
 ---
 title: Itaca Fest 2020
+layout: fest 
 ---
 
 # ItaCa Fest 2020

@@ -5,3 +5,7 @@ baseurl: "/"
 favicon: favicon.ico
 
 markdown: kramdown
+
+collections:
+  fests:
+    output: true

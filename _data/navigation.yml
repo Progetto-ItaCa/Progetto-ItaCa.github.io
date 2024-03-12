@@ -15,16 +15,10 @@
       target: "_blank"
 - label: Fest 
   dropdown: 
-    - label: Fest2020
-      url: /pages/fest20.html 
-    - label: Fest2021
-      url: /pages/fest21.html 
-    - label: Fest2022
-      url: /pages/fest22.html 
-    - label: Fest2023
-      url: /pages/fest23.html 
     - label: Fest2024
-      url: /pages/fest24.html 
+      url: /fests/fest24.html 
+    - label: Previous Fests
+      url: /pages/fest.html 
 - label: Teaching 
   dropdown: 
     - label: Course

@@ -1,5 +1,6 @@
 ---
 title: Itaca Fest 2022
+layout: fest 
 ---
 # ItaCa Fest 2022
 
