@@ -21,7 +21,7 @@ We are still a small community, but we are slowly growing. You are more than wel
 
 ## Latest news
 
-- [ItaCa Fest 2024](pages/fest24.html) is coming; stay tuned.
+- [ItaCa Fest 2024](/fests/fest24.html) is coming; stay tuned.
 
 - [ItaCa 2024](https://www.math.unipd.it) is also coming; stay tuned.
 
