@@ -150,8 +150,8 @@ data:
           title: TBA
           abstract: TBA
           speaker:
-            name: D. Stain 
-            fullname: Dario Stain 
+            name: D. Stein 
+            fullname: Dario Stein 
             home: https://dario-stein.de/	
             affiliation: Radboud University Nijmegen
           youtube: 
