@@ -7,6 +7,7 @@ data:
     id: "apr"
     slots:
       - time: "15:00"
+        talk:
           id: jacqmin
           title: Surjection-like classes of morphisms"
           abstract: | 
