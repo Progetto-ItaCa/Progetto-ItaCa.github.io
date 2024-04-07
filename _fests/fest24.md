@@ -9,7 +9,7 @@ data:
       - time: "15:00"
         talk:
           id: jacqmin
-          title: Surjection-like classes of morphisms"
+          title: "Surjection-like classes of morphisms"
           abstract: | 
             Many classes of epimorphisms are considered in the literature with the aim of generalizing surjective functions from the category Set of sets to an arbitrary category. However, some of them fail to have specific desirable properties. In this talk, we are interested in classes of morphisms which interact with finite limits as surjections do in Set. More precisely, we study classes of morphisms in finitely complete categories which admit a "good" embedding in a presheaf category. By good embedding, we mean a functor which preserves and reflects finite limits and the classes of morphisms involved. We will examine both the conservative faithful and the fully faithful cases. Our main result is a complete characterization of those classes of morphisms via simple and well-known properties.
           speaker:
