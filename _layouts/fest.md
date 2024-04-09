@@ -11,7 +11,7 @@ layout: default
 <p> ItaCa Fest is an online webinar aimed to gather the community of ItaCa.</p> 
 
 <p> The seminar will be live on <a href="https://zoom.us" target="_blank">Zoom</a> at
-<a href="{{ page.zoom  | escape_url }}">this link</a>. The timezone is: GMT+1.
+<a href="{{ page.zoom  | escape_url }}">this link</a>. The time is: 3pm Italian time.
 </p> 
 
 <p> Here the list of seminars 

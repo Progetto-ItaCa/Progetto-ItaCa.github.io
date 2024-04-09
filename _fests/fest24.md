@@ -12,7 +12,7 @@ data:
           title: From Yoneda's additive regular spans to fibred cartesian monoidal  opfibrations
           abstract: | 
             It is well known that group cohomology can be interpreted in terms of equivalence classes of crossed extensions, the abelian group structure being given by the so-called Baer sums. By analogy, an intrinsic definition of cohomology in strongly semi-abelian categories, or more generally in exact Mal'tsev categories (Bourn-Rodelo), is given. In this talk, I will explain how Baer sums can be formally derived from the fibred/cofibred nature of the category of all crossed extensions of a given length. This point of view turns out to be very close to Yoneda's theory of Ext groups. We will see how his notion of additive regular span is actually an instance of fibred cartesian monoidal opfibration. Time permitting, I will give some hint on how this formal point of view can be carried on to a 2-dimensional level, thus giving a notion of cohomology 2-group.
-            (based on joint works with S. Mantovani, G. Metere and E.M. Vitale
+            (based on joint works with S. Mantovani, G. Metere and E.M. Vitale)
           speaker:
             name: A. Cigoli 
             fullname: Alan Cigoli 
