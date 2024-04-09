@@ -8,23 +8,8 @@ data:
     slots:
       - time: "15:00"
         talk:
-          id: cigoli
-          title: From Yoneda's additive regular spans to fibred cartesian monoidal  opfibrations
-          abstract: | 
-            It is well known that group cohomology can be interpreted in terms of equivalence classes of crossed extensions, the abelian group structure being given by the so-called Baer sums. By analogy, an intrinsic definition of cohomology in strongly semi-abelian categories, or more generally in exact Mal'tsev categories (Bourn-Rodelo), is given. In this talk, I will explain how Baer sums can be formally derived from the fibred/cofibred nature of the category of all crossed extensions of a given length. This point of view turns out to be very close to Yoneda's theory of Ext groups. We will see how his notion of additive regular span is actually an instance of fibred cartesian monoidal opfibration. Time permitting, I will give some hint on how this formal point of view can be carried on to a 2-dimensional level, thus giving a notion of cohomology 2-group.
-            (based on joint works with S. Mantovani, G. Metere and E.M. Vitale)
-          speaker:
-            name: A. Cigoli 
-            fullname: Alan Cigoli 
-            home: 
-            affiliation: Università degli Studi di Torino
-          youtube: 
-      - time: "15:30"
-        msg: Questions Time
-      - time: "15:40"
-        talk:
           id: jacqmin
-          title: Surjection-like classes of morphisms"
+          title: "Surjection-like classes of morphisms"
           abstract: | 
             Many classes of epimorphisms are considered in the literature with the aim of generalizing surjective functions from the category Set of sets to an arbitrary category. However, some of them fail to have specific desirable properties. In this talk, we are interested in classes of morphisms which interact with finite limits as surjections do in Set. More precisely, we study classes of morphisms in finitely complete categories which admit a "good" embedding in a presheaf category. By good embedding, we mean a functor which preserves and reflects finite limits and the classes of morphisms involved. We will examine both the conservative faithful and the fully faithful cases. Our main result is a complete characterization of those classes of morphisms via simple and well-known properties.
           speaker:
@@ -33,9 +18,9 @@ data:
             home: https://perso.uclouvain.be/pierre-alain.jacqmin/
             affiliation: Royal Military Academy
           youtube: 
-      - time: "16:10"
+      - time: "15:30"
         msg: Questions Time
-      - time: "16:20"
+      - time: "15:40"
         talk:
           id: mancini 
           title: On the representability of actions of non-associative algebras 
@@ -47,6 +32,21 @@ data:
             fullname: Manuel Mancini 
             home: 
             affiliation: Università di Palermo 
+          youtube: 
+      - time: "16:10"
+        msg: Questions Time
+      - time: "16:20"
+        talk:
+          id: cigoli
+          title: From Yoneda's additive regular spans to fibred cartesian monoidal  opfibrations
+          abstract: | 
+            It is well known that group cohomology can be interpreted in terms of equivalence classes of crossed extensions, the abelian group structure being given by the so-called Baer sums. By analogy, an intrinsic definition of cohomology in strongly semi-abelian categories, or more generally in exact Mal'tsev categories (Bourn-Rodelo), is given. In this talk, I will explain how Baer sums can be formally derived from the fibred/cofibred nature of the category of all crossed extensions of a given length. This point of view turns out to be very close to Yoneda's theory of Ext groups. We will see how his notion of additive regular span is actually an instance of fibred cartesian monoidal opfibration. Time permitting, I will give some hint on how this formal point of view can be carried on to a 2-dimensional level, thus giving a notion of cohomology 2-group.
+            (based on joint works with S. Mantovani, G. Metere and E.M. Vitale
+          speaker:
+            name: A. Cigoli 
+            fullname: Alan Cigoli 
+            home: 
+            affiliation: Università degli Studi di Torino
           youtube: 
       - time: "16:50"
         msg: Questions Time
