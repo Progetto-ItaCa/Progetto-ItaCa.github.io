@@ -17,7 +17,7 @@ data:
             fullname: "Pierre-Alain Jacqmin"
             home: https://perso.uclouvain.be/pierre-alain.jacqmin/
             affiliation: Royal Military Academy
-          youtube: 
+          youtube: https://www.youtube.com/watch?v=SvGULSQtU6g 
       - time: "15:30"
         msg: Questions Time
       - time: "15:40"
@@ -32,7 +32,7 @@ data:
             fullname: Manuel Mancini 
             home: 
             affiliation: Università di Palermo 
-          youtube: 
+          youtube: https://www.youtube.com/watch?v=P1cN-YYeqJY 
       - time: "16:10"
         msg: Questions Time
       - time: "16:20"
@@ -47,7 +47,7 @@ data:
             fullname: Alan Cigoli 
             home: 
             affiliation: Università degli Studi di Torino
-          youtube: 
+          youtube: https://www.youtube.com/watch?v=HshVl9Zqh10 
       - time: "16:50"
         msg: Questions Time
       - time: "17:00"
