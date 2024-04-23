@@ -57,14 +57,14 @@ data:
     slots:
       - time: "15:00"
         talk:
-          id: guffanti
+          id: wolf
           title: TBA
           abstract: TBA
           speaker:
-            name: TBA
-            fullname: TBA
-            home:
-            affiliation: 
+            name: S. Wolf
+            fullname: Sebastian Wolf
+            home: https://homepages.uni-regensburg.de/~wos07573/
+            affiliation: Universität Regensburg
           youtube: 
           slides: 
       - time: "15:30"
