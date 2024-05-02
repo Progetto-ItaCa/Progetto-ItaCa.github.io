@@ -58,8 +58,9 @@ data:
       - time: "15:00"
         talk:
           id: wolf
-          title: TBA
-          abstract: TBA
+          title: Higher Category Theory Internal to an Infinity Topos
+          abstract: |
+            The goal of this talk will be to give a brief introduction to the theory of higher categories internal to an infinity-topos, developed in joint work with Louis Martini. I will also indicate why such a theory is useful to get a better understanding of the geometry of infinity topoi. If time permits, I will conclude by explaining how one can use this language to give a characterization of proper morphism of infinity topoi in the sense of Lurie.
           speaker:
             name: S. Wolf
             fullname: Sebastian Wolf
@@ -86,8 +87,9 @@ data:
       - time: "16:20"
         talk:
           id: ozornova
-          title: TBA
-          abstract: TBA
+          title: Equivalences in higher categories
+          abstract: |
+            There are different notions of ‘sameness’ arising in mathematics. The first one we usually encounter is equality of elements in a set. In our ‘daily life’, we are used to identify isomorphic objects, and we are secretly doing so in our favorite category.  For categories themselves, we look for equivalences between those. But when should we consider two 2-categories to be ‘the same’? And how does the pattern continue? This talk is based upon joint work with Amar Hadzihasanovich, Félix Loubaton and Martina Rovelli.
           speaker:
             name: V. Ozornova
             fullname: Viktoriya Ozornova
