@@ -73,8 +73,11 @@ data:
       - time: "15:40"
         talk:
           id: rota 
-          title: TBA
-          abstract: TBA
+          title: Exceptional collections and pseudolattices in mirror symmetry
+          abstract: |
+            In the 1990s, theoretical physicists correctly predicted curve counts in an algebraic variety (a quintic threefold X) inferring them from a “mirror variety” Y. This was the start of mirror symmetry - a field of algebraic geometry that investigates how to construct mirrors and how to make the duality precise. A modern incarnation of the theory is the homological mirror symmery (HMS) conjecture by Kontsevich, which states that the duality first observed geometrically reflects an equivalence between a category built from X and one obtained from Y.
+            
+            Describing and motivating some of the structures carried by these categories, I’ll briefly mention how to interpret the HMS equivalence as a quasi-isomorphism of Ainfty-algebras, and then elaborate on necessary conditions for the equivalence, which rephrase the question into multilinear algebra.
           speaker:
             name: F. Rota
             fullname: Franco Rota 
