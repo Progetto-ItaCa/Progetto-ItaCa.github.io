@@ -23,8 +23,8 @@
   dropdown: 
     - label: Course
       url: /pages/course.html 
-    - label: FolkEnsamble
-      url: /pages/ensamble.html 
+    - label: FolkEnsemble
+      url: /pages/ensemble.html 
 - label: People
   dropdown: 
     - label: Names
