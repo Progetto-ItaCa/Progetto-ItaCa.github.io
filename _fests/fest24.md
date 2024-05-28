@@ -110,8 +110,8 @@ data:
       - time: "17:00"
         talk:
           id: santocanale
-          title: TBA
-          abstract: TBA
+          title: Complete congruences of completely distributive lattices
+          abstract: All the binomial lattices embed into the quantale $Q(I)$ of sup-preserving endomaps of the unit interval. Elements of these lattices can be seen as monotone paths from $(0,0)$ to $(1,1)$, discrete paths for the binomial lattices, continuous paths for $Q(I)$. We aim at extending a natural geometric interpretation of lattice congruences of binomial lattices to congruences of $Q(I)$. This is, in particular, a completely distributive lattice. Relying on Lawson-Hoffmann duality, we characterise those maps between continuous domains that give rise to complete maps between completely distributive lattices. This allows to describe the complete congruences of an arbitrary completely distributive lattice by means of an interior operator on the collection of the closed sets of an associated topological space. In particular, we show that these congruences form a frame. We study this frame for the unit interval lattice, arguing that this frame is not a Boolean algebra, nor it is a (co)spatial. For the quantale $Q(I)$, we give a geometrical interpretation of these congruences by means of directed homotopies.
           speaker:
             name: L. Santocanale 
             fullname: Luigi Santocanale 
@@ -124,27 +124,27 @@ data:
       - time: "17:40"
         talk:
           id: weinberger 
-          title: TBA
-          abstract: TBA
+          title: The dependent Gödel fibration
+          abstract: Gödel‘s Dialectica proof interpretation from the 1950s was used as a tool for consistency proofs. In the late 80s, de Paiva introduced several categorified version of it, leading to notions of Dialectica categories. These, in turn, have later been generalized to the level of fibered categories. We present a characterization of Dialectica fibrations via the notion of Gödel fibration, generalizing earlier work by Spadetto—Trotta—de Paiva. This is joint work with Davide Trotta and Valeria de Paiva.
           speaker:
             name: J. Weinberger
             fullname: Jonathan Weinberger 
-            home: https://scholar.google.de/citations?user=pCKd-4MAAAAJ&hl=de 
-            affiliation:  Johns Hopkins University
+            home: https://scholar.google.com/citations?user=pCKd-4MAAAAJ&hl=de 
+            affiliation: Johns Hopkins University
           youtube: 
           slides: 
       - time: "18:10"
         msg: Questions Time
       - time: "18:20"
         talk:
-          id: cappelletti
-          title: TBA
-          abstract: TBA
+          id: spada
+          title: 2-Weil 2-rigs
+          abstract: Among commutative unital semirings (rigs, for short), let us call 2-Weil the ones that have a unique homomorphism into the distributive lattice 2. As 2 is the initial algebra in the category of additively idempotent rigs (2-rigs, for short), 2-Weil 2-rigs can be thought of as coordinate algebras of spaces with a single point.  I will show how to characterize 2-Weil rigs as those that have unique saturated prime ideal and will provide an axiomatization thereof in geometric logic. Further we will see that the category of 2-Weil 2-rigs is a co-reflective full subcategory of the category of 2-rigs.
           speaker:
-            name: TBA
-            fullname: TBA
-            home:
-            affiliation: 
+            name: L. Spada
+            fullname: Luca Spada
+            home: http://logica.dipmat.unisa.it/lucaspada/
+            affiliation: Università degli Studi di Salerno
           youtube: 
           slides: 
       - time: "18:50"
