@@ -23,7 +23,7 @@ We are still a small community, but we are slowly growing. You are more than wel
 
 - [ItaCa Fest 2024](/fests/fest24.html) is here; have a look at our dates and speakers!
 
-- [ItaCa 2024](https://www.math.unipd.it) is coming; stay tuned.
+- [ItaCa 2024](https://progetto-itaca.github.io/ItaCa-24/) is coming; stay tuned.
 
 <img src="/assets/images/elep-low.jpg" style="width: 100%;" align="right" />
 
