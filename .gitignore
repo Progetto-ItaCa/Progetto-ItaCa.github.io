@@ -13,4 +13,4 @@ poster/*
 !_data/course.json
 !_layouts/fest.md
 !_fests
-
+.bundle/
