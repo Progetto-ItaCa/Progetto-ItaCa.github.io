@@ -157,8 +157,11 @@ data:
       - time: "15:00"
         talk:
           id: stain 
-          title: TBA
-          abstract: TBA
+          title: Random Variables and Categories of Abstract Sample Spaces
+          abstract: |
+            Two high-level "pictures" of probability theory have emerged: one that takes as central the notion of random variable, and one that focuses on channels and distributions (Markov kernels).
+
+            While the channel-based picture has been captured and widely generalized using the notion of Markov category, the categorical analogue of the random variable picture is less clear. I will discuss the conceptual interplay between the two pictures: A crucial step is to understand the category of sample spaces associated to a given Markov category. This construction gives rise to a host of well-known examples. Building on the work of Simpson, we can describe random variables in the sheaf topos over those sample spaces.
           speaker:
             name: D. Stein 
             fullname: Dario Stein 
@@ -171,8 +174,19 @@ data:
       - time: "15:40"
         talk:
           id: ahman
-          title: TBA
-          abstract: TBA
+          title: Comodule Representations of Second-Order Functionals
+          abstract: |
+            In information-theoretic terms, a map is continuous when a finite amount of information about the input suffices for computing a finite amount of information about the output. Already Brouwer observed that this allows one to represent a continuous functional from sequences to numbers with a certain well-founded question-answer tree.
+
+            In type theory, a second-order functional is a (dependently typed) map
+
+            F : (∏(a : A) . P a) → (∏(b : B) . Q b).
+
+            Its continuity is once again witnessed by (B-many) well-founded trees whose nodes are “questions” a : A, the branches are indexed by “answers” p : P a, and the leaves are “results” Q b. In this work, we observe that such tree representations can be expressed in purely category-theoretic terms, using the notion of right T-comodules for the monad T of well-founded trees on the category of containers. A tree representation for F is then just a Kleisli map for the monad T.
+
+            Doing so exposes a rich underlying structure, and immediately suggests generalisations: any right T-comodule for any monad T on containers gives rise to a representation theorem for second-order functionals. We give several examples of these, ranging from finitely supported functionals, to functionals that can query their input just once (or sometimes not at all), to functionals that can additionally interact with their environment, to partial functionals, to observing that any functional can be trivially represented by itself.
+
+            This is joint work with Andrej Bauer from the University of Ljubljana.
           speaker:
             name: D. Ahman
             fullname: Danel Ahman 
@@ -185,8 +199,8 @@ data:
       - time: "16:20"
         talk:
           id: dimeglio 
-          title: TBA
-          abstract: TBA
+          title: Abstraction of contraction
+          abstract: The theory of contractions on a Hilbert space plays an important role in modern functional analysis. It is built upon Sz.-Nagy's unitary dilation theorem, which says that every contraction on a Hilbert space admits a minimal unitary dilation (a unitary dilation of a contraction T: X → X  is a unitary U: Y → Y on a Hilbert space Y containing X via an isometry M: X → Y such that T = M*UM). This talk is about an abstraction of the notion of contraction to suitably nice *-categories, and will build to a category-theoretic proof of a variant of Sz.-Nagy's theorem.
           speaker:
             name: M. Di Meglio 
             fullname: Matthew Di Meglio 
