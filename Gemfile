@@ -13,10 +13,10 @@ gem "activesupport", ">= 6.1.7.5"
 
 
 
-gem "github-pages", "~> 227", group: :jekyll_plugins
+gem "github-pages", "~> 232", group: :jekyll_plugins
 
 # Github Pages plugins
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.12"
+  gem "jekyll-feed", "~> 0.17"
 end
 
