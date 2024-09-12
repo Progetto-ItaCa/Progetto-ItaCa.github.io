@@ -175,7 +175,18 @@ data:
         talk:
           id: ahman
           title: Comodule Representations of Second-Order Functionals
-          abstract: 
+          abstract: |
+            In information-theoretic terms, a map is continuous when a finite amount of information about the input suffices for computing a finite amount of information about the output. Already Brouwer observed that this allows one to represent a continuous functional from sequences to numbers with a certain well-founded question-answer tree.
+
+            In type theory, a second-order functional is a (dependently typed) map
+
+            F : (∏(a : A) . P a) → (∏(b : B) . Q b).
+
+            Its continuity is once again witnessed by (B-many) well-founded trees whose nodes are “questions” a : A, the branches are indexed by “answers” p : P a, and the leaves are “results” Q b. In this work, we observe that such tree representations can be expressed in purely category-theoretic terms, using the notion of right T-comodules for the monad T of well-founded trees on the category of containers. A tree representation for F is then just a Kleisli map for the monad T.
+
+            Doing so exposes a rich underlying structure, and immediately suggests generalisations: any right T-comodule for any monad T on containers gives rise to a representation theorem for second-order functionals. We give several examples of these, ranging from finitely supported functionals, to functionals that can query their input just once (or sometimes not at all), to functionals that can additionally interact with their environment, to partial functionals, to observing that any functional can be trivially represented by itself.
+
+            This is joint work with Andrej Bauer from the University of Ljubljana.
           speaker:
             name: D. Ahman
             fullname: Danel Ahman 
