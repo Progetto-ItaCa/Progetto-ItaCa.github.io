@@ -160,7 +160,7 @@ data:
           title: Random Variables and Categories of Abstract Sample Spaces
           abstract: |
             Two high-level "pictures" of probability theory have emerged: one that takes as central the notion of random variable, and one that focuses on channels and distributions (Markov kernels).
-
+            
             While the channel-based picture has been captured and widely generalized using the notion of Markov category, the categorical analogue of the random variable picture is less clear. I will discuss the conceptual interplay between the two pictures: A crucial step is to understand the category of sample spaces associated to a given Markov category. This construction gives rise to a host of well-known examples. Building on the work of Simpson, we can describe random variables in the sheaf topos over those sample spaces.
           speaker:
             name: D. Stein 
@@ -175,8 +175,7 @@ data:
         talk:
           id: ahman
           title: Comodule Representations of Second-Order Functionals
-          abstract: |
-            a
+          abstract: 
           speaker:
             name: D. Ahman
             fullname: Danel Ahman 
@@ -190,7 +189,8 @@ data:
         talk:
           id: dimeglio 
           title: Abstraction of contraction
-          abstract: The theory of contractions on a Hilbert space plays an important role in modern functional analysis. It is built upon Sz.-Nagy's unitary dilation theorem, which says that every contraction on a Hilbert space admits a minimal unitary dilation (a unitary dilation of a contraction T: X → X  is a unitary U: Y → Y on a Hilbert space Y containing X via an isometry M: X → Y such that T = M*UM). This talk is about an abstraction of the notion of contraction to suitably nice *-categories, and will build to a category-theoretic proof of a variant of Sz.-Nagy's theorem.
+          abstract: | 
+            The theory of contractions on a Hilbert space plays an important role in modern functional analysis. It is built upon Sz.-Nagy's unitary dilation theorem, which says that every contraction on a Hilbert space admits a minimal unitary dilation (a unitary dilation of a contraction T: X → X  is a unitary U: Y → Y on a Hilbert space Y containing X via an isometry M: X → Y such that T = M*UM). This talk is about an abstraction of the notion of contraction to suitably nice *-categories, and will build to a category-theoretic proof of a variant of Sz.-Nagy's theorem.
           speaker:
             name: M. Di Meglio 
             fullname: Matthew Di Meglio 
