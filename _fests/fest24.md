@@ -219,8 +219,11 @@ data:
       - time: "15:00"
         talk:
           id: bourke 
-          title: TBA
-          abstract: TBA
+          title: Bicategorical enrichment in algebra
+          abstract: | 
+            In category theory, sometimes one does not wish to work with categories per se but instead categories over a fixed base.  Such concrete categories can be viewed as categories enriched in a quantoloid, a certain bicategory.  Garner showed this perspective is illuminating, using it to characterise topological categories as bicategory-enriched categories which are total.
+            
+            In this talk, I will explain how the same enrichment is useful in algebra, where we also sometimes work over a fixed base.  We will use the bicategorically-enriched perspective to show that Eilenberg-Moore categories of monads are free cocompletions of their Kleisli categories, which is false from the traditional point of view, and use this to give a nice proof of Beck's monadicity theorem.  This is a report on ongoing work with Soichiro Fujii.
           speaker:
             name: J. Bourke
             fullname: John Bourke  
@@ -233,8 +236,11 @@ data:
       - time: "15:40"
         talk:
           id: tendas 
-          title: TBA
-          abstract: TBA
+          title: Regular theories from the enriched point of view
+          abstract: | 
+            In logic, regular theories are those whose axioms are built from atomic formulas using conjunctions and existential quantifiers. The categories of models of such theories have been widely studied and characterised in purely category theoretical terms through the notion of injectivity class and through certain closure properties, that I will recall during the talk.
+            
+            When moving to the context of enriched category theory, a corresponding notion of "enriched injectivity class" has been studied by several authors, but no enriched notion of regular logic was considered in the literature before. The aim of this talk, which is based on joint work with Rosicky, is to fill this gap by introducing a version of "enriched regular logic" that interacts well with the category theoretical counterparts mentioned above. I will also explain how this is related to the internal logic of a topos, and that internal to Banach and metric spaces.
           speaker:
             name: G. Tendas 
             fullname: Giacomo Tendas 
@@ -246,13 +252,14 @@ data:
       - time: "16:20"
         talk:
           id: mesiti 
-          title: TBA
-          abstract: TBA
+          title: Towards elementary 2-toposes
+          abstract: | 
+            In this talk we will discuss which axioms we should require for a good notion of 2-categorical elementary topos. 2-dimensional elementary topos theory has originated with the work of Weber, who proposed to upgrade subobject classifiers to discrete opfibration classifiers. In the archetypal case of Cat, the discrete opfibration classifier is exhibited by the Grothendieck construction, suggesting that we can think of 2-dimensional classifiers as internal Grothendieck constructions in a 2-category. The theory of elementary 2-toposes has then been further developed in my PhD thesis, where I proposed a stronger better-behaved notion of discrete opfibration classifier called good 2-classifier. We will see that a powerful theorem of reduction of the study of 2-dimensional classifiers to dense generators provides a good 2-classifier in the 2-category of stacks over a site. Exactly as sheaves give Grothendieck toposes, stacks give 2-dimensional Grothendieck toposes and they should thus be a preeminent example of elementary 2-topos. We can then study this preeminent example to try and understand which further axioms we should require to reach a notion of elementary 2-topos.
           speaker:
             name: L. Mesiti 
             fullname: Luca Mesiti 
             home: https://lucamesiti.github.io/ 
-            affiliation: University of Leeds
+            affiliation: University of KwaZulu-Natal 
           youtube: 
       - time: "16:50"
         msg: Questions Time
