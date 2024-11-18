@@ -271,8 +271,8 @@ data:
       - time: "15:00"
         talk:
           id: carissimi 
-          title: TBA
-          abstract: TBA
+          title: Enriched bicategories for enrichies bi(co)ends
+          abstract: "Two main generalizations of category theory are bicategories and enriched categories. The first one allows morphisms one level up, the other one allows morphisms to be objects in any monoidal category. This talk will be about what happens if we do the two at the same time. We will see the notion of monoidal bicategory and the main available results and tools (such as strictification and string diagrammatic language) with which enriched bicategories and their rich algebraic structures can be tamed. Thus, the assumption of a suitable notion of braiding on the base monoidal bicategory will allow to generalize the fundamental constructions of forming the opposite and the tensor product of enriched bicategories, and possibly more."
           speaker:
             name: N. Carissimi 
             fullname: Nicola Carissimi
