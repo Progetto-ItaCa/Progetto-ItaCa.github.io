@@ -283,27 +283,27 @@ data:
         msg: Questions Time
       - time: "15:40"
         talk:
-          id: henry
-          title: TBA
-          abstract: TBA
-          speaker:
-            name: TBA
-            fullname: TBA
+          id: leoncini
+          title: Enriched Homotopy Cocompletions
+          abstract: "Starting from a 1-categorical base V which is not assumed endowed with a choice of model structure (or any kind of homotopical structure), we propose a definition of homotopy colimits enriched in V in such a way that: (i) for V = Set, we retrieve the classical theory of homotopy colimits, and (ii) restricting to isomorphisms as weak equivalences, we retrieve ordinary and enriched 1-colimits. We construct the free homotopy V-cocompletion of a small V-category in such a way that it satisfies the expected universal property. Over the base V = Set, we retrieve Dugger’s construction of the universal model category on a small category C. We interpret the homotopy V-enriched cocompletion of a point as the analogue of homotopy theory of spaces in the enriched context. We compare our approach with some previous definitions of enriched homotopy colimits, such as those given by Shulman, Lack & Rosicky, and Vokrinek, and we show that, when the latter are defined and well behaved, they can be retrieved within our framework, up to Quillen homotopy."
+          speaker: 
+            name: G. Leoncini
+            fullname: Giuseppe Leoncini
             home:
-            affiliation: 
+            affiliation: Masaryk University / Università degli studi di Milano
           youtube: 
       - time: "16:10"
         msg: Questions Time
       - time: "16:20"
         talk:
-          id: stenzel
-          title: TBA
-          abstract: TBA
+          id: diliberti
+          title: "Taking ItaCa seriously"
+          abstract: "This talk is a short presentation of the ItaCa's historical progression, its most important milestones and its possible future perspectives."
           speaker:
-            name: TBA
-            fullname: TBA
+            name: I. Di Liberti
+            fullname: Ivan Di Liberti
             home:
-            affiliation: 
+            affiliation: Göteborgs universitet
           youtube: 
       - time: "16:50"
         msg: Questions Time
