@@ -167,7 +167,7 @@ data:
             fullname: Dario Stein 
             home: https://dario-stein.de/	
             affiliation: Radboud University Nijmegen
-          youtube: https://www.youtube.com/watch?v=wLuqdBvPyL4&t=3s
+          youtube: https://www.youtube.com/watch?v=wLuqdBvPyL4
           slides: 
       - time: "15:30"
         msg: Questions Time
@@ -192,7 +192,7 @@ data:
             fullname: Danel Ahman 
             home: https://danel.ahman.ee/ 
             affiliation: University of Tartu
-          youtube: 
+          youtube: https://www.youtube.com/watch?v=07D1zZhbsGk
           slides: 
       - time: "16:10"
         msg: Questions Time
@@ -207,7 +207,7 @@ data:
             fullname: Matthew Di Meglio 
             home: https://mdimeglio.github.io/ 
             affiliation: University of Edinburgh
-          youtube: 
+          youtube: https://www.youtube.com/watch?v=uHEkZWVGjeY
           slides: 
       - time: "16:50"
         msg: Questions Time
@@ -229,7 +229,7 @@ data:
             fullname: John Bourke  
             home: http://www.math.muni.cz/~bourkej/ 
             affiliation:  Masaryk University
-          youtube:
+          youtube: https://www.youtube.com/watch?v=-RbDGHTE8OQ
           slides: 
       - time: "15:30"
         msg: Questions Time
@@ -246,7 +246,7 @@ data:
             fullname: Giacomo Tendas 
             home: https://gtendas.github.io/ 
             affiliation: University of Manchester
-          youtube:
+          youtube: https://www.youtube.com/watch?v=JhZRQejZxEU
       - time: "16:10"
         msg: Questions Time
       - time: "16:20"
@@ -260,7 +260,7 @@ data:
             fullname: Luca Mesiti 
             home: https://lucamesiti.github.io/ 
             affiliation: University of KwaZulu-Natal 
-          youtube: 
+          youtube: https://www.youtube.com/watch?v=keWb__gt2gk
       - time: "16:50"
         msg: Questions Time
       - time: "17:00"
