@@ -66,7 +66,7 @@ data:
             fullname: Sebastian Wolf
             home: https://homepages.uni-regensburg.de/~wos07573/
             affiliation: Universität Regensburg
-          youtube: 
+          youtube: https://www.youtube.com/watch?v=jZ_Eb-UGCr8
           slides: 
       - time: "15:30"
         msg: Questions Time
@@ -83,7 +83,7 @@ data:
             fullname: Franco Rota 
             home: https://sites.google.com/view/rotafr 
             affiliation:  University of Glasgow
-          youtube: 
+          youtube: https://www.youtube.com/watch?v=vi2yGL7U5pY
           slides: 
       - time: "16:10"
         msg: Questions Time
@@ -98,7 +98,7 @@ data:
             fullname: Viktoriya Ozornova
             home: https://people.mpim-bonn.mpg.de/viktoriya.ozornova/ 
             affiliation: Max Planck Institute for Mathematics
-          youtube: 
+          youtube: https://www.youtube.com/watch?v=d2bv3pVwoBs
           slides: 
       - time: "16:50"
         msg: Questions Time
@@ -117,7 +117,7 @@ data:
             fullname: Luigi Santocanale 
             home: https://pageperso.lis-lab.fr/luigi.santocanale/	 
             affiliation: Aix-Marseille University
-          youtube: 
+          youtube: https://www.youtube.com/watch?v=sRnJz6A3X4I
           slides: 
       - time: "17:30"
         msg: Questions Time
@@ -131,7 +131,7 @@ data:
             fullname: Jonathan Weinberger 
             home: https://scholar.google.com/citations?user=pCKd-4MAAAAJ&hl=de 
             affiliation: Johns Hopkins University
-          youtube: 
+          youtube: https://www.youtube.com/watch?v=9GrfovOR0-Q
           slides: 
       - time: "18:10"
         msg: Questions Time
@@ -145,7 +145,7 @@ data:
             fullname: Luca Spada
             home: http://logica.dipmat.unisa.it/lucaspada/
             affiliation: Università degli Studi di Salerno
-          youtube: 
+          youtube: https://www.youtube.com/watch?v=_9MaSUjChjg
           slides: 
       - time: "18:50"
         msg: Questions Time
@@ -156,7 +156,7 @@ data:
     slots:
       - time: "15:00"
         talk:
-          id: stain 
+          id: stein 
           title: Random Variables and Categories of Abstract Sample Spaces
           abstract: |
             Two high-level "pictures" of probability theory have emerged: one that takes as central the notion of random variable, and one that focuses on channels and distributions (Markov kernels).
@@ -167,7 +167,7 @@ data:
             fullname: Dario Stein 
             home: https://dario-stein.de/	
             affiliation: Radboud University Nijmegen
-          youtube: 
+          youtube: https://www.youtube.com/watch?v=wLuqdBvPyL4
           slides: 
       - time: "15:30"
         msg: Questions Time
@@ -192,7 +192,7 @@ data:
             fullname: Danel Ahman 
             home: https://danel.ahman.ee/ 
             affiliation: University of Tartu
-          youtube: 
+          youtube: https://www.youtube.com/watch?v=07D1zZhbsGk
           slides: 
       - time: "16:10"
         msg: Questions Time
@@ -207,7 +207,7 @@ data:
             fullname: Matthew Di Meglio 
             home: https://mdimeglio.github.io/ 
             affiliation: University of Edinburgh
-          youtube: 
+          youtube: https://www.youtube.com/watch?v=uHEkZWVGjeY
           slides: 
       - time: "16:50"
         msg: Questions Time
@@ -229,7 +229,7 @@ data:
             fullname: John Bourke  
             home: http://www.math.muni.cz/~bourkej/ 
             affiliation:  Masaryk University
-          youtube:
+          youtube: https://www.youtube.com/watch?v=-RbDGHTE8OQ
           slides: 
       - time: "15:30"
         msg: Questions Time
@@ -246,7 +246,7 @@ data:
             fullname: Giacomo Tendas 
             home: https://gtendas.github.io/ 
             affiliation: University of Manchester
-          youtube:
+          youtube: https://www.youtube.com/watch?v=JhZRQejZxEU
       - time: "16:10"
         msg: Questions Time
       - time: "16:20"
@@ -260,7 +260,7 @@ data:
             fullname: Luca Mesiti 
             home: https://lucamesiti.github.io/ 
             affiliation: University of KwaZulu-Natal 
-          youtube: 
+          youtube: https://www.youtube.com/watch?v=keWb__gt2gk
       - time: "16:50"
         msg: Questions Time
       - time: "17:00"
