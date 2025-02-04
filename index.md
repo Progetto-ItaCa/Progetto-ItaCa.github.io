@@ -21,9 +21,7 @@ We are still a small community, but we are slowly growing. You are more than wel
 
 ## Latest news
 
-- [ItaCa Fest 2024](/fests/fest24.html) is here; have a look at our dates and speakers!
-
-- [ItaCa 2024](https://progetto-itaca.github.io/ItaCa-24/) is coming; stay tuned.
+- [ItaCa Fest 2025](/fests/fest25.html) is coming.
 
 <img src="/assets/images/elep-low.jpg" style="width: 100%;" align="right" />
 
