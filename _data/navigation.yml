@@ -18,8 +18,8 @@
       target: "_blank"
 - label: Fest 
   dropdown: 
-    - label: Fest2024
-      url: /fests/fest24.html 
+    - label: Fest2025
+      url: /fests/fest25.html 
     - label: Previous Fests
       url: /pages/fest.html 
 - label: Teaching 
