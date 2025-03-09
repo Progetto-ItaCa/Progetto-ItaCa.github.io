@@ -18,9 +18,9 @@ The community of ItaCa is growing: these are the people that helped so far. A la
 
 - <a href="http://math.unipa.it/metere" target="_blank">Giuseppe (Beppe) Metere</a>
 - <a href="http://diliberti.github.io" target="_blank">Ivan Di Liberti</a>
-- <a href="https://etagreta.github.io" target="_blank">Greta Coraglia</a>
 - <a href="http://tetrapharmakon.github.io" target="_blank">Fosco Loregian</a>
 - <a href="http://www.paoloperrone.org" target="_blank">Paolo Perrone</a>
+- <a href="https://gtendas.github.io/" target="_blank">Giacomo Tendas</a>
 
 ## The curators of the present website
 
