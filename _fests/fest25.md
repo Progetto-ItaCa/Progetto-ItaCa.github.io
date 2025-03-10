@@ -10,7 +10,7 @@ data:
         talk:
           id: jacqmin
           title: "TBA"
-          abstract: TBA 
+          abstract:  
           speaker:
             name: Z. Janelidze
             fullname: "Zurab Janelidze" 
@@ -24,7 +24,7 @@ data:
         talk:
           id: martinferreira
           title: TBA 
-          abstract: TBA
+          abstract: 
           speaker:
             name: N. Martins-Ferreira
             fullname: Nelson Martins-Ferreira
@@ -38,7 +38,7 @@ data:
         talk:
           id: martinez
           title: TBA 
-          abstract: TBA  
+          abstract:   
           speaker:
             name: X. G. Martínez
             fullname: Xabier García Martínez
@@ -266,7 +266,7 @@ data:
             home:
             affiliation: 
           youtube: 
-         slides: 
+          slides: 
       - time: "16:10"
         msg: Questions Time
       - time: "16:20"
@@ -285,6 +285,5 @@ data:
         msg: Questions Time
       - time: "17:00"
         msg: Free Chat
-  
 ---
 
