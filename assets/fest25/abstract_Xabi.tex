@@ -1,0 +1,75 @@
+\documentclass[11pt]{amsart}   % For Latex2e
+\usepackage[T1]{fontenc}
+\usepackage[utf8x]{inputenc}
+\usepackage{amscd,amsfonts,amssymb,amsmath,amsthm,latexsym,mathtools}
+\usepackage{xy}
+\xyoption{all}
+\usepackage{graphicx}
+
+
+\usepackage[a4paper,top=4cm, bottom=5cm, left=2.9cm, right=2.9cm]{geometry}
+
+
+\theoremstyle{plain}
+% in English:
+\newtheorem{theorem}{Theorem}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{corollary}[theorem]{Corollary}
+
+\theoremstyle{definition}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{example}[theorem]{Example}
+\newtheorem{algorithm}[theorem]{Algorithm}
+
+\theoremstyle{remark}
+% in English:
+\newtheorem{remark}[theorem]{Remark}
+
+
+\title{A universal Kaluzhnin--Krasner\\ embedding theorem}
+\author{
+	Xabier García Martínez
+}
+\date{}
+
+%Author 1
+\address{\small \rm Xabier García Martínez;  \rm  CITMAga \& Universidade de Vigo}
+\email{xabier.garcia.martinez@uvigo.gal}
+
+
+\begin{document}
+	
+	
+	\maketitle
+	
+Given two groups $A$ and $B$, the \emph{Kaluzhnin--Krasner universal embedding theorem} states that the wreath product $A\wr B$ acts as a universal receptacle for extensions from $A$ to $B$. For a split extension, this embedding is compatible with the canonical splitting of the wreath product, which is further universal in a precise sense. This result was recently extended to Lie algebras and cocommutative Hopf algebras. \\
+
+In this talk we will explore the feasibility of adapting the theorem to other types of algebraic structures. By explaining the underlying unity of the three known cases, our analysis gives necessary and sufficient conditions for this to happen. \\
+
+We will also see that the theorem cannot be adapted to a wide range of categories, such as loops, associative algebras, commutative algebras or Jordan algebras. Working over an infinite field, we may prove that amongst non-associative algebras, only Lie algebras admit a Kaluzhnin--Krasner theorem.\\
+
+Joint work with Bo Shan Deval and Tim Van der Linden
+
+
+\medskip
+
+
+\begin{thebibliography}{}
+
+%	
+\bibitem{BST}
+L. Bartholdi, O. Siegenthaler, T. Trimble (2014). Wreath products of cocommutative {H}opf algebras. arXiv:1407.3835.
+
+\bibitem{DGV}
+B. S. Deval, X. García-Martínez, T. Van der Linden (2024).  Proceedings of the American Mathematical Society, 152(12), 5039–5053, 2024.
+
+\bibitem{KK}
+M. Krasner, L. Kaloujnine (1950). Produit complet de groupes de permutations et probl\`eme d'extension de groupes II. Acta Universitatis Szegediensis, 14, 69–82.
+
+\bibitem{PRS}
+V. M. Petrogradsky, Yu. P. Razmyslov, E. O. Shishkin (2007). Wreath products and {K}aluzhnin-{K}rasner embedding for {L}ie algebras. Proceedings of the American Mathematical Society, 135(3), 625--636.
+
+\end{thebibliography}
+	
+\end{document}

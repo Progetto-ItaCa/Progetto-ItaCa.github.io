@@ -22,9 +22,17 @@ data:
         msg: Questions Time
       - time: "15:40"
         talk:
-          id: martinferreira
+          id: martinsferreira
           title: TBA 
-          abstract: 
+          abstract: | 
+            In this talk, we introduce a category that models programming languages with complex-valued matrices as default variables, focusing on MATLAB and Octave. We demonstrate how indexation in these languages corresponds to function composition and analyze the categorical behavior of built-in functions such as unique, ismember, sortrows, and sparse.
+             
+            We then explore a procedure to transform arbitrary graphs, represented as pairs of complex-valued matrices in MATLAB and Octave, into an indexed structure with a surjective index for the domain matrix. Finally, we discuss the implementation of a programming function exhibiting categorical behavior akin to a coequalizer. This work is motivated by some ideas and results from [1,2].
+
+            [1] N. Martins-Ferreira, Internal Categorical Structures and Their Applications, Mathematics (2023) 11(3), 660; https://doi.org/10.3390/math11030660
+
+            [2] N. Martins-Ferreira, On the Structure of an Internal Groupoid, Applied Categorical Structures (2023) 31:39 https://doi.org/10.1007/s10485-023-09740-1
+  
           speaker:
             name: N. Martins-Ferreira
             fullname: Nelson Martins-Ferreira
@@ -38,7 +46,14 @@ data:
         talk:
           id: martinez
           title: TBA 
-          abstract:   
+          abstract: |
+            Given two groups $A$ and $B$, the \emph{Kaluzhnin--Krasner universal embedding theorem} states that the wreath product $A\wr B$ acts as a universal receptacle for extensions from $A$ to $B$. For a split extension, this embedding is compatible with the canonical splitting of the wreath product, which is further universal in a precise sense. This result was recently extended to Lie algebras and cocommutative Hopf algebras.
+            
+            In this talk we will explore the feasibility of adapting the theorem to other types of algebraic structures. By explaining the underlying unity of the three known cases, our analysis gives necessary and sufficient conditions for this to happen. 
+            
+            We will also see that the theorem cannot be adapted to a wide range of categories, such as loops, associative algebras, commutative algebras or Jordan algebras. Working over an infinite field, we may prove that amongst non-associative algebras, only Lie algebras admit a Kaluzhnin--Krasner theorem.
+            
+            Joint work with Bo Shan Deval and Tim Van der Linden  
           speaker:
             name: X. G. Martínez
             fullname: Xabier García Martínez
