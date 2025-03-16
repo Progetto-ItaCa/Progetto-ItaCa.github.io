@@ -59,8 +59,8 @@ data:
           title: TBA 
           abstract: 
           speaker:
-            name: TBA 
-            fullname: TBA 
+            name: P. Lumsdaine 
+            fullname: Peter Lumsdaine
             home: 
             affiliation: 
           youtube: 
