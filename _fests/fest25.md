@@ -210,12 +210,12 @@ data:
         msg: Questions Time
       - time: "15:40"
         talk:
-          id: fuji  
+          id: fujii  
           title: TBA 
           abstract:  
           speaker:
-            name: S. Fuji 
-            fullname: Soichiro Fuji 
+            name: S. Fujii 
+            fullname: Soichiro Fujii 
             home: 
             affiliation: 
           youtube: 
