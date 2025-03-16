@@ -23,7 +23,7 @@ data:
       - time: "15:40"
         talk:
           id: martinsferreira
-          title: TBA 
+          title: Categorical Analysis of MATLAB and Octave Programming Functions 
           abstract: | 
             In this talk, we introduce a category that models programming languages with complex-valued matrices as default variables, focusing on MATLAB and Octave. We demonstrate how indexation in these languages corresponds to function composition and analyze the categorical behavior of built-in functions such as unique, ismember, sortrows, and sparse.
              
@@ -45,7 +45,7 @@ data:
       - time: "16:20"
         talk:
           id: martinez
-          title: TBA 
+          title: A universal Kaluzhnin-Krasner embedding theorem 
           abstract: |
             Given two groups $A$ and $B$, the \emph{Kaluzhnin--Krasner universal embedding theorem} states that the wreath product $A\wr B$ acts as a universal receptacle for extensions from $A$ to $B$. For a split extension, this embedding is compatible with the canonical splitting of the wreath product, which is further universal in a precise sense. This result was recently extended to Lie algebras and cocommutative Hopf algebras.
             
