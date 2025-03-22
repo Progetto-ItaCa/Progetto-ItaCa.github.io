@@ -286,12 +286,12 @@ data:
         msg: Questions Time
       - time: "16:20"
         talk:
-          id: dagnolo 
+          id: tba
           title:  TBA 
           abstract: 
           speaker:
-            name: A. D'Agnolo
-            fullname: Andrea D'Agnolo 
+            name: TBA
+            fullname: TBA
             home:
             affiliation: 
           youtube: 
