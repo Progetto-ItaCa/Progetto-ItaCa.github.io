@@ -29,9 +29,9 @@ data:
              
             We then explore a procedure to transform arbitrary graphs, represented as pairs of complex-valued matrices in MATLAB and Octave, into an indexed structure with a surjective index for the domain matrix. Finally, we discuss the implementation of a programming function exhibiting categorical behavior akin to a coequalizer. This work is motivated by some ideas and results from [1,2].
 
-            [1] N. Martins-Ferreira, Internal Categorical Structures and Their Applications, Mathematics (2023) 11(3), 660; https://doi.org/10.3390/math11030660
+            [1] N. Martins-Ferreira, Internal Categorical Structures and Their Applications, Mathematics (2023) 11(3), 660; (https://doi.org/10.3390/math11030660)[https://doi.org/10.3390/math11030660]
 
-            [2] N. Martins-Ferreira, On the Structure of an Internal Groupoid, Applied Categorical Structures (2023) 31:39 https://doi.org/10.1007/s10485-023-09740-1
+            [2] N. Martins-Ferreira, On the Structure of an Internal Groupoid, Applied Categorical Structures (2023) 31:39 (https://doi.org/10.1007/s10485-023-09740-1)[https://doi.org/10.1007/s10485-023-09740-1]
   
           speaker:
             name: N. Martins-Ferreira
@@ -47,7 +47,7 @@ data:
           id: martinez
           title: A universal Kaluzhnin-Krasner embedding theorem 
           abstract: |
-            Given two groups $A$ and $B$, the \emph{Kaluzhnin--Krasner universal embedding theorem} states that the wreath product $A\wr B$ acts as a universal receptacle for extensions from $A$ to $B$. For a split extension, this embedding is compatible with the canonical splitting of the wreath product, which is further universal in a precise sense. This result was recently extended to Lie algebras and cocommutative Hopf algebras.
+            Given two groups _A_ and _B_, the _Kaluzhnin--Krasner universal embedding theorem_ states that the wreath product A\wr B acts as a universal receptacle for extensions from _A_ to _B_. For a split extension, this embedding is compatible with the canonical splitting of the wreath product, which is further universal in a precise sense. This result was recently extended to Lie algebras and cocommutative Hopf algebras.
             
             In this talk we will explore the feasibility of adapting the theorem to other types of algebraic structures. By explaining the underlying unity of the three known cases, our analysis gives necessary and sufficient conditions for this to happen. 
             
@@ -192,12 +192,12 @@ data:
         msg: Questions Time
       - time: "16:20"
         talk:
-          id: iwaniack
+          id: tba
           title: TBA 
           abstract:  
           speaker:
-            name: V. Iwaniack
-            fullname: Victor Iwaniack
+            name: TBA
+            fullname: TBA
             home: 
             affiliation: 
           youtube: 
