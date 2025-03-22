@@ -47,7 +47,7 @@ data:
           id: martinez
           title: A universal Kaluzhnin-Krasner embedding theorem 
           abstract: |
-            Given two groups _A_ and _B_, the _Kaluzhnin--Krasner universal embedding theorem_ states that the wreath product A\wr B acts as a universal receptacle for extensions from _A_ to _B_. For a split extension, this embedding is compatible with the canonical splitting of the wreath product, which is further universal in a precise sense. This result was recently extended to Lie algebras and cocommutative Hopf algebras.
+            Given two groups <em>A</em> and <em>>B</em>, the <em>Kaluzhnin--Krasner universal embedding theorem</em> states that the wreath product <em>A</em> ≀ <em>B</em> acts as a universal receptacle for extensions from <em>A</em> to <em>>B</em>. For a split extension, this embedding is compatible with the canonical splitting of the wreath product, which is further universal in a precise sense. This result was recently extended to Lie algebras and cocommutative Hopf algebras.
             
             In this talk we will explore the feasibility of adapting the theorem to other types of algebraic structures. By explaining the underlying unity of the three known cases, our analysis gives necessary and sufficient conditions for this to happen. 
             
