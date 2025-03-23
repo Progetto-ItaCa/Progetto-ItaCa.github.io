@@ -14,5 +14,6 @@
   topics: "categorical algebra"
 - name: "Andrea"
   surname: "Laretto"
+  webpage: "https://iwilare.com/"
   email: "iwilare@gmail.com"
   topics: "type theory, proof assistants"
