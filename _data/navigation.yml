@@ -20,14 +20,14 @@
   dropdown: 
     - label: Fest2025
       url: /fests/fest25.html 
-    - label: Previous Fests
+    - label: Previous
       url: /pages/fest.html 
 - label: Teaching 
   dropdown: 
     - label: Course
       url: /pages/course.html 
-    - label: FolkEnsemble
-      url: /pages/ensemble.html 
+    - label: mentors
+      url: /pages/mentors.html 
 - label: People
   dropdown: 
     - label: Names
@@ -36,13 +36,13 @@
   dropdown: 
     - label: youtube
       url: https://www.youtube.com/channel/UCKdVVjPg_dHhbIiuzLh4Llg
-      target: "_blank" 
-    - label: facebook 
-      url: https://www.facebook.com/groups/507590330041282/
-      target: "_blank" 
-    - label: twitter
-      url: https://mobile.twitter.com/progetto_itaca
-      target: "_blank" 
+    #   target: "_blank" 
+    # - label: facebook 
+    #   url: https://www.facebook.com/groups/507590330041282/
+    #   target: "_blank" 
+    # - label: twitter
+    #   url: https://mobile.twitter.com/progetto_itaca
+    #   target: "_blank" 
 
 
 

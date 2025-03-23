@@ -221,3 +221,7 @@ th, td {
 table, th, td {
     border: 1px solid #351E24;
 }
+
+.mentor-list li {
+	margin-bottom: 10px; /* Adjust spacing as needed */
+}
