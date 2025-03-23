@@ -1,5 +1,5 @@
 ---
-title: ItaCa Folk Ensemble
+title: ItaCa Mentors
 ---
 
 The "folk ensemble" project happily ended. For more information on what it has been, see [here](ensemble.html).
