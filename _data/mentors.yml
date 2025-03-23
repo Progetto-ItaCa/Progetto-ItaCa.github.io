@@ -12,3 +12,7 @@
   surname: "Metere"
   email: "giuseppe.metere@unimi.it"
   topics: "categorical algebra"
+- name: "Andrea"
+  surname: "Laretto"
+  email: "iwilare@gmail.com"
+  topics: "type theory, proof assistants"
