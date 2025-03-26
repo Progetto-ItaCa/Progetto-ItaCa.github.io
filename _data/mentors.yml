@@ -17,3 +17,8 @@
   webpage: "https://iwilare.com/"
   email: "iwilare@gmail.com"
   topics: "type theory, proof assistants"
+- name: "Jacopo"
+  surname: "Emmenegger"
+  webpage: "https://jacopoemmenegger.wordpress.com"
+  email: "jacopo.emmenegger@unige.it"
+  topics: "fibered categories, categorical logic"
