@@ -8,9 +8,10 @@ data:
     slots:
       - time: "15:00"
         talk:
-          id: jacqmin
-          title: "TBA"
-          abstract:  
+          id: zurab
+          title: "Relational Duality for Barr Exact Mal'tsev Categories"
+          abstract: |
+            As we now know, a powerful self-dual approach to semi-abelian categories is given by isolating the fibration of subobjects as a primitive. This leads to the concept of a noetherian form, which, apart from semi-abelian categories also includes Grandis exact categories in its scope. Is there a similar approach to Barr exact Mal'tsev categories? In the talk, which is based on an on-going joint work with D. Rodelo, we present an idea that could lead to a positive answer to this question. Unlike the axioms of a semi-abelian category, it does not seem to be possible to capture axioms of a Barr exact Mal'tsev category as self-dual properties of the fibration of subobjects. What we propose in this paper is to replace this structure with a richer structure of a relation calculus (to be defined in the talk), which will be required to possess certain self-dual properties of a tabular allegory.
           speaker:
             name: Z. Janelidze
             fullname: "Zurab Janelidze" 
