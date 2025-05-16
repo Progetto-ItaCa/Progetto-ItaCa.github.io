@@ -15,8 +15,8 @@ data:
           speaker:
             name: Z. Janelidze
             fullname: "Zurab Janelidze" 
-            home: 
-            affiliation: 
+            home: https://www.zurab.online/
+            affiliation: Stellenbosch University
           youtube: 
           slides: 
       - time: "15:30"
@@ -30,15 +30,15 @@ data:
              
             We then explore a procedure to transform arbitrary graphs, represented as pairs of complex-valued matrices in MATLAB and Octave, into an indexed structure with a surjective index for the domain matrix. Finally, we discuss the implementation of a programming function exhibiting categorical behavior akin to a coequalizer. This work is motivated by some ideas and results from [1,2].
 
-            [1] N. Martins-Ferreira, Internal Categorical Structures and Their Applications, Mathematics (2023) 11(3), 660; (https://doi.org/10.3390/math11030660)[https://doi.org/10.3390/math11030660]
-
-            [2] N. Martins-Ferreira, On the Structure of an Internal Groupoid, Applied Categorical Structures (2023) 31:39 (https://doi.org/10.1007/s10485-023-09740-1)[https://doi.org/10.1007/s10485-023-09740-1]
+            [1] N. Martins-Ferreira, <em>Internal Categorical Structures and Their Applications</em>, Mathematics (2023) 11(3), 660; <a href="https://doi.org/10.3390/math11030660">https://doi.org/10.3390/math11030660</a>
+            
+            [2] N. Martins-Ferreira, <em>On the Structure of an Internal Groupoid</em>, Applied Categorical Structures (2023) 31:39 <a href="https://doi.org/10.1007/s10485-023-09740-1">https://doi.org/10.1007/s10485-023-09740-1</a>
   
           speaker:
             name: N. Martins-Ferreira
             fullname: Nelson Martins-Ferreira
-            home: 
-            affiliation: 
+            home: https://scholar.google.pt/citations?user=KfqnLJsAAAAJ&hl=en
+            affiliation: Instituto Politécnico de Leiria
           youtube: 
           slides: 
       - time: "16:10"
@@ -48,7 +48,7 @@ data:
           id: martinez
           title: A universal Kaluzhnin-Krasner embedding theorem 
           abstract: |
-            Given two groups <em>A</em> and <em>>B</em>, the <em>Kaluzhnin--Krasner universal embedding theorem</em> states that the wreath product <em>A</em> ≀ <em>B</em> acts as a universal receptacle for extensions from <em>A</em> to <em>>B</em>. For a split extension, this embedding is compatible with the canonical splitting of the wreath product, which is further universal in a precise sense. This result was recently extended to Lie algebras and cocommutative Hopf algebras.
+            Given two groups <em>A</em> and <em>B</em>, the <em>Kaluzhnin--Krasner universal embedding theorem</em> states that the wreath product <em>A</em> ≀ <em>B</em> acts as a universal receptacle for extensions from <em>A</em> to <em>B</em>. For a split extension, this embedding is compatible with the canonical splitting of the wreath product, which is further universal in a precise sense. This result was recently extended to Lie algebras and cocommutative Hopf algebras.
             
             In this talk we will explore the feasibility of adapting the theorem to other types of algebraic structures. By explaining the underlying unity of the three known cases, our analysis gives necessary and sufficient conditions for this to happen. 
             
@@ -58,8 +58,8 @@ data:
           speaker:
             name: X. G. Martínez
             fullname: Xabier García Martínez
-            home: 
-            affiliation: 
+            home: http://xabier.garcia.martinez.webs.uvigo.gal/
+            affiliation: Universidade de Vigo
           youtube: 
           slides: 
       - time: "16:50"
