@@ -100,7 +100,7 @@ data:
       - time: "16:20"
         talk:
           id: donato
-          title: TBA 
+          title: The Flower Calculus 
           abstract: 
           speaker:
             name: P. Donato
