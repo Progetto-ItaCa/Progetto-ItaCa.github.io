@@ -91,8 +91,19 @@ data:
       - time: "15:40"
         talk:
           id: ranchod
-          title: TBA 
-          abstract: 
+          title: Substitution for Linear-Cartesian and Full Substructural Theories 
+          abstract: |
+            The characterisation of cartesian (or, algebraic) theories as monoids for a substitution monoidal structure [1] has also been considered in the substructural settings of linear theories [2] and affine theories [3].
+
+            In this talk, we revisit these constructions, recasting them as arising from free symmetric monoidal theories. With this new perspective, we generalise to two settings of interest: Firstly, the linear-cartesian setting, which combines linear and cartesian structures together with a substructural coercion between them. Secondly, to a full substructural setting, which encompasses linear, affine, relevant and cartesian structures with coercions.
+
+            Following this, we exhibit various free-forgetful adjunctions between these theories, notably between Lawvere theories, symmetric operads and linear-cartesian theories. We conclude with comments on the bicategories associated with substitution monoidal structures, on applying this construction to other theories and on models for single-variable substitution in these settings.
+
+            Joint work with Marcelo Fiore.
+
+            [1] M. Fiore, G. Plotkin and D. Turi, Abstract syntax and variable binding (extended abstract), 14th Symposium on Logic in Computer Science (1999), 193–202.
+            [2] G.M. Kelly, On the operads of J.P. May, Reprints in Theory and Applications of Categories (2005), no. 13, 1–13.
+            [3] M. Tanaka and J. Power, A unified category-theoretic semantics for binding signatures in substructural logics, J. Logic Comput. (2006), vol. 16, no. 1, 5–25.
           speaker:
             name: S. Ranchod
             fullname: Sanjiv Ranchod
@@ -105,8 +116,8 @@ data:
       - time: "16:20"
         talk:
           id: donato
-          title: TBA 
-          abstract: 
+          title: The Flower Calculus 
+          abstract: We introduce the flower calculus, a diagrammatic proof system for intuitionistic first-order logic inspired by Peirce's existential graphs. It works as a rewriting system on syntactic objects called "flowers", that enjoy both a graphical presentation as topological diagrams, and an inductive characterization as nested geometric sequents in normal form. Importantly, the calculus dispenses completely with the traditional notion of symbolic connective, operating solely on nested flowers containing atomic predicates. We prove both the soundness of the full calculus and the completeness of an invertible and analytic fragment with respect to Kripke semantics. We also showcase the intended application of this calculus to the design of graphical user interfaces for interactive theorem proving.
           speaker:
             name: P. Donato
             fullname: Pablo Donato

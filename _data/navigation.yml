@@ -16,6 +16,9 @@
     - label: ITACA 2024
       url: https://progetto-itaca.github.io/ItaCa-24/
       target: "_blank"
+    - label: ITACA 2025
+      url: https://progetto-itaca.github.io/ItaCa-25/
+      target: "_blank"
 - label: Fest 
   dropdown: 
     - label: Fest2025
