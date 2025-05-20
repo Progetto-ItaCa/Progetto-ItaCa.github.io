@@ -129,7 +129,7 @@ data:
         msg: Questions Time
       - time: "17:00"
         msg: Free Chat
-  - date: "June 20, 2025"
+  - date: "June 17, 2025"
     id: "jun"
     slots:
       - time: "15:00"
