@@ -73,7 +73,12 @@ data:
         talk:
           id: tbamay1
           title: TBA 
-          abstract: 
+          abstract: |
+            “Arithmetic Universes” — aka list-arithmetic pretoposes — were proposed by Joyal as a categorial setting for syntax, and developed into their current form by (among others) Maietti and Vickers.  But what does it mean that they give a setting for syntax?
+
+            One good answer is that they should host free models of finitely presented essentially algebraic theories.  The essential techniques for this are well established, but a thorough general treatment are elusive — not perhaps because it is difficult, but because a head-on approach, carried through carefully, is gruellingly bureaucratic.
+
+            What helps is a good organising framework.  One such is provided by schemes of inductive types from type theory — in particular, indexed-inductive and (quotient) inductive-inductive types — and established techniques for reducing very general such schemes to a few primitives.  I will show how these techniques can be applied in arithmetic universes, with a little care to handle finitariness, to build up from basic primitives to schemes that provide free models of essentially algebraic theories.
           speaker:
             name: P. Lumsdaine 
             fullname: Peter Lumsdaine
