@@ -71,8 +71,8 @@ data:
     slots:
       - time: "15:00"
         talk:
-          id: tbamay1
-          title: TBA 
+          id: lumsdaine
+          title: Organising syntax in arithmetic universes 
           abstract: |
             “Arithmetic Universes” — aka list-arithmetic pretoposes — were proposed by Joyal as a categorial setting for syntax, and developed into their current form by (among others) Maietti and Vickers.  But what does it mean that they give a setting for syntax?
 
