@@ -228,12 +228,12 @@ data:
     slots:
       - time: "15:00"
         talk:
-          id: vasilakopoulou
+          id: rory
           title: TBA 
           abstract:  
           speaker:
-            name: C. Vasilakopoulou
-            fullname: Christina Vasilakopoulou 
+            name: TBA
+            fullname: TBA
             home: 
             affiliation: 
           youtube: 
