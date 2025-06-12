@@ -135,8 +135,15 @@ data:
       - time: "15:00"
         talk:
           id: schreiber 
-          title: TBA 
-          abstract: 
+          title: Geometric Orbifold Cohomology in Singular-Cohesive ∞-Topoi  
+          abstract: |
+            Addressing exigent questions in quantum materials (and in M-theory) hinges on understanding twisted differential cohomology of orbifolds in extraordinary nonabelian generality. However previous theory has been fragmentary and often ad hoc, lacking a transparent unifying perspective.
+
+            I begin by highlighting and illustrating the abstract nature of cohomology as being about maps to classifying spaces, in broad generality. This allows to transparently state the fundamental theorem of twisted generalized orbifold cohomology. Then I explain where this does take place: in singular-cohesive ∞ -topoi, where a system of adjoint modal operators neatly organizes the subtle nature and intricacies of the subject.
+
+            This is an exposition of selected constructions and results from our two monographs-to-appear:
+              - “Equivariant Principal ∞-Bundles” (CUP)
+              - “Geometric Orbifold Cohomology” (CRC).
           speaker:
             name: U. Schreiber
             fullname: Urs Schreiber
@@ -149,8 +156,11 @@ data:
       - time: "15:40"
         talk:
           id: sosnilo
-          title: TBA 
-          abstract: 
+          title: Homotopy theory of stable categories 
+          abstract: |
+            The homotopy category of spaces can obtained as the localization of the category of topological spaces with respect to weak homotopy equivalences.
+            This is a localization that we can control very well, because it comes from a Quillen model category structure on topological spaces. The idea of motivic homotopy theory in a broad sense is that a picture similar to the above should exist in algebraic contexts -- when one starts from a category of involved algebraic objects instead of topological spaces.
+            We construct a weaker version of a model category structure--a cofibration structure--on the infinity-category of stable infinity-categories, whose localization is the infinity-category of noncommutative motives in the sense of Blumberg-Gepner-Tabuada. Time permitting, we explaing how this allows to show that any ring can be presented as K0 of a monoidal stable infinity-category.
           speaker:
             name: V. Sosnilo
             fullname: Vova Sosnilo 
