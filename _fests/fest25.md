@@ -144,6 +144,7 @@ data:
             This is an exposition of selected constructions and results from our two monographs-to-appear:
               - “Equivariant Principal ∞-Bundles” (CUP)
               - “Geometric Orbifold Cohomology” (CRC).
+            Joint with Hisham Sati. Companion webpage at ncatlab.org/schreiber/show/ItaCa+Fest+2025
           speaker:
             name: U. Schreiber
             fullname: Urs Schreiber
