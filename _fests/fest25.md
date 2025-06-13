@@ -174,8 +174,13 @@ data:
       - time: "16:20"
         talk:
           id: pratali
-          title: TBA 
-          abstract: 
+          title: The root functor 
+          abstract: |
+            As categories are objects governing categories of diagrams (the functors between them), operads can be described as gadgets governing categories of algebras. When the equalities in the axioms of algebraic structures are replaced by systems of homotopies, coherently organized, one talks about infinity-categories and infinity-operads.
+
+            By a well known result of Joyal, every infinity-category is equivalent to the localization of a discrete category — that is, where equalities are strict. Crucial in the proof is the ‘last vertex functor', a functor from the category of elements of a simplicial set X into X.
+
+            In today's talk, we will extend this result, proving that every infinity-operad is equivalent to a discrete one by means of what we call 'root functor'. We work with dendroidal sets, the category of presheaves on a category of trees encoding operations. We will then explain how a root functor can be constructed for any presheaf on a category equipped with an ‘operadic décalage', extending Cisinski's ‘categorical décalage' which allows to construct last vertex functors. In the case of simplicial sets, the last vertex functor is closely related to Grothendieck's proper functors: if time remains we will speculate on possible operadic generalizations of these.
           speaker:
             name: F. Pratali 
             fullname: Francesca Pratali 
