@@ -21,6 +21,7 @@ We are still a small community, but we are slowly growing. You are more than wel
 
 ## Latest news
 
+- [PSSL 111](https://progetto-itaca.github.io/pssl111/) will take place in Bologna on September 4-5  
 - [ItaCa Fest 2025](/fests/fest25.html) is coming.
 
 <img src="/assets/images/elep-low.jpg" style="width: 100%;" align="right" />
