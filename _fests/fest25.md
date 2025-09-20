@@ -198,8 +198,9 @@ data:
       - time: "15:00"
         talk:
           id: bumpus 
-          title: TBA 
-          abstract: 
+          title: "Categories, Dynamic Programming, CSPs and Beyond" 
+          abstract: | 
+            I will give a summary of various results that I’ve been accruing over the years involving computational problems and how to use category theory to study them and develop dynamic programming algorithms. In particular I will consider certain (co)-(pre)-sheaves and the notion of structured decompositions, a key technical tool used in proving these results.This talk is based on multiple papers and many coauthors (in alphabetical order: Althaus, Capucci, Fairbanks, Kocsis, Master, Minichiello, Rosiak and Turner). If these topics interest you and you would like to collaborate and/or visit Brasil, feel free to reach out!
           speaker:
             name: B. M. Bumpus
             fullname: Benjamin Merlin Bumpus 
@@ -212,8 +213,8 @@ data:
       - time: "15:40"
         talk:
           id: vanbelle
-          title: TBA 
-          abstract: 
+          title: Algebras of the Giry monad
+          abstract:  
           speaker:
             name: R. Van Belle
             fullname: Ruben Van Belle 
@@ -225,14 +226,18 @@ data:
         msg: Questions Time
       - time: "16:20"
         talk:
-          id: tba
-          title: TBA 
-          abstract:  
+          id: iwaniack 
+          title: Two-way automata and tree automata as functors 
+          abstract: | 
+            A deterministic automaton is a formal machine whose goal is to accept ("recognise") or reject a word (a finite sequence of symbols) using a simple procedure. To each automaton we associate a set of words, called a language, recognised by this automaton. In their article [1], Colcombet and Petrişan give a description of languages and automata as functors; in this framework, recognition becomes extension of the language-as-a-functor by an automaton-as-a-functor. They also show how the classical result of minimisation of automata can be retrieved using purely categorical tools such as Kan extensions and orthogonal factorisation systems.
+            In this talk, I will give two new types of automata that we can see as functors: two-way automata and tree automata. For the former, we use the functorial viewpoint to categorically deduce a "Shepherdson construction" turning a two-way automaton into a one-way automaton. For the latter, reading trees instead of words, we adapt the functorial minimisation process to retrieve minimisation of tree automata.
+            
+            [1] Thomas Colcombet and Daniela Petrişan. “Automata Minimization: A Functorial Approach”. In: Logical Methods in Computer Science 16.1 (Mar. 2020), Issue 1, 18605974. DOI: 10.23638/LMCS-16(1:32)2020.
           speaker:
-            name: TBA
-            fullname: TBA
+            name: "V. Iwaniack" 
+            fullname: Victor Iwaniack
             home: 
-            affiliation: 
+            affiliation: "Université Côte d'Azur"
           youtube: 
           slides: 
       - time: "16:50"
