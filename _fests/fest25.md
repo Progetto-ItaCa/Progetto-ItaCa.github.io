@@ -214,7 +214,7 @@ data:
         talk:
           id: vanbelle
           title: Algebras of the Giry monad
-          abstract:  
+          abstract: <a href="../Abstract-RubenVanBelle.pdf">pdf</a>
           speaker:
             name: R. Van Belle
             fullname: Ruben Van Belle 
