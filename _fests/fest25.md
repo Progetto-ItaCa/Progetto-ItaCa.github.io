@@ -244,55 +244,56 @@ data:
         msg: Questions Time
       - time: "17:00"
         msg: Free Chat
-- date: "October 21, 2025"
-  id: "oct"
-  slots:
-    - time: "15:00"
-      talk:
-        id: fujii
-        title: Nerves of T-categories
-        abstract: |
-          "Burroni's T-categories generalize internal categories, which in turn generalize ordinary (small) categories. The nerve construction, turning a small category into a simplicial set, can be routinely generalized to internal categories: any internal category in E gives rise to a simplicial object in E as its nerve. In this talk, I will generalize the nerve construction to T-categories: for any category E and monad T thereon, I will define the notion of T-simplicial object, and show that any T-category gives rise to a T-simplicial object. I will also present a simple characterization of T-simplicial objects arising from T-categories. This talk is based on ongoing joint work with Steve Lack."
-        speaker:
-          name: S. Fujii
-          fullname: Soichiro Fujii
-          home:
-          affiliation:
-        youtube:
-        slides:
-    - time: "15:30"
-      msg: Questions Time
-    - time: "15:40"
-      talk:
-        id: arkor
-        title: Convolution via exponentiation
-        abstract: The category of presheaves on a monoidal category inherits the monoidal structure through a form of convolution. While this convolution monoidal structure has traditionally been constructed using the calculus of coends, a substantially simpler argument proceeds from the theory of multicategories. I will build on this observation by demonstrating that convolution may be extended from monoidal categories to double categories, thereby recovering several constructions that have previously arisen in the literature. As a motivating application, I will explain how convolution simplifies the theory of presheaves and discrete fibrations for double categories, and conclude by mentioning a connection to enriched category theory.
-        speaker:
-          name: N. Arkor
-          fullname: Nathanael Arkor
-          home:
-          affiliation: Tallinn University of Technology
-        youtube:
-        slides:
-    - time: "16:10"
-      msg: Questions Time
-    - time: "16:20"
-      talk:
-        id: rory
-        title: Weighted pullbacks in V-graded categories and universal quantification in V-actegories
-        abstract: |
-          Introduced by Richard Wood in 1976, categories graded by a monoidal category V generalize both V-enriched categories and V-actegories. In this talk, we review some basics of V-graded categories, and then we introduce a notion of weighted pullback in V-graded categories. Weighted pullbacks are certain weighted limits that generalize the usual (conical) pullbacks, yet they also specialize to certain notions of universal quantification and certain dependent products. Indeed, we show that weighted pullbacks generalize simple products in the codomain fibration of a cartesian closed category with finite limits and, in particular, simple universal quantification in the subobject fibration of such a category. Generalizing the latter example, we introduce notions of simple product and simple universal quantification in V-actegories as special cases of the notion of weighted pullback. In particular, weighted pullbacks thus give rise to a notion of simple universal quantification in monoidal categories.
-        speaker:
-          name: R. Lucyshyn-Wright
-          fullname: Rory Lucyshyn-Wright
-          home:
-          affiliation:
-        youtube:
-        slides:
-    - time: "16:50"
-      msg: Questions Time
-    - time: "17:00"
-      msg: Free Chat
+  - date: "October 21, 2025"
+    id: "oct"
+    slots:
+      - time: "15:00"
+        talk:
+          id: fujii
+          title: Nerves of T-categories
+          abstract: |
+            Burroni's T-categories generalize internal categories, which in turn generalize ordinary (small) categories. The nerve construction, turning a small category into a simplicial set, can be routinely generalized to internal categories: any internal category in E gives rise to a simplicial object in E as its nerve. In this talk, I will generalize the nerve construction to T-categories: for any category E and monad T thereon, I will define the notion of T-simplicial object, and show that any T-category gives rise to a T-simplicial object. I will also present a simple characterization of T-simplicial objects arising from T-categories. This talk is based on ongoing joint work with Steve Lack.
+          speaker:
+            name: S. Fujii
+            fullname: Soichiro Fujii
+            home:
+            affiliation:
+          youtube:
+          slides:
+      - time: "15:30"
+        msg: Questions Time
+      - time: "15:40"
+        talk:
+          id: arkor
+          title: Convolution via exponentiation
+          abstract: |
+            The category of presheaves on a monoidal category inherits the monoidal structure through a form of convolution. While this convolution monoidal structure has traditionally been constructed using the calculus of coends, a substantially simpler argument proceeds from the theory of multicategories. I will build on this observation by demonstrating that convolution may be extended from monoidal categories to double categories, thereby recovering several constructions that have previously arisen in the literature. As a motivating application, I will explain how convolution simplifies the theory of presheaves and discrete fibrations for double categories, and conclude by mentioning a connection to enriched category theory.
+          speaker:
+            name: N. Arkor
+            fullname: Nathanael Arkor
+            home:
+            affiliation: Tallinn University of Technology
+          youtube:
+          slides:
+      - time: "16:10"
+        msg: Questions Time
+      - time: "16:20"
+        talk:
+          id: rory
+          title: Weighted pullbacks in V-graded categories and universal quantification in V-actegories
+          abstract: |
+            Introduced by Richard Wood in 1976, categories graded by a monoidal category V generalize both V-enriched categories and V-actegories. In this talk, we review some basics of V-graded categories, and then we introduce a notion of weighted pullback in V-graded categories. Weighted pullbacks are certain weighted limits that generalize the usual (conical) pullbacks, yet they also specialize to certain notions of universal quantification and certain dependent products. Indeed, we show that weighted pullbacks generalize simple products in the codomain fibration of a cartesian closed category with finite limits and, in particular, simple universal quantification in the subobject fibration of such a category. Generalizing the latter example, we introduce notions of simple product and simple universal quantification in V-actegories as special cases of the notion of weighted pullback. In particular, weighted pullbacks thus give rise to a notion of simple universal quantification in monoidal categories.
+          speaker:
+            name: R. Lucyshyn-Wright
+            fullname: Rory Lucyshyn-Wright
+            home:
+            affiliation:
+          youtube:
+          slides:
+      - time: "16:50"
+        msg: Questions Time
+      - time: "17:00"
+        msg: Free Chat
   - date: "November 18, 2025"
     id: "nov" 
     slots:
