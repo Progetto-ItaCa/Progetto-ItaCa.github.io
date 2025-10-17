@@ -256,8 +256,8 @@ data:
           speaker:
             name: S. Fujii
             fullname: Soichiro Fujii
-            home:
-            affiliation:
+            home: https://sites.google.com/view/soichirofujii/
+            affiliation: Masaryk University
           youtube:
           slides:
       - time: "15:30"
@@ -271,7 +271,7 @@ data:
           speaker:
             name: N. Arkor
             fullname: Nathanael Arkor
-            home:
+            home: https://arkor.co/
             affiliation: Tallinn University of Technology
           youtube:
           slides:
@@ -286,8 +286,8 @@ data:
           speaker:
             name: R. Lucyshyn-Wright
             fullname: Rory Lucyshyn-Wright
-            home:
-            affiliation:
+            home: https://lucyshyn-wright.ca/
+            affiliation: Brandon University
           youtube:
           slides:
       - time: "16:50"
