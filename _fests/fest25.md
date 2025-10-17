@@ -257,7 +257,7 @@ data:
             name: S. Fujii
             fullname: Soichiro Fujii
             home: https://sites.google.com/view/soichirofujii/
-            affiliation: Masaryk University
+            affiliation: National Institute of Informatics, Japan
           youtube:
           slides:
       - time: "15:30"
