@@ -303,10 +303,10 @@ data:
           title: TBA 
           abstract: 
           speaker:
-            name: P. Taylor 
+            name: Paul Taylor 
             fullname: Paul Taylor 
             home:
-            affiliation: 
+            affiliation: University of Birmingham (honorary)
           youtube: 
           slides: 
       - time: "15:30"
@@ -320,7 +320,7 @@ data:
             name: U. Tarantino 
             fullname: Umberto Tarantino 
             home:
-            affiliation: 
+            affiliation: IRIF
           youtube: 
           slides: 
       - time: "16:10"
@@ -330,11 +330,11 @@ data:
           id: tba
           title:  TBA 
           abstract: 
-          speaker:
-            name: TBA
-            fullname: TBA
+          speaker: 
+            name: E. Aldovrandi
+            fullname: Ettore Aldovrandi
             home:
-            affiliation: 
+            affiliation: Florida State University
           youtube: 
           slides: 
       - time: "16:50"
