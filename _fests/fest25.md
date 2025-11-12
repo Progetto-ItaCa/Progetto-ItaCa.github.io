@@ -331,8 +331,8 @@ data:
           title:  TBA 
           abstract: 
           speaker: 
-            name: E. Aldovrandi
-            fullname: Ettore Aldovrandi
+            name: E. Aldrovandi
+            fullname: Ettore Aldrovandi
             home:
             affiliation: Florida State University
           youtube: 
