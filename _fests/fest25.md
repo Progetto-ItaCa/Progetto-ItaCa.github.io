@@ -314,8 +314,9 @@ data:
       - time: "15:40"
         talk:
           id: tarantino 
-          title: TBA 
-          abstract: 
+          title: Ultracategories via Kan extensions of relative monads 
+          abstract: |
+            Ultracategories are categories endowed with a "topological" structure which were introduced by Makkai with the aim to prove a Stone-like duality for first-order logic. Their complicated definition was later simplified by Lurie, who extended Makkai's result to a representation theorem for coherent toposes. Inspired by Rosolini's ultracompletion pseudomonad, in this talk we will let an axiomatization of ultracategories emerge as algebras for a pseudomonad on categories universally induced by the ultrafilter monad. To do this, we will frame ultracategories within the theory of relative monads and skew-monoidal categories: this will allow us to proceed similarly to the 1-dimensional setting of Altenkirch, Chapman and Uustalu -- but with a crucial difference. This is joint work with Joshua Wrigley.
           speaker: 
             name: U. Tarantino 
             fullname: Umberto Tarantino 
@@ -327,9 +328,14 @@ data:
         msg: Questions Time
       - time: "16:20"
         talk:
-          id: tba
-          title:  TBA 
-          abstract: 
+          id: aldrovandi
+          title:  Biextensions and Monoidal (2-)Categories 
+          abstract: |
+            If $\mathcal{C}$ is a monoidal category (meaning a group-like groupoid), L. Breen showed that under mild conditions one can associate to it a (weak) biextension. This is a torsor whose fibers consist of all possible commutator arrows of the form $YX \to XY$; it is equipped with two compatible binary laws such that it is a group extension in two different ways. If $\mathcal{C}$ is braided, the braiding structure provides a global trivializing section of the torsor (which is however not trivial as a biextension). It is natural to ask what other conditions the biextension must satisfy as we progress from braided to symmetric, to strictly Picard.
+
+            Breen proved that this leads to a cohomological characterization of symmetric monoidal categories that is radically different, but equally useful, than the standard one using the Eilenberg-MacLane cohomology of abelian groups.
+
+            I would like to present an extension of these ideas to the case of monoidal 2-categories, where the main actor is a categorification of the concept of biextension.
           speaker: 
             name: E. Aldrovandi
             fullname: Ettore Aldrovandi
