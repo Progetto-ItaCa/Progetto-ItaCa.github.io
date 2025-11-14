@@ -300,8 +300,19 @@ data:
       - time: "15:00"
         talk:
           id: taylor
-          title: TBA 
-          abstract: 
+          title: A Categorical Replacement for Replacement 
+          abstract: |
+            It is more than 50 years since Lawvere and Tierney introduced elementary toposes as an alternative to (bounded) Zermelo set theory and since then the bulk of mainstream mathematics has been formulated in it.  However, there are some constructions such as iterated functors and gluing that go outside this framework, but can be justified using the Axiom-Scheme of Replacement.  Replacement is interesting because it can build skyscrapers from plans on the ground, whereas using universes or large cardinals is like dropping building materials from a satellite.
+
+            It is embarrassing after all this time that category theory does not have a way of expressing Replacement in its native language.
+
+            It is a well established and powerful discipline that is being applied to more and more subjects.  It can stand on its own feet and does not need set-theoretic foundations.  The only reason for giving one is that ZF has acquired an "official" role and has not yet been shown to be inconsistent.
+
+            The native language of category theory is adjunctions, which are formally equivalent to introduction--elimination rule-sets in type theory: we create a new connective by asserting that some previously defined functor has an adjoint. The powerful cases are when the adjoint must be defined recursively, which raises questions of termination.
+
+            To handle this we use an idea from set theory, but abstracted and generalised using category theory. The proposal is that any well founded structure have an extensional reflection, where relations become coalgebras for fairly general functors and subsets become factorisation systems.
+
+            Categorical applications of this such as transfinite iteration of functors will be considered on a later occasion. In this lecture I will discuss the categorical ideas and show that the proposal is valid in ZF, with a brief introduction to how that is formulated in first order logic and why unbounded predicates are needed.
           speaker:
             name: Paul Taylor 
             fullname: Paul Taylor 
