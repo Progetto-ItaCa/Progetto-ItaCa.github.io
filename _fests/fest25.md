@@ -342,7 +342,7 @@ data:
           id: aldrovandi
           title:  Biextensions and Monoidal (2-)Categories 
           abstract: |
-            If $\mathcal{C}$ is a monoidal category (meaning a group-like groupoid), L. Breen showed that under mild conditions one can associate to it a (weak) biextension. This is a torsor whose fibers consist of all possible commutator arrows of the form $YX \to XY$; it is equipped with two compatible binary laws such that it is a group extension in two different ways. If $\mathcal{C}$ is braided, the braiding structure provides a global trivializing section of the torsor (which is however not trivial as a biextension). It is natural to ask what other conditions the biextension must satisfy as we progress from braided to symmetric, to strictly Picard.
+            If <b>C</b> is a monoidal category (meaning a group-like groupoid), L. Breen showed that under mild conditions one can associate to it a (weak) biextension. This is a torsor whose fibers consist of all possible commutator arrows of the form <em>YX</em> → <em>XY</em> ; it is equipped with two compatible binary laws such that it is a group extension in two different ways. If <b>C</b> is braided, the braiding structure provides a global trivializing section of the torsor (which is however not trivial as a biextension). It is natural to ask what other conditions the biextension must satisfy as we progress from braided to symmetric, to strictly Picard.
 
             Breen proved that this leads to a cohomological characterization of symmetric monoidal categories that is radically different, but equally useful, than the standard one using the Eilenberg-MacLane cohomology of abelian groups.
 
