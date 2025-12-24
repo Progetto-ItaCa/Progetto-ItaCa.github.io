@@ -1,0 +1,30 @@
+<header class="site-header">
+  <div class="logo">
+    <a href="/"><img src="../assets/images/itaca_logo.png" width="100"></a>
+  </div>
+
+  <input type="checkbox" id="menu-toggle" class="menu-toggle">
+  <label for="menu-toggle" class="hamburger-btn">
+    <span></span>
+  </label>
+
+  <nav class="nav-menu">
+    {%- for item in site.data.navigation %}
+      <div class="nav-item">
+        {%- if item.dropdown %}
+          <input type="checkbox" id="sub-{{ forloop.index }}" class="sub-toggle">
+          <label for="sub-{{ forloop.index }}" class="nav-label">
+            {{ item.label }} <span class="arrow">▾</span>
+          </label>
+          <div class="submenu">
+            {%- for i in item.dropdown %}
+              <a href="{{ i.url | escape_url }}" target="{{ i.target }}">{{ i.label }}</a>
+            {%- endfor %}
+          </div>
+        {%- else %}
+          <a href="{{ item.url | escape_url }}" class="nav-link">{{ item.label }}</a>
+        {%- endif %}
+      </div>
+    {%- endfor %}
+  </nav>
+</header>

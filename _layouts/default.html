@@ -9,28 +9,7 @@
     <link rel="stylesheet" href="/assets/css/main.css" />
  </head>
  <body>
-  <header>
-   <div class="logo">
-    <a href="/"><img src="../assets/images/itaca_logo.png" width="100"></a>
-   </div>
-   <nav>
-    {%- for item in site.data.navigation %} 
-      <div class="dropdown">
-        {% if item.url -%}<a href={{ item.url | escape_url  }}>{{ item.label }}</a> 
-        {%- else -%}{{ item.label }}{%- endif %} 
-        {%- if item.dropdown %}
-          <div class="dropdown-content">
-          {%- for i in item.dropdown %}
-            <p><a href="{{ i.url | escape_url }}" target="{{ i.target }}">{{ i.label }}</a></p> 
-          {%- endfor %}
-          </div> 
-        {%- endif %} 
-        
-      </div> 
-      &bull;
-    {%- endfor %} 
-   </nav>
-  </header>
+  {% include header %} 
 
   <main role="main">
    {{ content }}
