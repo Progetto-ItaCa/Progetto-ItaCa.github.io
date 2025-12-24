@@ -51,18 +51,27 @@
     };
 
     # Utility to run a script easily in the flakes app
-    simple_script = name: add_deps: text: let
-      exec = pkgs.writeShellApplication {
-        inherit name text;
-        runtimeInputs = with pkgs; [
-          gnumake
-          bundler
-        ] ++ add_deps;
-      };
-    in {
-      type = "app";
-      program = "${exec}/bin/${name}";
+simple_script = name: add_deps: text:
+  let
+    exec = pkgs.writeShellApplication {
+      inherit name text;
+      runtimeInputs =
+        [
+          pkgs.gnumake
+          pkgs.bundler
+
+          # 🔑 REQUIRED for nokogiri
+          pkgs.libxml2
+          pkgs.libxslt
+          pkgs.pkg-config
+        ]
+        ++ add_deps;
     };
+  in {
+    type = "app";
+    program = "${exec}/bin/${name}";
+  };
+
 
   in {
     apps.${system} = {

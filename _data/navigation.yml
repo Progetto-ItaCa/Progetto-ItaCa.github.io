@@ -19,7 +19,7 @@
     - label: ITACA 2025
       url: https://progetto-itaca.github.io/ItaCa-25/
       target: "_blank"
-- label: Fest 
+- label: ItaCa Fest 
   dropdown: 
     - label: Fest2025
       url: /fests/fest25.html 
@@ -35,7 +35,7 @@
   dropdown: 
     - label: Names
       url: /pages/name.html 
-- label: Contacts
+- label: Media
   dropdown: 
     - label: youtube
       url: https://www.youtube.com/channel/UCKdVVjPg_dHhbIiuzLh4Llg
