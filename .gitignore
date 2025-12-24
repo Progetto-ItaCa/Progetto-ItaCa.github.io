@@ -10,7 +10,7 @@ _site/*
 _*
 poster/*
 !_data
-!_data/course.json
-!_layouts/fest.md
+!_layouts
 !_fests
+!_includes
 .bundle/
