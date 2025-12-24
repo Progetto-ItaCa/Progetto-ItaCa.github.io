@@ -16,7 +16,7 @@ La nostra formazione è abbastanza varia; ci siamo riuniti col desiderio di dare
 
 ## Struttura del corso
 
-Le lezioni verranno pubblicate sul [canale youtube](https://www.youtube.com/channel/UCKdVVjPg_dHhbIiuzLh4Llg/videos) di ItaCa a cadenza settimanale (ogni giovedì); i commenti e le domande sono benvenuti sul [canale zulip](https://itaca.zulipchat.com/) di ItaCa (i commenti su youtube sono disattivati); ciascun docente sarà presente in una stanza di zulip, nei giorni successivi alla propria lezione per rispondere alle eventuali domande degli studenti o per proporre degli approfondimenti: l'interazione sarà per lo più quella di un forum, ma è possibile accordarsi con il singolo docente per una o due "ore d'ufficio" su zoom.
+Le lezioni verranno pubblicate sul [canale youtube](https://www.youtube.com/channel/UCKdVVjPg_dHhbIiuzLh4Llg/videos) di ItaCa a cadenza settimanale (ogni giovedì).
 
 ## Programma
 

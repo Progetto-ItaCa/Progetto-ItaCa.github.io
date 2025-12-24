@@ -2,16 +2,33 @@
 layout: default 
 ---
 
+{%- if page.data %} 
+
+{%- assign slides_url = '/assets/slides/' -%} 
+
 <h1> {{ page.title }} </h1> 
 
 <p> ItaCa Fest is an online webinar aimed to gather the community of ItaCa.</p> 
 
 <p> The seminar will be live on <a href="https://zoom.us" target="_blank">Zoom</a> at
-<a href="{{ page.zoom  | escape_url }}">this link</a>
+<a href="{{ page.zoom  | escape_url }}">this link</a>. The time is: 3pm Italian time.
 </p> 
 
-{% for day in site.data[page.id] %} 
+<p> Here the list of seminars 
+  <ul>
+  {%- for day in page.data %}
+    <li> <a href="#{{ day.id }}"> {{ day.date }} </a> </li> 
+  {% endfor -%}
+  </ul>
+</p>
 
+<br> 
+
+{% for day in page.data %} 
+
+<br> 
+
+<div id="{{ day.id }}"></div> 
 <h2> {{ day.date }} </h2> 
 
 <a name="fest4"></a>
@@ -31,10 +48,17 @@ layout: default
   {% if slot.talk %} 
     <tr style="background-color:#fbe49d	">
       <td>{{ slot.time }}</td>
-      <td><a href="{{ slot.talk.speaker.home | escape_url }}" target="_blank"><strong> {{ slot.talk.speaker.name }} </strong></a></td>
-      <td><a href="{{ slot.talk.speaker.aff-url | escape_url }}" target="_blank"> {{ slot.talk.speaker.affiliation }} </a></td>
-      <td><b> {{ slot.talk.title }} </b></td>
-      <td><a href="#{{ slot.talk.id }}">▤</a> <a href="{{ slot.talk.youtube | escape_url }}" target="_blank">▶</a></td>
+      <td>
+        {%- if slot.talk.speaker.home -%} <a href="{{ slot.talk.speaker.home | escape_url }}" target="_blank"> {%- endif -%}
+          <strong> {{ slot.talk.speaker.name }} </strong>
+        {%- if slot.talk.speaker.hom -%} </a> {%- endif -%}
+      </td>
+      <td> {{ slot.talk.speaker.affiliation }} </td>
+      <td> <a href="#{{ slot.talk.id }}"> <b>{{ slot.talk.title }} </b> </a> </td>
+      <td>
+        {%- if slot.talk.slides -%} <a href="{{ slot.talk.slides | prepend: slides_url | relative_url  }}">▤</a> {%- endif -%} 
+        {%- if slot.talk.youtube -%} <a href="{{ slot.talk.youtube | escape_url }}" target="_blank">▶</a> {%- endif -%} 
+      </td>
     </tr>
   {% else %} 
     <tr>
@@ -53,12 +77,19 @@ layout: default
 <h3> {{ slot.talk.speaker.fullname }} </h3> 
 <h4> {{ slot.talk.title }} </h4> 
 
-<p> {{ slot.talk.abstract }} </p> 
+<p> {{ slot.talk.abstract | newline_to_br }} </p> 
 {% endif %} 
 
 {% endfor %} 
 
 {% endfor %} 
+
+{%- else %}
+
+{{ content }}
+
+{%- endif %} 
+
 
 
 
