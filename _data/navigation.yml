@@ -1,27 +1,27 @@
 
-- label: Workshops
+- label: ItaCa👤
   dropdown: 
-    - label: ITACA 2019
+    - label: ICW2019
       url: http://www.mat.unimi.it/users/itaca/
       target: "_blank"
-    - label: ITACA 2021 
+    - label: ICW2021 
       url: https://genoa-logic-group.github.io/itaca-workshop-2021/
       target: "_blank"
-    - label: ITACA 2022
+    - label: ICW2022
       url: https://progetto-itaca.github.io/ItaCa-22/
       target: "_blank"
-    - label: ITACA 2023
+    - label: ICW2023
       url: https://progetto-itaca.github.io/ItaCa-23/
       target: "_blank"
-    - label: ITACA 2024
+    - label: ICW2024
       url: https://progetto-itaca.github.io/ItaCa-24/
       target: "_blank"
-    - label: ITACA 2025
+    - label: ICW2025
       url: https://progetto-itaca.github.io/ItaCa-25/
       target: "_blank"
-- label: ItaCa Fest 
+- label: ItaCa🌐 
   dropdown: 
-    - label: Fest2025
+    - label: ICF2025
       url: /fests/fest25.html 
     - label: Previous
       url: /pages/fest.html 
