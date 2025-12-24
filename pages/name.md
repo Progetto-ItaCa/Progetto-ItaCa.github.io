@@ -1,7 +1,8 @@
 ---
 title: People
 ---
-The community of ItaCa is growing: these are the people that helped so far. A larger list of people can be found <a href="../pages/loca.html">here</a>. Feel free to join us!
+The community of ItaCa is growing: these are the people that helped so far. 
+Feel free to join us!
 
 ## ItaCa Promoting Committee
 
