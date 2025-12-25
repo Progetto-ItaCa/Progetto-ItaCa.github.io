@@ -1,28 +1,39 @@
 <header class="site-header">
   <div class="logo">
-    <a href="/"><img src="../assets/images/itaca_logo.png" width="100"></a>
+    <a href="/" aria-label="Go to homepage">
+      <img src="../assets/images/itaca_logo.png" alt="Itaca Logo" width="100">
+    </a>
   </div>
 
-  <input type="checkbox" id="menu-toggle" class="menu-toggle">
+  <input type="checkbox" id="menu-toggle" class="menu-toggle" aria-label="Menu Toggle">
   <label for="menu-toggle" class="hamburger-btn">
-    <span></span>
+    <span aria-hidden="true"></span>
+    <span class="sr-only open-label">Open Menu</span>
+    <span class="sr-only close-label">Close Menu</span>
   </label>
 
-  <nav class="nav-menu">
+  <nav class="nav-menu" aria-label="Main Navigation">
     {%- for item in site.data.navigation %}
       <div class="nav-item">
         {%- if item.dropdown %}
-          <input type="checkbox" id="sub-{{ forloop.index }}" class="sub-toggle">
+          <input type="checkbox" id="sub-{{ forloop.index }}" class="sub-toggle" aria-label="Toggle {{ item.label }} submenu">
+          
           <label for="sub-{{ forloop.index }}" class="nav-label">
-            {{ item.label }} <span class="arrow">▾</span>
+            {{ item.label }} 
+            <span class="arrow" aria-hidden="true">▾</span>
           </label>
+
           <div class="submenu">
             {%- for i in item.dropdown %}
-              <a href="{{ i.url | escape_url }}" target="{{ i.target }}">{{ i.label }}</a>
+              <a href="{{ i.url | relative_url }}" target="{{ i.target }}">
+                {{ i.label }}
+              </a>
             {%- endfor %}
           </div>
         {%- else %}
-          <a href="{{ item.url | escape_url }}" class="nav-link">{{ item.label }}</a>
+          <a href="{{ item.url | relative_url }}" class="nav-link">
+            {{ item.label }}
+          </a>
         {%- endif %}
       </div>
     {%- endfor %}

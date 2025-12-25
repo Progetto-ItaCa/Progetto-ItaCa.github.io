@@ -22,6 +22,30 @@ body {
 	padding: 0 15px;
 }
 
+.sr-only {
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	padding: 0;
+	margin: -1px;
+	overflow: hidden;
+	clip: rect(0, 0, 0, 0);
+	white-space: nowrap;
+	border: 0;
+}
+
+.close-label {
+	display: none;
+}
+
+.menu-toggle:checked ~ .hamburger-btn .open-label {
+	display: none;
+}
+
+.menu-toggle:checked ~ .hamburger-btn .close-label {
+	display: inline;
+}
+
 .menu-toggle, .sub-toggle {
 	display: none;
 }
@@ -117,6 +141,13 @@ body {
 	text-decoration: none;
 	text-transform: uppercase;
 	cursor: pointer;
+}
+
+a:focus, 
+.nav-label:focus, 
+.menu-toggle:focus + .hamburger-btn {
+	outline: 2px solid #351E24;
+	outline-offset: 2px;
 }
 
 .arrow {
@@ -221,7 +252,8 @@ footer {
 		z-index: 1000;
 	}
 
-	.nav-item:hover .submenu {
+	.nav-item:hover .submenu,
+	.nav-item:focus-within .submenu {
 		display: flex;
 	}
 
