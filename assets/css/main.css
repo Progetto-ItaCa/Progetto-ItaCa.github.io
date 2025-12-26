@@ -23,26 +23,6 @@ body {
 	padding: 0 15px;
 }
 
-.sr-only {
-	position: absolute;
-	width: 1px;
-	height: 1px;
-	padding: 0;
-	margin: -1px;
-	overflow: hidden;
-	clip: rect(0, 0, 0, 0);
-	white-space: nowrap;
-	border: 0;
-}
-
-.toggle-text::before {
-	content: "Open Menu";
-}
-
-.menu-toggle:checked ~ .hamburger-btn .toggle-text::before {
-	content: "Close Menu";
-}
-
 .menu-toggle, .sub-toggle {
 	display: none;
 }

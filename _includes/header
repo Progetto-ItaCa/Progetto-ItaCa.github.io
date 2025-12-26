@@ -5,10 +5,9 @@
     </a>
   </div>
 
-  <input type="checkbox" id="menu-toggle" class="menu-toggle" aria-label="Menu Toggle">
-  <label for="menu-toggle" class="hamburger-btn">
-    <span aria-hidden="true"></span>
-    <span class="sr-only toggle-text"></span>
+  <input type="checkbox" id="menu-toggle" class="menu-toggle" aria-label="Toggle navigation menu">
+  <label for="menu-toggle" class="hamburger-btn" aria-hidden="true">
+    <span></span>
   </label>
 
   <nav class="nav-menu" aria-label="Main Navigation">
