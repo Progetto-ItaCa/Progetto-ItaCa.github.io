@@ -5,8 +5,8 @@
     </a>
   </div>
 
-  <input type="checkbox" id="menu-toggle" class="menu-toggle" aria-label="Toggle navigation menu">
-  <label for="menu-toggle" class="hamburger-btn" aria-hidden="true">
+  <input type="checkbox" id="menu-toggle" class="menu-toggle">
+  <label for="menu-toggle" class="hamburger-btn" aria-label="Toggle navigation menu">
     <span></span>
   </label>
 
