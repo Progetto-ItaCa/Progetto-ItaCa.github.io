@@ -13,10 +13,11 @@ html, body {
 }
 
 body {
-	font-size: 1.6rem;
+	font-size: 1rem;
+	line-height: 1.6;
 	background-color: #FCE8AD;
 	color: #272b2e;
-	text-align: justify;
+	text-align: left;
 	max-width: 800px;
 	margin: 0 auto;
 	padding: 0 15px;
@@ -135,7 +136,7 @@ body {
 	justify-content: space-between;
 	align-items: center;
 	padding: 15px 5px;
-	font-size: 1.5rem;
+	font-size: 1.1rem;
 	font-weight: bold;
 	color: #97492C;
 	text-decoration: none;
@@ -171,7 +172,7 @@ a:focus,
 
 .submenu a {
 	padding: 8px 25px;
-	font-size: 1.3rem;
+	font-size: 1rem;
 	text-decoration: none;
 	color: #97492C;
 	text-align: left;
@@ -201,7 +202,7 @@ footer {
 	margin-top: 3rem;
 	padding: 1.2rem 0;
 	border-top: 0.2rem solid #351E24;
-	font-size: 1.2rem;
+	font-size: 0.9rem;
 	color: #555;
 }
 
