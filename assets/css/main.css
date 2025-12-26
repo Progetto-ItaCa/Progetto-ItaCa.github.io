@@ -35,16 +35,12 @@ body {
 	border: 0;
 }
 
-.close-label {
-	display: none;
+.toggle-text::before {
+	content: "Open Menu";
 }
 
-.menu-toggle:checked ~ .hamburger-btn .open-label {
-	display: none;
-}
-
-.menu-toggle:checked ~ .hamburger-btn .close-label {
-	display: inline;
+.menu-toggle:checked ~ .hamburger-btn .toggle-text::before {
+	content: "Close Menu";
 }
 
 .menu-toggle, .sub-toggle {
