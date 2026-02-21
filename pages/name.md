@@ -9,33 +9,33 @@ Feel free to join us!
 <div id="pc"></div>
 
 - <a href="http://math.unipa.it/metere" target="_blank">Giuseppe (Beppe) Metere</a> (Head of the Promoting Committee)
-- <a href="http://diliberti.github.io" target="_blank">Ivan Di Liberti</a>
 - <a href="https://jacopoemmenegger.wordpress.com" target="_blank">Jacopo Emmenegger</a>
+- <a href="https://globbia.github.io/" target="_blank">Gabriele Lobbia</a> 
 - <a href="http://tetrapharmakon.github.io" target="_blank">Fosco Loregian</a>
 
 ## Scientific Committee
 
 <div id="sc"></div>
 
-- <a href="http://math.unipa.it/metere" target="_blank">Giuseppe (Beppe) Metere</a>
+- <a href="https://gtendas.github.io/" target="_blank">Giacomo Tendas</a> (chair) 
 - <a href="http://diliberti.github.io" target="_blank">Ivan Di Liberti</a>
 - <a href="http://tetrapharmakon.github.io" target="_blank">Fosco Loregian</a>
 - <a href="http://www.paoloperrone.org" target="_blank">Paolo Perrone</a>
-- <a href="https://gtendas.github.io/" target="_blank">Giacomo Tendas</a>
+- <a href="https://sites.google.com/view/mrovelli" target="_blank">Martina Rovelli</a> 
+- <a href="https://perso.uclouvain.be/enrico.vitale/" target="_blank">Enrico Vitale</a> 
 
 ## Curators of the present website
 
 <div id="web"></div>
 
-- <a href="http://tetrapharmakon.github.io" target="_blank">Fosco Loregian</a>
-- <a href="http://dpl0a.github.io" target="_blank">Daniele Palombi</a>
 - <a href="https://fdgn.github.io" target="_blank">Francesco Dagnino</a>
+- <a href="https://utarantino.github.io/" target="_blank">Umberto Tarantino</a> 
 
 ## ItaCa social media managers
 
 <div id="smm"></div>
 
-- Gabriele Lobbia
+- <a href="https://globbia.github.io/" target="_blank">Gabriele Lobbia</a> 
 - <a href="http://dpl0a.github.io" target="_blank">Daniele Palombi</a>
 - <a href="https://matteocapucci.wordpress.com">Matteo Capucci</a>
 
