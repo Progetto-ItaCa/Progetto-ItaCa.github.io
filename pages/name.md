@@ -42,3 +42,18 @@ Feel free to join us!
 Feel free to join us or reach out with an email at [webmasters.itaca@gmail.com](mailto:webmasters.itaca@gmail.com).
 
 In particular, feel free to join our [Mailing List](mailto:progettoitaca+subscribe@googlegroups.com) sending a subscription email (it can have arbitrary subject and body), and our [Facebook group](https://www.facebook.com/groups/507590330041282/). Follow us on [Twitter](https://twitter.com/progetto_itaca), before Elon kills it for good.
+
+
+### Past roles 
+
+<div id="past-roles"></div>
+
+- Greta Coraglia (scientific committee 2021 - 2025)
+- Ivan Di Liberti (promoting committee 2019 - 2026)
+- Edoardo Lanari (promoting committee 2019 - 2022)
+- Fosco Loregian (webmaster 2019 - 2026)
+- Giuseppe Metere (chair of scientific committee 2019 - 2026)
+- Daniele Palombi (webmaster 2019 - 2022)
+
+
+
