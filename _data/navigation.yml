@@ -24,7 +24,7 @@
       url: /pages/name.html 
 - label: Media
   dropdown: 
-    - label: youtube
+    - label: YouTube
       url: https://www.youtube.com/channel/UCKdVVjPg_dHhbIiuzLh4Llg
     #   target: "_blank" 
     # - label: facebook 
