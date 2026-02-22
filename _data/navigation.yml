@@ -1,12 +1,12 @@
 
-- label: ItaCa👤
+- label: Workshop
   dropdown: 
     - label: ICW2025
       url: https://progetto-itaca.github.io/ItaCa-25/
       target: "_blank"
     - label: Previous
       url: /pages/workshop.html
-- label: ItaCa🌐 
+- label: Fest
   dropdown: 
     - label: ICF2025
       url: /fests/fest25.html 
