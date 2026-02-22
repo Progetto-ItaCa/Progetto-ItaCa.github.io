@@ -16,7 +16,7 @@
   dropdown: 
     - label: Course
       url: /pages/course.html 
-    - label: mentors
+    - label: Mentors
       url: /pages/mentors.html 
 - label: People
   dropdown: 
