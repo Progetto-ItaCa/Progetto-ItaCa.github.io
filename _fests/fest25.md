@@ -17,7 +17,7 @@ data:
             fullname: "Zurab Janelidze" 
             home: https://www.zurab.online/
             affiliation: Stellenbosch University
-          youtube: 
+          youtube: https://youtu.be/o8408uP9kaE?si=OB-50u68BBc7VbVJ
           slides: 
       - time: "15:30"
         msg: Questions Time
@@ -39,7 +39,7 @@ data:
             fullname: Nelson Martins-Ferreira
             home: https://scholar.google.pt/citations?user=KfqnLJsAAAAJ&hl=en
             affiliation: Instituto Politécnico de Leiria
-          youtube: 
+          youtube: https://youtu.be/Wlz9beqpwqY?si=GutzToF6HRSqS33R
           slides: 
       - time: "16:10"
         msg: Questions Time
@@ -60,7 +60,7 @@ data:
             fullname: Xabier García Martínez
             home: http://xabier.garcia.martinez.webs.uvigo.gal/
             affiliation: Universidade de Vigo
-          youtube: 
+          youtube: https://youtu.be/hY_kdXwpGVY?si=VMK95whIOawXDTon
           slides: 
       - time: "16:50"
         msg: Questions Time
@@ -84,7 +84,7 @@ data:
             fullname: Peter Lumsdaine
             home: http://peterlefanulumsdaine.com
             affiliation: Stockholm University
-          youtube: 
+          youtube: https://youtu.be/O_KLG-m7s8E?si=oeCzJf1oiwfC5F2P
           slides: 
       - time: "15:30"
         msg: Questions Time
@@ -109,7 +109,7 @@ data:
             fullname: Sanjiv Ranchod
             home: https://sanjivranchod.com
             affiliation: University of Cambridge
-          youtube: 
+          youtube: https://youtu.be/uhxa5lxwpoU?si=vGi3l6lmd6PPYqZ6
           slides: 
       - time: "16:10"
         msg: Questions Time
@@ -123,7 +123,7 @@ data:
             fullname: Pablo Donato
             home: https://pablogician.refl.fr
             affiliation: Charles University
-          youtube: 
+          youtube: https://youtu.be/Vwq5X68Rhic?si=xDK9hBsqP3RVO1jR
           slides: 
       - time: "16:50"
         msg: Questions Time
@@ -150,7 +150,7 @@ data:
             fullname: Urs Schreiber
             home: https://ncatlab.org/nlab/show/Urs+Schreiber
             affiliation: New York University Abu Dhabi
-          youtube: 
+          youtube: https://youtu.be/s7H3jgpnGwM?si=A0u6oMsdEB9VFaJH
           slides: 
       - time: "15:30"
         msg: Questions Time
@@ -167,7 +167,7 @@ data:
             fullname: Vova Sosnilo 
             home: https://vova-sosnilo.com
             affiliation: RIKEN Center for Interdisciplinary Theoretical and Mathematical Sciences
-          youtube: 
+          youtube: https://youtu.be/yhtL-iE27xM?si=VliU-Mo01e3e3jkb
           slides: 
       - time: "16:10"
         msg: Questions Time
@@ -186,7 +186,7 @@ data:
             fullname: Francesca Pratali 
             home: https://sites.google.com/view/francescapratali/home-page
             affiliation: Utrecht University
-          youtube: 
+          youtube: https://youtu.be/v5CfUkiA_M8?si=L-3T_W4H_gSak6Tr
           slides: 
       - time: "16:50"
         msg: Questions Time
@@ -206,7 +206,7 @@ data:
             fullname: Benjamin Merlin Bumpus 
             home: https://bmbumpus.com/about-me/
             affiliation: University of São Paulo
-          youtube: 
+          youtube: https://youtu.be/5FIeB1cNW0w?si=ze_uYvxRUrgQ51Qs
           slides: 
       - time: "15:30"
         msg: Questions Time
@@ -220,7 +220,7 @@ data:
             fullname: Ruben Van Belle 
             home: https://ruben-van-belle.github.io
             affiliation: University of Oxford
-          youtube: 
+          youtube: https://youtu.be/PFevXJed62k?si=y6-6Cw_FqUAPG5Jk
           slides: 
       - time: "16:10"
         msg: Questions Time
@@ -238,7 +238,7 @@ data:
             fullname: Victor Iwaniack
             home: 
             affiliation: "Université Côte d'Azur"
-          youtube: 
+          youtube: https://youtu.be/IVawktbo5J8?si=Q52XGOKZ8vcud7b8
           slides: 
       - time: "16:50"
         msg: Questions Time
@@ -258,7 +258,7 @@ data:
             fullname: Soichiro Fujii
             home: https://sites.google.com/view/soichirofujii/
             affiliation: National Institute of Informatics, Japan
-          youtube:
+          youtube: https://youtu.be/t41lcVT2SRM?si=yj-LHXkk3KcJoARf
           slides:
       - time: "15:30"
         msg: Questions Time
@@ -273,7 +273,7 @@ data:
             fullname: Nathanael Arkor
             home: https://arkor.co/
             affiliation: Tallinn University of Technology
-          youtube:
+          youtube: https://youtu.be/FoVuv9zISp8?si=GGHjxhJIn_1UPOc2
           slides:
       - time: "16:10"
         msg: Questions Time
@@ -288,7 +288,7 @@ data:
             fullname: Rory Lucyshyn-Wright
             home: https://lucyshyn-wright.ca/
             affiliation: Brandon University
-          youtube:
+          youtube: https://youtu.be/o4-3bVcy3fk?si=s4HUSWGb1zBBTUJe
           slides:
       - time: "16:50"
         msg: Questions Time
@@ -317,8 +317,8 @@ data:
             name: Paul Taylor 
             fullname: Paul Taylor 
             home: https://www.paultaylor.eu
-            affiliation: University of Birmingham (honorary)
-          youtube: 
+            affiliation: University of Birmingham (hon.)
+          youtube: https://youtu.be/iCDIewjhhHY?si=_TzwjKSbCUF0Pu7q
           slides: 
       - time: "15:30"
         msg: Questions Time
@@ -333,7 +333,7 @@ data:
             fullname: Umberto Tarantino 
             home: utarantino.github.io
             affiliation: IRIF, Université Paris Cité
-          youtube: 
+          youtube: https://youtu.be/Cflcf0VpsCE?si=gdtNqBHjPYZ4Qxdy
           slides: 
       - time: "16:10"
         msg: Questions Time
@@ -352,7 +352,7 @@ data:
             fullname: Ettore Aldrovandi
             home: https://www.math.fsu.edu/~ealdrov/
             affiliation: Florida State University
-          youtube: 
+          youtube: https://youtu.be/plxF1buxA9g?si=HpRVR76GI8xef33I
           slides: 
       - time: "16:50"
         msg: Questions Time
