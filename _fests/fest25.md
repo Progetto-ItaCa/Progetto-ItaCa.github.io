@@ -82,8 +82,8 @@ data:
           speaker:
             name: P. Lumsdaine 
             fullname: Peter Lumsdaine
-            home: 
-            affiliation: 
+            home: http://peterlefanulumsdaine.com
+            affiliation: Stockholm University
           youtube: 
           slides: 
       - time: "15:30"
@@ -107,8 +107,8 @@ data:
           speaker:
             name: S. Ranchod
             fullname: Sanjiv Ranchod
-            home: 
-            affiliation: 
+            home: https://sanjivranchod.com
+            affiliation: University of Cambridge
           youtube: 
           slides: 
       - time: "16:10"
@@ -121,8 +121,8 @@ data:
           speaker:
             name: P. Donato
             fullname: Pablo Donato
-            home: 
-            affiliation: 
+            home: https://pablogician.refl.fr
+            affiliation: Charles University
           youtube: 
           slides: 
       - time: "16:50"
@@ -148,8 +148,8 @@ data:
           speaker:
             name: U. Schreiber
             fullname: Urs Schreiber
-            home: 
-            affiliation: 
+            home: https://ncatlab.org/nlab/show/Urs+Schreiber
+            affiliation: New York University Abu Dhabi
           youtube: 
           slides: 
       - time: "15:30"
@@ -165,8 +165,8 @@ data:
           speaker:
             name: V. Sosnilo
             fullname: Vova Sosnilo 
-            home: 
-            affiliation: 
+            home: https://vova-sosnilo.com
+            affiliation: RIKEN Center for Interdisciplinary Theoretical and Mathematical Sciences
           youtube: 
           slides: 
       - time: "16:10"
@@ -184,8 +184,8 @@ data:
           speaker:
             name: F. Pratali 
             fullname: Francesca Pratali 
-            home: 
-            affiliation: 
+            home: https://sites.google.com/view/francescapratali/home-page
+            affiliation: Utrecht University
           youtube: 
           slides: 
       - time: "16:50"
@@ -204,8 +204,8 @@ data:
           speaker:
             name: B. M. Bumpus
             fullname: Benjamin Merlin Bumpus 
-            home: 
-            affiliation: 
+            home: https://bmbumpus.com/about-me/
+            affiliation: University of São Paulo
           youtube: 
           slides: 
       - time: "15:30"
@@ -218,8 +218,8 @@ data:
           speaker:
             name: R. Van Belle
             fullname: Ruben Van Belle 
-            home: 
-            affiliation: 
+            home: https://ruben-van-belle.github.io
+            affiliation: University of Oxford
           youtube: 
           slides: 
       - time: "16:10"
@@ -316,7 +316,7 @@ data:
           speaker:
             name: Paul Taylor 
             fullname: Paul Taylor 
-            home:
+            home: https://www.paultaylor.eu
             affiliation: University of Birmingham (honorary)
           youtube: 
           slides: 
@@ -331,8 +331,8 @@ data:
           speaker: 
             name: U. Tarantino 
             fullname: Umberto Tarantino 
-            home:
-            affiliation: IRIF
+            home: utarantino.github.io
+            affiliation: IRIF, Université Paris Cité
           youtube: 
           slides: 
       - time: "16:10"
@@ -350,7 +350,7 @@ data:
           speaker: 
             name: E. Aldrovandi
             fullname: Ettore Aldrovandi
-            home:
+            home: https://www.math.fsu.edu/~ealdrov/
             affiliation: Florida State University
           youtube: 
           slides: 
