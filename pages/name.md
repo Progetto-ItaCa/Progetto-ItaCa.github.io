@@ -8,12 +8,12 @@ Feel free to join us!
 
 <div id="pc"></div>
 
-- <a href="http://math.unipa.it/metere" target="_blank">Giuseppe (Beppe) Metere</a> (Head of the Promoting Committee)
+- <a href="http://math.unipa.it/metere" target="_blank">Giuseppe (Beppe) Metere</a> (chair)
 - <a href="https://jacopoemmenegger.wordpress.com" target="_blank">Jacopo Emmenegger</a>
 - <a href="https://globbia.github.io/" target="_blank">Gabriele Lobbia</a> 
 - <a href="http://tetrapharmakon.github.io" target="_blank">Fosco Loregian</a>
 
-## Scientific Committee
+## ItaCa Fest Scientific Committee
 
 <div id="sc"></div>
 
@@ -47,13 +47,14 @@ In particular, feel free to join our [Mailing List](mailto:progettoitaca+subscri
 ### Past roles 
 
 <div id="past-roles"></div>
-
-- Greta Coraglia (scientific committee 2021 - 2025)
-- Ivan Di Liberti (promoting committee 2019 - 2026)
-- Edoardo Lanari (promoting committee 2019 - 2022)
+- Edoardo Lanari (promoting committee 2020 - 2022)
+- Ivan Di Liberti (promoting committee 2020 - 2026)
+- Greta Coraglia (scientific committee 2021 - 2024)
+- Giuseppe Metere (scientific committee 2019 - 2026)
 - Fosco Loregian (webmaster 2019 - 2026)
-- Giuseppe Metere (chair of scientific committee 2019 - 2026)
 - Daniele Palombi (webmaster 2019 - 2022)
+
+
 
 
 
