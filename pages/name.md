@@ -4,7 +4,7 @@ title: People
 The community of ItaCa is growing: these are the people that helped so far. 
 Feel free to join us!
 
-## ItaCa Promoting Committee
+## Promoting Committee
 
 <div id="pc"></div>
 
@@ -13,7 +13,9 @@ Feel free to join us!
 - <a href="https://globbia.github.io/" target="_blank">Gabriele Lobbia</a> 
 - <a href="http://tetrapharmakon.github.io" target="_blank">Fosco Loregian</a>
 
-## ItaCa Fest Scientific Committee
+Past members: Edoardo Lanari (2020 - 2022), Ivan Di Liberti (2020 - 2026).
+
+## Fest Scientific Committee
 
 <div id="sc"></div>
 
@@ -24,12 +26,16 @@ Feel free to join us!
 - <a href="https://sites.google.com/view/mrovelli" target="_blank">Martina Rovelli</a> 
 - <a href="https://perso.uclouvain.be/enrico.vitale/" target="_blank">Enrico Vitale</a> 
 
+Past members: Greta Coraglia (2021 - 2024), Giuseppe Metere (2019 - 2026).
+
 ## Curators of the present website
 
 <div id="web"></div>
 
 - <a href="https://fdgn.github.io" target="_blank">Francesco Dagnino</a>
 - <a href="https://utarantino.github.io/" target="_blank">Umberto Tarantino</a> 
+
+Past curators: Fosco Loregian (2019 - 2026), Daniele Palombi (2019 - 2022).
 
 ## ItaCa social media managers
 
@@ -44,15 +50,8 @@ Feel free to join us or reach out with an email at [webmasters.itaca@gmail.com](
 In particular, feel free to join our [Mailing List](mailto:progettoitaca+subscribe@googlegroups.com) sending a subscription email (it can have arbitrary subject and body), and our [Facebook group](https://www.facebook.com/groups/507590330041282/). Follow us on [Twitter](https://twitter.com/progetto_itaca), before Elon kills it for good.
 
 
-### Past roles 
 
-<div id="past-roles"></div>
-- Edoardo Lanari (promoting committee 2020 - 2022)
-- Ivan Di Liberti (promoting committee 2020 - 2026)
-- Greta Coraglia (scientific committee 2021 - 2024)
-- Giuseppe Metere (scientific committee 2019 - 2026)
-- Fosco Loregian (webmaster 2019 - 2026)
-- Daniele Palombi (webmaster 2019 - 2022)
+
 
 
 
