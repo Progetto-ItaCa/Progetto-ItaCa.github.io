@@ -4,9 +4,7 @@ title: ItaCa
 
 <img src="/assets/images/banner.jpg" style="width: 100%;" />
 
-## What is ItaCa?
-
-Our name is a *syllabic acronym*: we are **Ita**lian **Ca**tegory theorists, but we also allude to the island to which Odysseus strove so hard to return.
+**ItaCa** is a community of **Ita**lian **Ca**tegory theorists. Our name also alludes to the island to which Odysseus strove so hard to return.
 
 During the [Category Theory 2019](http://conferences.inf.ed.ac.uk/ct2019/) conference in Scotland, it became clear just how many Italians are part of the category theory community. Some of us proposed creating an official network in which we could grow together. **ItaCa** was born from this idea: a group of mathematicians scattered across the world, united by a shared love for category theory and their Italian background.
 
