@@ -1,8 +1,7 @@
 ---
 title: People
 ---
-The community of ItaCa is growing: these are the people that helped so far. 
-Feel free to join us!
+ItaCa is made of people. Feel free to join us or reach out with an email at [webmasters.itaca@gmail.com](mailto:webmasters.itaca@gmail.com). Join our [Mailing List](mailto:progettoitaca+subscribe@googlegroups.com) sending a subscription email (it can have arbitrary subject and body). Follow us on [Twitter](https://twitter.com/progetto_itaca), before Elon kills it for good.
 
 ## Promoting Committee
 
@@ -37,7 +36,7 @@ Past members: Greta Coraglia (2021 - 2024), Giuseppe Metere (2019 - 2026).
 
 Past curators: Fosco Loregian (2019 - 2026), Daniele Palombi (2019 - 2022).
 
-## ItaCa social media managers
+## Social media managers
 
 <div id="smm"></div>
 
@@ -45,9 +44,7 @@ Past curators: Fosco Loregian (2019 - 2026), Daniele Palombi (2019 - 2022).
 - <a href="http://dpl0a.github.io" target="_blank">Daniele Palombi</a>
 - <a href="https://matteocapucci.wordpress.com">Matteo Capucci</a>
 
-Feel free to join us or reach out with an email at [webmasters.itaca@gmail.com](mailto:webmasters.itaca@gmail.com).
 
-In particular, feel free to join our [Mailing List](mailto:progettoitaca+subscribe@googlegroups.com) sending a subscription email (it can have arbitrary subject and body), and our [Facebook group](https://www.facebook.com/groups/507590330041282/). Follow us on [Twitter](https://twitter.com/progetto_itaca), before Elon kills it for good.
 
 
 
