@@ -1,11 +1,6 @@
 ---
 title: ItaCa Mentors
 ---
-
-The "folk ensemble" project happily ended. For more information on what it has been, see [here](ensemble.html).
-
-It is now time to introduce
-
 # ItaCa Mentors
 
 <img src="/assets/images/telemachus-up.jpg" style="width: 100%;" />
@@ -28,6 +23,7 @@ This page contains a list of mentors and topics in category theory and nearby ar
   {%- endfor %}
 </ul>
 
+This mentorship program has replaced the previous one named "the folk ensemble". For more information on what it has been, see [here](ensemble.html).
 
 <hr>
 
