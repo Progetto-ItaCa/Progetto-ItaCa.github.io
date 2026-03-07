@@ -183,7 +183,7 @@ data:
           speaker:
             name: M. Lanfranchi
             fullname: Marcello Lanfranchi
-            home: ""
+            home: 
             affiliation: Macquarie University
           youtube: 
           slides: 
@@ -232,8 +232,8 @@ data:
             fullname: Valentina Zapata Castro
             home: https://sites.google.com/virginia.edu/valentinazapatacastro
             affiliation: University of Massachussets
-          youtube: ""
-          slides: ""
+          youtube: 
+          slides: 
       - time: "16:10"
         msg: "Questions Time"
       - time: "16:20"
