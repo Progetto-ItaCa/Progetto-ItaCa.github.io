@@ -16,8 +16,8 @@ data:
             fullname: Fernando Lucatelli Nunes
             home: https://flnlucatelli.github.io/
             affiliation: University of Birmingham
-          youtube: ""
-          slides: ""
+          youtube: 
+          slides: 
       - time: "15:30"
         msg: "Questions Time"
       - time: "15:40"
@@ -30,8 +30,8 @@ data:
             fullname: Cipriano Junior Cioffo
             home: https://www.unipi.it/ateneo/organizzazione/persone/cipriano-junior-cioffo-206108/
             affiliation: Università di Pisa
-          youtube: ""
-          slides: ""
+          youtube: 
+          slides: 
       - time: "16:10"
         msg: "Questions Time"
       - time: "16:20"
@@ -44,8 +44,8 @@ data:
             fullname: Elena Caviglia
             home: https://elenacaviglia.github.io/
             affiliation: Stellenbosch University
-          youtube: ""
-          slides: ""
+          youtube: 
+          slides: 
       - time: "16:50"
         msg: "Questions Time"
       - time: "17:00"
@@ -63,8 +63,8 @@ data:
             fullname: Nick Gurski
             home: https://mathstats.case.edu/faculty/nick-gurski/
             affiliation: Case Western Reserve University
-          youtube: ""
-          slides: ""
+          youtube: 
+          slides:
       - time: "15:30"
         msg: "Questions Time"
       - time: "15:40"
@@ -77,8 +77,8 @@ data:
             fullname: Bryce Clarke
             home: https://bryceclarke.github.io/
             affiliation: Tallinn University of Technology
-          youtube: ""
-          slides: ""
+          youtube: 
+          slides: 
       - time: "16:10"
         msg: "Questions Time"
       - time: "16:20"
@@ -91,8 +91,8 @@ data:
             fullname: ""
             home: ""
             affiliation: ""
-          youtube: ""
-          slides: ""
+          youtube: 
+          slides: 
       - time: "16:50"
         msg: "Questions Time"
       - time: "17:00"
@@ -110,8 +110,8 @@ data:
             fullname: Matteo Spadetto
             home: https://spadetto.github.io/
             affiliation: Nantes Université 
-          youtube: ""
-          slides: ""
+          youtube: 
+          slides: 
       - time: "15:30"
         msg: "Questions Time"
       - time: "15:40"
@@ -124,8 +124,8 @@ data:
             fullname: Luca Reggio
             home: https://lucareggio.github.io/
             affiliation: Università degli Studi di Milano
-          youtube: ""
-          slides: ""
+          youtube: 
+          slides: 
       - time: "16:10"
         msg: "Questions Time"
       - time: "16:20"
@@ -136,10 +136,10 @@ data:
           speaker:
             name: G. Boccali
             fullname: Guido Boccali
-            home: ""
-            affiliation: ""
-          youtube: ""
-          slides: ""
+            home: 
+            affiliation: Tallinn University of Technology
+          youtube: 
+          slides: 
       - time: "16:50"
         msg: "Questions Time"
       - time: "17:00"
@@ -157,8 +157,8 @@ data:
             fullname: Ryuya Hora
             home: https://sites.google.com/view/ryuya-hora
             affiliation: University of Tokyo
-          youtube: ""
-          slides: ""
+          youtube: 
+          slides: 
       - time: "9:30"
         msg: "Questions Time"
       - time: "9:40"
@@ -171,8 +171,8 @@ data:
             fullname: Zeinab Galal
             home: https://zgalal.github.io/
             affiliation: Kyoto University
-          youtube: ""
-          slides: ""
+          youtube: 
+          slides: 
       - time: "10:10"
         msg: "Questions Time"
       - time: "10:20"
@@ -185,8 +185,8 @@ data:
             fullname: Marcello Lanfranchi
             home: ""
             affiliation: Macquarie University
-          youtube: ""
-          slides: ""
+          youtube: 
+          slides: 
       - time: "10:50"
         msg: "Questions Time"
       - time: "11:00"
@@ -199,8 +199,8 @@ data:
             fullname: Christina Vasilakopoulou
             home: http://www.math.ntua.gr/~cvasilak/
             affiliation: National Technical University of Athens
-          youtube: ""
-          slides: ""
+          youtube: 
+          slides: 
       - time: "11:30"
         msg: "Questions Time"
       - time: "11:40"
@@ -218,8 +218,8 @@ data:
             fullname: Félix Loubaton
             home: https://felixloubaton.github.io/
             affiliation: Max Planck Institute for Mathematics (MPIM)
-          youtube: ""
-          slides: ""
+          youtube: 
+          slides: 
       - time: "15:30"
         msg: "Questions Time"
       - time: "15:40"
@@ -246,8 +246,8 @@ data:
             fullname: Peter Haine
             home: https://peterjhaine.github.io/
             affiliation: University of Southern California
-          youtube: ""
-          slides: ""
+          youtube: 
+          slides: 
       - time: "16:50"
         msg: "Questions Time"
       - time: "17:00"
@@ -265,8 +265,8 @@ data:
             fullname: Fabio Gadducci
             home: https://pages.di.unipi.it/gadducci/
             affiliation: Università di Pisa
-          youtube: ""
-          slides: ""
+          youtube: 
+          slides: 
       - time: "15:30"
         msg: "Questions Time"
       - time: "15:40"
@@ -279,8 +279,8 @@ data:
             fullname: Mario Román
             home: https://marioroman.xyz/
             affiliation: Tallinn University of Technology
-          youtube: ""
-          slides: ""
+          youtube: 
+          slides: 
       - time: "16:10"
         msg: "Questions Time"
       - time: "16:20"
@@ -293,8 +293,8 @@ data:
             fullname: Tomáš Gonda
             home: https://tomasgonda.org/
             affiliation: University of Innsbruck
-          youtube: ""
-          slides: ""
+          youtube: 
+          slides: 
       - time: "16:50"
         msg: "Questions Time"
       - time: "17:00"
