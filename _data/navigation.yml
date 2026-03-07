@@ -8,8 +8,8 @@
       url: /pages/workshop.html
 - label: Fest
   dropdown: 
-    - label: 2025
-      url: /fests/fest25.html 
+    - label: 2026
+      url: /fests/fest26.html 
     - label: Previous
       url: /pages/fest.html 
 - label: Teaching 
