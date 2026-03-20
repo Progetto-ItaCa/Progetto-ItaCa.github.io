@@ -83,14 +83,14 @@ data:
         msg: "Questions Time"
       - time: "16:20"
         talk:
-          id: ""
+          id: lindan
           title: ""
           abstract: ""
           speaker:
-            name: ""
-            fullname: ""
-            home: ""
-            affiliation: ""
+            name: B. Lindan
+            fullname: Bruno Lindan
+            home: https://bpl28.user.srcf.net/
+            affiliation: University of Manchester
           youtube: 
           slides: 
       - time: "16:50"
