@@ -9,7 +9,7 @@ data:
       - time: "15:00"
         talk:
           id: cioffo
-          title: ""
+          title: Exact Completion of Fibrations
           abstract: |
             Setoids play a fundamental role in constructive mathematics, especially in intensional type theory, where they are used to model quotient constructions. In category theory, the construction of setoid models over a given syntactic theory has been extensively studied via various notions of quotient completion, such as the exact completion [1] and several of its
             generalizations, as in [3].
@@ -37,7 +37,7 @@ data:
       - time: "15:40"
         talk:
           id: caviglia
-          title: ""
+          title: On the exactness of the 2-category of triangulated categories
           abstract: |
             Triangulated categories are categories equipped with a choice of distinguished triangles that replace exact sequences. They provide an important framework to study cohomological problems across algebraic geometry, topology and representation theory.
             In this talk we will explain how it is possible to study the 2-category <b>Triang</b> of triangulated categories, exact functors and natural transformations between them through the lenses of 2-dimensional categorical algebra.
@@ -59,7 +59,7 @@ data:
       - time: "16:20"
         talk:
           id: lucatellinunes
-          title: ""
+          title: A Generalization of the Eilenberg–Moore Factorization
           abstract: |
             The Eilenberg–Moore and co-Eilenberg-Moore constructions provide canonical factorizations associated with adjunctions, and play a central role in the theory of monads and their applications across mathematics and computer science.
 
