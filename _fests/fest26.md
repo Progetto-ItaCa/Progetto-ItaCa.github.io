@@ -71,8 +71,7 @@ data:
 
             From this point of view, every functor admits a canonical comparison with its associated category of descent arising from the factorization above. This naturally raises a question reminiscent of Beck’s monadicity theorem: under which conditions is this comparison an equivalence? A satisfactory answer would provide a genuine extension of the classical characterization of monadic functors, and suggests the existence of a broader monadicity/descent principle.
 
-            The talk is based on [1, 2]. I will focus on the ideas underlying this factorization and the
-            open problems surrounding it, with an emphasis on the case of <b>Cat</b>.
+            The talk is based on [1, 2]. I will focus on the ideas underlying this factorization and the open problems surrounding it, with an emphasis on the case of <b>Cat</b>.
 
             [1] F. Lucatelli Nunes, <em>Semantic Factorization and Descent</em>. Applied Categorical Structures, 30(6):1393–1433, 2022.
             [2] F. Lucatelli Nunes, <em>Descent data and absolute Kan extensions</em>. Theory and Applications of Categories, 37:530–561, 2021.
