@@ -8,23 +8,23 @@ data:
     slots:
       - time: "15:00"
         talk:
-          id: lucatellinunes
-          title: ""
-          abstract: ""
-          speaker:
-            name: F. Lucatelli Nunes
-            fullname: Fernando Lucatelli Nunes
-            home: https://flnlucatelli.github.io/
-            affiliation: University of Birmingham
-          youtube: 
-          slides: 
-      - time: "15:30"
-        msg: "Questions Time"
-      - time: "15:40"
-        talk:
           id: cioffo
           title: ""
-          abstract: ""
+          abstract: |
+            Setoids play a fundamental role in constructive mathematics, especially in intensional type theory, where they are used to model quotient constructions. In category theory, the construction of setoid models over a given syntactic theory has been extensively studied via various notions of quotient completion, such as the exact completion [1] and several of its
+            generalizations, as in [3].
+
+            The interpretation of dependent types in the setoid model requires a notion of dependent setoid, understood as a family of setoids. However, the categorical study of families of setoids has received comparatively little attention. In this talk, we address this gap using tools from fibred category theory.
+
+            More precisely, given a fibration, we construct its associated setoid fibration via a generalization of the notion of groupoid action. We establish its universal property, extending that of the exact completion to a suitable class of fibrations.
+
+            A key motivating example of such a free construction is given by the fibred sets of the Predicative Effective Topos, as described in [2].
+
+            This is joint work in progress with Milly Maietti, Samuele Maschio and Pietro Sabelli.
+
+            [1] A. Carboni and R. Celia Magno (1982). <em>The free exact category on a left exact one</em>. Journal of the Australian Mathematical Society, 33(3), 295–301.
+            [2] C. J. Cioffo, M. E. Maietti, and S. Maschio (2024). Fibred sets within a predicative and constructive effective topos. arXiv preprint arXiv:2411.19239.
+            [3] M. E. Maietti and G. Rosolini (2013). <em>Quotient Completion for the Foundation of Constructive Mathematics</em>. Logica Universalis, 7(3), 371–402.
           speaker:
             name: C. J. Cioffo
             fullname: Cipriano Junior Cioffo
@@ -32,18 +32,57 @@ data:
             affiliation: Università di Pisa
           youtube: 
           slides: 
+      - time: "15:30"
+        msg: "Questions Time"
+      - time: "15:40"
+        talk:
+          id: caviglia
+          title: ""
+          abstract: |
+            Triangulated categories are categories equipped with a choice of distinguished triangles that replace exact sequences. They provide an important framework to study cohomological problems across algebraic geometry, topology and representation theory.
+            In this talk we will explain how it is possible to study the 2-category <b>Triang</b> of triangulated categories, exact functors and natural transformations between them through the lenses of 2-dimensional categorical algebra.
+
+            A very important notion in the theory of triangulated categories is that of thick triangulated subcategories. These are recognized as the right subojects to consider when dealing with triangulated categories. We will show that triangulated subcategories precisely correspond with the 2-dimensional kernels in the 2-category <b>Triang</b>. And even more surprisingly, we will explain that the fundamental notion of Verdier localizations of a triangulated category precisely correspond with 2-dimensional cokernels in <b>Triang</b>. Useful characterizations of these 2-kernels and 2-cokernels will then allow us to prove
+            that they are both closed under composition and that every exact functor factorizes as a
+            2-cokernel followed by a 2-kernel.
+
+            Interestingly, we show that even more is true: the 2-category <b>Triang</b> is homological in a 2-dimensional sense.
+
+            This talk is based on a joint work in progress with Zurab Janelidze and Luca Mesiti.
+          speaker:
+            name: E. Caviglia 
+            fullname: Elena Caviglia
+            home: https://elenacaviglia.github.io/
+            affiliation: Stellenbosch University
+          youtube: 
+          slides: 
       - time: "16:10"
         msg: "Questions Time"
       - time: "16:20"
         talk:
-          id: caviglia
+          id: lucatellinunes
           title: ""
-          abstract: ""
+          abstract: |
+            The Eilenberg–Moore and co-Eilenberg-Moore constructions provide canonical factorizations associated with adjunctions, and play a central role in the theory of monads and their applications across mathematics and computer science.
+
+            In this talk, I will present a general framework in which such factorizations arise as instances of a more fundamental construction. Working in a 2-category admitting opcomma objects and pushouts, every morphism determines a canonical 2-dimensional cokernel diagram. In the presence of descent objects, this induces a descent factorization, which may be understood as a lax analogue of the classical (co)image factorization.
+            
+            This construction, which we refer to as <em>lax semantic factorization</em>, generalizes the Eilenberg–Moore and co-Eilenberg-Moore factorizations as special cases. More precisely, when a morphism admits a left adjoint, the induced factorization recovers the Eilenberg–Moore factorization; dually, the presence of a right adjoint yields the corresponding coalgebraic factorization. Thus, adjoint-based constructions appear as particular manifestations of a more general descent-theoretic phenomenon.
+
+            Beyond providing a generalization and unification of these classical constructions, this perspective reveals new structure even in familiar settings, such as the 2-category <b>Cat</b> of categories, and establishes a systematic connection between monadicity and descent theory, yielding a formal counterpart to the Bénabou–Roubaud theorem.
+
+            From this point of view, every functor admits a canonical comparison with its associated category of descent arising from the factorization above. This naturally raises a question reminiscent of Beck’s monadicity theorem: under which conditions is this comparison an equivalence? A satisfactory answer would provide a genuine extension of the classical characterization of monadic functors, and suggests the existence of a broader monadicity/descent principle.
+
+            The talk is based on [1, 2]. I will focus on the ideas underlying this factorization and the
+            open problems surrounding it, with an emphasis on the case of <b>Cat</b>.
+
+            [1] F. Lucatelli Nunes, <em>Semantic Factorization and Descent</em>. Applied Categorical Structures, 30(6):1393–1433, 2022.
+            [2] F. Lucatelli Nunes, <em>Descent data and absolute Kan extensions</em>. Theory and Applications of Categories, 37:530–561, 2021.
           speaker:
-            name: E. Caviglia
-            fullname: Elena Caviglia
-            home: https://elenacaviglia.github.io/
-            affiliation: Stellenbosch University
+            name: F. Lucatelli Nunes
+            fullname: Fernando Lucatelli Nunes
+            home: https://flnlucatelli.github.io/
+            affiliation: CMUC, University of Coimbra
           youtube: 
           slides: 
       - time: "16:50"
