@@ -30,7 +30,7 @@ data:
             fullname: Cipriano Junior Cioffo
             home: https://www.unipi.it/ateneo/organizzazione/persone/cipriano-junior-cioffo-206108/
             affiliation: Università di Pisa
-          youtube: 
+          youtube: https://youtu.be/juIe6MzQcpA?si=U0L0AwSKkiNS-AdL
           slides: 
       - time: "15:30"
         msg: "Questions Time"
@@ -52,7 +52,7 @@ data:
             fullname: Elena Caviglia
             home: https://elenacaviglia.github.io/
             affiliation: Stellenbosch University
-          youtube: 
+          youtube: https://youtu.be/EmIaFfrHUKg?si=JaFnto-USP7CuvL5
           slides: 
       - time: "16:10"
         msg: "Questions Time"
@@ -80,7 +80,7 @@ data:
             fullname: Fernando Lucatelli Nunes
             home: https://flnlucatelli.github.io/
             affiliation: CMUC, University of Coimbra
-          youtube: 
+          youtube: https://youtu.be/7pQHLh39iNs?si=A9gfptWWZmR7TTZb
           slides: 
       - time: "16:50"
         msg: "Questions Time"
