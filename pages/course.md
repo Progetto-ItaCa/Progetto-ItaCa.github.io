@@ -4,15 +4,15 @@ title: Corso
 
 <div style="text-align: right"><a href="course-eng.html">EN</a>/IT</div>
 
-La comunità di ItaCa sta organizzando un corso di teoria delle categorie rivolto agli studenti italiani; questa pagina ospiterà un diario delle lezioni, che settimana per settimana appariranno sul nostro [canale youtube](https://www.youtube.com/channel/UCKdVVjPg_dHhbIiuzLh4Llg).
+La comunità di ItaCa ha organizzato un corso di teoria delle categorie rivolto agli studenti italiani; questa pagina ospita un "diario delle lezioni", che settimana per settimana sono apparse sul nostro [canale youtube](https://www.youtube.com/channel/UCKdVVjPg_dHhbIiuzLh4Llg).
 
-Il nostro pubblico ideale è quello degli studenti che, iniziata una laurea magistrale, stanno orientandosi verso la loro specializzazione, e sia essa in algebra, geometria, logica o analisi, hanno sentito parlare di proprietà universali, limiti e colimiti, e vorrebbero saperne di più.
+Il pubblico ideale è quello di chi, iniziata una laurea magistrale, sta orientandosi verso la propria specializzazione; sia essa in algebra, geometria, logica o analisi, se ha sentito parlare di proprietà universali, limiti e colimiti, e ora vorrebbe saperne di più, questo è il posto dove cercare!
 
-Con poche eccezioni, agli atenei italiani manca un corso il cui argomento principale sia la teoria delle categorie; solitamente si apprende il [linguaggio funtoriale](https://ncatlab.org/nlab/files/GrothendieckIntroductionLangageFonctoriel1965.pdf) perché esso è necessario a introdurre delle costruzioni in geometria algebrica, algebra omologica, teoria degli anelli (raramente, in analisi).
+Con poche eccezioni, agli atenei italiani manca un corso il cui argomento principale sia la teoria delle categorie; solitamente si apprende il [linguaggio funtoriale](https://ncatlab.org/nlab/files/GrothendieckIntroductionLangageFonctoriel1965.pdf) perché esso è necessario a introdurre delle costruzioni in geometria algebrica, algebra omologica, teoria degli anelli (raramente, in analisi). Sebbene valida, questa visione ancillare della materia è molto parziale, e impedisce di fare ciò per cui la teoria delle categorie è stata inventata.
 
-Manca, invece, un corso che "riordini" le nozioni matematiche del discente unificandole sotto i pochi e fondamentali concetti della matematica strutturale.
+Appurato perciò che manca un corso che "riordini" le nozioni matematiche unificandole sotto i pochi e fondamentali concetti della matematica strutturale, abbiamo deciso di tentare di risolvere il problema.
 
-La nostra formazione è abbastanza varia; ci siamo riuniti col desiderio di dare a questo corso la forma più interdisciplinare possibile. Il corso verrà insegnato in italiano, per avvicinare il maggior numero di studenti possibile, ma anche per stabilire un precedente, e costruire una nomenclatura per _fare teoria delle categorie in italiano_.
+La nostra formazione è abbastanza varia: ci siamo riuniti col desiderio di dare a questo corso la forma più interdisciplinare possibile. Il corso verrà insegnato in italiano, per avvicinare proprio gli studenti e le studentesse italiani/e, ma anche per stabilire un precedente, e costruire una nomenclatura adatta a _fare teoria delle categorie in italiano_.
 
 ## Struttura del corso
 
@@ -34,17 +34,9 @@ Questo un programma di massima del corso:
 
 Il corso si è concluso a giugno 2022 con grande successo. Grazie a tutti, studenti e docenti, di avere partecipato!
 
-
-<!-- 1. 7/10/2021  teaser; presentazione dei docenti, alcune idee sul contenuto del corso. [video](https://youtu.be/DIXypXx8-DE) -->
-<!-- 2. 14/10/2021 _Paolo Perrone_. Concetti fondamentali: Definizione di categoria. [video](https://youtu.be/2kSgmgo1GO8) -->
-<!-- 3. 21/10/2021 _Paolo Perrone_. Concetti fondamentali: Funtori. [video](https://youtu.be/M6iAJO0T-vs) -->
-<!-- 4. 28/10/2021 _Paolo Perrone_. Concetti fondamentali: Trasformazioni naturali. [video](https://youtu.be/pgRWfh25x7M) -->
-<!-- 5. 4/11/2021  _Enrico Ghiorzi_. Epi e mono: Definizioni base, sezioni e retrazioni. [video](https://youtu.be/YDr_SMoTuCY) -->
-<!-- 6. 11/11/2021 _Enrico Ghiorzi_. Epi e mono: Esempi ed esercizi. [video](https://youtu.be/KmrSR3ecCPE) -->
-<!-- 7. 18/11/2021 _Enrico Ghiorzi_. Equivalenze; funtori pieni e fedeli; caratterizzazione delle equivalenze; categorie scheletriche. [video](https://youtu.be/VYHqaSKqnh4) -->
-<!-- 8. 25/11/2021 _Jacopo Emmenegger_. Prodotti finiti e oggetto terminale, esempi; coprodotti finiti e oggetto iniziale, esempi. [video](https://youtu.be/KQBvmxgV65Y) -->
-
 ---
+
+Grazie a
 
 - Greta Coraglia
 - Jacopo Emmenegger
@@ -55,4 +47,4 @@ Il corso si è concluso a giugno 2022 con grande successo. Grazie a tutti, stude
 - Daniele Palombi
 - Paolo Perrone
 
-e l'intera comunità di ItaCa
+e l'intera comunità di ItaCa che ha reso questo possibile!
