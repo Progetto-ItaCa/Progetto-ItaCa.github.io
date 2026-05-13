@@ -92,8 +92,9 @@ data:
       - time: "15:00"
         talk:
           id: gurski
-          title: ""
-          abstract: ""
+          title: Presentations for action operads
+          abstract: | 
+            The definition of a symmetric operad relies on the fact that the symmetric groups are not just a sequence of similarly-defined groups, but in fact also have an operad structure that is suitably compatible with the group structures. We call this structure an action operad, and they have appeared in various applications of operads going back to work of Fiedorowicz (on braided operads) and Wahl (on ribbon braids). A natural question to ask would be: how do the standard presentations of the symmetric groups, at each n, interact with the operad structure? In order to answer this question, I will explain some of the general algebraic theory of action operads, leading up to a notion of a presentation for an action operad. I will then describe how every action operad can be viewed as a club in the sense of Kelly, leading to the conceptually pleasing statement that one presentation for the symmetric groups (as an action operad) is given by the same generators and relations as the definition for a strict symmetric monoidal category. This is joint work with Alex Corner.
           speaker:
             name: N. Gurski
             fullname: Nick Gurski
@@ -106,7 +107,7 @@ data:
       - time: "15:40"
         talk:
           id: clarke
-          title: ""
+          title: The free tabulator completion of a double category
           abstract: ""
           speaker:
             name: B. Clarke
@@ -120,8 +121,10 @@ data:
       - time: "16:20"
         talk:
           id: lindan
-          title: ""
-          abstract: ""
+          title: Limits via enrichment
+          abstract: |
+          Bruno Lindan:
+            We investigate the use of enrichment in bicategories to capture algebraic structure on categories (in particular, limits).  The main conceptual difference between enrichment in a monoidal category V and in a bicategory W is that each object in a W-category lies over an object in the base W (such data trivialising when V is viewed as a one-object bicategory BV); this makes the theory considerably more flexible.  We consider in detail an example of a bicategory W such that Cauchy complete W-categories are precisely categories with finite products, using W-enriched tensors to encode the operations of taking (weighted) products. The base of enrichment in this case is not biclosed – this means W-modules may fail to compose, forcing the consideration of the virtual equipment of W-modules and introducing various subtleties.  We discuss a generalisation of this point of view with motivations from categorical logic, based on work in progress.
           speaker:
             name: B. Lindan
             fullname: Bruno Lindan
