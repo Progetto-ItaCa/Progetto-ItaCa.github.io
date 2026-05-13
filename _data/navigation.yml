@@ -18,6 +18,8 @@
       url: /pages/course.html 
     - label: Mentors
       url: /pages/mentors.html 
+    - label: Book
+      url: /pages/book.html 
 - label: People
   dropdown: 
     - label: Names
