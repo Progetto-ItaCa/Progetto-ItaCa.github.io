@@ -108,7 +108,9 @@ data:
         talk:
           id: clarke
           title: The free tabulator completion of a double category
-          abstract: ""
+          abstract: | 
+            Double categories are a 2-dimensional structure generalising 2-categories and bicategories. A tabulator is the limit of a loose morphism in a double category, and together with products and equalisers may be used to construct any limit indexed by a double category (Grandis-Paré, 1999). In this talk, I will construct the free tabulator completion of a double category. Its underlying category of objects and tight morphisms, called the loose subdivision of a double category, is characterised as a certain colax colimit involving the nerve of a double category. Applications include characterising the Span construction as a cofree double category with tabulators on certain data, and a new abstract proof of the aforementioned result of Grandis and Paré. 
+            This talk is based on part of an ongoing project with Nathanael Arkor on limits in double categories.
           speaker:
             name: B. Clarke
             fullname: Bryce Clarke
