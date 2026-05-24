@@ -100,7 +100,7 @@ data:
             fullname: Nick Gurski
             home: https://mathstats.case.edu/faculty/nick-gurski/
             affiliation: Case Western Reserve University
-          youtube: 
+          youtube: https://youtu.be/iffWHac0zgU?si=eVPN-6V4CgzEop8y
           slides:
       - time: "15:30"
         msg: "Questions Time"
@@ -114,7 +114,7 @@ data:
             fullname: Bryce Clarke
             home: https://bryceclarke.github.io/
             affiliation: Tallinn University of Technology
-          youtube: 
+          youtube: https://youtu.be/WvWofoBN8hs?si=AU2ufWQr7fggVrkB
           slides: 
       - time: "16:10"
         msg: "Questions Time"
@@ -129,7 +129,7 @@ data:
             fullname: Bruno Lindan
             home: https://bpl28.user.srcf.net/
             affiliation: University of Manchester
-          youtube: 
+          youtube: https://youtu.be/LOhml2FEcI8?si=YjRhuIgZwe_Vj72r
           slides: 
       - time: "16:50"
         msg: "Questions Time"
