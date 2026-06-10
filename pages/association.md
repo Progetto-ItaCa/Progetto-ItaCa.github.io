@@ -44,8 +44,6 @@ To ensure that the fundraising for ItaCa's constitutional expenses is transparen
 
 To donate, simply follow the link and choose your amount.
 
-<iframe scrolling="no" width="160" height="250" frameborder="0" allowtransparency="true" src="https://buonacausa.org/widget/show/15088"></iframe>
-	
 
 
 
