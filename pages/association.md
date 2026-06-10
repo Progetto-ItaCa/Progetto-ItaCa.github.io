@@ -42,7 +42,7 @@ All donations received during this phase will be used exclusively for the consti
 
 To ensure that the fundraising for ItaCa's constitutional expenses is transparent and traceable, we have decided to use a dedicated crowdfunding platform.
 
-To donate, simply follow the link and choose your amount.
+To donate, simply [follow the link](https://buonacausa.org/cause/itaca)  and choose your amount.
 
 
 
