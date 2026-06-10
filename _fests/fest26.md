@@ -178,7 +178,8 @@ data:
         talk:
           id: boccali
           title: Normalization for (co-)lax-idempotent 2-sketches
-          abstract: We introduce (co)lax-idemptent 2-sketches, a two-dimensional notion of sketch designed to specify not only that certain objects are to be interpreted as (bi)limits, but also that certain morphisms are to be interpreted as adjoints. This additional expressive power allows one to require, within the sketch itself, that a given object be interpreted as a category equipped with limits or colimits of a prescribed shape. We exhibit a triadjunction that, under Gabriel–Ulmer duality, simultaneously accounts for two fundamental phenomena:a two-dimensional analogue of the classical equivalence between presentability and sketchability, and the existence of a canonical normalization for every sketch.
+          abstract: | 
+            We introduce (co)lax-idempotent 2-sketches, a two-dimensional notion of sketch designed to specify not only that certain objects are to be interpreted as (bi)limits, but also that certain morphisms are to be interpreted as adjoints. This additional expressive power allows one to require, within the sketch itself, that a given object be interpreted as a category equipped with limits or colimits of a prescribed shape. We exhibit a triadjunction that, under Gabriel–Ulmer duality, simultaneously accounts for two fundamental phenomena: a two-dimensional analogue of the classical equivalence between presentability and sketchability, and the existence of a canonical normalization for every sketch.
           speaker:
             name: G. Boccali
             fullname: Guido Boccali
