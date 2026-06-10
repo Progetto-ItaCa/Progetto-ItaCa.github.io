@@ -143,8 +143,13 @@ data:
       - time: "15:00"
         talk:
           id: spadetto
-          title: ""
-          abstract: ""
+          title: A conservativity proof strategy via 2-category theory
+          abstract: |
+            The general theme of this talk is the relationship between the homotopical and higher-categorical approaches to the model theory of dependent type theory.
+            
+            We begin by discussing the homotopy-theoretic semantics of axiomatic type theory, based on path categories. Axiomatic type theory can be viewed as dependent type theory in which computation rules are replaced by internal equalities. Building on the homotopical perspective on semantics, we sketch its categorical counterpart in the 1-truncated setting.
+            
+            In the main part of the talk, we present an application of these ideas to the conservativity problem: to what extent ordinary dependent type theory is stronger than its axiomatic version. This illustrates a familiar phenomenon within the relationship between category theory and mathematical logic: that sometimes a categorical description can simplify arguments that are syntactically complicated. In this case, the categorical characterisation of (the models of) axiomatic type theory allows us to bypass its syntactic intricacies and allows us to visualise the construction needed to transform a model of axiomatic type theory into a model of intensional type theory, in the case where both theories are assumed to be 1-truncated. This produces a strategy to prove conservativity of the latter over the former.
           speaker:
             name: M. Spadetto
             fullname: Matteo Spadetto
@@ -156,14 +161,15 @@ data:
         msg: "Questions Time"
       - time: "15:40"
         talk:
-          id: reggio
-          title: ""
-          abstract: ""
+          id: ye
+          title: The pro-étale site for first-order logic
+          abstract: |
+            This talk will be about what is and why we care about the pro-étale site for first-order logic. The name comes from algebraic geometry, but for logical theories, this is (almost) nothing but the pro-completion of the associated syntactic categories. Concretely, I will show for any lextensive category, a lex functor can be decomposed as a lextensive model over a profinite space, followed by the global section. This generalises a result by Lurie, and implies the pro-étale site is naturally fibred over profinite spaces. Then following a recent work by Remy van Dobben de Bruyn, I will show how this fibration naturally gives us an exodromy theorem which characterises the pro-étale sheaves on lextensive categories, and how the pyknotic/condensed structures naturally appear from this perspective.
           speaker:
-            name: L. Reggio
-            fullname: Luca Reggio
-            home: https://lucareggio.github.io/
-            affiliation: Università degli Studi di Milano
+            name: L. Ye 
+            fullname: Lingyuan Ye
+            home: https://yelingyuan.fr/
+            affiliation: University of Cambridge
           youtube: 
           slides: 
       - time: "16:10"
@@ -171,8 +177,8 @@ data:
       - time: "16:20"
         talk:
           id: boccali
-          title: ""
-          abstract: ""
+          title: Normalization for (co-)lax-idempotent 2-sketches
+          abstract: We introduce (co)lax-idemptent 2-sketches, a two-dimensional notion of sketch designed to specify not only that certain objects are to be interpreted as (bi)limits, but also that certain morphisms are to be interpreted as adjoints. This additional expressive power allows one to require, within the sketch itself, that a given object be interpreted as a category equipped with limits or colimits of a prescribed shape. We exhibit a triadjunction that, under Gabriel–Ulmer duality, simultaneously accounts for two fundamental phenomena: a two-dimensional analogue of the classical equivalence between presentability and sketchability, and the existence of a canonical normalization for every sketch.
           speaker:
             name: G. Boccali
             fullname: Guido Boccali
