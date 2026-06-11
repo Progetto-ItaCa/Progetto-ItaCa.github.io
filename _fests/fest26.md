@@ -166,7 +166,7 @@ data:
           abstract: |
             This talk will be about what is and why we care about the pro-étale site for first-order logic. The name comes from algebraic geometry, but for logical theories, this is (almost) nothing but the pro-completion of the associated syntactic categories. Concretely, I will show for any lextensive category, a lex functor can be decomposed as a lextensive model over a profinite space, followed by the global section. This generalises a result by Lurie, and implies the pro-étale site is naturally fibred over profinite spaces. Then following a recent work by Remy van Dobben de Bruyn, I will show how this fibration naturally gives us an exodromy theorem which characterises the pro-étale sheaves on lextensive categories, and how the pyknotic/condensed structures naturally appear from this perspective.
           speaker:
-            name: L. Ye 
+            name: L. Ye
             fullname: Lingyuan Ye
             home: https://yelingyuan.fr/
             affiliation: University of Cambridge
@@ -178,7 +178,8 @@ data:
         talk:
           id: boccali
           title: Normalization for (co-)lax-idempotent 2-sketches
-          abstract: We introduce (co)lax-idemptent 2-sketches, a two-dimensional notion of sketch designed to specify not only that certain objects are to be interpreted as (bi)limits, but also that certain morphisms are to be interpreted as adjoints. This additional expressive power allows one to require, within the sketch itself, that a given object be interpreted as a category equipped with limits or colimits of a prescribed shape. We exhibit a triadjunction that, under Gabriel–Ulmer duality, simultaneously accounts for two fundamental phenomena: a two-dimensional analogue of the classical equivalence between presentability and sketchability, and the existence of a canonical normalization for every sketch.
+          abstract: | 
+            We introduce (co)lax-idempotent 2-sketches, a two-dimensional notion of sketch designed to specify not only that certain objects are to be interpreted as (bi)limits, but also that certain morphisms are to be interpreted as adjoints. This additional expressive power allows one to require, within the sketch itself, that a given object be interpreted as a category equipped with limits or colimits of a prescribed shape. We exhibit a triadjunction that, under Gabriel–Ulmer duality, simultaneously accounts for two fundamental phenomena: a two-dimensional analogue of the classical equivalence between presentability and sketchability, and the existence of a canonical normalization for every sketch.
           speaker:
             name: G. Boccali
             fullname: Guido Boccali
