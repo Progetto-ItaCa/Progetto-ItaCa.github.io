@@ -12,6 +12,10 @@ Over the past few years, **ItaCa** has grown beyond our expectations. We have or
 
 You are very welcome to **join us** and help the community grow. Subscribe to our [mailing list](mailto:progettoitaca+subscribe@googlegroups.com) by sending a subscription email (the subject and body can be left blank).
 
+<br> 
+
+**New**: We are in the process of legally establishing ItaCa as a scientific association. [See here for more details](/pages/association.html). 
+
 <img src="/assets/images/elep-low.jpg" style="width: 100%;" align="right" />
 
 <p style="text-align:right; font-size:small;">
