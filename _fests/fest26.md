@@ -155,7 +155,7 @@ data:
             fullname: Matteo Spadetto
             home: https://spadetto.github.io/
             affiliation: Nantes Université 
-          youtube: 
+          youtube: https://youtu.be/OgNVReETUVg?is=1QjOyi09R0vH3kPD
           slides: 
       - time: "15:30"
         msg: "Questions Time"
@@ -170,7 +170,7 @@ data:
             fullname: Lingyuan Ye
             home: https://yelingyuan.fr/
             affiliation: University of Cambridge
-          youtube: 
+          youtube: https://youtu.be/8c3N9ZXVjSc?is=GgfTiMPBf_TnL54T
           slides: 
       - time: "16:10"
         msg: "Questions Time"
@@ -185,7 +185,7 @@ data:
             fullname: Guido Boccali
             home: 
             affiliation: Tallinn University of Technology
-          youtube: 
+          youtube: https://youtu.be/gAgXaTPKszc?is=2OW9iUryqvKpQBYl
           slides: 
       - time: "16:50"
         msg: "Questions Time"
