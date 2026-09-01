@@ -196,14 +196,14 @@ data:
     slots:
       - time: "9:00"
         talk:
-          id: hora
+          id: lanfranchi 
           title: ""
           abstract: ""
           speaker:
-            name: R. Hora
-            fullname: Ryuya Hora
-            home: https://sites.google.com/view/ryuya-hora
-            affiliation: University of Tokyo
+            name: M. Lanfranchi 
+            fullname: Marcello Lanfranchi 
+            home: 
+            affiliation: Macquarie University 
           youtube: 
           slides: 
       - time: "9:30"
@@ -224,20 +224,6 @@ data:
         msg: "Questions Time"
       - time: "10:20"
         talk:
-          id: lanfranchi
-          title: ""
-          abstract: ""
-          speaker:
-            name: M. Lanfranchi
-            fullname: Marcello Lanfranchi
-            home: 
-            affiliation: Macquarie University
-          youtube: 
-          slides: 
-      - time: "10:50"
-        msg: "Questions Time"
-      - time: "11:00"
-        talk:
           id: vasilakopoulou
           title: ""
           abstract: ""
@@ -246,6 +232,20 @@ data:
             fullname: Christina Vasilakopoulou
             home: http://www.math.ntua.gr/~cvasilak/
             affiliation: National Technical University of Athens
+          youtube: 
+          slides: 
+      - time: "10:50"
+        msg: "Questions Time"
+      - time: "11:00"
+        talk:
+          id: hora
+          title: ""
+          abstract: ""
+          speaker:
+            name: R. Hora
+            fullname: Ryuya Hora
+            home: https://ryuyahora.jp/index.html
+            affiliation: ZEN University
           youtube: 
           slides: 
       - time: "11:30"
