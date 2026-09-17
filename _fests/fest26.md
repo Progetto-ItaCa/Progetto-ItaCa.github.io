@@ -197,12 +197,17 @@ data:
       - time: "9:00"
         talk:
           id: lanfranchi 
-          title: ""
-          abstract: ""
+          title: "The Lie Group-Lie algebra correspondence in tangent categories"
+          abstract: |
+            Classic Lie theory establishes a correspondence between Lie groups, which are internal group objects in the category of smooth manifolds, and Lie algebras. An analogous correspondence also exists for group objects in affine schemes. Both smooth manifolds and affine schemes form tangent categories, which provide a categorical context for differential geometry.
+
+            In this talk, we show how the Lie correspondence can be constructed entirely from the tangent structure. We define Lie groups in a tangent category and construct the internal Lie algebra as the representing object of a certain functor. Lastly, we show that our construction generalizes the usual Lie correspondence in both differential and algebraic geometry.
+            
+            Paper: https://arxiv.org/abs/2609.03449
           speaker:
             name: M. Lanfranchi 
             fullname: Marcello Lanfranchi 
-            home: 
+            home: https://marcellolanfranchi.com/
             affiliation: Macquarie University 
           youtube: 
           slides: 
@@ -211,8 +216,11 @@ data:
       - time: "9:40"
         talk:
           id: galal
-          title: ""
-          abstract: ""
+          title: "Parametrized lax extensions" 
+          abstract: |
+            Lax extensions (also called relators or relation liftings) are a categorical notion to reason on functors acting on functions and relations in a compatible way. They can be characterized as lax double functors on the double category of relations, or more generally enriched profunctors. In computer science, they play an important role in developing sound proof principles for behavioral equivalence of coalgebraic state-based systems, as well as establishing contextual equivalence for effectful programs. In this talk, I will present the theory of lax extensions for parameterized functors and monads and consider notions of behavioral relations, or metrics which can now be modulated by the additional parameters. The guiding examples for the notion of parametrized lax extension are monads derived from double parametrized adjunctions, such as the state monad. 
+            
+            This talk is based on joint work with Ugo Dal Lago.
           speaker:
             name: Z. Galal
             fullname: Zeinab Galal
@@ -225,8 +233,8 @@ data:
       - time: "10:20"
         talk:
           id: vasilakopoulou
-          title: ""
-          abstract: ""
+          title: "Monoidal structures on the bimodule construction for double categories"
+          abstract: "Given two algebraic theories S and T, their `commuting tensor product’ S ⊗ T is a new algebraic theory in which the operations of S and T are required to commute with each other. The analogue of this operation for symmetric operads is the famous Boardman-Vogt tensor product. In this work, we extend this analysis in two aspects. First, we generalise to the many-object case, recovering the Boardman-Vogt tensor product of symmetric multicategories (or colored operads). Secondly, we explore how the commuting tensor product acts on bimodules, both between symmetric operads and also multicategories. This work is carried out in the general context of a double category equipped with an oplax monoidal structure, considering monads and bimodules therein."
           speaker:
             name: C. Vasilakopoulou
             fullname: Christina Vasilakopoulou
