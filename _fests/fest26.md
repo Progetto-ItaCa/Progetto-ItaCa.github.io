@@ -247,8 +247,11 @@ data:
       - time: "11:00"
         talk:
           id: hora
-          title: ""
-          abstract: ""
+          title: "A Rota-Baxter equation for winning games"
+          abstract: |
+            In 1901, Bouton proved a famous result on the winning strategy for Nim using binary xor ⊕︎. Once the theorem is stated, the only non-trivial part of its proof is the equation mex(S)⊕︎mex(T) = mex(mex(S)⊕︎T ∪ S⊕︎mex(T)), which is quite similar to the integral version of the Leibniz rule, known as the Rota-Baxter equation ∫f ×∫g = ∫((∫f) × g + f×∫g). 
+            
+            In my talk, I first discuss a categorical formulation of games as recursive coalgebras, based on my preprint (https://arxiv.org/abs/2510.22886). Then, I explain how the differential structure on the category of games gives rise to invariants valued in Rota-Baxter rigs, in particular, the Rota-Baxter rig consisting of finite subsets of ℕ and binary xor ⊕︎. This talk is partially based on ongoing work with Ryo Suzuki.
           speaker:
             name: R. Hora
             fullname: Ryuya Hora
