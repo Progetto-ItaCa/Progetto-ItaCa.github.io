@@ -1,9 +1,8 @@
 
 - label: Workshop
   dropdown: 
-    - label: 2025
-      url: https://progetto-itaca.github.io/ItaCa-25/
-      target: "_blank"
+    - label: 2026
+      url: https://progetto-itaca.github.io/ItaCa-26/
     - label: Previous
       url: /pages/workshop.html
 - label: Fest
