@@ -209,7 +209,7 @@ data:
             fullname: Marcello Lanfranchi 
             home: https://marcellolanfranchi.com/
             affiliation: Macquarie University 
-          youtube: 
+          youtube: https://youtu.be/fRNfeVZhwsQ?si=X3M8-Kj2hsmZe7SH
           slides: 
       - time: "9:30"
         msg: "Questions Time"
@@ -226,7 +226,7 @@ data:
             fullname: Zeinab Galal
             home: https://zgalal.github.io/
             affiliation: Kyoto University
-          youtube: 
+          youtube: https://youtu.be/0PAOgfsZisk?si=x8nfU6xqDAT5Vnht
           slides: 
       - time: "10:10"
         msg: "Questions Time"
@@ -240,7 +240,7 @@ data:
             fullname: Christina Vasilakopoulou
             home: http://www.math.ntua.gr/~cvasilak/
             affiliation: National Technical University of Athens
-          youtube: 
+          youtube: https://youtu.be/NwZwbExFr0g?si=1GqRoAE0Cec43-6U
           slides: 
       - time: "10:50"
         msg: "Questions Time"
