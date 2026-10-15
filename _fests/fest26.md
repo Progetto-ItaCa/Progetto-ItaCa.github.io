@@ -269,13 +269,18 @@ data:
       - time: "15:00"
         talk:
           id: loubaton
-          title: ""
-          abstract: ""
+          title: Effectivity in the context of \((\infty,n)\)-categories.
+          abstract: |
+            A fundamental property of the category of sets is that equivalence relations admit "well-behaved" quotients. This is also one of the defining properties of a topos. Lurie and Rezk generalized this result to the \(\infty\)-category of spaces, showing that internal Kan complexes in spaces admit "well-behaved" quotients. Once again, this is a fundamental property of the \(\infty\)-category of spaces, and one that every \(\infty\)-topos must satisfy.
+
+            In this talk, I will explain how this result can be further extended to the \((\infty,1)\)-category of \((\infty,n)\)-categories. In this setting, equivalence relations are replaced by Segal objects in \((\infty,n)\)-categories satisfying an additional condition.
+
+            If time permits, I will discuss some consequences of this result and explore how it could lead to a definition of an \((\infty,n)\)-topos.
           speaker:
             name: F. Loubaton
             fullname: Félix Loubaton
-            home: https://felixloubaton.github.io/
-            affiliation: Max Planck Institute for Mathematics (MPIM)
+            home: https://felix-loubaton.perso.math.cnrs.fr//
+            affiliation: Université Aix-Marseille
           youtube: 
           slides: 
       - time: "15:30"
@@ -283,8 +288,9 @@ data:
       - time: "15:40"
         talk:
           id: zapatacastro
-          title: ""
-          abstract: ""
+          title: One perspective to monoidal \((\infty,n)\)-categories
+          abstract: |
+            The tangle hypothesis, established by Baez and Dolan, says that, in particular, a monoidal \((n-1)\)-category corresponds to a \(n\)-category with one object. In this talk, I will present a higher categorical version of this claim using the particular perspective of \(\Theta_n\)-spaces. We will define a model structure where the fibrant objects are \((\infty,n)\)-categories with one object and establish a chain of Quillen equivalences with monoidal \((\infty,n-1)\)-categories with one object. This perspective clarifies how monoidal structures arise naturally inside the \(\Theta_n\)‑space approach to higher categories.
           speaker:
             name: V. Zapata Castro
             fullname: Valentina Zapata Castro
@@ -297,8 +303,9 @@ data:
       - time: "16:20"
         talk:
           id: haine
-          title: ""
-          abstract: ""
+          title: Condensed \(\infty\)-categories of points and condensed homotopy types of \(\infty\)-topoi
+          abstract: |
+            The \(\infty\)-category of points of an \(\infty\)-topos \(X\) naturally refines to a condensed \(\infty\)-category. We’ll explain how to construct an interesting condensed anima associated to \(X\), called the condensed homotopy type of \(X\). Applying this construction to \(\infty\)-topoi arising in algebraic geometry, arithmetic geometry, and logic, we’ll explain why its fundamental group refines the following invariants: the proétale fundamental group of Bhatt–Scholze, the de Jong fundamental group, and the Lascar group. One pleasant feature of the condensed homotopy type is that it usually has higher homotopy, so it provides a way to define higher proétale homotopy groups, de Jong homotopy groups, and Lascar groups.
           speaker:
             name: P. Haine
             fullname: Peter Haine
