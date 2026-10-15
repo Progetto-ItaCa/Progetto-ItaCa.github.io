@@ -125,7 +125,7 @@ data:
           id: lindan
           title: Limits via enrichment
           abstract: |
-            We investigate the use of enrichment in bicategories to capture algebraic structure on categories (in particular, limits).  The main conceptual difference between enrichment in a monoidal category V and in a bicategory W is that each object in a W-category lies over an object in the base W (such data trivialising when V is viewed as a one-object bicategory BV); this makes the theory considerably more flexible.  We consider in detail an example of a bicategory W such that Cauchy complete W-categories are precisely categories with finite products, using W-enriched tensors to encode the operations of taking (weighted) products. The base of enrichment in this case is not biclosed – this means W-modules may fail to compose, forcing the consideration of the virtual equipment of W-modules and introducing various subtleties.  We discuss a generalisation of this point of view with motivations from categorical logic, based on work in progress.
+            We investigate the use of enrichment in bicategories to capture algebraic structure on categories (in particular, limits).  The main conceptual difference between enrichment in a monoidal category \(V\) and in a bicategory \(W\) is that each object in a \(W\)-category lies over an object in the base \(W\) (such data trivialising when \(V\) is viewed as a one-object bicategory \(BV\)); this makes the theory considerably more flexible.  We consider in detail an example of a bicategory \(W\) such that Cauchy complete \(W\)-categories are precisely categories with finite products, using \(W\)-enriched tensors to encode the operations of taking (weighted) products. The base of enrichment in this case is not biclosed – this means \(W\)-modules may fail to compose, forcing the consideration of the virtual equipment of \(W\)-modules and introducing various subtleties.  We discuss a generalisation of this point of view with motivations from categorical logic, based on work in progress.
           speaker:
             name: B. Lindan
             fullname: Bruno Lindan
@@ -234,7 +234,8 @@ data:
         talk:
           id: vasilakopoulou
           title: "Monoidal structures on the bimodule construction for double categories"
-          abstract: "Given two algebraic theories S and T, their `commuting tensor product’ S ⊗ T is a new algebraic theory in which the operations of S and T are required to commute with each other. The analogue of this operation for symmetric operads is the famous Boardman-Vogt tensor product. In this work, we extend this analysis in two aspects. First, we generalise to the many-object case, recovering the Boardman-Vogt tensor product of symmetric multicategories (or colored operads). Secondly, we explore how the commuting tensor product acts on bimodules, both between symmetric operads and also multicategories. This work is carried out in the general context of a double category equipped with an oplax monoidal structure, considering monads and bimodules therein."
+          abstract: |
+            Given two algebraic theories \(S\) and \(T\), their `commuting tensor product’ \(S \otimes T\) is a new algebraic theory in which the operations of \(S\) and \(T\) are required to commute with each other. The analogue of this operation for symmetric operads is the famous Boardman-Vogt tensor product. In this work, we extend this analysis in two aspects. First, we generalise to the many-object case, recovering the Boardman-Vogt tensor product of symmetric multicategories (or colored operads). Secondly, we explore how the commuting tensor product acts on bimodules, both between symmetric operads and also multicategories. This work is carried out in the general context of a double category equipped with an oplax monoidal structure, considering monads and bimodules therein.
           speaker:
             name: C. Vasilakopoulou
             fullname: Christina Vasilakopoulou
@@ -249,9 +250,9 @@ data:
           id: hora
           title: "A Rota-Baxter equation for winning games"
           abstract: |
-            In 1901, Bouton proved a famous result on the winning strategy for Nim using binary xor ⊕︎. Once the theorem is stated, the only non-trivial part of its proof is the equation mex(S)⊕︎mex(T) = mex(mex(S)⊕︎T ∪ S⊕︎mex(T)), which is quite similar to the integral version of the Leibniz rule, known as the Rota-Baxter equation ∫f ×∫g = ∫((∫f) × g + f×∫g). 
+            In 1901, Bouton proved a famous result on the winning strategy for Nim using binary xor \(\oplus\). Once the theorem is stated, the only non-trivial part of its proof is the equation \(\mathrm{mex}(S) \oplus \mathrm{mex}(T) = \mathrm{mex}(\mathrm{mex}(S)\oplus T \cup S \oplus \mathrm{mex}(T))\), which is quite similar to the integral version of the Leibniz rule, known as the Rota-Baxter equation \(\int f \times \int g = \int ( ((\int f) \times g) + (f \times \int g) )\). 
             
-            In my talk, I first discuss a categorical formulation of games as recursive coalgebras, based on my preprint (https://arxiv.org/abs/2510.22886). Then, I explain how the differential structure on the category of games gives rise to invariants valued in Rota-Baxter rigs, in particular, the Rota-Baxter rig consisting of finite subsets of ℕ and binary xor ⊕︎. This talk is partially based on ongoing work with Ryo Suzuki.
+            In my talk, I first discuss a categorical formulation of games as recursive coalgebras, based on my preprint (https://arxiv.org/abs/2510.22886). Then, I explain how the differential structure on the category of games gives rise to invariants valued in Rota-Baxter rigs, in particular, the Rota-Baxter rig consisting of finite subsets of \(\mathbb N\) and binary xor \(\oplus\). This talk is partially based on ongoing work with Ryo Suzuki.
           speaker:
             name: R. Hora
             fullname: Ryuya Hora
